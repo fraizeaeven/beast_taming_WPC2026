@@ -56,7 +56,7 @@ See [Chapter Context Retrieval](CHAPTER_CONTEXT.md) for retrieval rules and limi
 
 See [AI-Assisted Chapter Workflow](AI_ASSISTED_CHAPTER_WORKFLOW.md). The current implementation is provider-neutral and does not invoke an AI API.
 
-## Principles
+## Character psychology and emotional analysis\nRecord a meaningful scene beat in the chapter `psychologyChecks` array. Keep the trigger, automatic reaction, thought, emotion, physical sensation and expressed emotion distinct. Add underlying need, misbelief, choice and consequence when the scene supports them. Separate observable draft evidence from interpretation, and record arc stage plus stage evidence only when there is a defensible character response.\n\nQuery with `npm run psychology:chapter -- 12` or `npm run psychology:character -- CHAR_KAEL`. `npm run validate` checks IDs, character references, stage range and missing evidence. These checks cannot determine whether an emotional reaction is psychologically true; author judgment remains essential. See [Character Psychology and Emotional Analysis](CHARACTER_PSYCHOLOGY.md).\n\n## Principles
 - Brainstorming is not canon; only confirmed facts enter canon registries.
 - Unknown is not false; preserve uncertainty.
 - A chapter record is an evidence log of what happened and changed.
