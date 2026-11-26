@@ -2723,3 +2723,533 @@ The following remain proposals:
 - Which family branches oppose, reinterpret or continue the historical policies associated with the Sixfold Accord.
 
 **Development boundary:** This section establishes a coherent first-pass civilisation framework for all six families. It does not close their worldbuilding. Each family can later receive a deeper dedicated development comparable to the Dark territory, but the six should first be compared together so that their institutions, strengths, weaknesses and external relationships remain distinct.
+
+
+## 13. Fire — Crimson Flame Clan: detailed civilisation development
+
+**Status: Proposed detailed development.** This section expands the Fire family's first-pass framework in Section 12.2 into a functioning ancestral homeland and transnational family institution. The proposed names, offices, laws, ranks, locations and policies are not confirmed canon until accepted by the author. The Fire Family remains one of the seven elemental families operating across multiple kingdoms and empires; its ancestral territory is not equivalent to a sovereign empire over every Fire descendant.
+
+### 13.1 Foundational identity: the flame that builds and destroys
+
+The Crimson Flame Clan understands Fire as more than destruction. Its cultural ideal is **the controlled flame**: the capacity to generate force, transform raw material, protect a community, sustain industry and end a threat decisively.
+
+This creates a defining contradiction. Fire celebrates courage, ambition, visible achievement and decisive action, yet the clan's survival depends on restraint, planning and the ability to stop before strength becomes waste.
+
+**Three pillars of Fire identity:**
+
+1. **Resolve:** A person should be willing to act when delay causes greater harm.
+2. **Mastery:** Power without control is considered unfinished, not admirable.
+3. **Transformation:** Raw material, difficult circumstances and personal weakness can be reshaped through disciplined effort.
+
+The clan's common saying is provisionally: *A flame proves its worth by what it can forge, not only by what it can burn.*
+
+This ideal is contested. Traditional military lineages may emphasise conquest and strength, while artisans, physicians and civic leaders argue that the ability to preserve life and build useful things is an equal expression of Fire.
+
+### 13.2 Ancestral territory: the Cinder Crownlands
+
+**Proposed homeland name: The Cinder Crownlands.** Its geography is shaped by volcanic mountain chains, geothermal chambers, black-rock plateaus, mineral basins and fertile valleys warmed by old volcanic deposits. It is not a single active volcano or a wasteland of permanent lava.
+
+#### A. Territorial structure
+
+- **Crown Caldera:** The principal ancestral seat, ceremonial centre and location of the clan's highest political institutions. It occupies a geologically stable caldera rim with protected evacuation routes and strict restrictions on construction near active vents.
+- **Emberhold Cities:** Industrial cities containing foundries, armour workshops, ceramics districts, furnace engineers, markets and technical schools. Their prosperity depends on reliable water, ventilation and heat-control infrastructure.
+- **Kindle Valleys:** Agricultural and residential belts producing grains, vegetables, fruit, medicinal plants and livestock. These settlements are politically important because they feed the industrial cities.
+- **Ashen Marches:** Dry uplands and old lava fields used for hardy agriculture, quarrying, military manoeuvres and specialist beast habitats.
+- **Red Maw Frontier:** A hazardous outer region containing unstable mana vents, volcanic ravines, wild-beast habitats and remote watch settlements. Access is regulated according to risk rather than prohibited as a whole.
+- **The Deep Forges:** A network of underground industrial and research sites using geothermal energy. The most sensitive facilities are controlled by public safety law and technical inspection, not merely by the private authority of one lineage.
+
+#### B. Climate, hazards and public infrastructure
+
+The Crownlands experience ashfall, tremors, local eruptions, hot springs, mineral-heavy water and sudden changes in air quality. These hazards shape everyday life.
+
+Public systems should include:
+- Seismic and mana-vent monitoring stations.
+- Evacuation roads and clearly marked refuge settlements.
+- Reservoirs, water channels and heat-resistant aqueducts.
+- Ash filtration and ventilation standards for dense industrial districts.
+- Firebreaks and protected corridors around forests, farms and beast habitats.
+- Emergency stores of food, clean water, medicine and protective equipment.
+- Independent inspections of mines, furnaces, bridges and geothermal installations.
+
+A major political question is who pays for these systems. Foundry owners benefit from geothermal infrastructure, but ordinary residents also depend on it. The proposed rule is that essential safety works are public obligations, funded through a combination of territorial revenue and regulated industrial contributions.
+
+#### C. Strategic geography
+
+The Crownlands are difficult to invade through the volcanic interior, but the terrain is not an invincible wall. Mountain passes, water sources, agricultural valleys and transport tunnels are strategic vulnerabilities. An enemy may avoid a direct assault and instead threaten food routes, water infrastructure, specialist suppliers or evacuation corridors.
+
+The Fire Family therefore maintains route redundancy and does not rely on the assumption that volcanic terrain alone guarantees defence.
+
+### 13.3 Government: the Flame Sovereign and Forge Assembly
+
+**Proposed system: a hereditary Flame Sovereign advised and constrained by the Forge Assembly.**
+
+The Sovereign may be titled Patriarch or Matriarch according to the sitting leader. The office represents the ancestral clan, conducts high diplomacy and protects long-term continuity. It is not unrestricted personal rule.
+
+#### A. The Flame Sovereign
+
+Proposed responsibilities:
+- Represents the clan in major diplomatic and inter-family affairs.
+- Nominates senior territorial administrators, subject to confirmation procedures.
+- Sets broad strategic priorities with the Forge Assembly.
+- Serves as ceremonial guardian of ancestral rites and protected family records.
+- May request emergency measures during a disaster, subject to time limits and legislative review.
+
+The Sovereign cannot independently impose unlimited taxes, transfer protected ancestral land, declare a prolonged war, suspend ordinary courts or direct private guilds to surrender property without lawful process.
+
+#### B. The Forge Assembly
+
+The Forge Assembly is a governing institution, not merely a gathering of noble elders. Its proposed seats represent several constituencies:
+
+1. **Lineage Delegates:** Recognised major family branches with historic responsibilities.
+2. **Territorial Delegates:** Representatives of the principal cities, agricultural valleys and frontier districts.
+3. **Industrial Delegates:** Foundry, mining, engineering and artisan institutions, with conflict-of-interest rules.
+4. **Service Delegates:** Military veterans, public safety and civil-service experience.
+5. **Civic Delegates:** Recognised resident and professional representatives, ensuring that people outside powerful bloodlines can challenge policy.
+
+The exact number of seats, selection method and term length remain open. A balanced design should prevent any one constituency from controlling the Assembly.
+
+#### C. Division of authority
+
+| Matter | Proposed authority |
+|---|---|
+| High diplomacy and clan representation | Flame Sovereign, with Assembly approval for binding strategic treaties |
+| Annual budget and ordinary taxation | Forge Assembly |
+| Local services and infrastructure | Territorial administrators under public law |
+| Military strategy and major mobilisation | Assembly authorisation and Sovereign consultation |
+| Field command | Appointed military command, within authorised objectives |
+| Industrial safety and technical standards | Independent inspection offices and professional boards |
+| Ordinary courts and civil disputes | Independent territorial judiciary |
+| Emergency disaster response | Local authorities and designated emergency command, with time-limited review |
+
+#### D. Local administration and resident participation
+
+Cities and rural districts have local councils or elected/selected ward assemblies responsible for sanitation, local roads, water distribution, markets and neighbourhood disputes. The precise franchise can differ by legal status, but long-term residents should have a meaningful way to petition, challenge administrative abuse and review decisions affecting their livelihoods.
+
+The Fire Family's ancestral descendants may retain ceremonial privileges and recognised lineage obligations, but public safety, criminal law and basic civil protections apply to residents under territorial jurisdiction.
+
+#### E. Succession and accountability
+
+A successor may be nominated from eligible descendants, but nomination alone should not settle succession. The Forge Assembly confirms the candidate after a review of capability, conduct, public confidence and constitutional obligations. A succession dispute may be referred to a defined tribunal rather than settled automatically by a duel or military contest.
+
+Removal for incapacity, corruption or serious abuse requires a documented process and a high threshold of evidence. This protects continuity while preventing the Sovereign from treating the office as personal property.
+
+### 13.4 Political factions and the meaning of strength
+
+The following are political tendencies, not formal parties or hereditary castes:
+
+- **Ember Traditionalists:** Protect lineage rites, ancestral techniques and the clan's historic military identity. They fear dilution of family standards.
+- **Trial Meritocrats:** Want advancement to depend more on demonstrated skill, service and judgement than birth. They may support open examinations and wider recruitment.
+- **Forge Industrialists:** Prioritise production, infrastructure, trade and technological improvement. They favour predictable law and investment.
+- **Crimson Expansionists:** Believe the clan's military power should secure greater influence abroad. They may support protection treaties that risk becoming coercive.
+- **Hearth Civic Reformers:** Focus on public health, workers' safety, housing, agricultural security and resident representation.
+- **Ashen Wardens:** Emphasise ecological limits, volcanic safety, protected habitats and long-term stewardship of the Crownlands.
+
+People may belong to several tendencies. A veteran commander may support industrial investment; a lineage elder may advocate workers' safety; an industrialist may oppose expansion because war disrupts trade.
+
+### 13.5 Military system: the Crimson Host
+
+**Proposed military name: The Crimson Host.** Its doctrine is concentrated offensive power supported by disciplined logistics, engineering and controlled escalation.
+
+#### A. Strategic doctrine
+
+The Crimson Host seeks to:
+1. Identify the enemy's decisive strength and the source sustaining it.
+2. Concentrate force where a breakthrough can produce a meaningful objective.
+3. Use engineering and specialist beasts to reduce the cost of direct assault.
+4. Secure supply, evacuation and civilian safety corridors.
+5. Stop or withdraw when the objective no longer justifies the cost.
+
+Fire doctrine does not mean charging every enemy position. A commander who wastes trained pairs in an avoidable frontal attack is not demonstrating courage; they are failing to control the flame.
+
+#### B. Proposed branches
+
+1. **Cinder Guard:** Protects Crown Caldera, major cities, public institutions and critical infrastructure.
+2. **Blazing Vanguard:** Assault formations trained for breakthrough, controlled high-output techniques and close coordination with combat beasts.
+3. **Ember Cavalry:** Mobile formations using compatible ground and aerial beasts for rapid manoeuvre, pursuit, interception and flank pressure.
+4. **Siege and Forge Corps:** Builds and operates siege equipment, field fortifications, controlled demolition, repair workshops and heat-resistant engineering systems.
+5. **Ashen Scouts:** Reconnaissance, route security, volcanic-terrain navigation, hazard detection and forward observation.
+6. **War Beast Directorate:** Coordinates military beast standards, deployment suitability, breeding liaison, veterinary care and retirement or reassignment.
+7. **Supply and Recovery Service:** Food, water, ammunition-equivalent mana supplies, equipment repair, medical evacuation and recovery of personnel and beasts.
+
+The Supply and Recovery Service is a proposed separate branch because Fire's high-output operations can consume resources quickly. Its independence gives logisticians authority to report when a campaign is no longer sustainable.
+
+#### C. Command hierarchy
+
+Proposed rank structure:
+- **Enlisted:** Recruit, Flame Soldier, Senior Flame Soldier, Squad Sergeant, Formation Sergeant.
+- **Junior officers:** Sub-Captain, Lieutenant, Captain.
+- **Field command:** Major, Commander, Colonel.
+- **Senior command:** General, High General, Marshal of the Crimson Host.
+
+These are Fire-specific proposals and should not be assumed to replace the Dark Family's military rank system or establish universal world ranks. Specialist appointments such as Forge Marshal, Beast Marshal, Siege Master and Ashen Warden are roles, not automatically higher ranks.
+
+The Flame Sovereign and Forge Assembly set strategic authority and approve major campaigns. The Marshal commands authorised operations. Branch commanders control their formations, while field officers retain tactical discretion within mission limits. Political officials do not issue ad hoc battlefield orders through personal favour.
+
+#### D. Paired cultivation and service qualification
+
+Fire military service requires assessment of both tamer and beast. The clan may use a local qualification framework aligned in principle with the world's paired-cultivation rules, but it should not simply copy Dark's six military labels as universal titles.
+
+Proposed Fire assessment dimensions:
+- Tamer's control, stamina and safe output.
+- Beast's maturity, health, temperament and technique control.
+- Pair synchronisation under stress.
+- Ability to stop, redirect or reduce output safely.
+- Formation discipline and awareness of allies.
+- Recovery, endurance and performance after repeated exertion.
+
+A high-output beast does not make an unsafe tamer qualified. A tamer's ambition does not justify forcing a beast beyond its limits. Promotion remains merit-based and includes judgement, discipline, leadership, service record and role competence; cultivation strength is a benchmark, not an automatic promotion.
+
+#### E. Beast loss, reassignment and veteran status
+
+The loss or death of a bonded beast ends that active partnership. No soldier receives an automatic replacement. The individual is given recovery time, reassessment and a choice of suitable future roles, including support, engineering, instruction, administration, retirement or a later attempt to form a new bond.
+
+A new bond is a new individual relationship and begins its own development. Previous service, leadership experience and personal cultivation are not erased, but paired combat qualification must be reassessed.
+
+The clan should provide veterinary and medical care, bereavement support, legal review of the beast's remains and protection against commercial exploitation of a deceased partner's body or breeding material.
+
+#### F. Military law and civilian safeguards
+
+- Military requisition of civilian goods is limited to defined emergencies, recorded and compensated under law.
+- Soldiers may not use rank to demand private services, property or commercial favours.
+- Military procurement contracts are audited, with sensitive details reviewed through protected oversight.
+- Civilian courts retain jurisdiction over ordinary crimes by service members.
+- Unlawful experimentation on beasts, forced bonding and deliberate cruelty are serious offences.
+- Commanders must document orders that create foreseeable civilian risk.
+- Emergency powers expire unless renewed through the authorised process.
+
+### 13.6 Elite formations and specialised doctrine
+
+The Crimson Host maintains specialist formations, but elite status is an assignment earned through selection, not a separate noble rank.
+
+**Proposed elite units:**
+
+- **Red Anvil Company:** Assault engineers and combat pairs specialising in opening fortified positions while limiting structural collapse and civilian casualties.
+- **Phoenix Mantle:** A rare rescue and recovery formation trained for extreme heat, firestorms, volcanic incidents and evacuation. Its name does not mean members all bond Phoenix beasts.
+- **Cinder Lance:** A rapid interception unit used against high-value threats and enemy breakthroughs.
+- **Ash Veil Regiment:** Reconnaissance and counter-reconnaissance specialists who exploit smoke, ash and difficult terrain without assuming that concealment is infallible.
+- **Furnace Wardens:** Protect critical foundries, geothermal systems, reservoirs and industrial infrastructure.
+- **Emberbreak Cohort:** A mixed-beast formation trained to disrupt enemy fortifications and defensive formations through coordinated pressure.
+
+Selection evaluates pair coordination, discipline, decision-making, operational reliability, beast welfare and mission suitability. A famous bloodline or exceptionally powerful beast is not enough.
+
+#### Counter-element doctrine
+
+Fire's counter-element doctrine is based on mechanisms, not absolute elemental superiority:
+
+- **Against Water:** Disrupt the opponent's control of water supply, temperature and flow; avoid wasting heat against unlimited or replenished water. Steam, pressure and terrain can create hazards for both sides.
+- **Against Earth:** Target exposed supports, unstable foundations and supply routes rather than assuming all stone can be melted. Earth formations may absorb or redirect heat.
+- **Against Wind:** Deny predictable approach corridors and protect against redirected heat, smoke and airborne attacks. Wind can spread flame or remove smoke, making careless fire use dangerous.
+- **Against Lightning:** Use insulation, grounding and separated formations where appropriate; do not assume ordinary armour protects against every mana-based discharge.
+- **Against Light:** Challenge the sustaining mechanism, line of sight or protective formation; Fire cannot simply burn away purification or healing.
+- **Against Dark:** Identify the actual Dark technique and its limits. Fire must not assume that darkness is a physical fuel or that all Dark techniques behave alike.
+
+The Crimson Host's doctrine is to identify, test, disrupt and exploit a specific weakness. Every counter has a cost, range and failure condition.
+
+### 13.7 Fire cultivation and beast-bond traditions
+
+#### A. Family-bred beast lines
+
+Family breeding grounds maintain compatible lines and preserve records of temperament, health, mana traits and inherited defects.
+
+- **Flame Wolves:** Coordinated pack hunters with strong group awareness. Used in patrol, tracking and formation combat. Their pack bonds require careful handling; an isolated wolf may not perform like a trained group.
+- **Ember Hawks:** Aerial observation and rapid pursuit beasts. Their heat tolerance and flight range vary by individual line and climate.
+- **Magma Horn Rams:** Heavy beasts adapted to rocky and geothermal terrain. Useful in construction, transport and controlled breakthrough operations, but vulnerable to overheating and poor footing outside their native environment.
+- **Cinder Salamanders:** Smaller heat-affinity beasts valued for furnace inspection, controlled thermal work and detection of certain geothermal changes. They are not automatically combat beasts.
+- **Phoenix Line:** Exceptionally rare and heavily protected. Regenerative traits, if present, are limited, costly and not equivalent to resurrection. The clan's historical claims about Phoenix inheritance may be disputed or exaggerated.
+
+These are proposed species and roles. Exact taxonomy, rarity, lifespan, breeding limits and cultivation stages remain to be designed in the wider beast system.
+
+#### B. Cultivation paths
+
+- **Hearth Path:** Safe circulation, stable heat, endurance and foundational control. Common among civilians and recruits.
+- **Furnace Path:** Sustained output, forging synergy, physical conditioning and controlled high-temperature techniques.
+- **Wildfire Path:** Mobility, rapid pressure, pursuit and adaptation. Powerful but prone to waste if control is weak.
+- **Phoenix Heritage Path:** Rare advanced research into regeneration, recovery and transformation. It is not a guaranteed bloodline ability and should carry serious costs and uncertainty.
+
+The paths are training traditions, not separate universal cultivation realms. A person's actual realm and their practical mastery remain distinct.
+
+#### C. Bond formation and breeding ethics
+
+Most Fire descendants seek compatible family-bred beasts because established lines have documented traits and support systems. A wild beast may be pursued when a particular capability, genetic contribution or ecological need cannot be met by available lines.
+
+Breeding institutions should maintain:
+- Health and ancestry records.
+- Temperament and compatibility observations.
+- Limits on repeated breeding and harmful selection.
+- Protected habitat and rest requirements.
+- Independent veterinary review.
+- Transparent market descriptions and rules against falsified lineage claims.
+
+A beast is a partner and living creature, not a piece of equipment. The family can have a competitive culture without normalising forced bonds or cruelty.
+
+### 13.8 The Crimson Flame Academy and training institutions
+
+**Proposed central institution: Crimson Flame Academy.** It serves the clan and accepts qualified territorial residents and selected external candidates under published rules. It is not simply a school for elite bloodlines.
+
+#### A. Divisions
+
+1. **Tamer and Beast Partnership Division:** Compatibility, bond welfare, cultivation coordination and safe output.
+2. **Combat and Formation Division:** Individual combat, squad discipline and combined-arms tactics.
+3. **Forge Engineering Division:** Metallurgy, furnace systems, heat-resistant structures and field repair.
+4. **Frontier and Hazard Studies Division:** Volcanic ecology, route navigation, disaster response and wild-beast assessment.
+5. **Medical and Recovery Division:** Trauma care, heat injury, beast medicine and rehabilitation.
+6. **Command and Civic Service Division:** Leadership, logistics, military law, public administration and civilian protection.
+
+#### B. Admission and student progression
+
+Admission routes may include lineage nominations, open examinations, territorial recommendations, service scholarships and specialist recruitment. Wealth or lineage may not purchase a passing result.
+
+Proposed student standing:
+- Foundation Cadet
+- Flame Cadet
+- Senior Flame Cadet
+- Formation Leader
+- Academy Prefect
+- Graduating Candidate
+
+These titles describe student responsibility, not military rank. Students are assessed through written knowledge, practical control, paired coordination, safety procedures, field exercises, technical work and professional conduct.
+
+A student who cannot safely sustain a combat bond may still qualify for engineering, medical, logistics, research or civilian service. Failure in one pathway should not automatically be treated as personal disgrace.
+
+#### C. Annual competition: The Ember Trials
+
+Proposed events:
+- **Forge Trial:** Design and produce a functional item under safety and resource constraints.
+- **Formation Trial:** Coordinate mixed tamer-and-beast squads against a changing objective.
+- **Heat Control Trial:** Demonstrate precise output and safe shutdown, not maximum destructive force.
+- **Frontier Trial:** Navigate a controlled volcanic environment and report hazards.
+- **Rescue Trial:** Evacuate simulated casualties and injured beasts.
+- **Command Trial:** Lead a limited-force exercise with incomplete intelligence and strict civilian-risk constraints.
+
+The Ember Trials reward judgement and teamwork as well as strength. Public spectacle should not encourage students to endanger themselves or their beasts.
+
+### 13.9 Civilian economy and social structure
+
+The Cinder Crownlands operate a mixed economy. The clan's industrial reputation does not mean every business is owned by the family or military.
+
+#### A. Main economic sectors
+
+1. **Metallurgy and foundries:** Tools, structural metal, machinery, armour and licensed weapons production.
+2. **Geothermal engineering:** Heat distribution, power systems, furnace design, water heating and industrial maintenance.
+3. **Mining and quarrying:** Ore, stone, ceramics materials and specialised minerals, subject to environmental and safety law.
+4. **Agriculture:** Valley farms, orchards, hardy upland crops, livestock and medicinal plants.
+5. **Craft and manufacturing:** Pottery, glass, kiln products, heat-resistant textiles, household tools and decorative work.
+6. **Beast husbandry:** Breeding, feed production, veterinary services, training, appraisal and transport.
+7. **Transport and trade:** Caravans, warehouses, route services, market towns and industrial freight.
+8. **Medicine and recovery:** Heat injury treatment, trauma care, beast medicine and rehabilitation.
+9. **Education and research:** Engineering, cultivation, volcanic ecology, metallurgy and public technical training.
+
+#### B. Social structure: status is not one simple ladder
+
+Influence may come from lineage, wealth, professional expertise, public service, military achievement and local trust.
+
+Important social groups include:
+- Senior ancestral lineages and recognised branch households.
+- Territorial administrators and public officials.
+- Foundry owners, mining houses and industrial investors.
+- Master smiths, engineers and technical specialists.
+- Military officers, veterans and service households.
+- Farmers, transport workers, miners and industrial labourers.
+- Beast breeders, handlers, physicians and appraisers.
+- Independent merchants, artisans, teachers and ordinary residents.
+- Newcomers, contracted specialists and temporary workers.
+
+A skilled engineer or respected physician may have greater practical influence than a minor descendant of an old lineage. The political system should make that social mobility possible while acknowledging that inherited land, education and breeding records create advantages.
+
+#### C. Labour protections and industrial safety
+
+The Fire Family's industrial identity makes worker protection a central legitimacy issue.
+
+Proposed standards:
+- Mandatory inspections for mines, furnaces and geothermal systems.
+- Exposure limits and protective equipment for heat, ash and toxic minerals.
+- Rest periods and medical monitoring for hazardous work.
+- Compensation for workplace injury and recognised occupational illness.
+- Independent investigation of industrial disasters.
+- Legal protection for workers reporting unsafe conditions.
+- Clear liability when an owner knowingly bypasses safety requirements.
+
+A foundry that produces excellent weapons but repeatedly injures its workers should be treated as a public liability, not a symbol of clan greatness.
+
+#### D. Resident status and civil rights
+
+Proposed legal categories distinguish recognised clan membership, long-term territorial residence, affiliated service, contracted specialist status and temporary presence. These categories may affect political representation or eligibility for restricted offices, but should not erase basic protections.
+
+Residents under territorial law should have access to courts, lawful contracts, emergency treatment, public safety systems, property protections, and a process to petition local authorities or the Forge Assembly. Criminal law should not vary according to a person's usefulness to a powerful lineage.
+
+#### E. Property and strategic resources
+
+Ordinary homes, workshops and businesses may be privately or cooperatively owned under territorial law. Strategic geothermal sites, major reservoirs, protected breeding habitats and ancestral archives require special rules.
+
+The clan should distinguish:
+- Private property and ordinary commercial assets.
+- Public infrastructure and shared resources.
+- Licensed extraction rights.
+- Protected ancestral or ecological sites.
+- Military facilities and restricted research locations.
+
+Ownership of a foundry does not automatically grant ownership of the geothermal source beneath it or the water needed by nearby settlements.
+
+### 13.10 Taxation, public finance and industrial regulation
+
+Proposed public revenue sources:
+- Progressive household and land contributions scaled to capacity.
+- Business and production taxes.
+- Mining and extraction royalties.
+- Market, transport and licensing fees.
+- Geothermal infrastructure contributions from major industrial users.
+- Public enterprise revenue where the territory directly operates strategic services.
+- Customs duties and external trade revenue.
+
+Proposed spending priorities:
+1. Water, food security, roads, sanitation and evacuation infrastructure.
+2. Mine, furnace and geothermal safety.
+3. Public health, emergency response and beast-care services.
+4. Education, technical training and service scholarships.
+5. Agricultural resilience and rural infrastructure.
+6. Defence, frontier security and strategic reserves.
+7. Research, habitat restoration and industrial improvement.
+
+The Forge Assembly approves the budget and publishes a public summary. Sensitive military procurement may receive protected review, but secrecy cannot excuse private enrichment or hide ordinary industrial corruption.
+
+Independent inspection offices should be able to investigate safety violations. Guilds may establish professional standards, apprenticeships and examinations, but should not be permitted to exclude independent competitors merely to protect established businesses.
+
+### 13.11 Beast economy and market institutions
+
+The Fire beast economy links family breeding grounds, independent breeders, markets, mercenary companies and civilian employers.
+
+#### A. Value chain
+
+- Breeding estates and habitat keepers preserve compatible family lines.
+- Feed growers and herbal suppliers support healthy development.
+- Beast physicians provide treatment, preventative care and recovery.
+- Appraisers assess health, temperament, training and compatibility.
+- Licensed brokers publish provenance and contract terms.
+- Trainers and handlers prepare beasts for civilian or military work.
+- Mercenary companies explore dangerous habitats and may recover wild beasts under law.
+- Markets connect buyers and sellers without guaranteeing that every beast is suitable for every tamer.
+
+#### B. Civilian uses
+
+Fire-affinity beasts may assist with controlled industrial heat, furnace inspection, transport through difficult terrain, rescue in hot environments, mining support, security and agricultural work. Not all family-bred beasts should be bred for combat.
+
+#### C. Market safeguards
+
+- Verified ownership and provenance.
+- Health and temperament disclosures.
+- Clear distinction between trained, untrained and wild-caught beasts.
+- Prohibition of forced bonding and concealed injuries.
+- Quarantine and inspection for imported beasts.
+- Independent dispute resolution for misrepresentation.
+- Restrictions on trade in protected Phoenix-line individuals and other rare breeding assets.
+
+The family may charge licensing fees for specialist services, but it should not monopolise every beast transaction. Independent breeders and lawful foreign traders remain part of the wider economy.
+
+### 13.12 Trade network and foreign relations
+
+#### A. Exports
+
+The Crownlands export refined metalwork, industrial tools, heat-resistant components, furnace and geothermal engineering, ceramics, armour, selected weapons, trained work beasts and specialist technical services.
+
+Strategic military equipment and sensitive industrial designs may require export licences. Ordinary household goods and common tools should not be burdened with the same restrictions.
+
+#### B. Imports
+
+Fire imports agricultural varieties, medicine, water-management equipment, precision instruments, specialist minerals, textiles, books and beast lines suited to habitats absent from the Crownlands.
+
+#### C. Principal relationships
+
+- **Earth:** Essential supplier and partner for raw stone, ore, structural engineering and underground works. Disputes arise over extraction rights, price-setting and mine safety.
+- **Lightning:** Technical partner for precision instruments, sensors and industrial control systems. Fire wants robust equipment; Lightning may resist designs that compromise technical standards.
+- **Water:** Important source of medicine, food varieties, water engineering and recovery expertise. Fire's military culture may conflict with Water's preference for negotiated restraint.
+- **Wind:** Provides courier services, route mapping and rapid transport. Fire depends on reliable information but may distrust intelligence brokers serving multiple clients.
+- **Light:** Offers medical and educational exchanges, but institutional trust is complicated by Light's role in Dark's betrayal and by competing claims of moral authority.
+- **Dark:** Trade may occur where lawful and mutually useful, but ancestral history and strategic secrecy create mistrust. Fire merchants, military traditionalists and reformers may disagree over how far contact should go.
+
+These are broad relationship patterns, not fixed diplomatic positions. A Fire merchant may maintain a profitable Water contract while a military faction argues for restrictions. A Light physician may be trusted by a Fire hospital even when senior leaders dispute Light's political conduct.
+
+#### D. Foreign branches
+
+Fire descendants living abroad are subject to local law and may serve local rulers, operate businesses or maintain clan ties. The ancestral leadership may request loyalty and contribution, but should not assume that every branch can ignore the sovereignty of its host kingdom.
+
+Disputes may arise when a foreign branch is ordered to support a campaign that its host state opposes, or when a local ruler attempts to seize a foundry owned by Fire descendants.
+
+### 13.13 External diplomacy and military commitments
+
+Fire's diplomatic identity is shaped by its reputation for decisive force. It can offer protection, engineering support, weapons contracts and disaster response, but must distinguish assistance from political domination.
+
+Proposed diplomatic instruments:
+- Industrial and technical trade agreements.
+- Mutual rescue and volcanic disaster protocols.
+- Transit and caravan protection arrangements.
+- Weapons and equipment export licences with end-use conditions.
+- Military training agreements that specify duration and command boundaries.
+- Non-aggression and border incident procedures.
+- Medical and beast-care cooperation.
+
+No ordinary trade contract should automatically create a military alliance. Protection agreements require clear limits, renewal dates, dispute procedures and an exit mechanism. The Forge Assembly should review long-term obligations that could draw the clan into war.
+
+### 13.14 Internal tensions and structural weaknesses
+
+The Crownlands' strengths create corresponding vulnerabilities:
+
+- **Industrial concentration:** A handful of foundry cities may become indispensable, making sabotage or supply disruption especially damaging.
+- **Geothermal dependence:** A mana fault or infrastructure failure can affect heat, production and housing simultaneously.
+- **Resource pressure:** Mining and industrial growth can damage water, soil and beast habitats.
+- **Military prestige:** Public admiration for combat may undervalue logistics, medicine, agriculture and civilian work.
+- **Unequal opportunity:** Wealthy lineages can afford better tutors, equipment and access to rare beasts.
+- **Guild capture:** Industrial associations may use safety standards or licensing to exclude smaller competitors.
+- **Political factionalism:** Expansionists and civic reformers may disagree over public spending and foreign commitments.
+- **Environmental hazards:** Eruptions, ashfall and tremors can displace settlements and destroy breeding grounds.
+- **Reputation risk:** A single reckless military action or industrial disaster can undermine the clan's claim to disciplined mastery.
+
+These weaknesses should sometimes produce real losses. The Fire Family is powerful, not invulnerable.
+
+### 13.15 Everyday life in the Cinder Crownlands
+
+Daily life changes with district and occupation.
+
+In Emberhold, the morning begins with foundry shifts, market deliveries, ventilation checks and apprentices travelling to workshops. In the Kindle Valleys, agricultural work follows water schedules, seasonal planting and transport availability. In the Ashen Marches, residents may depend on hardy crops, patrol stations and travelling physicians. Near the Red Maw Frontier, settlements organise around hazard alerts, beast migration and evacuation plans.
+
+Public culture may include:
+- **First Spark Day:** A household and community festival celebrating apprenticeships, new workshops and the responsible use of craft.
+- **Forge Oath Ceremonies:** Professional pledges for smiths, engineers and inspectors, focused on quality and public safety.
+- **Ember Trials:** Academy competitions and public demonstrations.
+- **Ashfall Remembrance:** A civic memorial for communities lost to volcanic disasters and industrial negligence.
+- **Hearth Markets:** Seasonal trade fairs where farms, artisans, beast keepers and merchants display goods.
+
+These traditions should show a society that values work, skill and collective survival, not only military glory.
+
+### 13.16 Narrative opportunities
+
+- A young engineer discovers that a major foundry's geothermal safety reports have been falsified by a politically protected industrial house.
+- The Forge Assembly must choose between funding a new military furnace complex and repairing water systems serving several rural valleys.
+- A Flame Sovereign's chosen successor is a capable administrator but not a celebrated fighter, provoking a succession challenge from a famous general.
+- A family-bred Flame Wolf line develops a temperament defect after generations of selecting only for aggression.
+- A Phoenix-line beast refuses a prestigious tamer, exposing the limits of lineage entitlement.
+- A foreign Fire branch is ordered to support the ancestral clan during a conflict that would violate its host kingdom's treaty.
+- A Water medical convoy is denied passage during a Fire border emergency, forcing the clan to confront the cost of treating trade as a weapon.
+- A Red Anvil operation succeeds tactically but damages a civilian aqueduct, triggering a public inquiry.
+- A small independent foundry develops a safer and cheaper furnace design, threatening the monopoly of an old industrial lineage.
+- An Ashen Warden uncovers that a proposed mine will destabilise a protected beast habitat.
+- A commander refuses an avoidable assault and is accused of cowardice, only for the supply calculations to prove the decision saved the formation.
+- A Light healer and a Fire physician cooperate to treat a rare mana injury, despite political pressure to keep the institutions apart.
+
+### 13.17 Decisions still required for the Fire Family
+
+The following remain open and must not be treated as confirmed canon:
+
+1. Whether the leader's official title is Flame Sovereign, Patriarch, Matriarch or another name.
+2. The Forge Assembly's seat allocation, election or appointment process, term lengths and voting rules.
+3. The degree of resident political participation and the exact legal categories of membership and residence.
+4. The final map, borders, population, capital and number of major cities in the Cinder Crownlands.
+5. The precise military ranks, command appointments, branch sizes and relationship between the Sovereign, Assembly and Marshal.
+6. The world's universal cultivation realms and the exact cultivation stages of Fire-affinity beasts.
+7. The final taxonomy, rarity, breeding rules and lifespan of Flame Wolves, Ember Hawks, Magma Horn Rams, Cinder Salamanders and Phoenix-line beasts.
+8. The academy's admission age, course duration, fees, scholarships, command relationship and appeal procedures.
+9. The ownership and regulation of foundries, mines, geothermal systems and protected breeding estates.
+10. The exact taxation system, industrial royalties, worker compensation and public safety enforcement.
+11. The final export-control list, foreign trade treaties and military assistance rules.
+12. The extent of present-day Fire knowledge and responsibility concerning the historical betrayal of Dark.
+
+**Design principle:** The Crimson Flame Clan should be formidable because it can turn discipline, industry, military force and skilled beast partnerships into lasting power. Its central test is whether it can control its own ambition: a flame that cannot be governed eventually consumes the forge, the home and the people it was meant to protect.
