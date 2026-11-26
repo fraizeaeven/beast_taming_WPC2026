@@ -320,16 +320,11 @@ This model allows Dark to retain a real homeland without making it powerful enou
 
 ### 3.6 Political and economic position
 
-**Proposal:** Because the seven families are cross-national powers, Dark's territory exists within a wider international system. Its borders may touch one or more kingdoms, and its old claims may overlap with modern political boundaries.
+**Author decision: independent territory.** The Dark Family's retained ancestral domain is an independent territory. It is not legally part of a neighbouring kingdom or empire, and its internal governance is not subordinate to a foreign crown.
 
-Potential present-day arrangements include:
+**Proposal:** The Dark Family administers the territory through its own institutions and makes its own internal laws. Its independence does not mean it is free from outside pressure: neighbouring states and the other elemental families may still exert influence through diplomacy, trade restrictions, disputed borders, mercenary activity, political interference or control of surrounding routes.
 
-- A recognised autonomous domain that pays limited tribute or fulfils specific obligations.
-- A semi-independent territory whose external relations are constrained by old agreements.
-- A family domain formally recognised by neighbouring states but economically pressured through trade restrictions.
-- A territory whose core is secure while important surrounding routes and resources are controlled by others.
-
-These are alternatives, not simultaneous facts. The author's choice is still required.
+**Proposal:** Other countries may recognise Dark's independence in treaties while disagreeing about its borders, obligations or access to particular resources. Recognition, diplomatic status, military guarantees and the exact limits of sovereignty remain to be developed. Keep the distinction clear: Dark is independent, but it is weakened and may lack the power to enforce every claim beyond its retained heartland.
 
 The territory's economy should be damaged but not completely dead. **Proposal:** It can sustain itself through agriculture, ordinary crafts, beast husbandry, local trade, limited resource extraction and specialist services. Its rarest resources may be difficult to sell openly because doing so would reveal the value of the homeland or attract outside interference.
 
@@ -397,7 +392,7 @@ The protagonist should not instantly inherit control of every site. Access can r
 Keep all of the following unresolved until explicitly selected:
 
 1. What is the homeland's true name? Is “Abyssal Marches” only an outsider's name?
-2. Is the retained territory an independent state, an autonomous domain within a kingdom, a protected ancestral estate or another arrangement?
+2. What institutions govern the independent territory, and how much authority does the family patriarch hold compared with a council, local leaders or other institutions?
 3. How much land does Dark still control compared with its former territory?
 4. Which kingdom or kingdoms border it, and are those neighbours hostile, neutral or economically dependent on it?
 5. Does the family seat remain inhabited by most of the clan, or are some branches established in other countries?
