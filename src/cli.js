@@ -5,6 +5,7 @@ import {create,show} from "./chapter.js";
 import {createStoryItem,listStoryItems,showStoryItem} from "./story-structure.js";
 import {buildChapterContext,formatChapterContext} from "./context.js";
 import {getCharacterState,listCharacterHistory} from "./character-state.js";
+import {getKnowledgeState,getKnowledgeHolders,getRecordHistoryFromDisk,getChapterTimelineFromDisk} from "./knowledge-timeline.js";
 const [cmd="help",...a]=process.argv.slice(2);
 try{
   if(cmd==="init"){await init();console.log("Initialized registries and folders; existing files preserved")}
@@ -18,6 +19,11 @@ try{
   else if(cmd==="context:write"){const context=await buildChapterContext(a[0]);const output=file("reports","CHAPTER_"+String(Number(a[0])).padStart(4,"0")+"_CONTEXT.md");await writeText(output,formatChapterContext(context));console.log("Wrote "+output)}
   else if(cmd==="character:state")console.log(JSON.stringify(await getCharacterState(a[0],a[1]),null,2))
   else if(cmd==="character:history")console.log(JSON.stringify(await listCharacterHistory(a[0]),null,2))
-  else console.log("Commands: init | validate | chapter:new <number> <title> | chapter:show <number> | story:new <ID> <type> <title> | story:list | story:show <ID> | context:chapter <number> | context:write <number> | character:state <CHAR_ID> <chapter> | character:history <CHAR_ID>")
+  else if(cmd==="knowledge:state")console.log(JSON.stringify(await getKnowledgeState(a[0],a[1],a[2]??null),null,2))
+  else if(cmd==="knowledge:who-knows")console.log(JSON.stringify(await getKnowledgeHolders(a[0],a[1]),null,2))
+  else if(cmd==="timeline:chapter")console.log(JSON.stringify(await getChapterTimelineFromDisk(a[0]),null,2))
+  else if(cmd==="object:history")console.log(JSON.stringify(await getRecordHistoryFromDisk("06_DOCUMENT_AND_OBJECT_REGISTRY",a[0],a[1]),null,2))
+  else if(cmd==="location:history")console.log(JSON.stringify(await getRecordHistoryFromDisk("09_LOCATION_REGISTRY",a[0],a[1]),null,2))
+  else console.log("Commands: init | validate | chapter:new <number> <title> | chapter:show <number> | story:new <ID> <type> <title> | story:list | story:show <ID> | context:chapter <number> | context:write <number> | character:state <CHAR_ID> <chapter> | character:history <CHAR_ID> | knowledge:state <CHAR_ID> <chapter> [FACT_ID] | knowledge:who-knows <FACT_ID> <chapter> | timeline:chapter <chapter> | object:history <OBJECT_ID> [chapter] | location:history <LOCATION_ID> [chapter]")
 }catch(e){console.error("Error: "+e.message);process.exitCode=1}
 async function writeText(path,content){const fs=await import("node:fs/promises");const pathModule=await import("node:path");await fs.mkdir(pathModule.dirname(path),{recursive:true});await fs.writeFile(path,content+String.fromCharCode(10))}
