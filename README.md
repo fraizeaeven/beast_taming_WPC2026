@@ -15,11 +15,14 @@ npm test
 npm run chapter:new -- 1 "The Youngest Son"
 npm run story:new -- PLOT_MAIN main_plot "The central Beast Taming conflict"
 npm run context:chapter -- 1
+npm run character:state -- CHAR_KAEL 24
 npm run validate
 npm run chapter:show -- 1
 ```
 
 Use `npm run context:chapter -- 86` to print a chapter-specific writing brief, or `npm run context:write -- 86` to save `reports/CHAPTER_0086_CONTEXT.md`. The context brief gathers linked character, relationship, knowledge, plot, event, location, mystery, promise and unresolved-thread records. It is a retrieval snapshot, not new canon. See [Chapter Context Retrieval](docs/CHAPTER_CONTEXT.md).
+
+Use `npm run character:state -- CHAR_KAEL 24` to reconstruct the latest recorded character snapshot at or before chapter 24, or `npm run character:history -- CHAR_KAEL` to list the full history. The snapshot includes author-recorded emotional/physical state, goals, motivation, misbelief, arc stage and evidence, relationships, decisions and consequences. No unrecorded state is interpolated. See [Historical Character State Tracking](docs/CHARACTER_STATE_HISTORY.md).
 
 `npm run validate` checks registry/chapter structure and reports evidence-based continuity warnings for character behavior annotations, knowledge timing, age/timeline consistency, relationship transitions, promise timing, event dates and story-structure mappings. Warnings require human review; structural errors fail validation. See [Continuity Checks](docs/CONTINUITY_CHECKS.md) and [Story Structure Management](docs/STORY_STRUCTURE.md).
 
@@ -28,6 +31,13 @@ Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORL
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+
+### 2026-11-27 — Historical character state tracking
+
+- Added `18_CHARACTER_STATE_HISTORY` for chapter-indexed emotional, physical, motivational, belief, behavioural and relationship snapshots.
+- Added historical reconstruction and history-list commands; queries return the latest recorded snapshot at or before the requested chapter without interpolating missing states.
+- Added seven-stage arc validation for stage range, evidence, duplicate snapshots and explicitly marked regression.
+- Added tests and documentation; snapshots remain author-confirmed and do not automatically change canon.
 
 ### 2026-11-27 — Chapter context retrieval
 
