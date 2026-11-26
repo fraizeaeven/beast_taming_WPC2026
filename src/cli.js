@@ -17,4 +17,4 @@ try{
   else if(cmd==="context:write"){const context=await buildChapterContext(a[0]);const output=file("reports","CHAPTER_"+String(Number(a[0])).padStart(4,"0")+"_CONTEXT.md");await writeText(output,formatChapterContext(context));console.log("Wrote "+output)}
   else console.log("Commands: init | validate | chapter:new <number> <title> | chapter:show <number> | story:new <ID> <type> <title> | story:list | story:show <ID> | context:chapter <number> | context:write <number>")
 }catch(e){console.error("Error: "+e.message);process.exitCode=1}
-async function writeText(path,content){const fs=await import("node:fs/promises");const pathModule=await import("node:path");await fs.mkdir(pathModule.dirname(path),{recursive:true});await fs.writeFile(path,content+"\\n")}
+async function writeText(path,content){const fs=await import("node:fs/promises");const pathModule=await import("node:path");await fs.mkdir(pathModule.dirname(path),{recursive:true});await fs.writeFile(path,content+String.fromCharCode(10))}
