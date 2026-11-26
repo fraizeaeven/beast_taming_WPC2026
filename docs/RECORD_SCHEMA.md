@@ -6,6 +6,8 @@ Chapter files are `CHAPTERS/CHAPTER_0001.json` and contain: number, title, statu
 
 The `17_STORY_STRUCTURE_REGISTRY` stores story units with stable IDs, type, title, status, parentId, objective, conflict, stakes, chapter range, characterIds, chapters, milestones, dependencies, resolutionCriteria and source provenance. See [Story Structure Management](STORY_STRUCTURE.md) for the full shape and hierarchy rules.
 
+The `18_CHARACTER_STATE_HISTORY` registry stores author-confirmed historical character snapshots by character and chapter. Snapshots may record emotional/physical state, goal, motivation, misbelief, truth recognition, arc ID and seven-stage position, evidence, behaviour, relationship states, knowledge IDs, pressure, decisions, consequences and source provenance. See [Historical Character State Tracking](CHARACTER_STATE_HISTORY.md).
+
 Use explicit states such as confirmed, theory, planned, open, resolved and retired. Never silently convert theories into canon. References use stable registry IDs.
 
 See [Continuity Checks](CONTINUITY_CHECKS.md) for field shapes, registry metadata and the checks performed by `npm run validate`.
