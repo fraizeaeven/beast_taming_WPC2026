@@ -1,0 +1,3 @@
+import test from "node:test";import assert from "node:assert/strict";import {REGISTRIES} from "../src/constants.js";
+test("registry names and order match screenshot",()=>assert.deepEqual(REGISTRIES,["00_MEMORY_INDEX","01_CANON_REGISTRY","02_WORLD_STATE","03_CHARACTER_REGISTRY","04_RELATIONSHIP_REGISTRY","05_MISBELIEF_AND_ARC_TRACKER","06_DOCUMENT_AND_OBJECT_REGISTRY","07_FINANCIAL_AND_LEGAL_LEDGER","09_LOCATION_REGISTRY","10_EVENT_TIMELINE","11_MYSTERY_REGISTER","12_OPEN_LOOP_REGISTER","13_PROMISE_AND_PAYOFF_REGISTER","14_POV_WHITELIST","15_KNOWLEDGE_TRACKER","16_CONTINUITY_LEDGER"]));
+test("chapter number formatting",()=>assert.equal("CHAPTER_"+String(12).padStart(4,"0")+".json","CHAPTER_0012.json"));
