@@ -328,6 +328,42 @@ This model allows Dark to retain a real homeland without making it powerful enou
 
 The territory's economy should be damaged but not completely dead. **Proposal:** It can sustain itself through agriculture, ordinary crafts, beast husbandry, local trade, limited resource extraction and specialist services. Its rarest resources may be difficult to sell openly because doing so would reveal the value of the homeland or attract outside interference.
 
+### 3.6A Governance of the independent territory
+
+**Author decisions — confirmed:**
+
+- The Dark Family's independent territory is governed through **shared authority** between the Patriarch and a governing Council. Neither side has unrestricted authority over major decisions.
+- Ordinary residents have **mixed legal and political status**. Rights and participation are not identical for everyone and should not be determined solely by whether someone has Dark blood.
+- The **Council oversees the military** through an appointed command structure. The Patriarch does not personally hold direct, unilateral control over the entire territorial military.
+
+**Proposal — two connected authorities:** The territory distinguishes between the authority of the Eternal Abyss Clan and the authority of the territory itself. The Patriarch leads the clan, protects its lineage and represents its ancestral obligations. Territorial institutions govern public law, residents, services, taxation, trade and defence. The two spheres overlap, but clan membership alone should not automatically confer every civil office or public privilege.
+
+**Proposal — the Abyssal Council:** The Council is the principal deliberative and oversight institution for territorial affairs. Its membership could combine:
+- Representatives of major Dark Family branches and senior clan institutions.
+- Delegates responsible for settlements and resident communities.
+- Recognised representatives of important civic and economic institutions, such as beast-breeding establishments, trade organisations, craftspeople or other essential services.
+
+The exact number of seats, selection method, term lengths and eligibility rules remain undecided. Avoid making the Council a gathering of elders from the bloodline alone: the territory contains residents whose interests may differ from those of the clan.
+
+**Proposal — shared decision-making:** The Patriarch and Council must cooperate on matters with long-term consequences, such as treaties, major taxation changes, territorial law, large public works, allocation of strategic mana resources and declarations of war. Routine administration is delegated to the relevant civil offices. A possible model is for the Patriarch to propose or veto decisions affecting the clan's ancestral obligations, while the Council approves territorial policy and controls public expenditure. The precise veto scope and voting thresholds are unresolved.
+
+**Proposal — deadlock and accountability:** Disagreement should not automatically give either side absolute power. A formal review, mediation process or second vote after a defined interval could resolve deadlocks. Officials should be answerable for misuse of public resources, unlawful orders and abuse of office. The mechanism and whether territorial courts or a separate tribunal provide this oversight remain open.
+
+**Proposal — residents and legal status:** The mixed system may recognise several categories, each with different rights and obligations:
+- **Clan members:** Members of the recognised Dark bloodline, subject to clan customs and succession rules.
+- **Affiliated households:** Families with recognised service, residence or long-standing ties to the territory.
+- **Territorial citizens:** People with established civic membership, including those without Dark blood. They may hold defined civil rights and some form of representation.
+- **Registered residents:** People who live or work in the territory but have not acquired full civic membership.
+- **Foreign visitors and commercial actors:** Merchants, mercenaries, scholars and diplomatic personnel whose rights are governed by law, licences and agreements.
+
+These are proposed categories, not approved legal terminology. Basic protections—such as personal safety, fair hearing and protection against arbitrary seizure—should apply broadly to people under territorial jurisdiction. Political participation, access to restricted resources, public office and obligations such as taxation or military service may differ by status. Bloodline should matter for clan inheritance and certain ancestral responsibilities, not automatically determine every resident's worth or civil protection.
+
+**Proposal — military governance:** The Council oversees the Territorial Guard and appoints or confirms its senior commander under rules that are still to be developed. The commander controls operational planning, training, deployments and the chain of command. The Council sets the defence mandate, approves the military budget and reviews major operations. The Patriarch may advise on clan forces and ancestral defence traditions, but should not bypass the territorial chain of command as a matter of routine.
+
+A distinction may be needed between the **Territorial Guard**, which protects the independent territory, and any **clan retainers or branch guards**, which protect family members and clan property. Their legal relationship, command coordination and limits remain proposals. During an immediate attack, the commander may need temporary emergency authority; the duration, reporting requirements and post-emergency review must be defined so that crisis powers do not become permanent rule.
+
+**Narrative consequences:** This structure creates meaningful political pressure without making the territory a modern democracy or an absolute clan monarchy. The Patriarch may support his son while the Council fears the external consequences of his abilities. Resident delegates may oppose a war that clan restorationists desire. Military officers may believe the Council is too cautious, while civilian leaders fear the cost of military expansion. These disagreements should arise from competing interests, not from every faction being wholly virtuous or corrupt.
+
 ### 3.7 Defensive design
 
 **Proposal:** Dark's defence reflects its original role as a counterbalancing family. It should not simply imitate the walls and armies of the Fire or Earth families.
@@ -392,14 +428,14 @@ The protagonist should not instantly inherit control of every site. Access can r
 Keep all of the following unresolved until explicitly selected:
 
 1. What is the homeland's true name? Is “Abyssal Marches” only an outsider's name?
-2. What institutions govern the independent territory, and how much authority does the family patriarch hold compared with a council, local leaders or other institutions?
+2. What are the exact institutions, membership rules, voting thresholds, veto powers and deadlock procedures within the shared Patriarch–Council government?
 3. How much land does Dark still control compared with its former territory?
 4. Which kingdom or kingdoms border it, and are those neighbours hostile, neutral or economically dependent on it?
 5. Does the family seat remain inhabited by most of the clan, or are some branches established in other countries?
 6. Are the Sevenfold Well and other proposed sites real, and what are their actual functions?
 7. Which resources can Dark still extract, and which have been lost, depleted or restricted?
 8. How much of the old defensive system still works?
-9. Does the territory contain a surviving population of ordinary residents with their own local leaders and interests?
+9. What are the final legal categories for residents, how is territorial citizenship acquired, and how are resident representatives selected?
 10. Is the ancient promise directly connected to the territory, or does it bind the family regardless of where its members live?
 
 ---
@@ -528,8 +564,8 @@ This path connects his personal growth, the restoration of his family and the wo
 
 The following remain unresolved and must not be silently promoted to canon:
 
-1. **Political reach:** Are the families cross-national powers with branches, independent territorial powers, or a mixture?
-2. **Dark territory:** Dark retains ancestral territory. Its exact borders, remaining resources, population, autonomy, lost lands and political status are still proposals.
+1. **Cross-national institutions:** The families' cross-national influence is established. The exact structure, legal status and autonomy of their foreign branches and holdings remain proposals.
+2. **Dark territory:** Its independent status, shared Patriarch–Council government, mixed resident status and Council oversight of the military are confirmed. Exact borders, remaining resources, population, legal categories, representation rules, neighbouring states and lost lands remain unresolved.
 3. **Ancient promise:** Its existence and secrecy are established directions. Its exact wording, why the Dark head made it, who knows it exists, and whether it is enforced by a magical contract, bloodline curse, ancestral artifact or another mechanism remain unresolved.
 4. **Knowledge of the betrayal:** The extent of present-day knowledge is unknown. Do not assign knowledge to a particular faction, rank or generation without author confirmation.
 5. **Beast breeding:** Both inherited bloodlines and specialised cultivation contribute to compatibility. The precise methods, inheritance rules and limits remain proposals.
