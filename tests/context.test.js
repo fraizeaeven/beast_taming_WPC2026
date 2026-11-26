@@ -23,6 +23,7 @@ async function fixture(t) {
   await put("CHAPTER_RECORDS/01_CANON_REGISTRY",{registry:"01_CANON_REGISTRY",entries:[{id:"FACT_GLOBAL",status:"confirmed",fact:"World rule"},{id:"FACT_PRIVATE",characterId:"CHAR_Z",fact:"Not relevant"}]});
   await put("CHAPTER_RECORDS/03_CHARACTER_REGISTRY",{registry:"03_CHARACTER_REGISTRY",entries:[{id:"CHAR_A",name:"A"},{id:"CHAR_B",name:"B"},{id:"CHAR_Z",name:"Z"}]});
   await put("CHAPTER_RECORDS/04_RELATIONSHIP_REGISTRY",{registry:"04_RELATIONSHIP_REGISTRY",entries:[{id:"REL_A_B",from:"CHAR_A",to:"CHAR_B",currentState:"strained"},{id:"REL_Z_A",from:"CHAR_Z",to:"CHAR_A"}]});
+  await put("CHAPTER_RECORDS/09_LOCATION_REGISTRY",{registry:"09_LOCATION_REGISTRY",entries:[{id:"LOC_KEEP",name:"The Keep"},{id:"LOC_OTHER",name:"Other place"}]});
   await put("CHAPTER_RECORDS/11_MYSTERY_REGISTER",{registry:"11_MYSTERY_REGISTER",entries:[{id:"MYS_A",characterId:"CHAR_A",status:"open",notBeforeChapter:14},{id:"MYS_Z",characterId:"CHAR_Z",status:"open"}]});
   await put("CHAPTER_RECORDS/17_STORY_STRUCTURE_REGISTRY",{registry:"17_STORY_STRUCTURE_REGISTRY",entries:[
     {id:"PLOT_MAIN",type:"main_plot",status:"active",parentId:null,characterIds:["CHAR_A"],chapters:[{chapter:2}],milestones:[]},
@@ -37,7 +38,9 @@ test("retrieves chapter-linked characters, story ancestors, related relationship
   const context=await buildChapterContext(8);
   assert.deepEqual(context.selection.characterIds.sort(),["CHAR_A","CHAR_B"]);
   assert.deepEqual(context.selection.storyIds.sort(),["ARC_A","PLOT_MAIN"]);
+  assert.ok(context.records["03_CHARACTER_REGISTRY"].some(x=>x.id==="CHAR_A"));
   assert.ok(context.records["04_RELATIONSHIP_REGISTRY"].some(x=>x.id==="REL_A_B"));
+  assert.ok(context.records["09_LOCATION_REGISTRY"].some(x=>x.id==="LOC_KEEP"));
   assert.ok(context.records["11_MYSTERY_REGISTER"].some(x=>x.id==="MYS_A"));
   assert.ok(!context.records["11_MYSTERY_REGISTER"].some(x=>x.id==="MYS_Z"));
   assert.ok(context.constraintsAndUnresolved.some(x=>x.constraint==="future_milestone"&&x.chapter===12));
