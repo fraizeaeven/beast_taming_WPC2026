@@ -422,6 +422,142 @@ These are political tendencies, not fixed moral categories. A member may support
 **Proposal — structural weaknesses:** Over time, established branches may preserve influence for too long; wealthy commercial interests may pressure representatives; frontier settlements may feel ignored; and Council members may prioritise their own institutions over the territory as a whole. The Patriarch may also be constrained even when he raises legitimate concerns. These weaknesses give the territory internal political conflicts that cannot all be blamed on foreign enemies.
 
 **Narrative consequences:** The protagonist's unusual cultivation may divide the government. Restorationists may view him as a means to recover lost power; Preservationists may fear that public attention will provoke foreign intervention; Reformists may see his discoveries as evidence that the clan's inherited understanding is incomplete. Resident representatives may oppose policies that treat ordinary people as expendable, while military officers may consider civilian leaders too cautious. None of these positions should automatically make a faction wholly virtuous or corrupt.
+
+### 3.6B Military organisation of the independent territory
+
+**Author decision — confirmed:** The Council oversees the territorial military through an appointed command structure. This military serves the independent territory; it is not simply the Patriarch's personal army.
+
+**Proposal — overall doctrine:** The present-day Dark military is designed to defend a reduced homeland, protect its residents and preserve the ability to respond to threats from different elemental opponents. It is not built to conquer neighbouring kingdoms or defeat all six rival families in a prolonged war. Its doctrine reflects Dark's historical purpose of balance and counteraction: identify the nature of a threat, adapt the response, contain dangerous forces and use coordinated beast-tamer formations rather than relying on one overwhelming element.
+
+The military should be capable and disciplined, but weakened by the territory's reduced population, limited resources, lost outer fortifications and damaged beast-breeding infrastructure. It retains specialist knowledge and a few exceptional assets, not an inexhaustible army.
+
+#### Command hierarchy
+
+**Proposal:** The territorial military follows a clear chain of command:
+
+1. **Abyssal Council:** Sets defence policy, approves the military budget, appoints or confirms the highest commander, authorises major campaigns and reviews military conduct.
+2. **High Commander:** Directs the overall military, converts Council policy into defence plans and coordinates the different branches. The commander cannot independently declare war, seize public resources or permanently expand emergency powers.
+3. **Command Council / senior staff:** A small professional staff advises the High Commander on operations, intelligence, logistics, beast care, fortifications and mana-related threats. It is an advisory and coordination body, not a rival sovereign authority.
+4. **Branch commanders:** Lead the major military branches and report through the High Commander.
+5. **Regional commanders and unit leaders:** Manage garrisons, patrol districts, field units and local readiness.
+6. **Squad and formation leaders:** Direct small teams of tamers, support personnel and their assigned beasts.
+
+The Patriarch may advise on ancestral defence knowledge, clan traditions and threats to the bloodline. He does not bypass this chain of command in ordinary territorial operations. Clan retainers and branch guards remain a distinct matter unless lawfully attached to a territorial operation.
+
+#### Proposed military branches
+
+| Branch | Main responsibility | Typical assets and duties |
+|---|---|---|
+| **Heartland Garrison** | Protect the family seat, major settlements, archives and strategic facilities | Fixed posts, settlement patrols, reserve formations and defensive beasts |
+| **Frontier Guard** | Monitor borders, passes, disputed approaches and remote routes | Watch posts, patrol teams, tracking beasts, scouts and warning networks |
+| **Mobile Response Corps** | Reinforce threatened locations and respond to sudden incursions | Fast-moving tamer teams, mounted or transport beasts, flexible mixed-element squads |
+| **Beast Corps** | Maintain, train and deploy military beasts and specialist beast formations | Combat beasts, scouts, trackers, transport beasts, defensive beasts and beast handlers |
+| **Support and Recovery Corps** | Keep the military supplied and return personnel and beasts to service | Healers, beast physicians, armourers, handlers, food and equipment supply, recovery teams |
+| **Fortification and Mana Works** | Maintain defensive structures and investigate dangerous mana conditions | Engineers, barrier technicians, surveyors and specialists in old defensive sites |
+
+These are proposed functional branches. They need not all have equal size or prestige. The Beast Corps is not necessarily a separate army of beasts: it coordinates beast-related training, welfare, deployment and specialist expertise across the other branches.
+
+#### Beast-tamer formations
+
+**Proposal:** Dark's military does not treat beasts as interchangeable weapons. A tamer's compatibility, trust, training history and ability to coordinate with a beast determine how effectively the pair or group can operate.
+
+A basic field formation may include:
+
+- **Tamer-beast pairs:** The smallest dependable operational unit. Each pair has a defined role and understands the limits of its beast.
+- **Combined squads:** Several pairs with complementary functions, supported by non-tamer personnel where needed.
+- **Specialist teams:** Scouts, trackers, anti-beast responders, containment teams, healers or mana-disruption specialists.
+- **Large field formations:** Multiple squads coordinated for a specific defensive operation, with a designated formation leader and logistical support.
+
+**Proposal:** Mixed-element formations are a distinguishing Dark practice. A squad might combine a durable beast that holds ground, a fast scout, a ranged attacker and a support beast. The advantage comes from coordination and tactical compatibility, not from assuming that every Dark tamer can freely command all seven elements.
+
+A beast's battlefield role should reflect its species, individual traits, cultivation, temperament and relationship with its tamer. A rare or powerful beast is not automatically suitable for every mission.
+
+#### Recruitment and service
+
+**Proposal:** Recruitment is open through several routes, subject to ability, loyalty, training and legal obligations:
+
+- Dark Family members may enter the territorial military, but bloodline alone does not guarantee command.
+- Affiliated households may contribute trained tamers, handlers, healers, engineers or long-serving military families.
+- Territorial residents may volunteer or qualify for service in appropriate roles, including non-tamer positions.
+- Specialists from outside the territory may be hired under contracts, licences or temporary service agreements, with restrictions around sensitive sites and information.
+
+The territory should not assume every resident must become a soldier. Military service, civic duties, taxation and other obligations should be defined by legal status and applicable law rather than imposed identically on every person.
+
+**Proposal:** The military maintains a professional core, supplemented by trained local reserves and emergency volunteers. Frontier communities may have local defence responsibilities, but their members remain subject to territorial law and a defined chain of command when mobilised.
+
+#### Training and advancement
+
+**Proposal:** Training has separate but connected tracks:
+
+- **Tamer development:** Tactical judgement, formation coordination, communication and responsible beast command.
+- **Beast development:** Conditioning, role-specific training, mana control, recovery and safe exposure to battlefield conditions.
+- **Support specialisation:** Medicine, beast treatment, logistics, engineering, reconnaissance and mana-site safety.
+- **Command development:** Planning, discipline, law, supply management and coordination across different elemental capabilities.
+
+Military rank is not identical to cultivation rank. A highly cultivated tamer may be a formidable combatant but lack the judgement or leadership skill required to command a unit. Conversely, an experienced officer with a less powerful beast may be an excellent strategist or logistics commander.
+
+Promotion should consider competence, service record, discipline, tactical judgement and ability to protect personnel and beasts. Exceptional cultivation may qualify someone for specialist duties, but should not automatically grant political or command authority.
+
+#### Military law and accountability
+
+**Proposal:** The military operates under territorial law and a military code. It may enforce discipline within its ranks, but it does not replace civilian courts for ordinary residents.
+
+- The High Commander is accountable to the Council for military policy, expenditure and major operations.
+- Branch commanders are accountable through the chain of command.
+- Military personnel remain subject to investigation for unlawful violence, corruption, abuse of residents or mistreatment of beasts.
+- The Council may commission an inquiry into a failed campaign or serious abuse, but should not direct every battlefield decision.
+- Emergency powers during an invasion are temporary and require prompt reporting and review.
+
+The Council should not be able to use military appointments as a routine reward for political loyalty. Professional competence and the territory's security must remain central considerations.
+
+#### Clan retainers and branch guards
+
+**Proposal:** The Eternal Abyss Clan may maintain retainers and guards for the protection of the Patriarch, family members, clan property and branch estates. These forces are distinct from the Territorial Guard, which protects the territory and all people under its jurisdiction.
+
+Their distinction creates possible tension:
+
+- Clan retainers may answer to the Patriarch or a branch head in matters of family security.
+- The Territorial Guard answers through the Council-supervised command hierarchy.
+- When both forces operate together, the law must specify who commands the joint operation.
+- Neither force should be used to intimidate lawful residents or settle ordinary political disagreements.
+
+The exact size, legal privileges, recruitment rules and command arrangements of clan guards remain unresolved.
+
+#### Strategic strengths and weaknesses
+
+**Proposal — strengths:**
+
+- Familiarity with the local terrain, mana conditions and defensive sites.
+- Experienced beast handlers and inherited knowledge of selected breeding lines.
+- Flexible formations that can combine different elemental capabilities.
+- Strong defensive motivation among residents whose homes depend on the territory's survival.
+- Specialist knowledge of containment and counter-element responses, although much ancient knowledge may be lost or incomplete.
+
+**Proposal — weaknesses:**
+
+- A limited population restricts recruitment and replacement of casualties.
+- Lost breeding grounds and damaged records make it difficult to replace certain military beasts.
+- Resource shortages constrain equipment, training, medicine and sustained deployments.
+- The territory cannot safely leave its heartland undefended to pursue distant campaigns.
+- Political disagreement may delay major operations or create friction between the Council and commanders.
+- Clan retainers, territorial forces and local reserves may have overlapping loyalties.
+- Some old defensive systems may be damaged, poorly understood or dangerous to reactivate.
+
+These weaknesses should have practical consequences. Dark may win a carefully prepared defensive engagement yet be unable to pursue an enemy far beyond its borders. It may possess a rare beast formation but lack the resources to replace it if destroyed.
+
+#### Narrative uses
+
+This organisation provides several story opportunities:
+
+- The protagonist may first encounter the military through a local patrol, training yard or beast-handling unit rather than immediately meeting elite commanders.
+- His unusual compatibility could attract attention from the Beast Corps, while the Council worries about the political consequences of revealing it.
+- A commander may support the protagonist's training for practical military reasons without agreeing with the Restorationists.
+- Frontier soldiers may resent central officials who underestimate the cost of defending remote settlements.
+- A shortage of compatible beasts can turn breeding records, a captured wild beast or a lost enclosure into a strategic issue.
+- A crisis may expose the difference between the Council's authority to set policy and the commander's responsibility to make rapid battlefield decisions.
+
+Do not make the Dark military secretly stronger than all its rivals simply because it preserves ancient techniques. Its old knowledge should be incomplete, costly to use and dependent on people, beasts, preparation and scarce resources.
+
 ### 3.7 Defensive design
 
 **Proposal:** Dark's defence reflects its original role as a counterbalancing family. It should not simply imitate the walls and armies of the Fire or Earth families.
@@ -622,7 +758,7 @@ This path connects his personal growth, the restoration of his family and the wo
 The following remain unresolved and must not be silently promoted to canon:
 
 1. **Cross-national institutions:** The families' cross-national influence is established. The exact structure, legal status and autonomy of their foreign branches and holdings remain proposals.
-2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements and detailed military oversight are proposals awaiting further author confirmation. Exact borders, resources, population, final legal categories and neighbouring states remain unresolved.
+2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements, military branches, command hierarchy, recruitment, formations, training and detailed military oversight are proposals awaiting further author confirmation. Exact borders, resources, population, force sizes, final legal categories and neighbouring states remain unresolved.
 3. **Ancient promise:** Its existence and secrecy are established directions. Its exact wording, why the Dark head made it, who knows it exists, and whether it is enforced by a magical contract, bloodline curse, ancestral artifact or another mechanism remain unresolved.
 4. **Knowledge of the betrayal:** The extent of present-day knowledge is unknown. Do not assign knowledge to a particular faction, rank or generation without author confirmation.
 5. **Beast breeding:** Both inherited bloodlines and specialised cultivation contribute to compatibility. The precise methods, inheritance rules and limits remain proposals.
