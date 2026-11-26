@@ -10,6 +10,7 @@ const proposalPath = id => file("DRAFT_REVIEWS", id + ".json");
 const clone = value => JSON.parse(JSON.stringify(value));
 const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
 const allowedChapterFields = new Set(["summary","scenes","charactersPresent","characterAges","behaviorChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes","authorNotes"]);
+const arrayChapterFields = new Set(["scenes","charactersPresent","characterAges","behaviorChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes"]);
 
 export async function prepareDraftReview(chapterNumber, draftFile) {
   const n = Number(chapterNumber);
