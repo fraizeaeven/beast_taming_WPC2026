@@ -4,6 +4,7 @@ import {validate} from "./validate.js";
 import {create,show} from "./chapter.js";
 import {createStoryItem,listStoryItems,showStoryItem} from "./story-structure.js";
 import {buildChapterContext,formatChapterContext} from "./context.js";
+import {getCharacterState,listCharacterHistory} from "./character-state.js";
 const [cmd="help",...a]=process.argv.slice(2);
 try{
   if(cmd==="init"){await init();console.log("Initialized registries and folders; existing files preserved")}
@@ -15,6 +16,8 @@ try{
   else if(cmd==="story:show")console.log(JSON.stringify(await showStoryItem(a[0]),null,2))
   else if(cmd==="context:chapter"){const context=await buildChapterContext(a[0]);console.log(formatChapterContext(context))}
   else if(cmd==="context:write"){const context=await buildChapterContext(a[0]);const output=file("reports","CHAPTER_"+String(Number(a[0])).padStart(4,"0")+"_CONTEXT.md");await writeText(output,formatChapterContext(context));console.log("Wrote "+output)}
-  else console.log("Commands: init | validate | chapter:new <number> <title> | chapter:show <number> | story:new <ID> <type> <title> | story:list | story:show <ID> | context:chapter <number> | context:write <number>")
+  else if(cmd==="character:state")console.log(JSON.stringify(await getCharacterState(a[0],a[1]),null,2))
+  else if(cmd==="character:history")console.log(JSON.stringify(await listCharacterHistory(a[0]),null,2))
+  else console.log("Commands: init | validate | chapter:new <number> <title> | chapter:show <number> | story:new <ID> <type> <title> | story:list | story:show <ID> | context:chapter <number> | context:write <number> | character:state <CHAR_ID> <chapter> | character:history <CHAR_ID>")
 }catch(e){console.error("Error: "+e.message);process.exitCode=1}
 async function writeText(path,content){const fs=await import("node:fs/promises");const pathModule=await import("node:path");await fs.mkdir(pathModule.dirname(path),{recursive:true});await fs.writeFile(path,content+String.fromCharCode(10))}
