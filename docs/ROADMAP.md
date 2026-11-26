@@ -13,7 +13,7 @@ Stable IDs and hierarchy for main plots, subplots, character arcs, sub-arcs and 
 Deterministic chapter preflight that assembles linked canon, character and relationship records, knowledge boundaries, plot/arc context, events, promises and unresolved constraints. It does not infer relevance from prose or write canon.
 
 ## v1.4 — Historical character state
-Character state snapshots, seven-stage character development tracking (including regression and stalled change), emotional/behavioural progression, relationship history and reconstruction of a character's state at a given chapter.
+Character state snapshots, seven-stage character development tracking (including regression and stalled change), emotional/behavioural progression, relationship history and reconstruction of a character's state at a given chapter. Implemented in [Historical Character State Tracking](CHARACTER_STATE_HISTORY.md).
 
 ## v1.5 — Knowledge and timeline engine
 Historical knowledge queries, in-world calendar and age calculations, event order, object ownership/location history and POV knowledge boundaries.
