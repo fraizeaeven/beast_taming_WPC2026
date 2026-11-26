@@ -18,8 +18,7 @@ Character state snapshots, seven-stage character development tracking (including
 ## v1.5 — Knowledge and timeline engine
 Historical knowledge queries, explicit POV knowledge boundaries, chapter event retrieval, event date/order checks, and object/location transfer history. Implemented in [Knowledge and Timeline Engine](KNOWLEDGE_AND_TIMELINE.md). In-world calendar expansion, travel-duration modelling and richer event dependency analysis remain follow-up work.
 
-## v1.6 — AI-assisted chapter workflow
-AI-assisted chapter analysis, source evidence and confidence labels, proposed registry diffs and explicit human approval. No automatic canon writes.
+## v1.6 — AI-assisted chapter workflow\nProvider-neutral chapter analysis prompt, grounded context, structured findings with evidence/confidence, staged registry/chapter proposals and explicit per-proposal approval. Implemented in [AI-Assisted Chapter Workflow](AI_ASSISTED_CHAPTER_WORKFLOW.md). AI inference is performed by a user-selected model; no provider API is called by the engine.
 
 ## v2.0 — Novel continuity intelligence
 Cross-chapter contradiction graph, payoff coverage, mystery/foreshadowing tracking, historical queries and impact analysis when earlier canon is revised.
