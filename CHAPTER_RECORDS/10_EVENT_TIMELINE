@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "registry": "10_EVENT_TIMELINE",
+  "purpose": "Chronological events and chapter anchors.",
+  "entries": []
+}
