@@ -46,3 +46,22 @@ test("stale registry proposal is rejected without overwriting newer canon",async
   const registry=JSON.parse(await fs.readFile("CHAPTER_RECORDS/03_CHARACTER_REGISTRY","utf8"));
   assert.equal(registry.entries[0].name,"Changed elsewhere");
 });
+
+test("chapter append approval refuses a changed chapter baseline",async t=>{
+  await fixture(t);
+  await fs.writeFile("analysis.json",JSON.stringify({chapterNumber:2,findings:[],proposals:[{id:"PROP_APPEND",type:"add_chapter_item",chapter:2,field:"knowledgeChanges",value:{characterId:"CHAR_A",factId:"FACT_A",action:"learned"}}]}));
+  const staged=await stageDraftReview("analysis.json");
+  const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
+  chapter.knowledgeChanges.push({characterId:"CHAR_A",factId:"FACT_B",action:"learned"});
+  await fs.writeFile("CHAPTERS/CHAPTER_0002.json",JSON.stringify(chapter));
+  await assert.rejects(()=>decideDraftProposal(staged.id,"PROP_APPEND","approve"),/changed since proposal staging/);
+});
+
+test("duplicate proposal IDs are rejected during staging",async t=>{
+  await fixture(t);
+  await fs.writeFile("analysis.json",JSON.stringify({chapterNumber:2,findings:[],proposals:[
+    {id:"PROP_DUP",type:"add_chapter_item",chapter:2,field:"knowledgeChanges",value:{a:1}},
+    {id:"PROP_DUP",type:"add_chapter_item",chapter:2,field:"knowledgeChanges",value:{a:2}}
+  ]}));
+  await assert.rejects(()=>stageDraftReview("analysis.json"),/Duplicate proposal ID/);
+});
