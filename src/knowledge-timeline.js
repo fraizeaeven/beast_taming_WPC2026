@@ -25,7 +25,7 @@ export function reconstructKnowledge({registries={},chapters:records=[],characte
     if(Number.isInteger(lost)) history.push({chapter:lost,action:"forgotten",factId:x.factId,source:"15_KNOWLEDGE_TRACKER",recordId:x.id});
   }
   for(const c of records) if(c.number<=at) for(const x of list(c.knowledgeChanges)) if(x?.characterId===characterId&&x.factId&&(!factId||x.factId===factId)) history.push({chapter:c.number,action:x.action,factId:x.factId,method:x.method??x.how??"",source:"chapter",recordId:c.number,evidence:x.evidence??""});
-  history.sort((a,b)=>a.chapter-b.chapter||(a.source==="15_KNOWLEDGE_TRACKER"?-1:1));
+  history.sort((a,b)=>a.chapter-b.chapter||((a.source==="15_KNOWLEDGE_TRACKER"?0:1)-(b.source==="15_KNOWLEDGE_TRACKER"?0:1)));
   const known=new Map();
   for(const x of history) { if(LEARN.has(x.action)) known.set(x.factId,x); else if(FORGET.has(x.action)) known.delete(x.factId); }
   const knownFacts=[...known.values()].sort((a,b)=>a.factId.localeCompare(b.factId));
@@ -59,7 +59,7 @@ export function getChapterTimeline({registries={},chapters:records=[],chapter}={
   events.sort((a,b)=>String(a.occurredOn??a.date??"").localeCompare(String(b.occurredOn??b.date??""))||String(a.id??a.eventId??"").localeCompare(String(b.id??b.eventId??"")));
   return {chapter:at,inWorldDate:c?.inWorldDate??null,events};
 }
-const validDate=v=>typeof v==="string"&&/^\\d{4}-\\d{2}-\\d{2}$/.test(v)&&!Number.isNaN(new Date(v+"T00:00:00Z").getTime())&&new Date(v+"T00:00:00Z").toISOString().slice(0,10)===v;
+const validDate=v=>typeof v==="string"&&/^\d{4}-\d{2}-\d{2}$/.test(v)&&!Number.isNaN(new Date(v+"T00:00:00Z").getTime())&&new Date(v+"T00:00:00Z").toISOString().slice(0,10)===v;
 export function checkKnowledgeTimeline({registries={},chapters:records=[]}={}) {
   const warnings=[], ordered=[...records].filter(x=>Number.isInteger(x?.number)).sort((a,b)=>a.number-b.number);
   const restricted=new Map();
