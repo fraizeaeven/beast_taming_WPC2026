@@ -17,6 +17,11 @@
     "context:write": "node src/cli.js context:write",
     "character:state": "node src/cli.js character:state",
     "character:history": "node src/cli.js character:history",
+    "knowledge:state": "node src/cli.js knowledge:state",
+    "knowledge:who-knows": "node src/cli.js knowledge:who-knows",
+    "timeline:chapter": "node src/cli.js timeline:chapter",
+    "object:history": "node src/cli.js object:history",
+    "location:history": "node src/cli.js location:history",
     "test": "node --test"
   }
 }
