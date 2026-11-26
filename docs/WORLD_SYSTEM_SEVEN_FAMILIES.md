@@ -1397,6 +1397,221 @@ Family-bred beasts may be more accessible to ordinary family descendants, while 
 
 ---
 
+
+## 3.9 Civilian economy, social classes and everyday life in the Dark ancestral territory
+
+**Status: Proposed social and economic framework.** The Dark territory is an independent homeland governed through shared Patriarch–Abyssal Council authority. Ordinary residents have mixed legal and political status, and the military is overseen by the Council. This section develops how the territory sustains itself and how residents gain wealth, status and influence. Exact population, borders, tax rates, currency and legal classifications remain unresolved.
+
+### Economic identity: a small homeland with strategic expertise
+
+The territory should not function as an economy sustained entirely by the Patriarch's treasury or by military requisition. Its stability depends on productive households, skilled trades, agriculture, animal husbandry, commerce and specialist services.
+
+**Proposed economic model:** a mixed economy combining:
+
+- **Household production:** farming, food preparation, textile work, repair, craft production and local services.
+- **Independent commerce:** shops, workshops, inns, transport companies, market stalls and merchant partnerships.
+- **Guild and professional services:** beast care, appraisal, medicine, engineering, construction, education and logistics.
+- **Family and territorial institutions:** breeding grounds, mana research, archives, public infrastructure and strategic reserves.
+- **External trade:** exports of specialised goods and services in exchange for food varieties, medicines, tools, materials and products the territory cannot efficiently produce.
+
+The territory's distinctive advantage is not that it produces everything. It is that it retains rare expertise in beast compatibility, Dark cultivation, containment, mixed-mana environments and counter-element knowledge. Some of this expertise is deliberately restricted; ordinary commercial activity should not automatically grant access to ancestral secrets.
+
+### The main economic sectors
+
+| Sector | What it produces or provides | Why it matters |
+|---|---|---|
+| Agriculture and food | Crops, livestock, preserved food, medicinal plants | Keeps the population fed and reduces dependence on external supply |
+| Beast husbandry | Feed, breeding support, stable management, handling and transport | Supports family-bred lines, civilian livelihoods and military readiness |
+| Beast services | Appraisal, healing, training, legal trade and expedition support | Connects the territory to the wider beast market |
+| Craft and manufacturing | Tools, clothing, armour components, equipment, furniture and household goods | Provides employment and reduces import costs |
+| Construction and engineering | Housing, roads, bridges, barriers, water systems and mana infrastructure | Maintains the homeland and creates skilled technical work |
+| Medicine and recovery | Clinics, healers, medicines, rehabilitation and beast treatment | Protects the workforce and reduces long-term dependency |
+| Trade and transport | Caravans, storage, brokerage, markets and merchant services | Brings in scarce resources and creates external relationships |
+| Education and research | Schools, technical instruction, records and controlled cultivation research | Preserves knowledge and improves future productivity |
+| Security and public service | Civil administration, patrol support, emergency response and infrastructure protection | Keeps trade and everyday life functioning safely |
+
+Not every sector needs to be controlled by the clan. Private households, cooperatives, guilds, licensed companies and territorial institutions can coexist.
+
+### Social structure: influence is not the same as birth rank
+
+The territory should have social layers, but avoid making every resident's future permanently determined by ancestry. Wealth, expertise, service, reputation and political recognition can all create influence.
+
+**Proposed social groups:**
+
+1. **The ruling household and senior family lineages:** The Patriarch's household and recognised senior branches possess ceremonial standing, inherited responsibilities and access to some family institutions. Their status does not make every member competent or automatically entitled to every office.
+2. **The Abyssal Council and appointed officials:** Council members, administrators and senior officeholders exercise formal public authority under the territorial system. Office is a responsibility with accountability, not a separate hereditary nobility by default.
+3. **Established family households:** Recognised Dark Family branches and long-standing households may hold land, businesses, breeding interests or service traditions. Their influence varies with resources and reputation.
+4. **Guild masters, merchants and major producers:** Successful commercial leaders can possess substantial economic influence. They may finance projects, employ residents and negotiate with officials without automatically gaining political office.
+5. **Skilled professionals:** Beast physicians, appraisers, healers, engineers, teachers, craftsmen, scribes and experienced handlers often hold high social respect because their skills are difficult to replace.
+6. **Independent residents and working households:** Farmers, labourers, artisans, shopkeepers, transport workers and service providers form the economic foundation of the territory. They are not socially insignificant simply because they do not hold titles.
+7. **Newcomers, contracted specialists and temporary residents:** Traders, refugees, hired experts and visiting workers may live or work in the territory under defined legal arrangements. Their rights and obligations depend on status and contract rather than assumptions about ancestry.
+
+These are social positions, not a rigid caste ladder. A skilled craftsperson may be wealthier than a minor family descendant; a respected physician may have more practical influence than a wealthy merchant; a public official may hold authority but have little private wealth.
+
+### Legal status and resident rights
+
+The established mixed-status model means that not every resident necessarily has identical political rights, but the territory still needs clear protections against arbitrary treatment.
+
+**Proposal:** Territorial law distinguishes between residence, recognised membership, service affiliation and temporary presence. These categories should define specific rights and duties transparently rather than serving as vague excuses for exploitation.
+
+Possible rights and protections include:
+
+- Access to ordinary courts or a recognised dispute-resolution process.
+- Protection of lawful property and business contracts.
+- Emergency treatment and disaster protection.
+- Defined access to public roads, markets, water and essential infrastructure.
+- Protection against unlawful seizure of a beast, business or household property.
+- A process to petition the Council or an appropriate public office.
+- Clear service obligations where military, infrastructure or emergency duties apply.
+
+Political participation may vary by legal status and responsibility, consistent with the existing mixed model. However, residents should be able to challenge administrative decisions that directly affect them. The exact categories, voting rights, eligibility rules and appeal institutions remain proposals.
+
+### Wealth, property and routes to prosperity
+
+**Proposal:** Residents can accumulate wealth through lawful work, ownership, trade, invention, skilled services and investment. The territory should not have a rule that only family bloodlines can own productive assets.
+
+Potential routes to prosperity include:
+
+- Developing a successful farm, workshop or transport business.
+- Becoming a recognised beast physician, appraiser or specialist handler.
+- Breeding healthy, well-documented beasts through lawful and ethical methods.
+- Building a merchant network that connects the homeland with external markets.
+- Creating improved equipment, medicines, feed or mana-safe construction techniques.
+- Providing valuable services to the academy, military or civilian population.
+- Forming cooperatives that pool capital, labour and risk.
+
+Land, rare breeding stock, strategic mana sites and restricted ancestral materials may be subject to special ownership rules. A private citizen may own a normal workshop or farm without being permitted to privately claim a strategic mana vein or a protected ancestral breeding line.
+
+Inheritance can transfer ordinary property and business interests, but professional licences, public office, military rank and access to restricted knowledge should not automatically pass to heirs.
+
+### Beast economy and the civilian market
+
+The beast economy should be a major source of employment and social mobility, but it must remain connected to the established rule that suitable wild beasts are expensive to discover and capture.
+
+**Proposed civilian value chain:**
+
+1. Breeders and habitat keepers raise suitable beasts and maintain health and pedigree records.
+2. Feed producers, herbalists and material suppliers support breeding and recovery.
+3. Appraisers evaluate health, lineage, temperament and likely compatibility.
+4. Licensed brokers and market operators arrange sales and contracts.
+5. Mercenary companies locate and transport wild beasts at substantial risk.
+6. Beast physicians and recovery specialists treat injury and cultivation instability.
+7. Trainers and handlers prepare beasts for appropriate civilian or professional roles.
+
+Not every beast is a military asset. Beasts may support farming, transport, rescue, construction, communication, medicine, security and specialist crafts. This creates a larger market than combat beasts alone.
+
+**Proposed safeguards:** markets should record provenance, ownership, health disclosures and contract terms. Illegal capture, stolen beasts, fraudulent pedigree claims and deliberate concealment of serious illness create a black market. The Council may regulate dangerous species and restricted breeding lines, while ordinary low-risk trade remains accessible to licensed residents.
+
+A beast's value should not be judged only by combat strength. Reliability, temperament, health, work capacity, rarity and compatibility can matter more to a civilian buyer.
+
+### Taxation, public revenue and resource distribution
+
+**Proposal:** The territory funds public functions through a combination of predictable taxation, fees for specific services, institutional income and carefully regulated resource revenue.
+
+Possible revenue sources:
+
+- Household and land-related taxes, scaled to ability to pay.
+- Business or trade levies with clear rules and published rates.
+- Market, transport and licensing fees tied to services actually provided.
+- Income from territorial workshops, breeding institutions or other public assets.
+- External trade duties where appropriate.
+- Voluntary donations and endowments, which must not buy political decisions.
+
+The tax system should avoid crushing small producers. A small farmer, a local repair shop and a major merchant house should not face identical burdens if their capacity and public benefits differ.
+
+**Proposed public spending priorities:**
+
+1. Food security, water, roads and essential infrastructure.
+2. Civilian health, sanitation and emergency response.
+3. Education, technical training and the academy's publicly supported places.
+4. Beast health, breeding-system preservation and market oversight.
+5. Military defence and strategic reserves.
+6. Research, restoration projects and long-term development.
+
+The Abyssal Council should approve the territorial budget through a transparent process appropriate to the established shared-government model. Residents should be able to learn how public funds are used and petition over serious misuse. Sensitive military spending may be reviewed confidentially by authorised oversight bodies, but secrecy should not excuse private enrichment.
+
+### Guilds, cooperatives and commercial influence
+
+**Proposal:** Professional guilds and cooperatives organise standards, training, apprenticeships and collective bargaining. They are not automatically political bodies, although their members may petition or lobby the Council.
+
+Possible organisations include:
+
+- Beast Breeders and Habitat Keepers' Guild.
+- Beast Physicians and Appraisers' Association.
+- Merchants and Caravanners' League.
+- Artisans and Equipment Makers' Guild.
+- Builders and Mana Engineers' Fellowship.
+- Healers and Medicinal Practitioners' Circle.
+- Farmers and Food Producers' Cooperative.
+
+Guild membership can improve trust and professional reputation, but should not become an absolute barrier preventing outsiders or independent workers from earning a living. Licensing should be required for dangerous or high-risk activities, not every ordinary trade.
+
+Major guilds may become powerful enough to influence policy. This creates a useful political counterweight to family lineage and military authority, while also creating risks of monopolies, price fixing and corruption.
+
+### The relationship between civilian society, the family and the military
+
+The military depends on civilian producers for food, transport, equipment, medicine, construction and beast care. Civilian life in turn depends on the military for territorial security and protection of critical routes.
+
+**Proposal:** The relationship is based on lawfully defined obligations rather than unlimited military entitlement.
+
+- The military may purchase goods and services through contracts.
+- Emergency requisition is permitted only under defined legal conditions, with records and compensation or later review.
+- Soldiers should not use rank to demand private goods, labour or favours.
+- Civilian businesses may refuse ordinary military contracts, subject to any clearly defined emergency duties.
+- Public infrastructure should serve residents as well as military operations.
+- Military service may create recognised benefits, but those benefits should not erase civilian rights or allow veterans to dominate local administration.
+
+The academy and military should also create civilian employment through procurement, training, medical services, construction and research partnerships. This makes defence spending circulate through the local economy instead of disappearing into an isolated military institution.
+
+### Economic vulnerabilities and political tensions
+
+The territory's independence does not mean economic self-sufficiency. Its greatest vulnerabilities may be:
+
+- Dependence on external imports for certain medicines, metals, crops or specialist materials.
+- Trade restrictions imposed by hostile families or neighbouring states.
+- Loss of experienced breeders, physicians, engineers and merchants.
+- Disease or mana instability affecting breeding grounds and crops.
+- A small domestic market that limits business growth.
+- Wealth concentration among households controlling rare assets or trade routes.
+- Guild monopolies that exclude new competitors.
+- Corruption in licensing, procurement or public contracts.
+- Conflict between preserving restricted ancestral knowledge and allowing useful research.
+- Unequal access to education and capital between central settlements and remote communities.
+
+These pressures create political choices. The Council may favour strategic reserves and controlled trade, while merchants argue that excessive restrictions suffocate growth. Residents may demand better roads and clinics while military leaders prioritise fortifications. Family traditionalists may resist commercial access to knowledge that could restore the territory's prosperity.
+
+### Everyday life: what makes the territory feel inhabited
+
+Ordinary scenes should show that the territory is more than a military fortress.
+
+- Morning markets sell vegetables, preserved food, beast feed, tools and household goods.
+- Beast handlers move through designated streets and yards, while dangerous species use controlled routes.
+- Apprentices learn trades in workshops, clinics, breeding grounds and engineering yards.
+- Caravans arrive with imported goods and leave with local products or specialist services.
+- Residents attend public hearings, guild meetings, festivals and seasonal markets.
+- Families care for bonded beasts as partners, while unbonded working beasts remain part of ordinary economic life.
+- Remote settlements rely on patrols, travelling healers, local storehouses and periodic merchant visits.
+- Academy students and soldiers spend money in civilian districts, creating both opportunity and friction.
+
+The territory should have prosperous districts, modest working neighbourhoods, rural settlements and neglected frontier communities. Uneven development gives the protagonist places to help, conflicts to encounter and reasons to understand the people whose homeland he may one day lead.
+
+### Narrative opportunities
+
+- A talented beast appraiser from a non-family household becomes wealthy and is invited to advise the Council, provoking resentment from an old lineage.
+- A merchant cooperative exposes a procurement monopoly that has been diverting funds from rural clinics.
+- A remote settlement refuses to provide emergency supplies after years of being ignored by the central government.
+- A beast market scandal reveals that a respected broker has been selling animals with concealed cultivation injuries.
+- A wealthy family descendant discovers that their inherited estate is less profitable than a commoner's specialised workshop.
+- A new road improves trade but passes close to a restricted ancestral site, creating a conflict between development and preservation.
+- The Council must choose between purchasing imported medicine and funding a military fortification project.
+- A civilian guild offers the protagonist help, but expects a voice in decisions that traditionally belonged to the family.
+
+This civilian system gives the Dark territory economic depth and makes its independence meaningful: the homeland survives because people produce, trade, build, heal, teach and cooperate—not merely because powerful tamers defend its walls.
+
+#### Decisions still required
+
+The following remain proposals: final resident legal categories and political rights; land and property law; inheritance rules; tax rates and collection authority; public budget procedures; guild recognition and licensing; ownership rules for breeding stock and mana resources; emergency requisition limits and compensation; trade policy; welfare guarantees; and the extent to which strategic industries are publicly owned, privately operated or jointly managed.
+
 ## 6. Proposed historical betrayal timeline
 
 The betrayal should unfold through political and economic pressure, not only through one decisive battle.
@@ -1465,7 +1680,7 @@ This path connects his personal growth, the restoration of his family and the wo
 The following remain unresolved and must not be silently promoted to canon:
 
 1. **Cross-national institutions:** The families' cross-national influence is established. The exact structure, legal status and autonomy of their foreign branches and holdings remain proposals.
-2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements, military branch details, recruitment, conventional unit sizes, final elite-unit names and establishments, exact counter-technique mechanics, the academy's final name and location, admissions and course rules, examination standards, scholarship policy, student appointments and organisation rules, competition regulations, internal-faction boundaries and post-loss support remain proposals. The military's paired tamer–beast cultivation qualification, separate merit-based rank ladder and individual-beast-loss rule are confirmed directions; exact universal cultivation realms, beast-bond metaphysics, compensation rules and detailed promotion procedures remain open. Exact borders, resources, population, force sizes, final legal categories and neighbouring states remain unresolved.
+2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements, military branch details, recruitment, conventional unit sizes, final elite-unit names and establishments, exact counter-technique mechanics, the academy's final name and location, admissions and course rules, examination standards, scholarship policy, student appointments and organisation rules, competition regulations, internal-faction boundaries and post-loss support remain proposals. The military's paired tamer–beast cultivation qualification, separate merit-based rank ladder and individual-beast-loss rule are confirmed directions; exact universal cultivation realms, beast-bond metaphysics, compensation rules and detailed promotion procedures remain open. Exact borders, resources, population, force sizes, final legal categories, resident rights, property and inheritance law, tax and budget rules, guild powers, strategic-resource ownership, trade policy, emergency requisition safeguards and neighbouring states remain unresolved.
 3. **Ancient promise:** Its existence and secrecy are established directions. Its exact wording, why the Dark head made it, who knows it exists, and whether it is enforced by a magical contract, bloodline curse, ancestral artifact or another mechanism remain unresolved.
 4. **Knowledge of the betrayal:** The extent of present-day knowledge is unknown. Do not assign knowledge to a particular faction, rank or generation without author confirmation.
 5. **Beast breeding:** Both inherited bloodlines and specialised cultivation contribute to compatibility. The precise methods, inheritance rules and limits remain proposals.
