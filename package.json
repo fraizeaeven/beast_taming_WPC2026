@@ -10,6 +10,9 @@
     "validate": "node src/cli.js validate",
     "chapter:new": "node src/cli.js chapter:new",
     "chapter:show": "node src/cli.js chapter:show",
+    "story:new": "node src/cli.js story:new",
+    "story:list": "node src/cli.js story:list",
+    "story:show": "node src/cli.js story:show",
     "test": "node --test"
   }
 }
