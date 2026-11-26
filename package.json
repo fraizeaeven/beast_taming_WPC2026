@@ -13,6 +13,8 @@
     "story:new": "node src/cli.js story:new",
     "story:list": "node src/cli.js story:list",
     "story:show": "node src/cli.js story:show",
+    "context:chapter": "node src/cli.js context:chapter",
+    "context:write": "node src/cli.js context:write",
     "test": "node --test"
   }
 }
