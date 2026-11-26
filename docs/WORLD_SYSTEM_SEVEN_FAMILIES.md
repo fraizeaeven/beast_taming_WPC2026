@@ -693,6 +693,196 @@ This organisation provides several story opportunities:
 
 Do not make the Dark military secretly stronger than all its rivals simply because it preserves ancient techniques. Its old knowledge should be incomplete, costly to use and dependent on people, beasts, preparation and scarce resources.
 
+
+### 3.6D Elite units, specialised beast formations and counter-element warfare
+
+**Status: Proposed military doctrine.** This section develops the specialist capabilities of the territorial military. The unit names, internal organisation and tactical methods are proposals until the author confirms them. They must operate within the Council-supervised command structure and the separate rank and paired-cultivation system already established.
+
+#### Strategic doctrine: understand, disrupt, contain, exploit
+
+The Dark military's defining advantage is not that Dark mana defeats every other element. Its advantage is the tradition of studying interactions between elements and building formations that can respond to different threats.
+
+Its battlefield doctrine follows four stages:
+
+1. **Understand:** Identify the enemy's elemental method, beast species, formation, mana source and likely objective. Dark scouts should distinguish an opponent's actual capability from rumours or assumptions.
+2. **Disrupt:** Interfere with the process that makes the enemy technique effective. This might mean breaking formation spacing, forcing a beast to change direction, interrupting a channel, obscuring line of sight or separating a support unit from its protection.
+3. **Contain:** Prevent the threat from spreading or reaching its objective. Containment may involve barriers, terrain, decoys, restraint techniques or controlled withdrawal.
+4. **Exploit:** Use a short opening to rescue personnel, secure a route, disable a key asset or force the enemy to retreat. Dark should prefer a limited, achievable objective over an unnecessary pursuit.
+
+This doctrine is strongest when Dark has time to observe and prepare. It is less effective against an unfamiliar opponent, sudden overwhelming force, multiple simultaneous threats or an enemy that deliberately changes tactics.
+
+**Important distinction:** Countering an element does not mean cancelling that element. A Dark formation may disrupt a Fire technique without extinguishing every flame, survive a Lightning strike without becoming immune to electricity, or contain a Light-based suppression field without being able to destroy it. Every counter has a mechanism, a range, a cost and a failure condition.
+
+#### Elite unit design principles
+
+Elite units are specialist appointments and operational formations, not additional military ranks. A soldier does not become an officer by joining an elite unit, and an elite unit member does not automatically outrank a conventional officer.
+
+Selection should consider:
+
+- The tamer–beast pair's demonstrated coordination under pressure.
+- Mission-specific compatibility, temperament and reliability.
+- Tactical judgement, discipline and ability to follow a coordinated plan.
+- Experience working with other pairs and support personnel.
+- Recovery requirements and the long-term welfare of the beast.
+- A record of completing difficult missions without avoidable civilian or allied casualties.
+
+A high paired-cultivation qualification may be required for dangerous assignments, but it is not sufficient by itself. Some elite roles depend more on observation, restraint, stealth, engineering or specialist knowledge than on destructive power.
+
+The Beast Corps maintains specialist standards and beast-care protocols. Operational command remains with the lawful commander of the mission. An elite unit may be attached to a branch or regional force without becoming independent of the military chain of command.
+
+#### Proposed elite units
+
+| Unit | Primary purpose | Typical composition | Main limitation |
+|---|---|---|---|
+| **Black Veil Company** | Reconnaissance, infiltration, counter-reconnaissance and target observation | Stealth-capable tamer–beast pairs, trackers, signal specialists and a small extraction team | Poor choice for holding ground or fighting a prolonged battle |
+| **Null Chain Cohort** | Containment of dangerous beasts, unstable mana and high-threat enemy pairs | Restraint specialists, defensive beasts, barrier technicians and recovery personnel | Requires preparation, suitable terrain and a secure perimeter; cannot safely restrain every target |
+| **Abyssal Spear** | Rapid intervention against a specific high-value threat | Fast assault pairs, an interception lead, a support pair and a recovery element | Powerful in a short engagement but vulnerable if pinned down or drawn into attrition |
+| **Sevenfold Wardens** | Mixed-element coordination and protection of critical sites | A carefully balanced group of compatible pairs, usually with different battlefield roles | Difficult to recruit and train; one missing specialist can weaken the whole formation |
+| **Deep Bastion** | Defence of the family seat, archives, mana sites and evacuation corridors | Defensive beasts, fortification engineers, barrier specialists and reserve pairs | Strong in prepared positions but slow to redeploy and vulnerable to isolation |
+| **Dusk Hounds** | Tracking, pursuit, search-and-rescue and locating concealed threats | Tracking beasts, scent or mana readers, mobile handlers and rescue specialists | Tracking can be misled by decoys, environmental disruption or unfamiliar mana signatures |
+
+These are proposed unit identities, not necessarily six equally sized permanent regiments. Some may be small companies, rotating detachments or specialist teams drawn from the six branches. The territory may not have enough personnel or compatible beasts to keep every formation at full strength.
+
+##### 1. Black Veil Company
+
+The Black Veil Company gathers information before a battle and prevents the enemy from gathering it easily in return.
+
+Its duties include identifying enemy beast species, observing cultivation techniques, mapping patrol patterns, locating supply lines, detecting ambushes and guiding friendly units through difficult terrain. It may also conduct limited sabotage when authorised, but it is not a general-purpose assassination organisation.
+
+**Beast roles:** Quiet movement, night vision, scent tracking, aerial observation, vibration sensing and concealment. A Shadow Fox or Night Wolf could be suitable examples, but species alone does not guarantee selection.
+
+**Operational rule:** Black Veil teams should avoid direct engagement unless escape is impossible or the mission specifically requires intervention. Their intelligence is valuable only if the team survives to report it.
+
+**Story use:** A Black Veil scout may discover that an apparently hostile force is retreating for a reason, or that a supposedly safe route has been deliberately left open.
+
+##### 2. Null Chain Cohort
+
+The Null Chain Cohort specialises in stopping a threat from moving, spreading or escalating. Its name refers to the coordinated restraint of a dangerous force, not a universal ability to erase mana.
+
+Its operations may include capturing rampaging beasts, containing unstable mana phenomena, restraining a powerful tamer–beast pair and securing a dangerous site until specialists arrive.
+
+**Beast roles:** Durable defenders, binding or grappling specialists, terrain-sensitive beasts and partners able to maintain control under pressure. Support personnel prepare barriers, anchors and evacuation routes.
+
+**Operational sequence:**
+
+1. Establish a safe perimeter and identify civilian escape routes.
+2. Observe the target's attack rhythm, movement and mana output.
+3. Restrict movement or isolate the target from its preferred environment.
+4. Apply layered restraint rather than relying on one technique.
+5. Transfer the target to a secure recovery or holding team.
+
+**Limitations:** Restraint consumes stamina and mana. A target with superior strength may break a poorly prepared perimeter. Multiple targets can overwhelm the Cohort, and containment may be impossible if civilians remain inside the danger zone.
+
+##### 3. Abyssal Spear
+
+The Abyssal Spear is a rapid-response formation used when a threat must be interrupted before it reaches a critical objective. It is not designed to win a long war through repeated frontal charges.
+
+Its missions include intercepting a breakthrough unit, rescuing an isolated patrol, stopping an enemy from reaching a mana site, or creating a temporary opening for civilians to evacuate.
+
+**Formation roles:**
+
+- **Point pair:** Identifies and engages the immediate threat.
+- **Flank pair:** Restricts the opponent's movement or blocks reinforcement.
+- **Disruption pair:** Interrupts the enemy's technique, coordination or line of sight.
+- **Support pair:** Provides recovery, extraction and emergency protection.
+
+The exact number of pairs may vary by mission. The formation must have a withdrawal plan before it commits.
+
+**Limitations:** Speed and concentrated force do not make the unit invulnerable. It can be baited into an ambush, separated from support or exhausted by repeated deployments. A failed interception may leave a strategically important location exposed.
+
+##### 4. Sevenfold Wardens
+
+The Sevenfold Wardens are a rare mixed-element specialist formation intended to coordinate different elemental capabilities. Their name reflects the Dark Family's historical study of elemental relationships; it does **not** require every member to cultivate a different element, nor does it imply that one squad can reliably field all seven elements.
+
+The formation is built around complementary functions: protection, mobility, observation, disruption, recovery and controlled force. Its members are selected for how their individual beasts and techniques interact with the rest of the team.
+
+A Warden formation may include non-Dark elemental beasts where lawful access, compatibility and training permit. It may also operate with several beasts of the same element if their abilities provide the required functions.
+
+**Why it is rare:** Mixed-element synchronisation takes time, specialist instructors and expensive training. A pair that performs well alone may disrupt another pair's mana rhythm when placed in a combined formation. Compatibility must be tested at both the individual partnership level and the team level.
+
+**Limitations:** The formation is not a miniature version of the ancient seven-element system. It cannot safely reproduce lost ancestral harmonisation simply by assembling different elements. Its members can disagree, suffer incompatible mana interference or lose effectiveness when a key role is absent.
+
+##### 5. Deep Bastion
+
+The Deep Bastion protects strategic locations that cannot be abandoned: the family seat, archives, breeding grounds, critical mana infrastructure and evacuation corridors.
+
+Its strength comes from preparation and layered defence. It coordinates defensive beasts, engineers, barriers, terrain obstacles, reserve squads and recovery stations. It should make an attack costly and slow, buying time for civilians to move and mobile forces to respond.
+
+**Limitations:** A prepared defence can be bypassed, starved of supplies, undermined or attacked from several directions. Deep Bastion cannot protect every settlement at once. Its commanders must decide which locations are essential and which may need to be evacuated.
+
+##### 6. Dusk Hounds
+
+Dusk Hounds specialise in locating people, beasts and traces of mana activity. They support the Frontier Guard, Black Veil Company, Mobile Response Corps and search-and-rescue operations.
+
+Their methods may combine scent, sound, tracks, disturbed vegetation, residual mana and the behaviour of local beasts. No single detection method is infallible.
+
+**Limitations:** Rain, fire, strong winds, running water, crowded settlements, false trails and deliberate mana masking can confuse tracking. A skilled enemy may exploit the team's confidence in one detection method.
+
+#### Counter-element field doctrine
+
+Dark commanders should maintain threat profiles for the six other elemental families. These profiles describe likely methods and possible responses, not fixed weaknesses shared by every individual or beast.
+
+| Opposing element | Common threat pattern | Dark response options | Why the counter can fail |
+|---|---|---|---|
+| **Fire** | High heat, area denial, explosive pressure and attacks that force defenders out of cover | Use distance, heat-resistant defensive beasts, terrain breaks, decoys and disruption of the attacker's line or timing; Water-aligned allies may assist if available | Fire can consume cover, dry or overwhelm water-based support, and force Dark units into open ground |
+| **Water** | Adaptable movement, sustained pressure, concealment, binding and control of routes | Secure high ground, protect footing and supply lines, use tracking beyond visual range, and disrupt the source or coordination sustaining a large technique | Water can reshape terrain, flood prepared positions and conceal movement; a static defence may become a trap |
+| **Earth** | Fortification, armour, terrain manipulation, underground movement and attrition | Avoid a direct contest of strength; use reconnaissance to identify structural dependencies, attack exposed support points, redirect movement and isolate slow heavy units | Earth can make new cover, seal routes and absorb repeated disruption; underground approaches may bypass surface observation |
+| **Wind** | High mobility, aerial observation, ranged pressure and control of battlefield spacing | Use covered routes, concealment, decoys, dispersed positions and protected communication; force aerial units to choose between observation and attack | Wind can bypass ground obstacles, carry signals or hazards, and reveal positions through movement and pressure changes |
+| **Lightning** | Rapid strikes, precision attacks, disruption of coordination and attacks on exposed mana channels | Reduce predictable mana signatures, use separated command posts, grounding or insulating materials where appropriate, decoys and layered protection | Lightning may travel through conductive terrain or structures; insulation is not universal protection and fast attacks can outrun a slow response |
+| **Light** | Detection, illumination, purification, healing and suppression of concealment or certain Dark techniques | Do not rely on darkness alone; use physical cover, multiple routes, false signatures, dispersed formations and attacks on the opponent's support or coordination | Light may expose hidden units, stabilise allies and neutralise some Dark effects; physical concealment cannot guarantee safety from advanced detection |
+
+**Dark-on-Dark security:** The military also needs procedures for internal threats, rogue beasts and hostile Dark cultivators. Familiarity with Dark techniques should improve recognition, not create automatic immunity. A Dark opponent may know the same counters and exploit the defenders' assumptions.
+
+#### How a counter-element operation is planned
+
+A field commander should not select a counter solely from the enemy's family name. Before deployment, the command team should answer:
+
+1. **What is the enemy trying to achieve?** Protect a convoy, break a gate, capture a person, occupy a site or force a retreat?
+2. **What is actually known?** Which beast species and techniques have been observed, and which details are only rumours?
+3. **What sustains the threat?** A tamer's concentration, a beast's movement, a mana source, a formation, a support unit or a prepared location?
+4. **What is the least costly way to interrupt it?** Reconnaissance, separation, terrain, restraint, evacuation or a direct strike?
+5. **What happens if the first counter fails?** Every operation needs a fallback and a withdrawal condition.
+6. **Can the territory afford the loss?** A rare beast or highly trained pair may be too valuable to risk for a minor objective.
+
+After an operation, the unit records what worked, what failed, injuries, beast recovery needs, resource expenditure and any new enemy capability. These records feed training and future threat profiles. A counter that worked once must not become unquestioned doctrine.
+
+#### Command authority and deployment safeguards
+
+- The Abyssal Council establishes strategic priorities and authorises major operations through the existing command structure.
+- The High Commander or delegated operational commander assigns elite formations to missions.
+- Branch commanders coordinate personnel, supply and support; specialist leaders advise on their technical field.
+- Elite unit leaders retain tactical discretion within the mission's lawful objectives and rules of engagement.
+- No elite unit may independently seize civilian authority, conduct an unauthorised campaign abroad or bypass military law.
+- A unit may refuse an operational method that is clearly unlawful or likely to cause unnecessary harm, using established reporting and review procedures.
+- Beast welfare is an operational requirement. Commanders must account for fatigue, injury, temperament and recovery rather than treating a beast as a replaceable weapon.
+
+#### Costs, weaknesses and strategic consequences
+
+The elite system should create capability without removing Dark's structural disadvantages.
+
+- **Small talent pool:** The reduced territory cannot produce unlimited elite pairs. A single casualty may remove a rare skill combination for years.
+- **Training expense:** Mixed formations require specialist instructors, controlled training grounds, medical support and repeated exercises.
+- **Beast scarcity:** Some species or bloodlines cannot be replaced quickly. The individual-bond rule means the death of a beast can permanently remove a mature partnership from service.
+- **Intelligence dependence:** Counter-warfare is less reliable when the enemy's methods are unknown or deliberately concealed.
+- **Political pressure:** Council members may disagree over whether elite units should defend the heartland, protect remote residents or pursue threats beyond the border.
+- **Over-specialisation:** A unit trained to counter one style may be vulnerable when the opponent changes its method.
+- **Opportunity cost:** Deploying an elite unit to one crisis leaves another location without its specialist protection.
+
+Dark's best outcome is often not annihilating an enemy army. It may be preserving a settlement, preventing a breach, rescuing a captured pair, securing a strategic record or forcing a stronger opponent to abandon an objective.
+
+#### Narrative opportunities
+
+- The protagonist may see a Black Veil team return with intelligence that contradicts the official account of an enemy incursion.
+- A Null Chain operation may fail because a supposedly contained beast has adapted to the restraint method.
+- An Abyssal Spear commander may choose to withdraw rather than sacrifice a bonded beast for a politically popular victory.
+- A Sevenfold Warden team may struggle because its members are individually powerful but have never learned to synchronise as a formation.
+- Deep Bastion may have to choose between defending an ancestral archive and opening an evacuation route for residents.
+- Dusk Hounds may track a missing beast to a location where its trail appears to split into several impossible directions.
+- The protagonist's rediscovered harmonisation may eventually offer a new method, but only after conventional units expose the limitations of current doctrine.
+
+The elite formations should therefore reveal Dark's strengths and the cost of its decline. They are valuable because they solve narrow, difficult problems—not because they can defeat every enemy.
+
+
 ### 3.7 Defensive design
 
 **Proposal:** Dark's defence reflects its original role as a counterbalancing family. It should not simply imitate the walls and armies of the Fire or Earth families.
