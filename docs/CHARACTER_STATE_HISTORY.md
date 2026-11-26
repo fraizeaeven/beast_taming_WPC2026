@@ -58,7 +58,7 @@ Use `arcStage` from 1 to 7:
 
 Stages are not a rigid chapter ladder. A character may stall, partially change, relapse or regress under pressure. Mark deliberate regression with `changeType: "regression"`; other useful values include `stalled`, `partial`, `breakthrough` and `setback`. Stage evidence should explain the character's actual response, not merely label an emotion.
 
-At a meaningful scene checkpoint, record what the character does automatically, thinks, feels, experiences physically, wants, fears and chooses. Keep observable behaviour and author interpretation distinct where possible.
+At a meaningful scene checkpoint, record what the character does automatically, thinks, feels, experiences physically, expresses outwardly, wants, fears and chooses. Keep observable behaviour and author interpretation distinct. For scene-by-scene breakdowns, use chapter `psychologyChecks`; see [Character Psychology and Emotional Analysis](CHARACTER_PSYCHOLOGY.md).
 
 ## Validation and safeguards
 
