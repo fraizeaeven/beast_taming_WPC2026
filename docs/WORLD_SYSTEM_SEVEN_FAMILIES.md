@@ -246,7 +246,316 @@ The protagonist's mother may have connections to one of these factions, but this
 
 ---
 
-## 3. Family comparison
+## 3. Dark Family ancestral territory — proposed development
+
+### 3.1 Core concept
+
+**Author decision:** The Dark Family still possesses ancestral territory. It is not entirely landless, nor does it survive only as unrelated descendants scattered across the world.
+
+**Proposal — overall model:** The Eternal Abyss Clan retains a reduced ancestral domain: a defensible heartland surrounded by lands, facilities and routes that it once controlled but no longer fully commands. This creates a meaningful distinction between possessing a homeland and having the power to use all of it freely.
+
+The territory should feel inhabited and politically relevant, not simply like an abandoned dungeon. Families live there, beasts are raised there, merchants travel there, and ordinary people have reasons to remain. At the same time, old structures and restricted sites preserve evidence of what Dark once was.
+
+**Proposed territory name:** The **Abyssal Marches** as the name used by outsiders; the Dark Family's own older name for the homeland is undecided. The difference between an outsider's label and the family's own name could reflect how history has been rewritten.
+
+### 3.2 Geography and natural mana
+
+**Proposal:** The ancestral domain lies around an ancient mana convergence where the seven elemental currents meet. The currents do not necessarily appear in equal strength or as visible rivers. Instead, the land has unusual mana behaviour: areas of stable mixed mana, places where one element dominates temporarily, and deep zones where the currents interact unpredictably.
+
+A possible geographical arrangement:
+
+| Zone | Proposed landscape | Possible function and story value |
+|---|---|---|
+| Inner Heartland | A sheltered valley or broad basin | Main settlements, family seat, cultivation grounds and protected farmland |
+| Sevenfold Ridges | A ring of mountains, cliffs or highlands | Natural defensive perimeter; different slopes carry different elemental conditions |
+| Confluence Depths | Caverns and deep underground passages | Dense mana deposits, old research chambers and dangerous mixed-mana phenomena |
+| Beastwood | Forests and valleys with varied mana conditions | Family breeding grounds, medicinal plants and native beast habitats |
+| Outer Marches | Former estates, valleys and border settlements | Partly lost, disputed, abandoned or controlled by outside powers |
+| Veinward Frontier | Remote land following underground mana channels | Exploration routes, rare materials and access to deeper planetary mana veins |
+
+These zones are a design framework, not a fixed map. Their number, shape, names and relative distances remain proposals.
+
+### 3.3 Why the territory matters
+
+**Proposal:** The homeland is valuable for more than its land area. Its importance comes from the combination of geography, knowledge and living resources.
+
+1. **Mana convergence:** The interaction of several elemental currents may support research and cultivation that is difficult to reproduce elsewhere.
+2. **Rare materials:** Mixed-mana deposits may be useful for advanced cultivation, beast treatment, equipment and research.
+3. **Breeding ecology:** Different micro-environments allow the family to raise several elemental beast lines without transporting every beast to a distant facility.
+4. **Historical records:** The territory may contain records explaining elemental compatibility, the original purpose of Dark and the ancient promise.
+5. **Strategic position:** Whoever can safely study or control the convergence gains a long-term advantage in understanding mana.
+
+The convergence should not be an unlimited source of free power. **Proposal:** Its benefits require knowledge, careful management and suitable cultivation methods. Poorly controlled extraction or incompatible mana exposure can damage the land, injure beasts or destabilise local mana conditions.
+
+### 3.4 The family seat and settlements
+
+**Proposal:** The Dark Family's main seat stands in the inner heartland, close enough to the convergence to protect it but not directly on the most dangerous point. The seat should be a functioning ancestral residence and administrative centre, rather than an enormous palace that implies the family remains at its former height.
+
+Possible settlement structure:
+
+- **Ancestral Seat:** Residence of the patriarchal line, family council, archives and formal meeting halls.
+- **Old Quarter:** Older residences, shrines, memorials and buildings from before the decline.
+- **Living Town:** Artisans, farmers, traders, beast handlers, healers and ordinary residents who support the domain.
+- **Beast Enclosures:** Separate habitats and training grounds for family-bred beasts, with controlled access to different mana environments.
+- **Market Road:** A commercial district where licensed traders and visiting mercenaries can conduct business under local rules.
+- **Frontier Posts:** Small defensive settlements, watchtowers or patrol stations near vulnerable approaches.
+
+The exact number and size of settlements, the population and the family's current wealth are unresolved. The territory should contain people whose lives are not defined solely by the clan's political ambitions.
+
+### 3.5 Lost lands and present-day borders
+
+**Proposal:** The Dark Family's historical territory was larger than its current domain. The decline did not necessarily happen in one battle. It may have occurred through successive treaties, imposed restrictions, debt, occupation, disputed inheritance, loss of access to mana sites and gradual abandonment.
+
+A useful three-part territorial model:
+
+| Territorial status | Proposed condition |
+|---|---|
+| Retained heartland | Directly administered by Dark; contains the family seat and surviving core institutions |
+| Restricted or disputed lands | Historically associated with Dark, but access is limited by treaties, foreign garrisons, local rulers or contested claims |
+| Lost outer territories | No longer governed by Dark; may now belong to neighbouring kingdoms, other families, independent towns or wilderness |
+
+This model allows Dark to retain a real homeland without making it powerful enough to undo the consequences of the betrayal immediately.
+
+**Important distinction:** The existence of retained ancestral territory is established by the author's decision. The size of the territory, the exact borders, whether it is internationally recognised as sovereign, and who controls its outer lands remain proposals.
+
+### 3.6 Political and economic position
+
+**Proposal:** Because the seven families are cross-national powers, Dark's territory exists within a wider international system. Its borders may touch one or more kingdoms, and its old claims may overlap with modern political boundaries.
+
+Potential present-day arrangements include:
+
+- A recognised autonomous domain that pays limited tribute or fulfils specific obligations.
+- A semi-independent territory whose external relations are constrained by old agreements.
+- A family domain formally recognised by neighbouring states but economically pressured through trade restrictions.
+- A territory whose core is secure while important surrounding routes and resources are controlled by others.
+
+These are alternatives, not simultaneous facts. The author's choice is still required.
+
+The territory's economy should be damaged but not completely dead. **Proposal:** It can sustain itself through agriculture, ordinary crafts, beast husbandry, local trade, limited resource extraction and specialist services. Its rarest resources may be difficult to sell openly because doing so would reveal the value of the homeland or attract outside interference.
+
+### 3.7 Defensive design
+
+**Proposal:** Dark's defence reflects its original role as a counterbalancing family. It should not simply imitate the walls and armies of the Fire or Earth families.
+
+Possible defensive layers:
+
+1. **Outer patrol network:** Local beast tamers and trained beasts monitor roads, passes and forest approaches.
+2. **Terrain control:** Narrow passes, ravines, forests and unstable mana zones make large invading forces difficult to deploy.
+3. **Elemental response posts:** Small teams trained to identify and respond to different elemental threats.
+4. **Beast reserves:** Family-bred beasts serve as scouts, trackers, guards and emergency defenders.
+5. **Inner containment sites:** Ancient structures may suppress or isolate dangerous mana disturbances. Their original purpose may be misunderstood by current residents.
+
+The old defences should be only partially understood. Some may still function; others may be dormant, damaged or dangerous to activate. This creates mystery without giving Dark an effortless, invincible barrier.
+
+### 3.8 Beast ecology and breeding grounds
+
+The homeland is especially suited to the author's decision that family compatibility develops through **both inherited bloodlines and specialised cultivation**.
+
+**Proposal:** Dark's breeding system is organised around controlled habitats rather than one enormous pen containing every species.
+
+- **Stable habitats:** Raise established Dark-affinity lines such as Shadow Foxes and Night Wolves.
+- **Elemental gardens:** Carefully maintained environments for selected non-Dark species and their descendants.
+- **Mixed-mana observation grounds:** Research how beasts respond to more than one elemental current. These grounds are restricted because mistakes can cause illness, mutation or loss of control.
+- **Ancestral breeding archive:** Records pedigrees, pairings, inherited traits, cultivation diets, exposure histories and compatibility outcomes.
+- **Wild-beast sanctuary:** A protected region where local wild species can live without being automatically captured for family use.
+
+A family-bred beast should not be considered compatible solely because it was born inside the territory. Pedigree, individual temperament, mana affinity, health, upbringing and the tamer's own compatibility all matter.
+
+This also gives the territory economic importance: outsiders may want its breeding knowledge, while Dark may need outside markets to obtain species or materials that cannot be raised locally.
+
+### 3.9 Important locations — provisional names
+
+All names and functions below are proposals.
+
+| Location | Proposed identity | Potential narrative use |
+|---|---|---|
+| Hollow Crown Hall | The current family seat, smaller than the ancient complex | Family politics, succession and the protagonist's home |
+| Sevenfold Well | A protected site where elemental currents converge | Early discovery of unusual mana behaviour |
+| Blackroot Archive | A sealed archive containing incomplete records | Clues about cross-element cultivation and the promise |
+| Duskwood Enclosures | A network of beast habitats | Training, breeding disputes and beast-market stories |
+| Broken Banner Pass | A mountain route once defended by Dark | Evidence of a lost battle or abandoned defensive system |
+| The Silent Reach | A restricted outer region no longer safely controlled by the family | Exploration, mercenary expeditions and territorial conflict |
+| Deep Vein Gate | An old entrance leading toward underground mana channels | Long-term mystery about the planet's mana veins |
+
+Do not assume that every location still exists intact. Some may be ruins, renamed places, disputed sites or legends whose actual location is uncertain.
+
+### 3.10 How the territory can shape the protagonist's story
+
+**Proposal:** The homeland can reveal the world through consequences rather than lectures.
+
+- **Early story:** The protagonist experiences the practical weakness of the present Dark domain: limited resources, old buildings, political disrespect and restricted training opportunities.
+- **First discovery:** A seemingly ordinary location reacts to his unusual cultivation or the ancient beast soul.
+- **Family conflict:** Older relatives disagree over whether a dangerous site should be opened, sold, sealed or explored.
+- **External pressure:** A neighbouring power or commercial organisation seeks access to a resource, breeding ground or route.
+- **Mid-story revelation:** Records and physical evidence show that the territory was designed around the interaction of all seven elements.
+- **Long-term revelation:** The deepest structures may connect the Dark Family's original responsibility to the world's mana veins and the origin of mana.
+
+The protagonist should not instantly inherit control of every site. Access can require trust, knowledge, resources, political permission or the ability to survive the location's dangers.
+
+### 3.11 Open questions for the author
+
+Keep all of the following unresolved until explicitly selected:
+
+1. What is the homeland's true name? Is “Abyssal Marches” only an outsider's name?
+2. Is the retained territory an independent state, an autonomous domain within a kingdom, a protected ancestral estate or another arrangement?
+3. How much land does Dark still control compared with its former territory?
+4. Which kingdom or kingdoms border it, and are those neighbours hostile, neutral or economically dependent on it?
+5. Does the family seat remain inhabited by most of the clan, or are some branches established in other countries?
+6. Are the Sevenfold Well and other proposed sites real, and what are their actual functions?
+7. Which resources can Dark still extract, and which have been lost, depleted or restricted?
+8. How much of the old defensive system still works?
+9. Does the territory contain a surviving population of ordinary residents with their own local leaders and interests?
+10. Is the ancient promise directly connected to the territory, or does it bind the family regardless of where its members live?
+
+---
+
+
+
+| Family | Main strength | Proposed economic influence | Proposed military speciality |
+|---|---|---|---|
+| Crimson Flame | Destruction and transformation | Forging and weapons | Offensive warfare |
+| Azure Tide | Adaptation and support | Medicine and trade | Battlefield support and attrition |
+| Mountain Throne | Endurance and stability | Mining and construction | Defence |
+| Heavenly Sky | Mobility and information | Transport and intelligence | Reconnaissance |
+| Thunder Sovereign | Precision and control | Mana technology | Rapid strikes |
+| Sacred Dawn | Purification and authority | Healing and education | Suppression and support |
+| Eternal Abyss | Elemental harmonisation | Ancient knowledge | Counter-element warfare |
+
+No family should be the best at everything. Each should possess something the others need, creating incentives for trade, diplomacy and temporary cooperation.
+
+---
+
+## 5. Beast-breeding economy
+
+**Established worldbuilding direction:** Most family descendants cultivate beasts associated with their own family's established breeding lines. Finding a suitable wild beast is uncommon because exploration, capture, transport and compatibility assessment are expensive and dangerous.
+
+**Author decision: family compatibility comes from both inherited bloodlines and specialised cultivation.** Family beasts are not compatible merely because they belong to a species with the right element. Generations of selective breeding establish useful inherited traits, while family-specific environments, feeding, mana exposure, training and cultivation methods further develop compatibility.
+
+**Proposed family breeding system:**
+
+Families maintain specialised breeding grounds and preserve records concerning:
+
+- Beast bloodlines and ancestry.
+- Elemental compatibility.
+- Mana exposure and cultivation environment.
+- Generational traits and mutations.
+- Temperament and training requirements.
+- Physical development and health.
+- Successful and unsuccessful pairings.
+
+A family-bred beast offers a more predictable path for a descendant because generations of breeding and cultivation knowledge have improved compatibility with the family's techniques.
+
+**Wild beasts remain valuable.** A wild beast may have unusual traits, mutations, adaptations or bloodlines that family breeding grounds cannot easily reproduce. A Flame Wolf adapted to a Lightning-rich region, for example, might possess unusual resistance or a rare mutation.
+
+**Proposed institutions:**
+
+| Institution | Function |
+|---|---|
+| Family breeding grounds | Produce and preserve compatible beasts |
+| Licensed beast markets | Sell and exchange legally owned beasts |
+| Mercenary companies | Locate, capture, transport and escort wild beasts |
+| Beast appraisers | Evaluate bloodlines, compatibility and potential |
+| Beast healers | Treat injured or unstable beasts |
+| Auction houses | Trade rare and valuable beasts |
+| Black markets | Trade stolen, illegal or restricted beasts |
+
+Contracts should distinguish the mercenary fee, beast purchase price, ownership, salvage rights, casualty liability and legal provenance.
+
+Family-bred beasts may be more accessible to ordinary family descendants, while unusual wild beasts command higher prices because of the costs and risks involved. **Proposal:** Two beasts of the same species may develop different traits depending on their bloodline and cultivation history. A family might therefore protect both its breeding pedigree and the specialised methods used to raise each generation.
+
+---
+
+## 6. Proposed historical betrayal timeline
+
+The betrayal should unfold through political and economic pressure, not only through one decisive battle.
+
+1. **Age of Seven Harmony:** The seven families cooperate. Dark preserves knowledge about the relationships between elemental mana.
+2. **The Discovery:** Light leadership discovers Dark's cross-element cultivation capability and recognises its threat to the existing balance of power.
+3. **The Ideological Campaign:** Light promotes the belief that Dark cultivation is dangerous or unnatural, using selective evidence and possibly genuine accidents.
+4. **The Sixfold Accord:** Light gathers the other families. Each joins for its own reasons; the alliance remains loose.
+5. **The Secret Ancient Promise:** A previous Dark Family head makes a promise that later becomes the basis for demands imposed on Dark by the other six. **Author decision:** The promise is secret; it is not common public knowledge. The circumstances of its creation, who knows its existence, its exact wording and its enforcement mechanism remain unresolved proposals.
+6. **The Decline of Dark:** Dark loses territory, breeding grounds, political influence and access to resources.
+7. **The Present Age:** The surviving Dark Family is regarded as weak, dangerous or irrelevant by different groups. Public history reflects the victors' version.
+
+### Three layers of historical truth
+
+| Layer | Proposed understanding |
+|---|---|
+| Public history | Dark was dangerous and had to be restrained |
+| Hidden history | Light manipulated the other families to weaken Dark |
+| Ancient truth | Dark's purpose was connected to elemental balance, mana origins and a much older mystery |
+
+The protagonist should discover these layers gradually through records, people, places and consequences rather than receiving the entire history in one exposition scene.
+
+---
+
+## 7. Proposed present-day relationships
+
+Relationships are tendencies, not permanent alliances or inherited personal hatred.
+
+| Relationship | Possible dynamic |
+|---|---|
+| Fire–Earth | Military cooperation, competition over resources |
+| Fire–Lightning | Weapons and technology partnership |
+| Water–Light | Healing cooperation, disputes over authority |
+| Water–Wind | Trade and transportation partnership |
+| Earth–Lightning | Mining and mana-technology partnership |
+| Wind–Light | Intelligence cooperation, distrust over information control |
+| Dark–Fire | Historical hostility and possible mutual military respect |
+| Dark–Water | Economic oppression and possible humanitarian sympathy |
+| Dark–Earth | Territorial disputes and sealed ancient sites |
+| Dark–Wind | Intelligence secrets and possible hidden escape routes |
+| Dark–Lightning | Shared interest in mana research and dangerous historical experiments |
+| Dark–Light | Central historical conflict |
+
+Individual characters and branches may contradict these broad tendencies.
+
+---
+
+## 8. Proposed protagonist discovery path
+
+The protagonist's advantage should not be merely the ability to control seven elements. The deeper advantage is gradually rediscovering a cultivation system that the modern world no longer understands.
+
+Possible progression:
+
+1. **Forgotten Dark technique:** He discovers that Dark mana has properties beyond concealment and destruction.
+2. **First foreign element:** He cultivates a non-Dark beast, but the process is difficult and requires specialised knowledge.
+3. **Lost family records:** He discovers that Dark once maintained breeding records for beasts associated with multiple elements.
+4. **Political truth:** He uncovers Light's role in organising the betrayal.
+5. **Ancient purpose:** He learns that Dark existed to understand and maintain the relationships between the seven elements.
+6. **Greater mystery:** He discovers a connection between the seven elements, the planet's mana veins and the origin of mana.
+
+This path connects his personal growth, the restoration of his family and the world's ancient mystery.
+
+---
+
+## 9. Open questions — do not assume answers
+
+The following remain unresolved and must not be silently promoted to canon:
+
+1. **Political reach:** Are the families cross-national powers with branches, independent territorial powers, or a mixture?
+2. **Dark territory:** Dark retains ancestral territory. Its exact borders, remaining resources, population, autonomy, lost lands and political status are still proposals.
+3. **Ancient promise:** Its existence and secrecy are established directions. Its exact wording, why the Dark head made it, who knows it exists, and whether it is enforced by a magical contract, bloodline curse, ancestral artifact or another mechanism remain unresolved.
+4. **Knowledge of the betrayal:** The extent of present-day knowledge is unknown. Do not assign knowledge to a particular faction, rank or generation without author confirmation.
+5. **Beast breeding:** Both inherited bloodlines and specialised cultivation contribute to compatibility. The precise methods, inheritance rules and limits remain proposals.
+6. **Names and titles:** All clan names and titles in this document are provisional.
+7. **Species details:** The signature beast names are design inspirations; their exact biology, rarity, cultivation stages and abilities need further development.
+8. **Historical chronology:** The dates, generations and specific events of the betrayal are not established.
+9. **The protagonist's mother:** Her factional connections and the true cause of her crippled cultivation remain undecided.
+
+---
+
+## 10. Canon management rule
+
+This document records the author's decisions and a structured set of proposals. Only details explicitly confirmed by the author should be treated as established canon. When writing chapters, distinguish between:
+
+- **Confirmed:** Explicitly approved by the author.
+- **Proposal:** Suggested worldbuilding awaiting approval.
+- **Unresolved:** A question with no selected answer.
+- **In-world belief:** What characters or institutions believe, which may be false or incomplete.
+
+Never treat an in-world belief as objective truth merely because a character, family or historical record claims it.
+
 
 | Family | Main strength | Proposed economic influence | Proposed military speciality |
 |---|---|---|---|
