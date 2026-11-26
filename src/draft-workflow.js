@@ -8,7 +8,7 @@ const safeId = value => typeof value === "string" && /^[A-Z][A-Z0-9_-]{1,63}$/.t
 const chapterPath = n => file("CHAPTERS", "CHAPTER_" + String(n).padStart(4, "0") + ".json");
 const proposalPath = id => file("DRAFT_REVIEWS", id + ".json");
 const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
-const allowedChapterFields = new Set(["summary","scenes","charactersPresent","characterAges","behaviorChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes","authorNotes"]);
+const allowedChapterFields = new Set(["summary","scenes","charactersPresent","characterAges","behaviorChecks","psychologyChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes","authorNotes"]);
 const arrayChapterFields = new Set(["scenes","charactersPresent","characterAges","behaviorChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes"]);
 
 export async function prepareDraftReview(chapterNumber, draftFile) {
