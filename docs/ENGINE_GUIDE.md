@@ -27,7 +27,16 @@ See [Story Structure Management](STORY_STRUCTURE.md) for supported hierarchy rul
 
 See [Historical Character State Tracking](CHARACTER_STATE_HISTORY.md) for the snapshot schema and stage definitions.
 
-## Knowledge and timeline workflow\n1. Record established character/fact knowledge in `15_KNOWLEDGE_TRACKER`, including the chapter and method of acquisition; mark backstory knowledge explicitly.\n2. Record later learning or forgetting in chapter `knowledgeChanges`. Use `knowledge:state` and `knowledge:who-knows` to query historical boundaries.\n3. Record dated events and explicit event dependencies in `10_EVENT_TIMELINE`; use `timeline:chapter` to inspect a chapter.\n4. Record object transfers in `objectChanges` and location ownership changes in `locationChanges`; use the history commands to reconstruct them.\n5. Add explicit restricted facts to `14_POV_WHITELIST` when a POV character must not know them, then run validation.\n\nSee [Knowledge and Timeline Engine](KNOWLEDGE_AND_TIMELINE.md) for fields, commands and limitations.\n\n## Chapter drafting workflow
+## Knowledge and timeline workflow
+1. Record established character/fact knowledge in `15_KNOWLEDGE_TRACKER`, including the chapter and method of acquisition; mark backstory knowledge explicitly.
+2. Record later learning or forgetting in chapter `knowledgeChanges`. Use `knowledge:state` and `knowledge:who-knows` to query historical boundaries.
+3. Record dated events and explicit event dependencies in `10_EVENT_TIMELINE`; use `timeline:chapter` to inspect a chapter.
+4. Record object transfers in `objectChanges` and location ownership changes in `locationChanges`; use the history commands to reconstruct them.
+5. Add explicit restricted facts to `14_POV_WHITELIST` when a POV character must not know them, then run validation.
+
+See [Knowledge and Timeline Engine](KNOWLEDGE_AND_TIMELINE.md) for fields, commands and limitations.
+
+## Chapter drafting workflow
 1. Review and update the chapter's participants, POV, locations and story links.
 2. Generate its preflight: `npm run context:chapter -- 1` or `npm run context:write -- 1`.
 3. Review the retrieved character, relationship, knowledge, event, plot, promise and unresolved-thread records. Follow any source references where needed.
