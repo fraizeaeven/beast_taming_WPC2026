@@ -1,0 +1,15 @@
+{
+  "name": "beast-taming-continuity-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local-first chapter and canon continuity engine for the Beast Taming WPC2026 novel.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "init": "node src/cli.js init",
+    "validate": "node src/cli.js validate",
+    "chapter:new": "node src/cli.js chapter:new",
+    "chapter:show": "node src/cli.js chapter:show",
+    "test": "node --test"
+  }
+}
