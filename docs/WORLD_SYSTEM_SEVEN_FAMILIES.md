@@ -3253,3 +3253,526 @@ The following remain open and must not be treated as confirmed canon:
 12. The extent of present-day Fire knowledge and responsibility concerning the historical betrayal of Dark.
 
 **Design principle:** The Crimson Flame Clan should be formidable because it can turn discipline, industry, military force and skilled beast partnerships into lasting power. Its central test is whether it can control its own ambition: a flame that cannot be governed eventually consumes the forge, the home and the people it was meant to protect.
+
+
+## 14. Water — Azure Tide Clan: detailed civilisation development
+
+**Status: Proposed detailed development.** This section expands the first-pass Water Family framework in Section 12.3 into a functioning ancestral civilisation and transnational institution. Proposed titles, places, laws, military ranks, beast lines and institutions remain proposals until accepted by the author. The Azure Tide Clan is a transnational family with descendants and branches across multiple kingdoms and empires; its ancestral territory is not a claim to rule every harbour, river or waterway where its members live.
+
+### 14.1 Foundational identity: the current that sustains and changes
+
+The Azure Tide Clan understands Water as continuity, adaptation, memory and connection. Water can nourish a settlement, carry trade, cleanse wounds, erode a fortress over generations or overwhelm a careless enemy. The clan's ideal is **measured flow**: knowing when to yield, when to preserve, when to redirect and when to release overwhelming force.
+
+Its three cultural pillars are:
+
+1. **Continuity:** A community survives through reliable access to water, food, medicine, transport and shared knowledge.
+2. **Adaptation:** Strength comes from responding to changing conditions rather than insisting that every problem can be solved through force.
+3. **Stewardship:** Whoever controls an essential resource carries obligations toward those who depend on it.
+
+A provisional saying is: *The tide remembers every channel, but it does not flow in only one direction.*
+
+This philosophy creates tensions. Traditionalists may value long-established water rights and family stewardship. Merchants may argue that waterways should remain open to commerce. Civic reformers may demand that access to clean water and emergency medicine never be used as political leverage. Naval commanders may see control of sea lanes as a strategic necessity.
+
+Water's reputation for diplomacy should not make it passive or uniformly benevolent. The clan can exert immense pressure by regulating access, controlling specialist knowledge or deciding which routes receive protection.
+
+### 14.2 Ancestral territory: the Azure Littoral
+
+**Proposed homeland name: The Azure Littoral.** It is a broad coastal and riverine territory where an immense inland watershed meets a navigable sea. Its identity is defined by estuaries, deltas, islands, deep channels, freshwater lakes, marshes and coastal cities rather than a single central harbour.
+
+#### A. Territorial structure
+
+- **Tideheart:** The ancestral capital and seat of the Tide Sovereign. Built around a protected natural harbour and a freshwater source, it contains the central archives, diplomatic halls, major medical institutions and the principal water-management authority.
+- **Azure Ports:** A chain of commercial ports, shipyards, customs stations and markets. They are economically powerful and politically diverse; not every port answers to the same merchant interests.
+- **Stillwater Sanctuaries:** Protected freshwater lakes, springs, reservoirs and medical retreats. These areas preserve rare aquatic species, medicinal plants and sensitive breeding habitats.
+- **Reedveil Marshes:** A vast wetland region supporting fisheries, medicinal plants, waterfowl, amphibious beasts and communities skilled in navigation through shallow channels.
+- **Deep Current Reaches:** Offshore islands, reefs, deep-water channels and remote settlements. These are home to specialist aquatic beast lines and maritime watch stations.
+- **Rivergate Provinces:** Inland river towns, irrigation districts, locks, bridges and agricultural communities connected to the coast by navigable waterways.
+
+#### B. Water and climate management
+
+The Littoral is prosperous because it has abundant water, but abundance does not mean safety. Floods, storms, saltwater intrusion, drought cycles, disease, silting and shifting channels can threaten the population.
+
+Essential public systems include:
+- Flood barriers, drainage channels and designated overflow plains.
+- Reservoirs and protected freshwater catchments.
+- River gauges, storm-warning towers and coastal observation stations.
+- Canal and lock maintenance, with published navigation standards.
+- Water-quality testing and disease surveillance.
+- Emergency boats, elevated shelters and evacuation routes.
+- Wetland restoration and restrictions on destructive dredging.
+- Quarantine and inspection stations for imported aquatic beasts.
+
+Water infrastructure is treated as a public trust. Private operators may build or maintain canals under contract, but no single merchant house should be able to close a major freshwater source or redirect a river for private profit without legal review.
+
+#### C. Strategic geography
+
+The Azure Littoral can move people and goods efficiently by water, but its transport network has chokepoints: river mouths, lock systems, narrow channels, bridges, ports and freshwater reservoirs. A hostile power may not need to defeat the Azure fleet if it can damage a lock, contaminate a reservoir, blockade a harbour or disrupt navigation information.
+
+The clan therefore invests in alternate routes, protected water sources, inland supply depots and repair teams. Its maritime strength is meaningful but not an invulnerable shield.
+
+### 14.3 Government: the Tide Sovereign and Council of Harbours and Watersheds
+
+**Proposed system: a hereditary Tide Sovereign balanced by a representative Council of Harbours and Watersheds.**
+
+The head of the family may be titled Tide Sovereign regardless of gender. The title represents stewardship of the ancestral waters and continuity of the clan. The Sovereign is not the personal owner of the rivers, ports or reservoirs.
+
+#### A. The Tide Sovereign
+
+Proposed responsibilities:
+- Represents the Azure Tide Clan in high diplomacy and inter-family affairs.
+- Protects ancestral treaties, water archives and major stewardship obligations.
+- Nominates senior officials subject to council confirmation.
+- Coordinates long-term strategy during regional crises.
+- May request emergency measures for flood, disease or maritime threats, within defined legal limits.
+
+The Sovereign cannot unilaterally sell public waterways, impose indefinite port closures, seize merchant fleets, suspend ordinary courts or deny essential drinking water as punishment.
+
+#### B. Council of Harbours and Watersheds
+
+The Council is designed to represent the people and institutions that keep the territory functioning. Its proposed constituencies are:
+
+1. **Harbour Delegates:** Representatives of major ports and maritime cities.
+2. **Watershed Delegates:** Representatives of river basins, agricultural districts and freshwater communities.
+3. **Sanctuary Delegates:** Stewards of protected lakes, breeding grounds and ecological reserves.
+4. **Trade Delegates:** Merchant, shipbuilding, fishing and navigation institutions, subject to conflict-of-interest rules.
+5. **Civic and Service Delegates:** Public health, water engineering, rescue services, medical institutions and resident representation.
+
+The Council's exact seat allocation, selection process and term lengths remain open. No single port or merchant league should be able to dominate the whole institution.
+
+#### C. Division of authority
+
+| Matter | Proposed authority |
+|---|---|
+| Clan representation and high diplomacy | Tide Sovereign, with Council approval for binding strategic treaties |
+| Public budget and ordinary taxation | Council of Harbours and Watersheds |
+| Water allocation and watershed standards | Public Water Authority under laws passed by the Council |
+| Port administration and local services | Harbour and district administrations |
+| Major naval mobilisation | Council authorisation with Sovereign consultation |
+| Field and fleet command | Appointed commanders within authorised objectives |
+| Public health and quarantine | Independent health and biosecurity authorities |
+| Ordinary civil and commercial disputes | Independent courts and recognised arbitration bodies |
+| Emergency flood or disease response | Designated emergency command, subject to time-limited review |
+
+#### D. Local government and participation
+
+Harbour cities, river districts and island settlements maintain local councils. Their responsibilities include sanitation, markets, local transport, fishing rules, drainage, public clinics and local water distribution.
+
+Residents should have accessible ways to challenge water allocation, port fees, pollution, arbitrary closures and abuse by officials. Long-term residents and recognised local communities may participate in local governance even when they are not descendants of the ancestral lineages.
+
+#### E. Succession and accountability
+
+The Tide Sovereign's successor is nominated from eligible descendants and confirmed through a formal review involving the Council. Relevant criteria include stewardship record, judgement, diplomatic ability, crisis management and willingness to uphold public water rights.
+
+A candidate who treats water as private property or repeatedly uses essential services for personal leverage may be deemed unfit even if they possess exceptional cultivation strength. Removal for incapacity or serious abuse requires a defined evidentiary process and independent review.
+
+### 14.4 Political factions and disputes over stewardship
+
+These are political tendencies rather than fixed parties or bloodline castes:
+
+- **Deep Current Traditionalists:** Defend ancestral water customs, old treaties and the authority of established lineages. They fear that rapid reform will destroy carefully maintained systems.
+- **Open Harbour League:** Supports free navigation, lower trade barriers and stronger commercial autonomy for ports.
+- **Watershed Stewards:** Prioritise ecological protection, freshwater security, wetland preservation and sustainable extraction.
+- **Bluewake Strategists:** Emphasise fleet readiness, sea-lane security, intelligence and the protection of maritime interests.
+- **Stillwater Reformers:** Advocate universal access to essential water, public health, transparent allocation and limits on merchant influence.
+- **Rivergate Provinces Movement:** Demands greater representation for inland communities that feed the ports but receive less investment and political attention.
+
+A port merchant may support ecological rules because clean water protects trade. A naval commander may favour open sea lanes but oppose unrestricted foreign access to strategic channels. These overlapping interests keep political conflict grounded in practical priorities.
+
+### 14.5 Military system: the Azure Tide Forces
+
+**Proposed military name: The Azure Tide Forces.** Its doctrine is control of movement, protection of supply and population, maritime awareness, rescue capability and the ability to redirect an opponent's momentum.
+
+Water warfare is not limited to summoning waves. It includes navigation, current control, concealment, endurance, transport, recovery and control of access to strategic terrain.
+
+#### A. Strategic doctrine
+
+The Azure Tide Forces seek to:
+1. Understand the physical and mana conditions of the battlefield, especially water sources, currents, weather and terrain.
+2. Protect civilians, freshwater systems, ports and evacuation routes.
+3. Control movement through channels, bridges, harbours and maritime approaches.
+4. Disrupt hostile supply and formation cohesion without assuming every opponent can be drowned or swept away.
+5. Preserve the ability to withdraw, rescue and recover personnel and beasts.
+
+The clan prefers to make an enemy's position progressively unsustainable. However, it can use decisive force when a threat cannot be contained by negotiation or manoeuvre.
+
+#### B. Proposed branches
+
+1. **Harbour Guard:** Protects ports, shipyards, customs facilities, coastal cities and critical maritime infrastructure.
+2. **Current Control Corps:** Specialist formations that manipulate water flow, deny or open channels, support crossings and disrupt hostile movement.
+3. **Mist and Veil Service:** Reconnaissance, concealment, signal deception, coastal observation and counter-reconnaissance. Its techniques depend on weather and cannot guarantee invisibility.
+4. **Tide Rescue Corps:** Flood response, maritime rescue, evacuation, recovery of injured personnel and emergency support after storms or battle.
+5. **Bluewake Fleet:** Naval and riverine forces responsible for patrol, transport escort, interception, maritime defence and expeditionary operations.
+6. **Beast and Recovery Service:** Military aquatic beast coordination, veterinary support, quarantine, rehabilitation and suitability assessment.
+7. **Rivergate Logistics:** Supply transport, bridge and lock support, water purification, field depots and maintenance of inland routes.
+
+The Tide Rescue Corps has authority to identify unsafe operations and recommend withdrawal when avoidable losses threaten the formation. Rescue is a strategic capability, not a ceremonial service.
+
+#### C. Command hierarchy
+
+Proposed ranks:
+- **Enlisted:** Recruit, Tide Soldier, Senior Tide Soldier, Squad Boatswain, Formation Boatswain.
+- **Junior officers:** Sub-Lieutenant, Lieutenant, Captain.
+- **Field and vessel command:** Major, Commander, Fleet Captain.
+- **Senior command:** Commodore, Admiral, High Admiral, Tide Marshal.
+
+These are provisional Water-specific ranks. Naval titles may be used by fleet personnel while land-based branches use equivalent command appointments. Specialist roles such as Current Warden, Mist Marshal, Beast Admiral and Rescue Commander are appointments, not automatic rank promotions.
+
+The Council authorises strategic deployments and major mobilisation. The Tide Sovereign represents the clan and participates in strategic direction. The High Admiral coordinates the fleet, while branch commanders retain operational responsibility under defined orders.
+
+#### D. Paired cultivation and service qualification
+
+Water service assessments consider:
+- Tamer control and safe output over sustained periods.
+- Beast health, maturity, temperament and response to changing conditions.
+- Pair synchronisation while moving through water, mist, rain or unstable terrain.
+- Ability to protect allies and civilians from secondary effects.
+- Rescue, recovery and endurance performance.
+- Navigation awareness and response to unexpected environmental changes.
+
+A powerful aquatic beast does not automatically make its tamer a capable ship commander. Command requires navigation, logistics, law, communication and judgement. A pair's cultivation achievement is relevant to assignment but cannot replace professional training.
+
+#### E. Beast loss, recovery and reassignment
+
+If a bonded beast dies or becomes permanently unable to serve, the partnership ends and the individual receives medical care, time to recover and a formal reassessment. There is no automatic replacement. A veteran may move to rescue coordination, training, navigation, administration, engineering, medical support or retirement.
+
+A new bond begins its own cultivation and qualification process. The clan must not treat the death of an aquatic beast as an ordinary equipment loss. Recovery of remains, investigation of possible negligence and protection against illegal harvesting are part of military responsibility.
+
+#### F. Military law and civilian protection
+
+- Military seizure of civilian vessels or cargo requires lawful authority, records and compensation where applicable.
+- Freshwater sources cannot be poisoned or deliberately contaminated as a routine weapon.
+- Military commanders must account for downstream communities before manipulating rivers or dams.
+- Naval blockades require defined objectives, legal review and humanitarian exceptions.
+- Beast welfare, quarantine and recovery standards apply during campaigns.
+- Rescue services may report unsafe orders through protected channels.
+- Ordinary courts retain jurisdiction over crimes committed by military personnel.
+
+### 14.6 Elite formations and specialised doctrine
+
+Elite status is an earned appointment based on suitability and service, not a hereditary rank.
+
+**Proposed elite units:**
+
+- **Bluewake Lancers:** Fast maritime interception crews and aquatic beast pairs trained to stop hostile vessels, protect convoys and control narrow channels.
+- **Stillwater Guard:** Protects freshwater sanctuaries, reservoirs, medical facilities and sensitive breeding habitats.
+- **Mistglass Company:** Reconnaissance and deception specialists operating in fog, rain, marshes and coastal terrain.
+- **Deep Current Wardens:** A specialist unit for deep-water operations, remote reefs, submerged ruins and dangerous aquatic-beast habitats.
+- **Tidebreak Rescue:** High-risk rescue and evacuation teams deployed during floods, storms, shipwrecks and battlefield disasters.
+- **Riverchain Cohort:** Engineers and paired cultivators who secure locks, bridges, canals and river crossings.
+
+Selection evaluates discipline, technical competence, pair welfare, mission judgement and ability to operate under changing conditions. An individual with a rare beast is not automatically suitable for an elite unit.
+
+#### Counter-element doctrine
+
+- **Against Fire:** Manage available water, temperature and flow; avoid wasting reserves in direct exchanges. Steam and sudden pressure changes can harm Water formations as well as opponents.
+- **Against Earth:** Use existing channels, undermine exposed positions only when safe and exploit mobility around fixed barriers. Earth can redirect waterways or create barriers.
+- **Against Wind:** Protect against evaporation, dispersal of mist and redirected storms. Wind can make concealment unreliable and turn spray into a hazard.
+- **Against Lightning:** Avoid assuming water always conducts mana in a predictable way. Purity, salinity, grounding, distance and the technique's actual mechanism matter.
+- **Against Light:** Disrupt line of sight, formation coordination or the conditions sustaining a technique; Water cannot simply extinguish healing or purification.
+- **Against Dark:** Identify the specific technique and its limits. Darkness does not automatically make water powerless, nor does water universally reveal concealed Dark effects.
+
+The Azure Tide Forces use observation, controlled tests, containment and adaptation. Each counter has environmental costs, tactical limits and failure conditions.
+
+### 14.7 Water cultivation and beast-bond traditions
+
+#### A. Family-bred beast lines
+
+The Azure Tide Clan maintains freshwater, marsh, coastal and deep-water breeding habitats. Family records include health, temperament, migration patterns, salinity tolerance, mana affinity and compatibility history.
+
+- **River Serpents:** Intelligent freshwater beasts suited to river patrol, transport assistance and controlled current manipulation. Their temperament varies by lineage, and not all tolerate crowded ports.
+- **Mist Cranes:** Long-legged wetland and coastal birds associated with observation, communication and mist-affinity techniques. They are not universally suited to combat.
+- **Bluewake Otters:** Social aquatic beasts used in rescue, inspection and locating objects in shallow or moderate-depth water. Their effectiveness depends on training and group welfare.
+- **Reefback Turtles:** Durable coastal beasts used for transport, habitat maintenance and defensive support. Their slow movement limits rapid deployment.
+- **Azure Dragon Line:** Exceptionally rare and culturally significant. Their exact abilities, lifespan and breeding status remain uncertain; the clan's most extravagant claims may be political mythology rather than verified fact.
+
+These are proposed species. Taxonomy, lifespan, rarity, reproduction, cultivation stages and ecological requirements need a shared world beast-biology framework.
+
+#### B. Cultivation paths
+
+- **Spring Path:** Foundational circulation, recovery, gentle control and stable flow. Common among civilians, healers and new cultivators.
+- **River Path:** Sustained movement, navigation, redirection and coordinated techniques.
+- **Tide Path:** Timing, pressure, changing output and large-scale battlefield or maritime control.
+- **Deep Current Path:** Advanced pressure, endurance, deep-water adaptation and complex mana circulation. Its demands make it unsuitable for many cultivators.
+
+These are traditions and specialisations, not separate universal cultivation realms. A cultivator's realm, technical mastery and bond compatibility must be assessed separately.
+
+#### C. Bond formation and breeding ethics
+
+Most descendants seek family-bred aquatic beasts because their habitat needs and compatibility traits are documented. Wild-beast expeditions remain expensive and risky, particularly in deep water or unstable wetlands. Mercenaries, independent breeders, appraisers and specialist traders form an important part of the wider beast economy.
+
+Breeding institutions should maintain:
+- Health, ancestry and habitat records.
+- Salinity and water-quality requirements.
+- Temperament and compatibility assessments.
+- Breeding limits that prevent harmful over-selection.
+- Protected migration and spawning areas.
+- Veterinary care and rehabilitation.
+- Transparent disclosure of captive-bred, rescued and wild-caught status.
+
+A beast's ability to survive underwater does not mean it can be kept in an unsuitable tank or forced into a bond. Habitat quality is part of bond welfare.
+
+### 14.8 The Azure Tide Academy and specialist institutions
+
+**Proposed central institution: Azure Tide Academy.** It educates future cultivators, navigators, healers, engineers, administrators and military personnel. It serves the ancestral territory while accepting qualified external candidates under defined agreements.
+
+#### A. Divisions
+
+1. **Tamer and Aquatic Beast Studies:** Compatibility, aquatic handling, bond welfare, health and cultivation.
+2. **Navigation and Maritime Studies:** River navigation, charts, currents, vessels, weather and route planning.
+3. **Water Engineering Division:** Reservoirs, canals, flood barriers, purification, locks and hydraulic infrastructure.
+4. **Medical and Recovery Division:** Healing, aquatic medicine, emergency response, disease prevention and rehabilitation.
+5. **Combat and Formation Division:** Naval tactics, riverine combat, defensive formations and paired coordination.
+6. **Governance and Trade Division:** Water law, port administration, diplomacy, logistics, commercial contracts and public stewardship.
+
+#### B. Admission and progression
+
+Admission routes may include open examinations, lineage nominations, port and watershed recommendations, service scholarships and specialist recruitment. The academy should not assume that every student wants a military career.
+
+Proposed student standing:
+- Foundation Cadet
+- Tide Cadet
+- Senior Tide Cadet
+- Section Navigator
+- Academy Prefect
+- Graduating Candidate
+
+These are educational titles, not military ranks. Assessments include written examinations, practical navigation, water safety, paired cultivation, engineering projects, rescue drills, ethical judgement and teamwork.
+
+Students unable to form a suitable combat partnership may still qualify in medicine, water engineering, navigation, research, administration or civilian service.
+
+#### C. Annual competition: The Tidemark Trials
+
+Proposed events:
+- **Current Reading:** Interpret changing currents and select a safe route.
+- **Harbour Defence:** Coordinate a mixed team to protect a simulated port.
+- **Waterworks Challenge:** Repair or redesign a damaged canal or flood-control system.
+- **Rescue Passage:** Locate and evacuate simulated casualties without endangering the rescue team.
+- **Mist and Signal Trial:** Communicate accurate information under restricted visibility.
+- **Deep Habitat Assessment:** Demonstrate safe conduct in a controlled aquatic environment.
+- **Council Simulation:** Allocate scarce water during a drought while balancing agriculture, households, industry and ecological needs.
+
+The Trials reward accurate judgement and public responsibility rather than maximum destructive output.
+
+### 14.9 Civilian economy and social structure
+
+The Azure Littoral's economy is built around waterways, food, medicine, navigation and exchange. Its wealth comes from connecting inland production to coastal markets and providing services that other regions cannot easily reproduce.
+
+#### A. Main economic sectors
+
+1. **Maritime trade:** Shipping, port services, cargo handling, customs, warehousing and ship repair.
+2. **Fishing and aquaculture:** Sustainable fisheries, fish farms, shellfish, aquatic plants and food processing.
+3. **Agriculture:** Irrigated rice and grain, fruit, wetland crops, medicinal herbs and livestock.
+4. **Medicine and public health:** Physicians, aquatic medicine, medicinal ingredients, sanitation, water testing and recovery centres.
+5. **Water engineering:** Canals, locks, flood barriers, irrigation, purification and reservoir maintenance.
+6. **Navigation and information:** Charts, pilots, route intelligence, weather observation and maritime communication.
+7. **Beast husbandry:** Aquatic breeding, feed, veterinary services, training, appraisal and transport.
+8. **Craft and shipbuilding:** Boats, sails, ropes, nets, waterproof materials, navigation instruments and specialist equipment.
+9. **Education and research:** Hydrology, ecology, medicine, cultivation, maritime law and beast biology.
+
+#### B. Social structure: influence flows through institutions
+
+Important social groups include:
+- Ancestral lineages and recognised branch households.
+- Port merchants, shipowners and trade associations.
+- River farmers, fishers and wetland communities.
+- Water engineers, surveyors and maintenance crews.
+- Physicians, healers, public-health officers and researchers.
+- Sailors, navigators, shipwrights and pilots.
+- Beast breeders, handlers, appraisers and aquatic veterinarians.
+- Naval personnel, rescue workers and veterans.
+- Teachers, civil servants, artisans and ordinary residents.
+- Foreign traders, contracted specialists and temporary workers.
+
+A respected river engineer may influence public decisions more than a minor lineage descendant. However, old merchant houses may control capital, shipping contracts and port access, creating unequal opportunities.
+
+#### C. Essential water as a public obligation
+
+The clan's legitimacy depends on the principle that drinking water, sanitation and emergency access cannot be treated as ordinary luxury commodities.
+
+Proposed protections:
+- Minimum household access to safe drinking water.
+- Transparent allocation during drought.
+- Priority rules for hospitals and emergency services.
+- Public reporting of contamination and water-quality failures.
+- Restrictions on private diversion of essential sources.
+- Compensation and appeal procedures for lawful restrictions.
+- Independent review when officials favour a merchant or lineage interest.
+
+This does not mean every use of water is free. Industrial consumption, shipping, irrigation and commercial aquaculture may pay fees, but essential household access is protected.
+
+#### D. Resident status and civil rights
+
+Legal categories may distinguish recognised clan descendants, long-term residents, local watershed communities, affiliated service households, contracted specialists and temporary visitors. These categories can affect political representation or access to restricted offices, but not basic protection under territorial law.
+
+Residents should have access to courts, emergency rescue, essential public health services, lawful contracts, property protections and a means to challenge arbitrary water allocation or port administration.
+
+### 14.10 Taxation, public finance and regulation
+
+Proposed revenue sources:
+- Progressive household and land contributions.
+- Port, customs and cargo-handling fees.
+- Commercial shipping and navigation licences.
+- Water-use charges for large industrial and agricultural users.
+- Fishing and aquaculture licences.
+- Extraction and dredging royalties.
+- Market, vessel and professional service fees.
+- Public enterprise revenue where the territory directly operates essential infrastructure.
+- External trade revenue.
+
+Proposed spending priorities:
+1. Freshwater protection, sanitation and public health.
+2. Flood control, drainage, reservoirs and waterway maintenance.
+3. Food security and agricultural resilience.
+4. Rescue, emergency medicine and disease prevention.
+5. Port, river and maritime infrastructure.
+6. Education, research and technical training.
+7. Defence, fleet readiness and route security.
+8. Wetland restoration and aquatic beast habitats.
+
+The Council approves the public budget and publishes a summary. Sensitive naval procurement may receive protected review, but secrecy cannot conceal corruption or water-rights abuse.
+
+Independent water inspectors should be able to investigate contamination, illegal diversion and infrastructure neglect. Port guilds may establish professional standards but cannot use licensing to create an unchallengeable monopoly.
+
+### 14.11 Beast economy and aquatic markets
+
+The aquatic beast economy connects family breeding grounds, independent breeders, river communities, port markets, mercenary explorers and foreign traders.
+
+#### A. Value chain
+
+- Breeding sanctuaries preserve compatible lines and habitats.
+- Fishers and feed producers supply appropriate nutrition.
+- Aquatic veterinarians treat injury, disease and stress.
+- Appraisers assess health, temperament, maturity and compatibility.
+- Licensed brokers publish provenance and habitat requirements.
+- Trainers prepare beasts for rescue, transport, inspection or combat.
+- Mercenary companies explore dangerous waters and recover wild beasts under law.
+- Markets connect buyers and sellers without guaranteeing a successful bond.
+
+#### B. Civilian uses
+
+Aquatic beasts may support river inspection, rescue, fishing, underwater construction, cargo movement, ecological monitoring, navigation and security. A beast suitable for deep-water exploration may be unsuitable for shallow urban canals. Work assignments must respect species and individual needs.
+
+#### C. Market safeguards
+
+- Verified provenance and ownership.
+- Health, temperament and habitat disclosures.
+- Quarantine and inspection for imported aquatic species.
+- Restrictions on destructive capture of protected wild populations.
+- Prohibition of forced bonding and concealed injury.
+- Clear rules for transport, water quality and holding conditions.
+- Independent dispute resolution for fraudulent sales.
+- Protection for rare Azure Dragon-line individuals and other vulnerable breeding stocks.
+
+The Azure Tide Clan may certify specialist breeders and services, but independent lawful breeders and foreign merchants remain part of the economy.
+
+### 14.12 Trade network and foreign relations
+
+#### A. Exports
+
+The Azure Littoral exports medicine, healing services, aquatic ingredients, preserved foods, fish products, navigation charts, shipping, shipbuilding, water engineering, sanitation expertise, trained aquatic work beasts and maritime logistics.
+
+Certain medical formulas, protected species and sensitive navigation intelligence may be regulated. Ordinary food, common charts and standard engineering services should remain commercially accessible.
+
+#### B. Imports
+
+The clan imports metals, stone, timber, precision instruments, machinery, textiles, agricultural varieties, dryland medicines, specialist minerals and beasts adapted to environments absent from the Littoral.
+
+#### C. Principal relationships
+
+- **Wind:** A natural partner in navigation, courier services, weather observation and route intelligence. Disputes arise over information reliability, privacy and control of transit corridors.
+- **Light:** Important in medicine, public health, education and sanctuary exchanges. Cooperation may be strong among practitioners even when senior institutions disagree over political history and moral authority.
+- **Earth:** Supplies stone, bridge materials, foundations, locks and heavy engineering. Water needs Earth's construction expertise; Earth needs Water's hydrological knowledge to prevent structural failure.
+- **Fire:** Provides industrial equipment, heat-resistant materials and specialist manufacturing. Water may challenge Fire over pollution, extraction and the use of essential supplies in political pressure.
+- **Lightning:** Supplies precision instruments, sensors, communications and technical research. Water needs reliable monitoring systems but may resist opaque technical control over public infrastructure.
+- **Dark:** Trade can be mutually useful in medicine, recovery, engineering and selected specialist services. Historical mistrust and political pressure may complicate agreements without making all contact impossible.
+
+These relationships are interests rather than permanent alliances. A Water port may trade heavily with Fire while a watershed council challenges a polluting industrial contract. A Light medical institution may be trusted by Water physicians even when their political leaders disagree.
+
+#### D. Foreign branches
+
+Water descendants living abroad may serve local rulers, operate ports or clinics, join merchant houses or maintain ancestral ties. The Tide Sovereign cannot assume that foreign branches can disregard local law or treaties.
+
+A branch may face pressure to close a harbour to an ancestral rival, disclose navigation records or prioritise clan shipping during a local famine. These conflicts test whether stewardship applies only to the ancestral homeland or to communities wherever Water descendants hold influence.
+
+### 14.13 External diplomacy and strategic commitments
+
+The Azure Tide Clan's diplomacy is built around access, reliability and mutual dependence. Its services can make it a valued partner, but also create fear that it could use water, medicine or maritime routes as leverage.
+
+Proposed diplomatic instruments:
+- Open navigation and port-access agreements.
+- River-basin and watershed treaties.
+- Flood-warning and disaster-response cooperation.
+- Public-health, quarantine and medical exchange protocols.
+- Shipping and convoy-protection agreements.
+- Fisheries and aquatic habitat conservation arrangements.
+- Technical agreements for canals, reservoirs and purification systems.
+- Military transit agreements with explicit command and duration limits.
+
+Trade access should not automatically create military allegiance. The clan should maintain humanitarian exceptions during blockades and emergency restrictions. Long-term naval commitments require Council approval and a published statement of objectives.
+
+### 14.14 Internal tensions and structural weaknesses
+
+The Azure Littoral's strengths generate vulnerabilities:
+
+- **Chokepoint dependence:** Locks, river mouths, ports and channels can be blockaded or sabotaged.
+- **Water contamination:** A single serious contamination event can affect thousands of residents and undermine trust.
+- **Flood and storm exposure:** Coastal prosperity comes with recurring natural hazards.
+- **Merchant concentration:** Powerful port houses may capture policy and exclude smaller traders.
+- **Unequal inland investment:** River and agricultural communities may feel that port cities receive most public funding.
+- **Essential-service leverage:** Officials may be tempted to use water, medicine or navigation access as diplomatic weapons.
+- **Ecological degradation:** Overfishing, dredging and habitat loss can damage the economic base.
+- **Disease risk:** Dense ports and aquatic trade can accelerate the spread of disease or invasive species.
+- **Fleet overconfidence:** Naval superiority cannot solve every land campaign or protect every waterway simultaneously.
+- **Information dependence:** Poor charts, false weather reports or compromised navigation signals can cause catastrophic losses.
+
+The clan should experience real failures when it neglects these risks. Its reputation for healing and trade does not make it immune to corruption, conflict or disaster.
+
+### 14.15 Everyday life in the Azure Littoral
+
+Life differs between port cities, river farms, marsh settlements and offshore islands.
+
+In Azure Ports, the day begins with tide schedules, cargo manifests, fish markets, ship repairs and harbour inspections. In Rivergate, farmers coordinate irrigation and transport with seasonal water levels. Reedveil communities use narrow boats and raised walkways, relying on wetland knowledge and local ecological customs. Deep Current settlements organise around weather windows, supply vessels and specialist beast migrations.
+
+Proposed public traditions:
+- **First Tide Festival:** Marks the seasonal turning of major currents and the opening of navigation routes.
+- **Lanterns on the Water:** A remembrance ceremony for people lost at sea or in floods.
+- **Watershed Oath:** A civic pledge by engineers and local stewards to maintain shared water systems.
+- **Harbour Exchange Week:** A major trade and craft gathering for merchants, shipwrights, breeders and navigators.
+- **Stillwater Day:** A quiet observance dedicated to freshwater protection, healing and ecological restoration.
+- **Tidemark Trials:** Academy competitions that demonstrate navigation, rescue and public-service skill.
+
+These traditions should portray a society of sailors, farmers, healers, engineers, traders and ordinary families—not only naval commanders and powerful aquatic tamers.
+
+### 14.16 Narrative opportunities
+
+- A major port's merchant council diverts freshwater to an industrial estate during a drought, provoking protests from inland communities.
+- The Tide Sovereign must choose between closing a harbour to prevent disease spread and allowing food shipments to reach a famine-struck neighbour.
+- A Rivergate engineer discovers that a flood barrier was built with falsified materials supplied by a politically protected contractor.
+- A rare River Serpent refuses a prestigious heir, exposing the difference between family status and genuine compatibility.
+- A foreign branch is ordered to disclose local navigation charts during a conflict, placing its members between ancestral loyalty and their host kingdom.
+- A Bluewake Lancers operation captures an enemy vessel but discovers that its cargo is emergency medicine intended for civilians.
+- A Stillwater sanctuary is threatened by illegal dredging backed by a powerful port house.
+- A Water physician and a Light healer uncover a disease affecting bonded aquatic beasts, but political suspicion delays the exchange of research.
+- A false weather report sends a fleet into a dangerous channel, revealing a struggle over intelligence contracts.
+- A rescue commander disobeys an aggressive pursuit order to save a damaged vessel, then faces an inquiry over the lost military objective.
+- An Azure Dragon-line beast is discovered in the wild, triggering disputes over conservation, research, ownership and whether it should ever be bonded.
+- A foreign ruler threatens to nationalise a Water-descended merchant fleet, forcing the Council to decide whether it is a private dispute or a clan-wide crisis.
+
+### 14.17 Decisions still required for the Water Family
+
+The following remain open and are not confirmed canon:
+
+1. Whether the official leader title is Tide Sovereign or another title, and how succession is determined.
+2. The Council's seat allocation, selection method, voting thresholds and term lengths.
+3. The degree of resident and watershed-community political participation.
+4. The final map, borders, population, capital, port count and major river systems of the Azure Littoral.
+5. The exact military ranks, fleet command structure, branch sizes and relationship between civil and military authority.
+6. The world's universal cultivation realms and the exact cultivation stages of Water-affinity beasts.
+7. Final taxonomy, rarity, lifespan, habitat and breeding rules for River Serpents, Mist Cranes, Bluewake Otters, Reefback Turtles and Azure Dragon-line beasts.
+8. The academy's admission age, course duration, fees, scholarship system and appeal procedures.
+9. Public versus private ownership of ports, canals, reservoirs, shipyards and water-treatment infrastructure.
+10. The exact household water guarantee, commercial water pricing, taxation and emergency allocation rules.
+11. The export-control list, navigation information policy and foreign shipping treaties.
+12. The degree to which Water's historical relationship with the Sixfold Accord shapes present-day policy toward Dark.
+
+**Design principle:** The Azure Tide Clan should be powerful because it connects people, sustains life, protects movement and understands the systems on which civilisation depends. Its central test is whether it can exercise influence without turning essential needs—water, medicine, food and safe passage—into instruments of coercion.
