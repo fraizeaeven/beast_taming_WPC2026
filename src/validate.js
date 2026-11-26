@@ -1,6 +1,7 @@
 import {REGISTRIES} from "./constants.js";
 import {registries,chapters,file,read} from "./io.js";
 import {checkContinuity} from "./continuity.js";
+import {checkStoryStructure} from "./story-structure.js";
 
 export async function validate(){
   const errors=[],warnings=[],r=await registries(),ids={};
@@ -32,5 +33,8 @@ export async function validate(){
     }catch(e){errors.push({code:"CHAPTER_JSON_INVALID",file:f,message:e.message});}
   }
   warnings.push(...checkContinuity({registries:r,chapters:chapterRecords}));
+  const story = checkStoryStructure({registries:r,chapters:chapterRecords});
+  errors.push(...story.errors);
+  warnings.push(...story.warnings);
   return{ok:errors.length===0,errors,warnings,registryCount:Object.keys(r).length,chapterCount:seen.size,continuityWarningCount:warnings.length};
 }
