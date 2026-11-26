@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "registry": "02_WORLD_STATE",
+  "purpose": "Current state of world, factions, systems, resources and politics.",
+  "entries": []
+}
