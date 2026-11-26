@@ -7,7 +7,6 @@ import { buildChapterContext, formatChapterContext } from "./context.js";
 const safeId = value => typeof value === "string" && /^[A-Z][A-Z0-9_-]{1,63}$/.test(value);
 const chapterPath = n => file("CHAPTERS", "CHAPTER_" + String(n).padStart(4, "0") + ".json");
 const proposalPath = id => file("DRAFT_REVIEWS", id + ".json");
-const clone = value => JSON.parse(JSON.stringify(value));
 const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
 const allowedChapterFields = new Set(["summary","scenes","charactersPresent","characterAges","behaviorChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes","authorNotes"]);
 const arrayChapterFields = new Set(["scenes","charactersPresent","characterAges","behaviorChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes"]);
@@ -56,12 +55,26 @@ export async function stageDraftReview(inputFile) {
     draftEvidence: String(f.draftEvidence ?? ""), canonEvidence: Array.isArray(f.canonEvidence) ? f.canonEvidence : [],
     recommendedAction: String(f.recommendedAction ?? "")
   }));
-  const proposals = raw.proposals.map((p,i) => ({
-    id: safeId(p.id) ? p.id : "PROP_" + String(i+1).padStart(3,"0"),
-    type: p.type, registry: p.registry, recordId: p.recordId, chapter: p.chapter ?? n,
-    field: p.field, expected: p.expected, value: p.value, reason: String(p.reason ?? ""),
-    evidence: String(p.evidence ?? ""), status: "pending", decision: null
-  }));
+  const proposals = [];
+  for (let i=0;i<raw.proposals.length;i++) {
+    const p=raw.proposals[i], proposal={
+      id: safeId(p.id) ? p.id : "PROP_" + String(i+1).padStart(3,"0"),
+      type:p.type,registry:p.registry,recordId:p.recordId,chapter:p.chapter??n,
+      field:p.field,expected:p.expected,value:p.value,reason:String(p.reason??""),
+      evidence:String(p.evidence??""),status:"pending",decision:null
+    };
+    if (proposal.type==="add_chapter_item") {
+      const chapterNo=Number(proposal.chapter), target=chapterPath(chapterNo);
+      if(!Number.isInteger(chapterNo)||chapterNo<1||!(await exists(target))) throw Error("Proposal targets a missing chapter");
+      if(!arrayChapterFields.has(proposal.field)) throw Error("Chapter append target must be an allowlisted array field");
+      if(proposal.value===undefined) throw Error("Chapter item proposal must include a value");
+      const chapter=await read(target);
+      proposal.expected=Array.isArray(chapter[proposal.field])?[...chapter[proposal.field]]:[];
+    }
+    proposals.push(proposal);
+  }
+  const proposalIds=new Set();
+  for(const p of proposals){if(proposalIds.has(p.id))throw Error("Duplicate proposal ID: "+p.id);proposalIds.add(p.id);}
   const record = {schemaVersion:1,id,chapterNumber:n,draftFile:raw.draftFile ?? null,createdAt:new Date().toISOString(),summary:String(raw.summary ?? ""),findings,proposals};
   await fs.mkdir(file("DRAFT_REVIEWS"), {recursive:true});
   await write(proposalPath(id),record);
@@ -103,12 +116,15 @@ async function applyProposal(p) {
   const n=Number(p.chapter), target=chapterPath(n);
   if(!Number.isInteger(n)||n<1||!(await exists(target))) throw Error("Target chapter does not exist");
   if(p.type==="add_chapter_item") {
-    if(!allowedChapterFields.has(p.field)) throw Error("Chapter field is not allowlisted");
+    if(!arrayChapterFields.has(p.field)) throw Error("Chapter append target must be an allowlisted array field");
+    if(p.value===undefined || !Array.isArray(p.expected)) throw Error("Chapter append proposal is missing its value or staged baseline");
     const chapter=await read(target), items=Array.isArray(chapter[p.field])?chapter[p.field]:[];
+    if(!same(items,p.expected)) throw Error("Chapter field changed since proposal staging; re-stage review");
     items.push(p.value); chapter[p.field]=items; await write(target,chapter); return;
   }
   if(p.type==="update_chapter_field") {
     if(!allowedChapterFields.has(p.field)) throw Error("Chapter field is not allowlisted");
+    if(p.expected===undefined || p.value===undefined) throw Error("Chapter field update must include expected and replacement values");
     const chapter=await read(target);
     if(!same(chapter[p.field],p.expected)) throw Error("Chapter field changed since analysis; re-run review");
     chapter[p.field]=p.value; await write(target,chapter); return;
