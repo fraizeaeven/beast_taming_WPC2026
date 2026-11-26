@@ -91,12 +91,12 @@ export async function decideDraftProposal(reviewId, proposalId, decision) {
 
 async function applyProposal(p) {
   if (p.type==="add_registry_entry" || p.type==="update_registry_entry") {
-    if (!REGISTRIES.includes(p.registry) || !safeId(p.value?.id ?? p.recordId)) throw Error("Invalid registry target or entry ID");
+    if (!REGISTRIES.includes(p.registry) || !p.value || typeof p.value !== "object" || Array.isArray(p.value) || !safeId(p.value.id ?? p.recordId)) throw Error("Invalid registry target, entry payload or ID");
     const target=file("CHAPTER_RECORDS",p.registry); if (!(await exists(target))) throw Error("Registry file is missing: "+p.registry);
     const data=await read(target), entries=Array.isArray(data.entries)?data.entries:[];
     const index=entries.findIndex(x=>x.id===(p.recordId ?? p.value.id));
     if (p.type==="add_registry_entry") { if(index!==-1) throw Error("Entry already exists; refusing overwrite"); if(p.value.id!==p.recordId && p.recordId) throw Error("Entry ID mismatch"); entries.push(p.value); }
-    else { if(index===-1) throw Error("Target entry not found"); if(!same(entries[index],p.expected)) throw Error("Registry entry changed since analysis; re-run review"); if(p.value.id!==entries[index].id) throw Error("Stable record ID cannot be changed"); entries[index]=p.value; }
+    else { if(index===-1) throw Error("Target entry not found"); if(p.expected===undefined) throw Error("Update proposal must include the exact expected entry"); if(!same(entries[index],p.expected)) throw Error("Registry entry changed since analysis; re-run review"); if(p.value.id!==entries[index].id) throw Error("Stable record ID cannot be changed"); entries[index]=p.value; }
     data.entries=entries; await write(target,data); return;
   }
   const n=Number(p.chapter), target=chapterPath(n);
