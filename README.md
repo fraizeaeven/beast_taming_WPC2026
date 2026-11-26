@@ -14,9 +14,12 @@ npm run init
 npm test
 npm run chapter:new -- 1 "The Youngest Son"
 npm run story:new -- PLOT_MAIN main_plot "The central Beast Taming conflict"
+npm run context:chapter -- 1
 npm run validate
 npm run chapter:show -- 1
 ```
+
+Use `npm run context:chapter -- 86` to print a chapter-specific writing brief, or `npm run context:write -- 86` to save `reports/CHAPTER_0086_CONTEXT.md`. The context brief gathers linked character, relationship, knowledge, plot, event, location, mystery, promise and unresolved-thread records. It is a retrieval snapshot, not new canon. See [Chapter Context Retrieval](docs/CHAPTER_CONTEXT.md).
 
 `npm run validate` checks registry/chapter structure and reports evidence-based continuity warnings for character behavior annotations, knowledge timing, age/timeline consistency, relationship transitions, promise timing, event dates and story-structure mappings. Warnings require human review; structural errors fail validation. See [Continuity Checks](docs/CONTINUITY_CHECKS.md) and [Story Structure Management](docs/STORY_STRUCTURE.md).
 
@@ -25,6 +28,13 @@ Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORL
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+
+### 2026-11-27 — Chapter context retrieval
+
+- Added deterministic chapter preflight retrieval for linked character, relationship, knowledge, plot/arc, event, location, mystery, open-loop, promise and continuity records.
+- Added future milestone and unresolved-thread constraints, plus explicit retrieval-scope and missing-registry reporting.
+- Added `context:chapter` and `context:write` commands; generated Markdown briefs stay in `reports/` and do not alter canon.
+- Added context retrieval tests and documentation. Retrieval uses explicit links and stable IDs; it does not infer relevance from prose or write canon.
 
 ### 2026-11-27 — Story structure management
 
