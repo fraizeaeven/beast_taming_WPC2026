@@ -4,7 +4,6 @@ import { REGISTRIES } from "./constants.js";
 const array = value => Array.isArray(value) ? value : [];
 const idOf = value => typeof value === "string" ? value : value?.id;
 const chapterOf = value => typeof value === "number" ? value : value?.chapter;
-const unique = values => [...new Set(values.filter(Boolean))];
 const getEntries = (registries, name) => array(registries?.[name]?.entries);
 const containsAny = (values, wanted) => array(values).some(value => wanted.has(idOf(value)));
 const isActive = item => !["resolved", "retired", "abandoned", "fulfilled", "closed"].includes(item?.status);
@@ -87,6 +86,16 @@ export async function buildChapterContext(number) {
   const allStories = getEntries(registries, "17_STORY_STRUCTURE_REGISTRY");
   const { selected: storyIds, characterIds } = storyClosure(allStories, chapter);
   const ids = new Set([...characterIds, ...storyIds]);
+  for (const location of array(chapter.locations)) ids.add(idOf(location));
+  for (const scene of array(chapter.scenes)) {
+    if (scene?.locationId) ids.add(scene.locationId);
+    for (const characterId of array(scene?.characterIds)) ids.add(characterId);
+    if (scene?.eventId) ids.add(scene.eventId);
+  }
+  for (const event of array(chapter.events)) ids.add(event?.eventId ?? event?.id);
+  for (const change of array(chapter.objectChanges)) ids.add(change?.objectId ?? change?.id);
+  for (const promise of array(chapter.promises)) ids.add(promise?.promiseId ?? promise?.id);
+  for (const loop of array(chapter.openLoops)) ids.add(loop?.openLoopId ?? loop?.id);
   for (const name of ["10_EVENT_TIMELINE", "11_MYSTERY_REGISTER", "12_OPEN_LOOP_REGISTER", "13_PROMISE_AND_PAYOFF_REGISTER"]) {
     for (const record of getEntries(registries, name)) if (relatedToChapter(record, chapterNumber)) ids.add(record.id);
   }
