@@ -1118,6 +1118,153 @@ The academy gives the protagonist a place to encounter the territory's instituti
 The following are not established canon: the academy's final name and location; whether it is a single campus or a network of branch schools; admission age and minimum qualifications; course duration; fees and scholarship rules; the exact relationship between academy command and the High Commander; whether civilian oversight is assigned to a specific Council committee; the legal process for bonding a beast; the precise support offered after a beast's death; and the formal examinations and appeals process.
 
 
+### 3.6F Student hierarchy, examinations, competitions and internal factions
+
+**Status: Proposed academy culture and student-life system.** The structures below are proposals designed to make the Abyssal Defence Academy feel like a functioning institution. Cadet standing is separate from military rank, paired cultivation qualification and future officer authority.
+
+#### Student standing: responsibility, not military command
+
+The academy uses a progression of student appointments to recognise training responsibility. These titles do not confer authority over serving soldiers, civilian residents or operational military units.
+
+| Student standing | Meaning and responsibility |
+|---|---|
+| **Foundation Cadet** | Newly admitted student completing common preparation and safety instruction |
+| **Division Cadet** | Student assigned to a teaching division and beginning its specialist curriculum |
+| **Senior Cadet** | Student who has passed foundational assessments and may assist with supervised exercises |
+| **Section Leader** | Student appointed to coordinate a small training group, maintain attendance and relay instructor orders |
+| **Cadet Prefect** | Senior student entrusted with limited peer welfare, discipline support and academy event responsibilities |
+| **Graduating Candidate** | Student who has completed the curriculum and is awaiting final qualification and service placement |
+
+These appointments are earned through reliability, conduct, cooperation and demonstrated responsibility—not simply cultivation strength or family status. A student may be removed from an appointment for misconduct or poor judgement without automatically losing their place at the academy.
+
+**Important boundary:** A Cadet Prefect cannot order a serving soldier, punish another student outside the academy's disciplinary process, or claim command over a beast partner. Student appointments are administrative and educational roles. They must never become a parallel military hierarchy.
+
+#### Cohorts, divisions and peer groups
+
+**Proposal:** Students are organised into year cohorts for common education and into division groups for specialist instruction. Mixed-division exercise teams are formed regularly so that future soldiers understand the work of other branches.
+
+A cohort gives students a stable social identity, while division membership gives them a professional direction. Students may transfer divisions after assessment if their abilities, interests or circumstances change.
+
+Existing bonded pairs should generally train together for partnership-related assessments. However, the academy should avoid isolating them from wider peer groups: military service requires cooperation with people and beasts outside one's own bond.
+
+#### Examination calendar and progression reviews
+
+Rather than relying on one annual ranking examination, the academy uses a cycle of assessments:
+
+1. **Entry assessment:** Establishes the candidate's baseline knowledge, physical readiness, judgement and suitability for the chosen pathway.
+2. **Foundation review:** Confirms safe handling, military discipline, first aid, basic law and communication.
+3. **Term practicals:** Test the skills taught during the current period, including paired coordination where applicable.
+4. **Mid-course review:** Examines progress, attendance, conduct, welfare and whether the current division remains appropriate.
+5. **Annual field evaluation:** Uses a supervised scenario with incomplete information, changing conditions and limited resources.
+6. **Graduation board:** Reviews the complete record, branch qualification, professional conduct and readiness for field probation.
+
+A candidate's record should include improvement over time. One poor result caused by injury or an unfamiliar scenario should not erase years of sound work. Equally, a high examination score cannot excuse repeated unsafe conduct.
+
+The academy may publish cohort-level results and award distinctions, but private medical information, beast health records and sensitive compatibility details remain protected.
+
+#### Competitions and public demonstrations
+
+Competitions are intended to develop skill, morale and institutional pride. They are not a substitute for military assessment and should not encourage students to risk a partner's life for prestige.
+
+**Proposed annual event: The Abyssal Trials.** This multi-day academy event brings divisions and cohorts together through several different disciplines:
+
+| Event | Main test | Safeguard |
+|---|---|---|
+| **Formation Trials** | Team movement, communication, protection and response to changing orders | Victory is based on mission objectives, not injury or destruction |
+| **Beast Partnership Exhibition** | Trust, controlled ability use, communication and synchronised movement | No forced combat; welfare officers can stop a demonstration |
+| **Frontier Challenge** | Tracking, navigation, observation and evidence reporting | Scenarios reward accurate reports, not reckless pursuit |
+| **Engineering Trial** | Building, repairing or evaluating a defensive structure under time constraints | Structural and mana safety standards are mandatory |
+| **Rescue Exercise** | Evacuation, casualty care, beast recovery and resource prioritisation | Saving simulated lives takes priority over defeating an opponent |
+| **Strategic Command Exercise** | Planning, logistics, intelligence evaluation and command decisions | Judges assess consequences and adaptability, not just winning |
+
+Some events may be open to residents as public demonstrations, helping the academy build trust and recruit talent. Sensitive tactics, restricted beast abilities and classified equipment should not be displayed publicly.
+
+**Competition principle:** The best result is not always the fastest or most destructive. A team that recognises a trap, withdraws safely or protects a simulated civilian group may score higher than one that wins a direct contest while ignoring its mission.
+
+#### Individual honours and academy reputation
+
+**Proposal:** The academy awards distinctions for different kinds of achievement rather than maintaining a single universal student power ranking.
+
+Possible distinctions include:
+
+- **Abyssal Laurel:** Overall excellence across conduct, learning, teamwork and practical performance.
+- **Paired Harmony Citation:** Exceptional tamer–beast cooperation and mutual welfare.
+- **Frontier Merit:** Outstanding observation, navigation and field reporting.
+- **Shield of the Academy:** Exceptional rescue, protection or defensive judgement.
+- **Craft and Works Medal:** High-quality engineering, equipment or mana-safety work.
+- **Commander's Ledger:** Strong strategic planning, logistics and responsible leadership.
+
+These are academy honours, not military decorations and not guarantees of promotion. They may help a graduate's service application, but the receiving branch must still assess suitability.
+
+#### Student organisations and informal societies
+
+Students naturally form groups around shared interests, divisions, hometowns, beast species and ambitions. These groups create friendships and rivalry, but may also become channels for influence.
+
+**Proposal:** Recognised student organisations may include:
+
+- **Beast Observation Society:** Studies behaviour, habitats, bloodlines and compatibility, under approved access rules.
+- **Frontier Cartography Circle:** Produces maps and terrain reports using non-classified training data.
+- **Formation and Tactics Society:** Runs supervised strategy exercises and reviews historical battles.
+- **Abyssal Heritage Circle:** Studies approved family history, language, customs and public records.
+- **Engineering Workshop:** Builds training equipment and tests safe defensive mechanisms.
+- **Medical and Recovery Circle:** Supports supervised first-aid education and beast-care awareness.
+
+Societies may invite guest instructors and hold events, but cannot privately conduct dangerous cultivation experiments, acquire restricted beasts or access classified archives. Their budgets and leadership should be subject to transparent academy rules.
+
+#### Internal factions and sources of tension
+
+The academy should contain competing interests without becoming a school where every student belongs to a secret conspiracy. The following are proposed tendencies, not fixed organisations or confirmed canon.
+
+| Faction tendency | Core belief | Potential conflict |
+|---|---|---|
+| **Traditional Lineage Students** | Family methods and inherited knowledge should remain central to Dark's recovery | May resist admitting outsiders or revising old teachings |
+| **Merit Reformers** | Ability and service should matter more than ancestry or wealth | May challenge informal privileges and old sponsorship networks |
+| **Practical Veterans** | Field experience matters more than academic prestige | May distrust students who excel in examinations but lack real experience |
+| **Research Seekers** | Dark's lost harmonisation knowledge should be investigated and restored | May push for access to restricted records before safeguards are ready |
+| **Territorial Service Students** | The academy exists first to protect residents and the homeland | May oppose elite projects that consume resources without improving local defence |
+| **Prestige Competitors** | Public victories and elite-unit placement demonstrate the academy's strength | May encourage excessive rivalry, favouritism or dangerous demonstrations |
+
+These tendencies can overlap. A student may be a lineage traditionalist and a practical veteran, or a reformer who still values family knowledge. Instructors and senior officers may also disagree over curriculum, recruitment and the academy's role in restoring Dark's former capabilities.
+
+No faction should be inherently right or wrong. Their arguments should have understandable motives and real trade-offs.
+
+#### Instructor influence, patronage and fairness
+
+Instructors may become mentors and sponsors, especially for students with unusual aptitude. This creates useful character relationships but also a risk of patronage.
+
+**Proposed safeguards:**
+
+- A mentor may recommend a student but cannot unilaterally award a qualification or secure an elite-unit placement.
+- Selection panels should include more than one division or branch where practical.
+- Students must disclose financial sponsorships and close family relationships that could affect an assessment.
+- Cadets may report intimidation or favouritism through a channel outside their immediate instructor's authority.
+- Public competition judges should declare conflicts of interest and recuse themselves when necessary.
+- Disciplinary penalties must be based on evidence and allow a review process.
+
+A powerful family may still exert informal pressure. The rules reduce opportunities for abuse; they do not magically remove politics from the academy.
+
+#### Recruitment by the six military branches
+
+Branches may observe the Abyssal Trials and review graduating candidates, but recruitment must follow the same merit-based principles as military promotion.
+
+A branch may offer a candidate a pathway or specialist apprenticeship. The candidate should receive a clear explanation of duties, risks, training obligations and service terms before accepting.
+
+Elite formations may identify promising students early, but any provisional interest remains conditional. Final selection should occur only after the candidate has sufficient training and, where appropriate, field experience. A student must not be treated as the property of a unit or forced into a role because of family connections.
+
+#### Narrative opportunities
+
+- A low-status student wins the Rescue Exercise by abandoning a winnable duel to protect a simulated casualty, challenging the academy's prestige culture.
+- A famous bonded pair loses the Partnership Exhibition because the beast refuses an unsafe command, forcing judges to decide whether obedience or mutual trust defines excellence.
+- A Cadet Prefect abuses their limited authority and discovers that student standing offers responsibility but not immunity.
+- A competition exposes a gap between the academy's textbook counter-element doctrine and what actually happens in the field.
+- A student society discovers an old map that contradicts the academy's official account of a restricted site, creating a dispute over research access.
+- A wealthy household attempts to sponsor an entire cohort's equipment in exchange for influence over placements.
+- A promising candidate is courted by an elite formation but chooses a local defence branch because their home settlement lacks trained personnel.
+- Rival student groups cooperate during a real emergency, proving that academy identity can overcome factional divisions.
+
+The academy's social life should give the protagonist rivals, allies, mentors and institutional obstacles. Student status can create meaningful stakes, but the protagonist's development should also continue beyond the academy through field service, independent cultivation and relationships outside its walls.
+
+
 ### 3.7 Defensive design
 
 **Proposal:** Dark's defence reflects its original role as a counterbalancing family. It should not simply imitate the walls and armies of the Fire or Earth families.
@@ -1318,7 +1465,7 @@ This path connects his personal growth, the restoration of his family and the wo
 The following remain unresolved and must not be silently promoted to canon:
 
 1. **Cross-national institutions:** The families' cross-national influence is established. The exact structure, legal status and autonomy of their foreign branches and holdings remain proposals.
-2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements, military branch details, recruitment, conventional unit sizes, final elite-unit names and establishments, exact counter-technique mechanics, the academy's final name and location, admissions and course rules, examination standards, scholarship policy and post-loss support remain proposals. The military's paired tamer–beast cultivation qualification, separate merit-based rank ladder and individual-beast-loss rule are confirmed directions; exact universal cultivation realms, beast-bond metaphysics, compensation rules and detailed promotion procedures remain open. Exact borders, resources, population, force sizes, final legal categories and neighbouring states remain unresolved.
+2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements, military branch details, recruitment, conventional unit sizes, final elite-unit names and establishments, exact counter-technique mechanics, the academy's final name and location, admissions and course rules, examination standards, scholarship policy, student appointments and organisation rules, competition regulations, internal-faction boundaries and post-loss support remain proposals. The military's paired tamer–beast cultivation qualification, separate merit-based rank ladder and individual-beast-loss rule are confirmed directions; exact universal cultivation realms, beast-bond metaphysics, compensation rules and detailed promotion procedures remain open. Exact borders, resources, population, force sizes, final legal categories and neighbouring states remain unresolved.
 3. **Ancient promise:** Its existence and secrecy are established directions. Its exact wording, why the Dark head made it, who knows it exists, and whether it is enforced by a magical contract, bloodline curse, ancestral artifact or another mechanism remain unresolved.
 4. **Knowledge of the betrayal:** The extent of present-day knowledge is unknown. Do not assign knowledge to a particular faction, rank or generation without author confirmation.
 5. **Beast breeding:** Both inherited bloodlines and specialised cultivation contribute to compatibility. The precise methods, inheritance rules and limits remain proposals.
