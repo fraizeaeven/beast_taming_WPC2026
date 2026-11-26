@@ -883,6 +883,241 @@ Dark's best outcome is often not annihilating an enemy army. It may be preservin
 The elite formations should therefore reveal Dark's strengths and the cost of its decline. They are valuable because they solve narrow, difficult problems—not because they can defeat every enemy.
 
 
+
+### 3.6E Military academy and beast-tamer education system
+
+**Status: Proposed institutional design.** The academy's name, admission ages, duration, fees, exact examinations and legal powers remain proposals. This system is intended to develop the territorial military's next generation while respecting the established decisions: the Council oversees the military, cultivation is paired between tamer and beast, beast bonds are individual, and promotion is merit-based.
+
+#### Purpose and institutional identity
+
+**Proposed name: The Abyssal Defence Academy.**
+
+The Abyssal Defence Academy is the territory's principal institution for professional military education. It trains beast-tamers, non-tamer soldiers, beast handlers, scouts, healers, engineers, logisticians and future officers.
+
+It is not a private school exclusively for noble Dark descendants, nor is it an independent army. It operates under military law and the Council-supervised command structure. The academy's commandant manages education and discipline; operational military command remains with the High Commander and the lawful chain of command.
+
+Its purpose is to produce personnel who can defend the territory, work responsibly with beasts and cooperate across different elemental abilities. It should not be designed merely to produce the strongest individual combatants.
+
+**Core educational principle:** A recruit must learn to protect the partnership, the formation and the people depending on it. Raw power without judgement is considered an operational liability.
+
+#### Admission routes and equal service pathways
+
+The academy accepts candidates through several proposed routes:
+
+- **Family candidates:** Dark Family descendants may apply. Bloodline grants access to relevant family knowledge where appropriate, but does not guarantee admission, a beast bond, an officer commission or a place in an elite unit.
+- **Territorial residents:** Qualified residents may apply for military service and professional training. Their legal status and any applicable service obligations remain governed by territorial law.
+- **Affiliated households:** Members of households with recognised service agreements may apply through their household's established route.
+- **External specialists:** Candidates from outside the territory may be admitted for limited specialist instruction or contracted service. Access to ancestral records, restricted breeding grounds and sensitive harmonisation research is controlled separately.
+- **Existing bonded pairs:** A tamer who already has an individual beast partner may apply for assessment and training as a pair.
+- **Unbonded candidates:** A candidate without a beast may enter a suitable non-tamer or preparatory track, or seek a future bond through the authorised compatibility process. Admission must not promise that a suitable beast will be available.
+
+Selection should assess physical and mental readiness, aptitude, discipline, judgement, learning ability and willingness to respect beast welfare. A candidate's family influence or wealth should not be sufficient to bypass minimum standards.
+
+The academy should provide a route for capable candidates who cannot afford full fees. Possible mechanisms include territorial scholarships, service-supported places, household sponsorship and specialist bursaries. Funding terms must be transparent so that a scholarship does not become a hidden form of political or personal ownership.
+
+#### The academy's educational divisions
+
+| Division | Main responsibility | Typical graduates |
+|---|---|---|
+| **Tamer and Beast Studies** | Individual bond development, paired cultivation, communication and partnership welfare | Beast-tamer soldiers and pair specialists |
+| **Combat and Formation School** | Squad tactics, defensive operations, mixed formations and field exercises | Formation soldiers, squad leaders and tactical specialists |
+| **Reconnaissance and Frontier Studies** | Tracking, observation, terrain reading, patrol discipline and intelligence reporting | Scouts, trackers and frontier personnel |
+| **Beast Care and Recovery** | Beast medicine, conditioning, nutrition, injury recovery and safe handling | Beast handlers, beast physicians and recovery staff |
+| **Mana Engineering and Fortification** | Barriers, defensive works, mana-site safety, equipment and infrastructure | Engineers and technical personnel |
+| **Command and Military Studies** | Leadership, military law, logistics, planning, ethics and inter-branch coordination | Officer candidates and senior non-commissioned leaders |
+
+These are proposed teaching divisions, not necessarily six separate buildings or independent organisations. The academy may share instructors and facilities with the Support and Recovery Corps, Fortification and Mana Works and Beast Corps.
+
+#### A recruit's progression through the academy
+
+The following sequence is an educational pathway, not a new universal cultivation ladder and not an automatic military promotion ladder.
+
+**Stage 1 — Foundational preparation**
+
+All recruits receive instruction in:
+
+- Territorial law, military discipline and the chain of command.
+- Basic physical conditioning and safe movement in the field.
+- First aid, emergency response and casualty evacuation.
+- Beast behaviour, handling safety and the responsibilities of partnership.
+- Elemental threat recognition and the limits of available knowledge.
+- Communication, teamwork and reporting.
+
+At this stage, recruits are assessed for suitable specialisations. A candidate who is not suited to front-line combat may still have a valuable military future in medicine, logistics, engineering, reconnaissance or beast care.
+
+**Stage 2 — Partnership assessment**
+
+Candidates pursuing beast-tamer service undergo a compatibility and readiness assessment. It evaluates the tamer and beast as individuals and as a potential partnership.
+
+For candidates who already have a bond, instructors examine communication, trust, control, stress responses, recovery habits and safe coordination. For unbonded candidates, the academy may provide supervised access to approved compatibility assessments and authorised breeding or market specialists, but it does not guarantee a match.
+
+A candidate must not be pressured to bond with an unsuitable beast merely to meet a recruitment quota. A beast must not be treated as an object that can be assigned without regard to temperament, welfare or compatibility.
+
+**Stage 3 — Paired cultivation and basic field practice**
+
+A bonded pair learns to develop together. Training includes mana regulation, coordinated movement, defensive responses, controlled use of abilities and recovery after exertion.
+
+Instructors assess whether both partners are progressing safely. A tamer's stronger cultivation cannot conceal a beast's inability or unwillingness to perform a manoeuvre; a powerful beast cannot compensate for a tamer who cannot control or cooperate with it.
+
+Candidates who do not have a suitable bond continue in non-tamer training or another appropriate pathway rather than being labelled failures.
+
+**Stage 4 — Squad integration**
+
+Pairs and non-tamer personnel are assigned to mixed training groups. The academy tests communication, spacing, role discipline, protection of vulnerable members, response to changing orders and cooperation between different beast species.
+
+This stage is important because a successful individual pair may still be a poor fit for a particular formation. Instructors can recommend a different role without treating that change as a loss of honour.
+
+**Stage 5 — Branch qualification**
+
+Cadets complete practical assessments relevant to their chosen branch. A Frontier Guard candidate may be tested on patrol discipline and tracking reports; a Support and Recovery candidate on casualty treatment and beast recovery; a Fortification and Mana Works candidate on structural safety and mana-site procedures.
+
+Graduation certifies that a candidate has met defined training standards. It does not automatically grant a commissioned rank, a command post or a place in an elite formation.
+
+**Stage 6 — Field probation**
+
+New graduates serve under experienced personnel. Their performance is observed in supervised patrols, exercises, logistics assignments or operational support. Probation allows commanders to assess reliability outside the controlled academy environment.
+
+A graduate may be reassigned if their actual strengths differ from their original specialisation. Reassignment is a professional decision, not necessarily a punishment.
+
+**Stage 7 — Advanced and command education**
+
+Experienced personnel may return for specialist instruction, instructor certification, advanced formation training or officer education. Command candidates study military law, planning, supply, inter-branch coordination, casualty decisions and civilian protection.
+
+Command education is not reserved exclusively for the most powerful tamers. A capable logistics officer, engineer or strategist may become an effective commander without possessing the highest paired-cultivation qualification.
+
+#### How the academy assesses paired cultivation
+
+The academy records the tamer's development, the beast's development and the quality of their partnership separately before determining the pair's military qualification.
+
+Assessment should consider:
+
+- **Tamer capability:** Control, judgement, mana regulation, tactical awareness and ability to understand the beast's condition.
+- **Beast capability:** Health, cultivation development, control, stamina, temperament and role-specific ability.
+- **Synchronisation:** Communication, coordinated action, trust, response timing and stability under stress.
+- **Safety:** Ability to stop, withdraw or recover without causing unnecessary harm to the partner or formation.
+- **Operational reliability:** Whether the pair can perform its assigned role repeatedly under realistic conditions.
+
+The six military partnership qualifications established in Section 3.6C remain the reference framework. The academy does not create a separate competing tier system. It provides evidence for qualification reviews and recommends advancement when the pair demonstrates the required development.
+
+An examination should not be based on a single spectacular duel. Controlled practical trials, field exercises, instructor observation, recovery records and operational reports provide a more reliable picture.
+
+#### Examination, failure and reassessment
+
+**Proposal:** The academy uses several forms of assessment rather than one high-stakes tournament.
+
+| Assessment | What it measures |
+|---|---|
+| Written and oral examination | Knowledge of law, tactics, safety and branch procedures |
+| Controlled practical trial | Safe use of techniques and equipment |
+| Paired coordination test | Communication, synchronisation and mutual control |
+| Formation exercise | Teamwork, discipline and response to changing conditions |
+| Field exercise | Judgement under fatigue, uncertainty and environmental pressure |
+| Professional review | Integrity, conduct, learning progress and responsibility |
+
+A failed assessment results in a training review and a defined improvement plan where appropriate. It should not automatically end a candidate's military career. Some candidates may repeat a module, change specialisation, enter a support role or leave service.
+
+Candidates should be able to request a review when an examination is compromised by injury, equipment failure, instructor misconduct or a disputed assessment. Appeals should be handled by a separate panel rather than solely by the instructor whose decision is challenged.
+
+The academy must distinguish inability from misconduct. Deliberately endangering a beast, falsifying a field report, sabotaging another candidate or abusing a subordinate should carry disciplinary consequences even if the offender is highly talented.
+
+#### Beast selection, welfare and loss of a partner
+
+The academy works with the Beast Corps, recognised breeders, beast healers and licensed appraisers. It may provide access to suitable candidates, but the decision to form a bond must follow the world's established bond rules and the informed readiness of both partners.
+
+The academy should teach candidates to evaluate:
+
+- Bloodline and known inherited traits.
+- Elemental affinity and compatibility with the tamer.
+- Temperament, stress response and social behaviour.
+- Health, nutrition, injury history and cultivation environment.
+- Long-term training needs and realistic battlefield role.
+- Whether the candidate can provide appropriate care and resources.
+
+**Individual bond rule — confirmed direction:** If a beast dies, the tamer does not receive an automatic replacement. The academy provides reassessment and recovery support, then helps the individual determine a suitable next path. That may include continued service in a non-tamer role, a temporary reduction in operational duties, retirement or eventually seeking a new individual partner.
+
+A new bond begins as a new partnership. The tamer may retain personal knowledge and experience, but the new beast does not inherit the previous beast's cultivation, trust, synchronisation or qualification. The academy must not pressure a grieving tamer to bond again before they are ready.
+
+The exact legal, financial and psychological support provided after a partner's death remains a matter for territorial policy and is not established by this proposal.
+
+#### Elite-unit selection and specialist pathways
+
+The academy is the principal talent-development route for elite formations, but graduation does not guarantee elite status.
+
+- **Black Veil Company:** Selects candidates with exceptional observation, discretion, reporting discipline, field awareness and the ability to avoid unnecessary engagement.
+- **Null Chain Cohort:** Selects candidates with patience, restraint, defensive coordination, beast-handling safety and the ability to operate under pressure.
+- **Abyssal Spear:** Selects pairs with reliable mobility, rapid coordination, sound judgement and disciplined withdrawal.
+- **Sevenfold Wardens:** Selects candidates who can cooperate across different elemental capabilities and maintain stable formation synchronisation.
+- **Deep Bastion:** Selects defensive specialists, engineers, support personnel and pairs able to hold positions without abandoning civilian protection.
+- **Dusk Hounds:** Selects trackers and handlers with careful observation, evidence discipline and the ability to distinguish a genuine trail from a misleading signal.
+
+Selection should be based on specialist trials and observed service, not family status or a public tournament alone. Elite units may recruit experienced personnel from the field, including people who did not attend the academy through the conventional cadet route.
+
+#### Instructors and institutional integrity
+
+The academy requires a mix of experienced officers, veteran tamers, beast physicians, technical specialists, military historians and civilian educators.
+
+**Proposal:** Instructors are appointed based on professional record and teaching ability. A celebrated fighter is not automatically a good teacher. The academy should maintain standards for instructor conduct, beast welfare and assessment fairness.
+
+Safeguards may include:
+
+- Independent review of serious injuries, training deaths and allegations of abuse.
+- Clear limits on dangerous exercises and the authority to stop them.
+- Records of beast condition, training load and recovery.
+- Restrictions on using cadets for private political or commercial purposes.
+- Transparent scholarship and sponsorship agreements.
+- Separation between an instructor's personal influence and formal examination results.
+- Periodic review by military inspectors and an appropriate civilian or Council oversight mechanism.
+
+Because the Abyssal Council oversees the military, the academy's budget and senior command appointments remain accountable through the established military governance structure. The Council should not interfere in individual grades to reward political allies.
+
+#### Relationship with the six military branches
+
+The academy supplies trained personnel to all six branches, but each branch retains responsibility for operational standards and continuing field instruction.
+
+| Branch | Academy-to-service pathway |
+|---|---|
+| **Heartland Garrison** | Settlement defence, fixed-post discipline, reserve readiness and protection of strategic facilities |
+| **Frontier Guard** | Patrols, tracking, terrain knowledge, early warning and remote-post survival |
+| **Mobile Response Corps** | Rapid deployment, mixed-squad coordination, extraction and flexible mission planning |
+| **Beast Corps** | Beast training, welfare, appraising, breeding liaison and specialist deployment standards |
+| **Support and Recovery Corps** | Medicine, beast treatment, logistics, equipment maintenance and casualty recovery |
+| **Fortification and Mana Works** | Engineering, barrier maintenance, mana-site safety and defensive infrastructure |
+
+Personnel may transfer between branches after additional training and approval. The academy should encourage shared exercises so that branches understand each other's constraints before a crisis.
+
+#### Cost, access and the academy's weaknesses
+
+The academy is an important institution, but it cannot solve every military problem.
+
+- Specialist instructors are scarce, particularly in ancient Dark harmonisation and advanced mixed-element work.
+- Training compatible pairs is expensive and takes years; the territory cannot produce elite teams on demand.
+- Family descendants may enjoy informal advantages through access to tutors, breeding records or resources, even when formal admission is fair.
+- Wealthy households may try to purchase superior training or influence placement.
+- Remote residents may struggle to attend because of travel, living costs or family responsibilities.
+- The academy may overvalue examination performance and undervalue practical experience gained in frontier settlements.
+- A damaged breeding system limits the number and variety of suitable beasts available to cadets.
+- Political factions may attempt to shape the curriculum, historical teaching or access to restricted records.
+
+These tensions create opportunities for reform and conflict. The academy should be respected but not idealised.
+
+#### Narrative opportunities
+
+- A talented recruit from an ordinary household outperforms a well-connected family descendant, creating resentment over admissions and sponsorship.
+- The protagonist may be rejected from a conventional tamer track because his unusual compatibility cannot be safely assessed by standard tests.
+- A beast refuses a candidate who has excellent cultivation potential, forcing instructors to defend the principle that partnership cannot be imposed.
+- A pair passes its individual examination but fails formation integration, showing that personal strength does not equal teamwork.
+- A veteran frontier soldier becomes a better instructor than a famous tournament champion.
+- A disputed assessment exposes political pressure on the academy.
+- The protagonist's unusual cultivation draws attention from several divisions, each wanting to classify or control his development.
+- A training accident reveals that an old technique in the academy's restricted archive was misunderstood and is more dangerous than instructors believed.
+
+The academy gives the protagonist a place to encounter the territory's institutions, ordinary recruits, professional soldiers and rival heirs. It should not become the only route to growth: field experience, mentors, independent research, beast-market encounters and dangerous expeditions remain equally important paths.
+
+#### Decisions still required
+
+The following are not established canon: the academy's final name and location; whether it is a single campus or a network of branch schools; admission age and minimum qualifications; course duration; fees and scholarship rules; the exact relationship between academy command and the High Commander; whether civilian oversight is assigned to a specific Council committee; the legal process for bonding a beast; the precise support offered after a beast's death; and the formal examinations and appeals process.
+
+
 ### 3.7 Defensive design
 
 **Proposal:** Dark's defence reflects its original role as a counterbalancing family. It should not simply imitate the walls and armies of the Fire or Earth families.
@@ -1083,7 +1318,7 @@ This path connects his personal growth, the restoration of his family and the wo
 The following remain unresolved and must not be silently promoted to canon:
 
 1. **Cross-national institutions:** The families' cross-national influence is established. The exact structure, legal status and autonomy of their foreign branches and holdings remain proposals.
-2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements, military branch details, recruitment, conventional unit sizes, final elite-unit names and establishments, exact counter-technique mechanics and detailed military oversight remain proposals. The military's paired tamer–beast cultivation qualification, separate merit-based rank ladder and individual-beast-loss rule are confirmed directions; exact universal cultivation realms, beast-bond metaphysics, compensation rules and detailed promotion procedures remain open. Exact borders, resources, population, force sizes, final legal categories and neighbouring states remain unresolved.
+2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements, military branch details, recruitment, conventional unit sizes, final elite-unit names and establishments, exact counter-technique mechanics, the academy's final name and location, admissions and course rules, examination standards, scholarship policy and post-loss support remain proposals. The military's paired tamer–beast cultivation qualification, separate merit-based rank ladder and individual-beast-loss rule are confirmed directions; exact universal cultivation realms, beast-bond metaphysics, compensation rules and detailed promotion procedures remain open. Exact borders, resources, population, force sizes, final legal categories and neighbouring states remain unresolved.
 3. **Ancient promise:** Its existence and secrecy are established directions. Its exact wording, why the Dark head made it, who knows it exists, and whether it is enforced by a magical contract, bloodline curse, ancestral artifact or another mechanism remain unresolved.
 4. **Knowledge of the betrayal:** The extent of present-day knowledge is unknown. Do not assign knowledge to a particular faction, rank or generation without author confirmation.
 5. **Beast breeding:** Both inherited bloodlines and specialised cultivation contribute to compatibility. The precise methods, inheritance rules and limits remain proposals.
