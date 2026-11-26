@@ -21,7 +21,7 @@ Historical knowledge queries, explicit POV knowledge boundaries, chapter event r
 ## v1.6 — AI-assisted chapter workflow
 Provider-neutral chapter analysis prompt, grounded context, structured findings with evidence/confidence, staged registry/chapter proposals and explicit per-proposal approval. Implemented in [AI-Assisted Chapter Workflow](AI_ASSISTED_CHAPTER_WORKFLOW.md). AI inference is performed by a user-selected model; no provider API is called by the engine.
 
-## v2.0 — Novel continuity intelligence
+## v1.7 — Character psychology and emotional analysis\nScene-level psychological beat annotations, automatic reactions, thoughts, emotions, physical sensations, expressed emotion, underlying needs, misbeliefs, choices and evidence-backed seven-stage arc review. Implemented in [Character Psychology and Emotional Analysis](CHARACTER_PSYCHOLOGY.md). AI-assisted interpretation remains advisory and author-approved.\n\n## v2.0 — Novel continuity intelligence
 Cross-chapter contradiction graph, payoff coverage, mystery/foreshadowing tracking, historical queries and impact analysis when earlier canon is revised.
 
 ## Recommended implementation order
@@ -29,4 +29,4 @@ Cross-chapter contradiction graph, payoff coverage, mystery/foreshadowing tracki
 1. Complete and review story structure records.
 2. Use chapter context retrieval as the drafting preflight.
 3. Use historical character-state, knowledge and timeline queries during drafting.
-4. Add AI ingestion only after retrieval and provenance are reliable.
+4. Use the AI-assisted chapter workflow and review every proposed change.\n5. Record psychology beats only when supported by the draft and author-confirmed interpretation.
