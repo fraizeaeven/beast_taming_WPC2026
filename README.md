@@ -17,6 +17,6 @@ npm run validate
 npm run chapter:show -- 1
 ```
 
-See [Engine Guide](docs/ENGINE_GUIDE.md), [Record Schema](docs/RECORD_SCHEMA.md), and [Roadmap](docs/ROADMAP.md).
+Start with the [Story Bible](docs/STORY_BIBLE.md) for the established premise, protagonist, family relationships, themes, mysteries and undecided canon. See [Engine Guide](docs/ENGINE_GUIDE.md), [Record Schema](docs/RECORD_SCHEMA.md), and [Roadmap](docs/ROADMAP.md) for engine usage.
 
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled.
