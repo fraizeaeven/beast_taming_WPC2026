@@ -1833,3 +1833,214 @@ The following remain unresolved and must not be silently promoted to canon:
 6. **Names and titles:** All clan names and titles in this document are provisional.
 7. **Species details:** The signature beast names are design inspirations; their exact biology, rarity, cultivation stages and abilities need further development.
 8. **Historical chronology:** The dates, generations and specific events of the betrayal are not established.
+
+## 11. Dark territory trade network, external diplomacy and economic relationships
+
+**Status: Proposed development.** This section builds on the Dark territory's mixed civilian economy and its independent political status. It does not establish exact borders, treaty names, tariffs, currency, trade volumes or the present rulers of neighbouring states. Those details remain open for author decisions.
+
+### 11.1 Strategic principle: trade without surrendering independence
+
+The Eternal Abyss Clan's territory cannot prosper through isolation, but it also cannot allow its survival to depend on the goodwill of the six families that participated in its historical decline.
+
+Its external policy therefore follows three principles:
+
+1. **Commercial openness with controlled strategic access:** Ordinary goods, professional services and civilian commerce should move across the borders where possible. Restricted archives, ancestral breeding records, rare mana sites and military facilities remain protected.
+2. **Multiple partners, no single patron:** Dark should avoid becoming economically dependent on one kingdom, merchant league or elemental family. It seeks several routes and suppliers, even when those relationships are politically uncomfortable.
+3. **Separate commerce from political submission:** A merchant may negotiate a contract with a foreign family or kingdom without granting that power authority over Dark's government. Trade agreements do not automatically create military obligations, political allegiance or rights over ancestral land.
+
+This is not a policy of trusting every foreign partner. It is a policy of making the territory difficult to isolate or control.
+
+### 11.2 What the Dark territory exports
+
+Dark's exports should reflect its real strengths and current limitations. It should not suddenly become the world's dominant supplier of every rare resource.
+
+| Export category | Examples | Strategic value and limitation |
+|---|---|---|
+| Beast-related services | Beast appraisal, specialist handling, rehabilitation, compatibility assessment and training | Builds on Dark's beast knowledge; sensitive methods must be separated from ordinary commercial services |
+| Selective breeding stock | Approved Dark-affinity beasts, working beasts and carefully documented bloodlines | Generates income and influence, but breeding capacity is limited and valuable lines should not be sold recklessly |
+| Countermeasure equipment | Protective fittings, containment tools, mana-dampening components and specialist field kits | Useful to caravan guards and military clients; effectiveness depends on the threat and must not be marketed as universal elemental cancellation |
+| Mana engineering services | Inspection of unstable mana installations, containment maintenance and specialist repairs | A valuable niche, but dangerous work requires licensing, insurance and trained personnel |
+| Medicinal and ecological products | Herbs, fungi, minerals and materials cultivated in the territory's unusual environments | Exports depend on sustainable harvesting and reliable quality control |
+| Training and professional knowledge | Public courses in beast welfare, tracking, mixed-unit safety and mana hazard awareness | Creates long-term relationships; restricted harmonisation methods remain excluded |
+| Historical and technical research | Non-restricted manuscripts, verified historical services and commissioned studies | Can attract scholars and institutions, but risks revealing knowledge that should remain protected |
+
+**Export safeguard:** Dark should distinguish between a product's commercial version and its underlying strategic method. Selling a tested restraint device does not require handing over the ancestral formula, full mana theory or source archive used to develop it.
+
+The territory should also refuse or restrict exports that would directly enable mass atrocities, forced beast bonding, unlawful suppression of civilian populations or the destruction of protected habitats. The exact licensing authority and enforcement law remain to be designed.
+
+### 11.3 What Dark must import
+
+Dark's lost territory and limited population make imports essential. Its trade policy should acknowledge dependence rather than hide it.
+
+| Import category | Likely suppliers | Why Dark needs it |
+|---|---|---|
+| Staple food and agricultural varieties | Nearby kingdoms, farming regions and Water-linked trade networks | Protects against poor harvests and limited arable land |
+| Medicine and rare healing ingredients | Water and Light institutions, independent physicians and neutral merchants | Supports residents, soldiers and bonded beasts |
+| Metals, stone and construction materials | Earth-linked mines, independent mining towns and general markets | Maintains roads, workshops, fortifications and housing |
+| Precision tools and mana instruments | Lightning workshops and independent technical guilds | Supports engineering, research and repair |
+| Textiles, household goods and ordinary manufactured products | Multi-family merchant routes and urban markets | Supplies everyday civilian demand |
+| Non-native beast species and feed ingredients | Licensed beast markets, breeders and mercenary networks | Broadens breeding diversity and replaces ecological gaps without relying only on dangerous expeditions |
+| Books, maps and technical records | Foreign academies, private collectors and scholarly exchanges | Restores knowledge lost during the historical decline |
+
+**Resilience rule:** Critical supplies should have more than one potential source wherever practical. Dark should maintain reserves of essential food, medicine, beast feed, repair materials and mana-stabilising supplies. A reserve is not a substitute for trade; it buys time when a route is disrupted.
+
+### 11.4 The six families: distinct commercial relationships
+
+The six families should not behave as one unified trading bloc. Their interests differ, and the old Sixfold Accord was a loose alliance rather than a permanent central government. Each family's branches may therefore follow a different policy from its elders or from another branch.
+
+| Family | Potential trade with Dark | Political friction and leverage |
+|---|---|---|
+| **Fire — Crimson Flame Clan** | Metalwork contracts, furnace components, heat-resistant equipment, weapons maintenance and specialist beast training | Fire may fear that Dark's countermeasures undermine its military prestige. It may restrict high-grade equipment or demand military concessions |
+| **Water — Azure Tide Clan** | Medicine, healing ingredients, aquatic products, shipping, food and beast-recovery services | Water's control of trade and medical networks can make supply access a pressure point. Humanitarian healers and commercial houses may resist punitive restrictions |
+| **Earth — Mountain Throne Clan** | Stone, ore, construction, fortification materials, mining expertise and infrastructure contracts | Earth may dispute access to former Dark lands, underground routes or sealed mana sites. Resource contracts can become territorial disputes |
+| **Wind — Heavenly Sky Clan** | Courier services, aerial transport, route surveys, weather intelligence and long-distance communication | Wind-linked brokers may possess information about routes, customers and political movements. Dark must distinguish reliable intelligence from information sold for profit |
+| **Lightning — Thunder Sovereign Clan** | Precision instruments, mana regulators, communication equipment, technical research and specialist repairs | Lightning may seek access to Dark's unusual mana phenomena and old records. Research exchange can become extraction or espionage |
+| **Light — Sacred Dawn Clan** | Public medicine, educational texts, ordinary healing supplies and formally recognised scholarly exchanges | Light's role in the betrayal makes institutional trust especially difficult. Its moral authority and influence over certification or public narratives can be used to stigmatise Dark's goods and partners |
+
+These are proposed commercial tendencies, not fixed policies. A Water branch may refuse to participate in a blockade; a Fire merchant may value a profitable contract more than old hostility; a Light reformer may quietly support fair trade. Individual decisions should matter.
+
+**Important distinction:** Commercial contact does not prove reconciliation, and refusing a trade agreement does not prove that every member of a family supports hostility. The story should show disagreement within families as well as conflict between them.
+
+### 11.5 Trade routes and the geography of dependence
+
+The Dark territory should have several types of route rather than one convenient road connecting it to the entire world.
+
+**Proposed route network:**
+
+- **The Heartland Road:** The principal overland route linking the main settlement and civilian markets to a neighbouring commercial region. It carries food, tools, construction goods and ordinary caravans.
+- **The River or Waterway Route:** A route operated by independent carriers and Water-linked merchants. It is efficient for bulk cargo but vulnerable to port access restrictions, tolls, inspections and seasonal conditions.
+- **The High Pass Route:** A difficult mountain corridor connecting to Earth- or Fire-influenced regions. It is useful for ore, stone and specialist equipment, but can be closed by weather, landslides or political control.
+- **The Sky Courier Line:** A limited, high-value network using Wind-compatible beasts or licensed aerial carriers. It moves documents, medicine and small urgent cargo rather than replacing bulk transport.
+- **The Neutral Market Circuit:** A chain of independent towns, caravan stations and beast markets where no single elemental family has complete control. It is slower and may cost more, but gives Dark an alternative when direct family trade becomes politically dangerous.
+
+The names are provisional. The routes' exact locations should be chosen only after the Dark territory's borders and neighbouring states are fixed.
+
+**Route design rule:** Every major route needs a physical vulnerability and a political vulnerability. A mountain pass may be blocked by a landslide or closed by a local lord. A river route may remain physically open while its insurers, dockmasters or customs officers refuse Dark cargo. A courier line may avoid roadblocks but expose sensitive information to interception.
+
+Dark should maintain route maps, alternative carriers, emergency depots and agreements for civilian evacuation. Frontier Guard patrols may protect the territory's approaches, but ordinary merchants should not be forced to depend on military escorts for every journey.
+
+### 11.6 Merchant independence and the limits of government control
+
+Independent merchants are essential to the territory's resilience. If every foreign contract requires personal approval from the Patriarch, commerce becomes slow and vulnerable to political bottlenecks.
+
+**Proposal:** Merchants may negotiate and conclude ordinary lawful contracts independently, subject to published territorial law.
+
+They may:
+
+- Buy and sell ordinary goods across borders.
+- Choose among approved routes, carriers, insurers and trading partners.
+- Form cooperatives, partnerships and foreign commercial branches.
+- Refuse contracts they consider unsafe or unprofitable.
+- Petition the Council when a regulation unfairly targets their business.
+- Disclose a foreign partner's political demands without automatically being treated as disloyal.
+
+They may not:
+
+- Sell restricted ancestral records, military plans or protected breeding data without authorisation.
+- Transfer ownership of protected mana sites or strategic land through an ordinary commercial contract.
+- Use trade licences to conceal trafficking, stolen beasts or forced bonding.
+- Hire private forces to conduct undeclared war or intimidate residents.
+- Claim that a commercial agreement grants foreign officials jurisdiction inside Dark territory.
+
+**Government role:** The civilian administration maintains customs rules, contract enforcement, market standards, anti-fraud measures and strategic export controls. The Abyssal Council sets broad policy and reviews restrictions with major security implications. The Patriarch may represent the territory in high-level diplomacy under the shared-authority system, but should not personally control every merchant's business.
+
+A merchant who trades with a former enemy should not automatically be branded a traitor. The relevant questions are whether the trade is lawful, whether restricted assets are involved, whether the contract creates hidden political obligations and whether the merchant has concealed a genuine security threat.
+
+### 11.7 External diplomacy: practical agreements before grand reconciliation
+
+Dark's diplomatic network should be built from practical needs. It does not need universal recognition or friendship before it can function.
+
+**Proposed diplomatic instruments:**
+
+1. **Commercial access agreements:** Set customs procedures, market access, transit rights and dispute mechanisms.
+2. **Caravan and route protection pacts:** Coordinate patrol warnings, rescue obligations and compensation for attacks on lawful traders.
+3. **Medical and beast-care protocols:** Permit emergency treatment across borders and establish standards for transporting injured beasts.
+4. **Research exchange agreements:** Allow limited cooperation on public or non-restricted mana research, with clear rules against unauthorised access to ancestral archives.
+5. **Non-aggression and border arrangements:** Reduce accidental clashes, define patrol boundaries and establish channels for handling incidents.
+6. **Temporary crisis agreements:** Enable food, medicine and evacuation corridors during famine, disease, mana disasters or natural catastrophe.
+
+Agreements should have written terms, named signatories, duration, review procedures and a clear way to suspend or terminate them. Dark should avoid vague promises that can later be interpreted as permanent submission.
+
+**Diplomatic representation:** The territory may use appointed envoys, commercial attachés, legal representatives and trusted merchant delegates. Their authority should be documented. A merchant is not automatically a diplomat, and an envoy should not be able to commit the territory to war or permanent territorial concessions without the required approval.
+
+### 11.8 Economic pressure as a political weapon
+
+The other families or their partner kingdoms do not need to invade Dark to weaken it. They can pressure the territory through systems that appear commercial or administrative.
+
+| Pressure method | Immediate effect | Dark's possible response |
+|---|---|---|
+| Selective customs delays | Perishable goods spoil and delivery costs rise | Diversify crossings, use bonded storage and challenge discriminatory treatment |
+| Insurance refusal | Merchants avoid routes or charge extreme premiums | Create pooled risk funds and negotiate with neutral carriers |
+| Medical export restrictions | Residents and beasts face shortages | Maintain emergency reserves, cultivate alternatives and seek independent physicians |
+| Market certification campaigns | Buyers distrust Dark products | Publish transparent testing, provenance and independent inspection records |
+| Credit withdrawal | Workshops and merchants cannot finance cargo | Develop cooperative lending and multiple commercial partners |
+| Transit denial | One route becomes unusable | Activate alternate routes and negotiate with intermediate towns |
+| False contamination claims | Beast stock or medicinal goods lose market access | Preserve health records, use independent appraisers and pursue formal disputes |
+| Pressure on foreign partners | Merchants fear losing access to larger markets | Protect lawful partners through diversified contracts and public documentation |
+
+Dark's response should not always be successful. Diversification costs money, alternative routes may be longer, and neutral merchants may demand higher prices. Economic resilience is built over time and never becomes complete immunity.
+
+**Escalation ladder:** A trade dispute may begin with a customs disagreement, progress to selective restrictions, then become coordinated market exclusion, and finally threaten essential supplies. Each stage creates opportunities for negotiation, investigation, covert interference or public confrontation.
+
+### 11.9 Internal political debate over foreign trade
+
+Trade policy should create arguments inside Dark rather than being a simple choice between isolation and openness.
+
+| Internal tendency | Position | Risk if dominant |
+|---|---|---|
+| **Protective Traditionalists** | Limit foreign access to preserve ancestral knowledge and prevent renewed exploitation | Isolation, stagnant industries and dependence on a narrow set of supplies |
+| **Commercial Pragmatists** | Expand trade with any lawful partner who respects territorial rules | Strategic dependence, commercial capture and underestimation of political coercion |
+| **Restorationists** | Use trade to rebuild resources and influence before seeking lost status | May prioritise power and expansion over civilian welfare |
+| **Civic Economists** | Put food security, employment, medicine and fair market access first | May underestimate the strategic importance of restricted knowledge and security |
+| **Security Hardliners** | Treat trade with hostile families as a potential intelligence and sabotage channel | Excessive surveillance, reduced trust and damage to legitimate commerce |
+
+These are political tendencies, not fixed parties. Members may change positions after a crisis. A merchant can be patriotic while supporting trade; a traditionalist can support imports of medicine; a security officer can defend commercial independence because a healthy economy strengthens territorial security.
+
+### 11.10 Economic safeguards and strategic reserves
+
+The territory should protect essential functions without turning the entire economy into a state-controlled system.
+
+**Proposed safeguards:**
+
+- Maintain more than one supplier for critical imports where possible.
+- Keep emergency reserves of staple food, essential medicine, beast feed and key repair materials.
+- Audit contracts involving military procurement, strategic sites and public funds.
+- Require clear ownership and provenance records for rare beasts and restricted breeding stock.
+- Protect merchants from arbitrary seizure while retaining lawful emergency powers with compensation and review.
+- Use independent inspection for goods whose safety or authenticity is disputed.
+- Prevent a single guild, family branch or foreign partner from controlling every route for an essential commodity.
+- Publish the broad reasons for major trade restrictions while protecting genuinely sensitive operational details.
+- Review sanctions and emergency controls periodically so temporary restrictions do not become permanent tools of private enrichment.
+
+The Council's military oversight does not make every trade issue a military matter. Civilian officials, guilds, courts and commercial representatives should have defined roles. Military intelligence may advise on genuine security risks, but should not be allowed to suppress ordinary competition merely because a merchant trades with a rival family.
+
+### 11.11 Narrative opportunities
+
+- A Water-linked medicine consortium continues supplying Dark despite pressure from its own family elders, forcing both sides to decide whether humanitarian commerce is worth the political cost.
+- A merchant convoy is delayed by a customs order that is technically lawful but selectively enforced against Dark cargo.
+- A Wind courier sells a route map to two competing buyers; the information is accurate, but its timing places a civilian caravan in danger.
+- An Earth mining company claims that a newly discovered vein lies beyond Dark's recognised border, reopening an old territorial dispute.
+- A Lightning researcher offers advanced equipment in exchange for access to an ancestral mana site, creating a conflict between scientific cooperation and strategic secrecy.
+- A Light institution publicly refuses Dark's goods as unsafe, while a reformist physician inside Light presents evidence that the accusation is fabricated.
+- A neutral market town becomes prosperous by trading with all seven families, then faces pressure to choose a side.
+- A merchant who lawfully trades with Fire is accused of betrayal by a hardliner, while evidence shows that the contract helped secure food during a shortage.
+- A blockade is broken not by a military victory but by a network of small carriers, rural producers and independent healers.
+- The Council must decide whether to spend its limited reserves on immediate imports or invest in local production that will only reduce dependence years later.
+
+### 11.12 Decisions still required
+
+The following remain proposals and must not be treated as established canon:
+
+1. The exact location and political identity of neighbouring kingdoms, empires and neutral trade towns.
+2. The Dark territory's final export specialities and which goods are restricted, licensed or freely traded.
+3. The names, geography, capacity and security arrangements of the principal trade routes.
+4. Whether Dark has formal diplomatic recognition from any neighbouring state and which governments maintain resident envoys.
+5. The authority responsible for customs, commercial licensing, export controls and trade disputes.
+6. The extent to which merchants may establish foreign branches and whether they require registration or a territorial charter.
+7. The rules governing foreign ownership, joint ventures and investment in strategic industries.
+8. The size and management of food, medicine, beast-feed and material reserves.
+9. Which branches of the six families currently trade with Dark, oppose trade or quietly maintain contact.
+10. Whether the Sixfold Accord still has any active economic restrictions, or whether its effects survive mainly through inherited institutions and commercial habits.
+11. The exact procedures for approving treaties, suspending trade and declaring an economic emergency under the shared Patriarch–Abyssal Council government.
+
+**Design rule:** Dark's trade network should make independence materially possible but never effortless. Commerce creates income, knowledge and allies; it also creates exposure, leverage and opportunities for betrayal. The territory's strength comes from maintaining choices when a powerful neighbour tries to remove them.
