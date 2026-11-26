@@ -3776,3 +3776,533 @@ The following remain open and are not confirmed canon:
 12. The degree to which Water's historical relationship with the Sixfold Accord shapes present-day policy toward Dark.
 
 **Design principle:** The Azure Tide Clan should be powerful because it connects people, sustains life, protects movement and understands the systems on which civilisation depends. Its central test is whether it can exercise influence without turning essential needs—water, medicine, food and safe passage—into instruments of coercion.
+
+
+## 15. Earth Family — Mountain Throne Clan: Detailed Civilisation Development
+
+**Development status:** This section is a detailed proposed framework. Its institutions, names, territories, beasts, laws and political arrangements are proposals for future confirmation, not automatically established canon. It expands the Mountain Throne Clan introduced in Section 12 while preserving the Seven Families' transnational character.
+
+### 15.1 Civilisational identity and governing philosophy
+
+The Mountain Throne Clan's defining source of power is not simply the ability to control earth or raise defensive walls. It is the ability to make land usable, defensible and sustainable over generations.
+
+Its civilisation is organised around five principles:
+
+1. **Foundations before monuments:** A fortress, city or road is only as strong as its foundations, drainage, supply lines and maintenance.
+2. **Land carries obligations:** Whoever controls a mine, pass, river source, farm terrace or underground settlement inherits duties toward the people and ecosystems that depend on it.
+3. **Endurance is active work:** Stability is not stagnation. It requires inspection, repair, adaptation, reserves and the willingness to replace failing institutions.
+4. **Measured extraction:** Stone, metal, soil and subterranean resources are finite or recover only slowly. Extraction without restoration is considered a failure of stewardship.
+5. **Defence protects continuity:** Military strength exists to preserve communities, routes, food stores and essential infrastructure—not to justify permanent expansion.
+
+The clan's central political question is therefore: **Who has the right to decide how land is used, and who bears the cost when that decision fails?**
+
+Earth should not be portrayed as uniformly conservative, patient or honourable. Its institutions can protect the vulnerable, but can also shelter entrenched landowners, delay urgent reforms and disguise private interests as the public good.
+
+### 15.2 Ancestral territory: The Stonecrown Range
+
+The proposed ancestral homeland is the **Stonecrown Range**, a vast mountain and plateau system containing high passes, fertile terraces, deep mineral belts, underground reservoirs, caverns and strategically important valleys.
+
+Its geography is varied. Not every resident lives in a mountain fortress, and not every settlement is built underground. The territory includes farming provinces, mining towns, river valleys, quarry districts, alpine pastures, forested slopes and high-altitude communities.
+
+#### A. The six principal regions
+
+1. **Thronepeak:** The political and ceremonial heartland. A high central massif holds the ancestral citadel, assembly halls, record vaults and major cultivation sanctuaries. Its elevation and natural defences make it difficult to assault, but also make supply and evacuation planning essential.
+2. **Ironroot Deeps:** A network of deep mines, subterranean workshops, mineral caverns and underground settlements. It is economically important and heavily regulated because collapses, gas pockets, groundwater disruption and deep-beast incursions can become disasters.
+3. **Granite Marches:** A chain of mountain passes, border fortresses and exposed ridgelines. The region contains road stations, signal towers, patrol settlements and defensive works. Control of the Marches affects movement between several neighbouring territories.
+4. **Terrace Provinces:** Valleys and stepped slopes supporting grain, root crops, orchards, livestock and medicinal plants. Their irrigation channels and retaining walls are essential public infrastructure.
+5. **Deepstone Sanctums:** Protected caverns, ancient geological formations and cultivation grounds where rare Earth-affinity beasts and mineral formations are studied. Access is limited by ecological and safety rules rather than lineage status alone.
+6. **Pillarheart Basin:** A broad interior basin containing reservoirs, quarries, stoneworking towns, engineering schools and major transport junctions. It connects the highlands to external trade routes and supplies much of the clan's construction expertise.
+
+#### B. Settlement pattern
+
+The Stonecrown Range has several settlement types:
+
+- **High citadels:** Administrative, military and ceremonial centres on defensible elevations.
+- **Pass towns:** Commercial and logistical settlements at mountain crossings.
+- **Terrace villages:** Agricultural communities built around shared irrigation and slope maintenance.
+- **Mining cities:** Industrial settlements near mineral deposits, with strict safety and water-management requirements.
+- **Cavern settlements:** Underground communities near stable caverns and water sources, with ventilation, lighting and evacuation infrastructure.
+- **Frontier stations:** Smaller communities supporting patrols, surveying, rescue and beast monitoring.
+- **Quarry and craft towns:** Settlements specialising in stone, ceramics, masonry, sculpture and construction components.
+
+The capital is provisionally named **Stonecrown Citadel**, located in the Thronepeak region. Its final location, population and relationship to the wider territorial administration remain open.
+
+#### C. Land-use law and stewardship
+
+The clan distinguishes between ancestral ownership, public jurisdiction, community use, licensed extraction and protected land. A family lineage may hold inherited rights, but those rights do not automatically include unlimited control over water, roads, mines or communal slopes.
+
+Proposed protections include:
+- Geological and structural surveys before major construction or extraction.
+- Public registration of mining concessions and quarry boundaries.
+- Mandatory support plans for workers and residents affected by subsidence or closure.
+- Protected watersheds, unstable slopes, ancient caverns and rare-beast habitats.
+- Community consultation before relocation or major alteration of shared land.
+- Restoration bonds for large mines and quarries.
+- Independent inspection of retaining walls, tunnels, bridges and dams.
+- Emergency access rights where a private property failure threatens a wider settlement.
+
+These rules create conflict when a wealthy lineage argues that inherited land rights should outweigh public safety or when local communities resist a project they believe will damage their livelihood.
+
+### 15.3 Government: The Mountain Throne and Stone Assembly
+
+The proposed central authority is the **Mountain Throne**, held by a **Mountain Sovereign**. The title represents custodianship of the ancestral territory and the duty to preserve its foundations. It does not imply that the Sovereign personally owns every mountain, mine or settlement.
+
+The Sovereign governs alongside the **Stone Assembly**, a deliberative institution representing territorial administration, major lineages, engineering and mining interests, agricultural provinces, military defence and recognised civic communities.
+
+This arrangement is intended to make Earth neither a simple hereditary monarchy nor a modern mass democracy. Authority is shared, but representation is unequal and contested.
+
+#### A. The Mountain Sovereign
+
+Proposed responsibilities:
+- Represents the clan in high-level interfamily diplomacy.
+- Confirms senior territorial appointments through established procedures.
+- Ensures continuity of public infrastructure and emergency reserves.
+- Acts as the final constitutional mediator in disputes between major institutions.
+- Approves defensive mobilisation within the limits set by law.
+- Protects the integrity of land records, public works and ancestral sanctuaries.
+
+The Sovereign should not be able to grant a mine, pass or reservoir to a private ally without review. Nor should the Sovereign be able to override safety findings simply because a project is politically important.
+
+#### B. The Stone Assembly
+
+Proposed representation is organised through several chambers or standing delegations:
+
+1. **Territorial Delegation:** Representatives from the six principal regions, including smaller settlements and frontier districts.
+2. **Lineage Delegation:** Recognised ancestral houses with historical responsibilities and resources.
+3. **Works and Resources Delegation:** Engineers, surveyors, mining authorities, quarry operators and infrastructure specialists.
+4. **Civic and Provincial Delegation:** Agricultural communities, town administrations, craft associations and resident representatives.
+5. **Defence Delegation:** Senior military officers and frontier administrators, with a restricted role in civilian legislation.
+
+The exact number of seats and selection process remain undecided. A proposed safeguard is that no single delegation can pass major land-use or extraction legislation alone.
+
+#### C. Political tendencies
+
+The Stone Assembly contains competing philosophies rather than one unified Earth ideology:
+
+- **Throne Traditionalists:** Defend hereditary obligations, ancestral customs and gradual reform. They value continuity but may protect old privileges.
+- **Stewardship Reformers:** Demand stronger environmental safeguards, transparent land records and wider civic representation.
+- **Deepworks Consortium:** Supports mining, heavy industry and large construction projects. It argues that resource development funds security and prosperity, but risks regulatory capture.
+- **Frontier Guardians:** Prioritise pass security, fortifications, local autonomy and reliable military supply.
+- **Terrace Compact:** Represents farmers, watershed communities and provincial settlements seeking fair investment and protection from extraction damage.
+- **Stonecraft Guild Bloc:** Promotes technical standards, apprenticeships, engineering innovation and professional independence from lineage politics.
+
+These tendencies are not permanent parties. Members may cooperate on a bridge project while opposing each other over a mine, military road or relocation plan.
+
+#### D. Law, accountability and succession
+
+Proposed institutional safeguards:
+- A public register of major land concessions, public works contracts and territorial boundaries.
+- Independent technical inspectors with authority to suspend dangerous work.
+- A court or tribunal for disputes involving land, water, mining rights and public infrastructure.
+- A formal appeal process for communities affected by relocation or resource restrictions.
+- Budget review by the Stone Assembly.
+- Conflict-of-interest rules for officials holding private mining or construction interests.
+- Emergency powers with defined duration and retrospective review.
+
+Succession to the Mountain Throne is unresolved. A proposed model combines hereditary eligibility with confirmation by the Stone Assembly and a public record of the candidate's administrative competence. A candidate who cannot secure the required confirmation may not automatically inherit unrestricted authority. The precise voting threshold and whether a temporary regency exists require later decisions.
+
+### 15.4 Territorial administration and public works
+
+The clan's administration is designed around the fact that infrastructure crosses local boundaries. A retaining wall may protect several villages; a mine may affect a distant water source; a pass road may serve foreign merchants as well as local residents.
+
+Proposed administrative bodies:
+
+- **Regional Stewards:** Coordinate local budgets, public works and emergency response.
+- **Land Registry Office:** Maintains maps, concessions, property records and boundary decisions.
+- **Survey and Geological Authority:** Conducts geological mapping, slope assessment, mineral surveys and hazard monitoring.
+- **Public Works Directorate:** Oversees roads, bridges, tunnels, retaining walls, reservoirs and drainage.
+- **Mine Safety Authority:** Licenses extraction, inspects operations and investigates accidents.
+- **Watershed and Terrace Office:** Coordinates irrigation, soil protection, slope restoration and reservoir use.
+- **Pass and Transit Authority:** Maintains mountain routes, toll systems, waystations and cross-border access.
+- **Cavern and Deep Habitat Service:** Monitors underground ecosystems, protected caverns and deep-beast activity.
+
+The central government sets minimum standards, while regional communities retain practical authority over local maintenance and customary land use. This prevents every minor repair from requiring approval at the capital, but creates disputes when local practices conflict with territory-wide safety standards.
+
+### 15.5 Military: The Stonewall Legions
+
+The proposed armed forces are the **Stonewall Legions**. Their doctrine is based on denial, endurance, controlled terrain, fortification, logistics and the protection of civilian infrastructure.
+
+Earth's military should not be unbeatable simply because it can build walls. Its defensive advantage depends on preparation, supply, geological knowledge and the ability to avoid being fixed in place by an enemy.
+
+#### A. Military branches
+
+1. **Mountain Guard:** Protects the central territory, major citadels, government sites and strategic reservoirs.
+2. **Pass Wardens:** Secures mountain crossings, border roads, tunnels, bridges and high-altitude stations.
+3. **Stonewall Infantry:** Main ground force trained for defensive formations, close terrain, shield lines and controlled advances.
+4. **Siege and Earthworks Corps:** Builds, repairs and dismantles fortifications, field barriers, tunnels, bridges and counter-siege works.
+5. **Deep Survey Service:** Conducts underground reconnaissance, detects unstable terrain and monitors subterranean threats.
+6. **Beast and Heavy Logistics Corps:** Operates heavy transport beasts, supply trains, recovery teams and mobile construction units.
+7. **Frontier Rescue and Engineering Service:** Responds to avalanches, collapses, earthquakes, blocked routes and damaged civilian infrastructure. It may be placed under military command during emergencies but retains civilian protection obligations.
+
+#### B. Command structure
+
+A proposed command chain:
+- **Mountain Commander:** Senior operational commander of the Stonewall Legions.
+- **Regional Marshal:** Responsible for a major territorial defence zone.
+- **Legion General:** Commands a legion-sized formation or major specialist command.
+- **Fortress Commander:** Responsible for a citadel, pass complex or strategic installation.
+- **Column Commander:** Leads a mobile formation or field task group.
+- **Company and unit officers:** Lead smaller tactical formations and specialist teams.
+
+These are provisional military titles, not yet harmonised with a universal ranking system for all seven families. Specialist engineering, geological and beast-care appointments should remain distinct from ordinary command rank.
+
+#### C. Defensive doctrine
+
+The Stonewall Legions use a four-part operational method:
+
+1. **Read the Ground:** Survey elevation, soil, rock, water, tunnels, weather, beast movement and civilian routes.
+2. **Prepare the Ground:** Secure supplies, repair infrastructure, establish fallback positions and identify evacuation corridors.
+3. **Control the Ground:** Deny enemy movement, protect key routes, channel attacks and maintain the ability to withdraw.
+4. **Restore the Ground:** Repair damage, reopen civilian routes, clear hazards and prevent military occupation from becoming permanent hardship for residents.
+
+The doctrine favours preparation and controlled engagement, but commanders must recognise when a position is no longer defensible. Refusing to retreat can turn a strategic fortress into a mass grave.
+
+#### D. Elite formations
+
+Proposed specialist units:
+- **Ironroot Bastion:** Heavy defensive formation assigned to major citadels and strategic infrastructure.
+- **Granite Spear:** Mobile mountain infantry trained to exploit narrow approaches and difficult elevations.
+- **Deep Lantern Company:** Underground reconnaissance and rescue specialists who operate in tunnels, caverns and unstable mines.
+- **Pillarbreak Engineers:** Counter-siege and field-engineering teams able to dismantle enemy works or repair damaged defensive systems.
+- **Stoneback Convoy Guard:** Escorts heavy supply columns and protects transport beasts on exposed routes.
+- **Faultline Watch:** A specialist reconnaissance and warning service monitoring geological hazards, underground movement and suspicious excavation.
+- **Terrace Shield:** A regional reserve focused on protecting agricultural settlements, irrigation works and evacuation routes.
+
+Their names and roles are proposed. Their exact size, recruitment standards, command authority and relationship with civilian authorities remain open.
+
+#### E. Military limitations
+
+- Heavy formations are difficult to redeploy over long distances.
+- Fortifications can be bypassed, undermined, isolated or rendered irrelevant by changing objectives.
+- Earthworks require labour, materials, time and accurate surveys.
+- Underground operations can fail through flooding, gas, collapse or hostile cave systems.
+- Heavy beasts require substantial feed, veterinary care and suitable routes.
+- Static defence can expose civilians if evacuation planning is neglected.
+- A commander who relies on familiar terrain may be vulnerable when fighting abroad.
+- The clan's reputation for endurance may encourage political leaders to tolerate unnecessary casualties.
+
+### 15.6 Cultivation philosophy and Earth paths
+
+The Mountain Throne Clan teaches that Earth cultivation is not simply about becoming harder or heavier. It is about understanding structure, pressure, cohesion, weight, stability and the relationship between a living body and its environment.
+
+The proposed cultivation paths are:
+
+1. **Loam Path:** Focuses on soil, growth support, terrain reading, agriculture and foundational control. It is associated with adaptability and sustaining life.
+2. **Stone Path:** Develops density, defence, impact resistance and the manipulation of rock formations. It is common among guards and defensive cultivators.
+3. **Ironroot Path:** Focuses on mineral structure, reinforcement, underground sensing and precision manipulation of dense materials. It is associated with engineers and specialist combatants.
+4. **Mountain Path:** A demanding path emphasising large-scale stability, pressure distribution, terrain anchoring and defensive domains. It is prestigious but not automatically superior in every environment.
+
+Paths are disciplines, not fixed social castes. A farmer may cultivate Stone; an engineer may follow Loam; a military officer may specialise in Ironroot. Individuals may combine techniques where their compatibility and training allow it.
+
+#### A. Paired cultivation
+
+The clan values the relationship between tamer and beast as a partnership that must be demonstrated through compatible temperament, mutual development and safe practice. Heavy or durable beasts are not automatically suitable for every Earth tamer.
+
+Proposed evaluation dimensions:
+- Structural and elemental compatibility.
+- Temperament under pressure and confinement.
+- Movement and load-bearing safety.
+- Recovery from injury and cultivation strain.
+- Ability to coordinate without suppressing the beast's independent responses.
+- Environmental suitability and habitat requirements.
+- Ethical handling and the tamer's understanding of the beast's limits.
+
+The world's universal cultivation realms remain undecided. The Earth Family should not invent a separate incompatible realm ladder unless the wider system later requires family-specific terminology.
+
+#### B. Earth-domain expression
+
+Possible domain specialisations include defensive anchoring, terrain shaping, subterranean awareness, structural reinforcement and pressure redirection. These are specialised applications, not unrestricted control over all land or geological events.
+
+A cultivator cannot casually create an earthquake, command every mineral or sense every person underground. Scale, range, concentration, geological conditions and cultivation cost must limit each technique.
+
+### 15.7 Family-bred beasts and ecological relationships
+
+The Mountain Throne Clan maintains breeding lines adapted to rocky slopes, high elevations, underground habitats, heavy transport and defensive work. Family-bred beasts are the ordinary route for compatible cultivation, but they are not interchangeable tools.
+
+Proposed principal species:
+
+- **Rock Boars:** Powerful, sure-footed beasts used in rough terrain, quarry support and defensive charges. Their temperament requires experienced handlers.
+- **Ironback Turtles:** Slow, heavily protected beasts valued for defensive support, carrying equipment and surviving harsh environments. Their weight and dietary needs limit deployment.
+- **Stonehorn Rams:** Mountain-adapted beasts with strong impact capacity, used in difficult terrain and selected military formations. They need space and careful social management.
+- **Cavern Badgers:** Compact underground specialists with keen vibration awareness, used for survey support, search and rescue, and tunnel inspection. They are not infallible geological detectors.
+- **Granite Bears:** Rare, powerful beasts suited to highland environments and heavy defensive roles. Their food, territory and care requirements make them expensive to maintain.
+- **Mountain Titan line:** An exceptionally rare and carefully protected lineage associated with enormous strength and terrain stability. Its members should be uncommon, difficult to breed and unsuitable for routine ownership.
+
+#### A. Breeding and care
+
+Breeding sanctuaries should be distributed across suitable habitats rather than concentrated in a single palace-controlled facility. Local breeders, veterinary specialists and community handlers contribute to the clan's beast economy.
+
+Safeguards include:
+- Habitat and diet standards for each species.
+- Health and temperament records.
+- Restrictions on breeding for extreme size or aggression at the expense of welfare.
+- Recovery periods after heavy labour or combat.
+- Independent inspection of commercial breeding facilities.
+- Quarantine for imported beasts.
+- Protection of wild populations and migration corridors.
+- Disclosure of known behavioural and medical risks before sale or bonding.
+
+#### B. Wild beasts and rare discoveries
+
+The Stonecrown Range contains dangerous deep habitats and remote highland ecosystems. Expeditions to locate wild beasts are costly and risky. Mercenaries, surveyors, appraisers and independent breeders remain important to discovery and trade.
+
+A wild beast found in a protected cavern is not automatically the property of the first person to locate it. Proposed rules distinguish rescue, lawful capture, habitat protection, research access and ownership claims. This creates room for conflict between conservation authorities, merchants, military needs and ambitious cultivators.
+
+### 15.8 The Stonecrown Academy and technical education
+
+The proposed principal institution is the **Stonecrown Academy**, combining cultivation education with engineering, surveying, resource management, military studies and civic administration.
+
+Its purpose is to produce people capable of maintaining a mountain civilisation—not only powerful combatants.
+
+#### A. Proposed divisions
+
+1. **Earth Cultivation and Beast Studies:** Elemental theory, paired cultivation, beast biology and safe technique development.
+2. **Fortification and Structural Engineering:** Foundations, walls, bridges, tunnels, retaining systems and siege engineering.
+3. **Geology and Deep Survey:** Mapping, mineral identification, underground safety and geological hazard assessment.
+4. **Military and Terrain Doctrine:** Mountain warfare, defensive formations, logistics, rescue and command.
+5. **Agriculture and Watershed Management:** Terrace farming, soil protection, irrigation, reservoirs and ecological restoration.
+6. **Civic Works and Administration:** Land law, public budgets, contracts, infrastructure governance and dispute resolution.
+7. **Beast Care and Heavy Logistics:** Veterinary practice, transport, feed systems, equipment and recovery.
+
+#### B. Student progression
+
+Proposed educational titles:
+- **Foundation Learner:** Studies basic literacy, numeracy, Earth theory, safety and civic responsibilities.
+- **Division Learner:** Enters a technical, cultivation, military or civic specialisation.
+- **Senior Learner:** Undertakes supervised fieldwork and advanced practical assessments.
+- **Works Cadet:** Leads a small supervised project or team.
+- **Senior Works Cadet:** Coordinates complex field exercises and cross-division assignments.
+- **Graduating Candidate:** Completes a major examination, practical project and ethical review.
+
+These are educational titles, not military ranks. Students may graduate into civilian engineering, agriculture, surveying, beast care, administration or military service.
+
+#### C. Annual competition: The Foundation Trials
+
+Proposed events:
+- **Load and Balance:** Design a safe support structure under changing load.
+- **Pass Navigation:** Lead a team through a difficult route while preserving supplies and safety.
+- **Deep Survey:** Interpret underground readings and identify hazards in a controlled simulation.
+- **Terrace Recovery:** Restore damaged agricultural land and irrigation after a simulated landslide.
+- **Bastion Exercise:** Coordinate a defensive position while maintaining civilian evacuation routes.
+- **Beast Partnership Trial:** Demonstrate safe cooperation and recovery-aware handling.
+- **Civic Works Council:** Allocate a limited budget among a bridge, mine-safety upgrade, village water system and frontier fortification, then defend the decision publicly.
+
+The Trials reward judgement, maintenance and responsibility—not merely the ability to produce the largest wall or strongest attack.
+
+### 15.9 Civilian economy and social structure
+
+The Stonecrown Range's economy is based on land, minerals, construction, agriculture, transport and technical knowledge. Its wealth is substantial but unevenly distributed because valuable deposits, safe farmland and strategic routes are not spread equally.
+
+#### A. Main economic sectors
+
+1. **Mining and mineral processing:** Ore extraction, stone, industrial minerals and carefully regulated deep-resource operations.
+2. **Construction and masonry:** Buildings, roads, bridges, retaining walls, tunnels, fortifications and public infrastructure.
+3. **Metal and stone crafts:** Tools, architectural components, ceramics, sculpture, precision stonework and specialist materials.
+4. **Agriculture and livestock:** Terrace crops, root vegetables, grains, orchard produce, mountain livestock and medicinal plants.
+5. **Transport and logistics:** Mountain caravans, pass services, heavy-beast transport, storage, waystations and road maintenance.
+6. **Surveying and engineering:** Geological maps, structural inspections, foundation design, mine safety and infrastructure consulting.
+7. **Beast husbandry:** Breeding, veterinary care, feed production, appraisal, training and heavy-work services.
+8. **Education and research:** Geology, materials, architecture, cultivation, ecology, mining safety and engineering.
+9. **Defence industry:** Fortification components, protective equipment, siege works and specialised military construction.
+
+#### B. Social groups and influence
+
+Important social groups include:
+- Ancestral houses and recognised branch lineages.
+- Mine owners, miners and underground safety crews.
+- Farmers, terrace communities and livestock keepers.
+- Engineers, surveyors, architects and inspectors.
+- Masons, stonecutters, metalworkers and craftspeople.
+- Caravaneers, pass merchants and transport operators.
+- Beast breeders, handlers, appraisers and veterinarians.
+- Military personnel, frontier wardens and rescue workers.
+- Teachers, civil servants, artisans and ordinary residents.
+- Foreign specialists, contracted workers and independent traders.
+
+A skilled engineer or respected village steward may carry greater practical authority than a minor lineage descendant. Yet wealthy mining houses can influence contracts, employment and local elections, creating a persistent risk of economic capture.
+
+#### C. Work, safety and public responsibility
+
+Mining and construction are dangerous professions. The clan's claim to stability is undermined if workers are sacrificed to meet production targets.
+
+Proposed protections:
+- Mandatory structural and geological inspections.
+- Recorded mine ventilation, water and support conditions.
+- Worker stop-work authority when immediate danger is identified.
+- Accident reporting and independent investigations.
+- Compensation and long-term care for injured workers and affected families.
+- Emergency escape routes and rescue drills.
+- Public disclosure of serious infrastructure failures.
+- Legal responsibility for contractors and officials who knowingly conceal hazards.
+
+These safeguards may be costly and can be resisted by operators who compete with foreign suppliers. That tension should be visible in the clan's politics.
+
+#### D. Resident status and civil rights
+
+Legal categories may distinguish recognised descendants, long-term residents, provincial communities, affiliated service households, contracted specialists and temporary visitors. These categories may affect access to lineage offices or restricted sanctuaries, but basic legal protection should not depend on ancestry.
+
+Residents should have access to courts, safe housing standards, emergency rescue, lawful contracts, property protections and procedures to challenge land seizures, dangerous works or discriminatory allocation of public services.
+
+### 15.10 Taxation, public finance and regulation
+
+Proposed revenue sources:
+- Household and land contributions adjusted to capacity.
+- Mining, quarrying and mineral-processing royalties.
+- Construction permits and professional licensing fees.
+- Pass tolls, caravan services and transit charges.
+- Commercial leases for public works and storage facilities.
+- Beast breeding, transport and market licences.
+- Trade duties and external engineering contracts.
+- Public enterprise revenue from selected infrastructure.
+- Fines for illegal extraction, pollution or safety violations.
+
+Proposed spending priorities:
+1. Road, bridge, tunnel and pass maintenance.
+2. Mine safety, geological monitoring and emergency rescue.
+3. Reservoirs, irrigation and watershed protection.
+4. Agricultural resilience and food reserves.
+5. Public housing and settlement infrastructure.
+6. Education, technical apprenticeships and research.
+7. Frontier defence and military readiness.
+8. Cavern habitat protection and restoration.
+
+The Stone Assembly approves the public budget and publishes a summary. Security-sensitive works may receive restricted review, but secrecy cannot be used to conceal corruption, unsafe construction or private enrichment.
+
+Large infrastructure projects should include lifecycle costs. A cheap bridge that cannot be maintained is not a saving; it is a deferred disaster.
+
+### 15.11 Trade network and economic relationships
+
+#### A. Exports
+
+The Stonecrown Range exports:
+- Processed stone, ore and selected mineral products.
+- Construction materials and specialist masonry.
+- Bridges, fortifications and tunnel-engineering expertise.
+- Geological surveys and structural assessments.
+- Mining equipment and safety systems.
+- Heavy transport and trained work beasts.
+- Agricultural produce and preserved mountain foods.
+- Specialist tools, ceramics and crafted goods.
+
+Strategic minerals, protected habitats and military fortification designs may be regulated. Ordinary construction knowledge and commercial materials should remain available through lawful trade.
+
+#### B. Imports
+
+The clan imports:
+- Staple foods and crops unsuited to highland conditions.
+- Timber, textiles and certain medicinal products.
+- Precision instruments and advanced communication equipment.
+- Specialised machinery and components.
+- Maritime goods and coastal products.
+- Heat-treatment and industrial materials from Fire.
+- Specialist medicines and veterinary supplies.
+- Beasts adapted to environments absent from the Stonecrown Range.
+
+#### C. Principal relationships
+
+- **Fire:** A major partner in metallurgy, furnaces, industrial equipment and construction materials. Earth supplies foundations and mineral inputs; Fire supplies heat-processing expertise. Disputes concern extraction intensity, pollution and military procurement.
+- **Water:** Essential partner in reservoirs, canals, flood control, bridge foundations and watershed engineering. Earth builds structures, while Water provides hydrological knowledge. Poor coordination can cause dam failures, flooding or agricultural loss.
+- **Lightning:** Provides precision instruments, sensors, communications and technical systems for mines and infrastructure. Earth values accuracy but may distrust systems it cannot maintain without external specialists.
+- **Wind:** Supports mountain courier routes, aerial surveys, weather observation and rapid communication. Earth provides safe stations and durable infrastructure. Conflicts may arise over route access, privacy and the vulnerability of exposed installations.
+- **Light:** Cooperates in hospitals, education, disaster relief and public infrastructure. Earth may welcome humanitarian support while resisting attempts to turn moral authority into political oversight.
+- **Dark:** Potentially valuable in fortification engineering, specialist materials, recovery and defensive research. Trade does not erase historical mistrust or imply political reconciliation. Local communities and commercial houses may support practical agreements even when senior figures oppose them.
+
+These are interests, not permanent alliances. Earth may cooperate with Water on a reservoir while competing with it over control of a river crossing. A mining house may trade with Fire even as provincial representatives demand stricter environmental rules.
+
+#### D. Foreign branches
+
+Earth descendants living abroad may become architects, mine operators, fortress engineers, land administrators, caravan organisers or military specialists. They remain subject to local law and political obligations.
+
+A foreign branch may be ordered to build a fortress for a ruler who intends to attack one of Earth's trading partners. Another may discover that a local mine is contaminating a watershed and must choose between employment, ancestral reputation and public safety.
+
+### 15.12 External diplomacy and strategic commitments
+
+The Mountain Throne Clan's diplomacy is based on access, reliability and technical interdependence. It can offer roads, bridges, fortifications and engineering expertise, but its control of passes and mineral resources can also make neighbours fear coercion.
+
+Proposed diplomatic instruments:
+- Mountain pass and caravan transit treaties.
+- Shared maintenance agreements for cross-border roads and bridges.
+- Mining and mineral trade contracts with safety and restoration clauses.
+- Geological hazard and earthquake-warning exchanges.
+- Watershed and reservoir coordination agreements.
+- Mutual rescue protocols for avalanches, collapses and underground disasters.
+- Construction standards and engineering certification agreements.
+- Military transit agreements with explicit duration and command limits.
+- Protected access arrangements for pilgrims, researchers and civilian traders.
+
+A commercial transit treaty should not automatically grant military passage. The clan should maintain emergency exceptions for rescue and humanitarian supply, with clear notification and review procedures.
+
+### 15.13 Internal tensions and structural weaknesses
+
+The clan's strengths create vulnerabilities:
+
+- **Resource dependence:** Mining revenue can dominate the budget and encourage extraction beyond sustainable limits.
+- **Geological hazards:** Collapses, landslides, earthquakes and underground water intrusion can devastate settlements.
+- **Infrastructure concentration:** A small number of bridges, tunnels or passes may become strategic chokepoints.
+- **Slow mobilisation:** Heavy forces and equipment struggle to move quickly across distant regions.
+- **Institutional rigidity:** Procedures designed to prevent failure may delay urgent reform or emergency decisions.
+- **Lineage privilege:** Ancestral land rights can shield wealthy houses from accountability.
+- **Technical capture:** Mining and construction firms may influence the inspectors who regulate them.
+- **Unequal development:** High citadels and mining cities may receive more investment than remote terrace villages.
+- **Environmental damage:** Poorly managed extraction can destroy watersheds, farmland and beast habitats.
+- **Foreign expertise dependence:** Advanced instruments or specialised machinery may require external suppliers.
+- **Defensive overconfidence:** Leaders may mistake a strong fortress for a secure territory.
+- **Worker exploitation:** The rhetoric of endurance may be used to excuse dangerous labour and prevent complaints.
+
+Earth must suffer consequences when it ignores these weaknesses. Its reputation for stability should make institutional failures especially damaging to public trust.
+
+### 15.14 Everyday life in the Stonecrown Range
+
+Life differs between high citadels, mining settlements, terrace villages, cavern communities and frontier towns.
+
+In Stonecrown Citadel, the day begins with the movement of supply trains, inspection schedules, workshops and administrative hearings. In the Terrace Provinces, households coordinate planting and irrigation with seasonal rainfall and reservoir releases. Ironroot Deeps has shift rotations, ventilation checks, underground markets and strict travel procedures. Pass towns depend on caravan schedules, weather windows, road repairs and travellers from many cultures.
+
+Proposed public traditions:
+- **Foundation Day:** A civic observance marking the completion or restoration of an important public work. Communities honour the labourers, engineers and residents who maintained it.
+- **Stonebinding Oath:** A professional pledge taken by engineers and builders to disclose structural risks and refuse knowingly unsafe work.
+- **First Harvest of the Terraces:** A regional celebration of agricultural resilience and shared irrigation.
+- **Lanterns Below:** A remembrance for miners, rescuers and explorers lost underground.
+- **Pass Opening Festival:** Marks the seasonal reopening of a major mountain route after dangerous weather.
+- **Foundation Trials:** Academy competitions in engineering, rescue, surveying and public resource allocation.
+
+These customs should show that Earth is a living society of workers, farmers, craftspeople, merchants, families and public servants—not merely a landscape of fortresses and mines.
+
+### 15.15 Narrative opportunities
+
+- A wealthy mining house conceals signs of subsidence beneath a crowded settlement, forcing the Mountain Sovereign to choose between immediate evacuation and a politically dangerous investigation.
+- A Terrace Province discovers that a new military road has diverted water from its farms, creating conflict between frontier defence and civilian survival.
+- The Stone Assembly debates whether a strategic pass should remain open to foreign merchants during a regional war.
+- A Deep Lantern team finds an ancient cavern ecosystem threatened by a proposed mineral extraction project.
+- A young heir bonds with a Cavern Badger rather than the prestigious Granite Bear expected by their lineage, challenging assumptions about status and cultivation.
+- A bridge collapses despite passing inspection, revealing that a contractor bribed the authority responsible for structural certification.
+- A foreign branch is ordered to build fortifications for a ruler preparing an invasion, placing professional duty against ancestral loyalty.
+- A landslide traps both soldiers and civilians, and a commander must divert military engineers from a critical defensive position to conduct rescue.
+- The Mountain Sovereign's succession becomes disputed when the leading candidate has strong lineage support but a record of ignoring mine-safety warnings.
+- A rare Mountain Titan appears outside a protected sanctuary, triggering a struggle between conservationists, breeders, military officials and ambitious cultivators.
+- A caravan league threatens to reroute trade unless Earth reduces pass tolls, exposing the danger of treating geography as permanent economic leverage.
+- A reform movement demands that terrace villages receive direct representation in the Stone Assembly rather than relying on lineage-appointed delegates.
+- A geological warning system built with Lightning instruments gives contradictory readings, forcing Earth to decide whether to evacuate a mining city.
+- A Deepworks Consortium proposes an enormous underground expansion that could enrich the clan but destabilise a watershed shared with another family.
+- An enemy bypasses the famous mountain wall through an unmonitored route, demonstrating that defensive preparation cannot replace intelligence and adaptability.
+
+### 15.16 Decisions still required for the Earth Family
+
+The following remain proposals and need future confirmation:
+
+1. Whether the official leader title is Mountain Sovereign, Mountain Throne Lord/Lady or another title, and how succession is determined.
+2. The Stone Assembly's exact chambers, seat allocation, selection method, voting thresholds and term lengths.
+3. The political rights of ordinary residents, terrace communities, mine workers and foreign residents.
+4. The final map, borders, population, capital, major passes, rivers and underground settlement network of the Stonecrown Range.
+5. The exact military ranks, legion sizes, command structure and civil–military relationship.
+6. Whether Earth has a formal military council or whether the Mountain Sovereign and Stone Assembly divide strategic authority.
+7. The world's universal cultivation realms and the exact progression of Earth-affinity beasts.
+8. Final taxonomy, rarity, lifespan, habitat, breeding and care rules for Rock Boars, Ironback Turtles, Stonehorn Rams, Cavern Badgers, Granite Bears and the Mountain Titan line.
+9. The academy's admission age, course duration, fees, scholarships, professional accreditation and appeal procedures.
+10. Public versus private ownership of mines, quarries, roads, bridges, reservoirs, tunnels and major construction works.
+11. The legal balance between ancestral land rights, community use, public safety and environmental protection.
+12. Worker rights, mine inspection powers, accident compensation and liability for negligent contractors.
+13. The exact taxation system, resource royalties, public reserves and infrastructure budget.
+14. The extent of Earth cooperation with the Sixfold Accord and the present-day attitude toward Dark.
+15. Whether the Stonecrown Range contains ancient ruins, sealed underground regions or geological mysteries central to the wider world's history.
+
+**Design principle:** The Mountain Throne Clan should be powerful because it can build, maintain, defend and restore the foundations on which other societies depend. Its greatest test is whether it can preserve stability without allowing tradition, wealth or fear of change to become excuses for injustice.
