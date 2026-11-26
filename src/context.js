@@ -32,7 +32,7 @@ function hasReference(item, ids) {
 function selectEntries(registries, name, { ids, chapterNumber, includeGlobal = false, activeOnly = false } = {}) {
   return getEntries(registries, name).filter(item => {
     if (activeOnly && !isActive(item)) return false;
-    if (hasReference(item, ids) || relatedToChapter(item, chapterNumber)) return true;
+    if (ids.has(item?.id) || hasReference(item, ids) || relatedToChapter(item, chapterNumber)) return true;
     return includeGlobal && !hasAnyReference(item);
   });
 }
