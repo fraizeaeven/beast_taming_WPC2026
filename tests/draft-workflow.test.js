@@ -65,3 +65,13 @@ test("duplicate proposal IDs are rejected during staging",async t=>{
   ]}));
   await assert.rejects(()=>stageDraftReview("analysis.json"),/Duplicate proposal ID/);
 });
+
+test("approved AI proposal can append an evidenced psychology beat",async t=>{
+  await fixture(t);
+  const beat={id:"PSY_A_002",characterId:"CHAR_A",sceneId:"SCENE_02",trigger:"A warning",automaticReaction:"Steps back",thought:"I am not ready",emotion:"Fear",physicalSensation:"Pulse races",expressedEmotion:"Silence",observableEvidence:"He steps back and says nothing",interpretation:"He masks fear with withdrawal",arcStage:2,stageEvidence:"He recognises the fear but refuses to face it"};
+  await fs.writeFile("analysis.json",JSON.stringify({chapterNumber:2,findings:[],proposals:[{id:"PROP_PSY",type:"add_chapter_item",chapter:2,field:"psychologyChecks",value:beat}]}));
+  const staged=await stageDraftReview("analysis.json");
+  await decideDraftProposal(staged.id,"PROP_PSY","approve");
+  const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
+  assert.equal(chapter.psychologyChecks[0].id,"PSY_A_002");
+});
