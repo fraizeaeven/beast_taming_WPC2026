@@ -6,7 +6,10 @@ This document expands the seven elemental families using the author's current de
 
 - The political world contains multiple kingdoms and empires.
 - The seven families exercise cross-national influence through branches and networks.
-- Dark retains ancestral territory, although its current condition is not fully defined.
+- Dark retains an independent ancestral territory, not subordinate to a neighbouring crown.
+- The Dark territory uses shared authority between the Patriarch and a governing Council.
+- Ordinary residents have mixed legal and political status; rights and participation vary by recognised status and responsibilities.
+- The Council oversees the territorial military through an appointed command structure.
 - The ancient promise is secret; its terms and enforcement remain unresolved.
 - The extent of present-day knowledge of Light's betrayal is unknown.
 - Family beast compatibility is developed through both inherited bloodlines and specialised cultivation.
@@ -177,7 +180,6 @@ The family names, titles, territories, internal factions and political roles in 
 **Philosophy:** Publicly, the clan teaches that order and righteousness are necessary for civilisation. Its institutions may be trusted by ordinary people and rulers alike.
 
 **Signature beast inspirations:**
-
 - **Dawn Deer:** Support beast associated with healing, light and detecting corrupted mana.
 - **Radiant Hound:** Tracking, protection and purification-related techniques.
 - **Solar Kirin:** Rare ancestral species associated with purification and overwhelming Light mana.
@@ -332,38 +334,94 @@ The territory's economy should be damaged but not completely dead. **Proposal:**
 
 **Author decisions — confirmed:**
 
-- The Dark Family's independent territory is governed through **shared authority** between the Patriarch and a governing Council. Neither side has unrestricted authority over major decisions.
-- Ordinary residents have **mixed legal and political status**. Rights and participation are not identical for everyone and should not be determined solely by whether someone has Dark blood.
-- The **Council oversees the military** through an appointed command structure. The Patriarch does not personally hold direct, unilateral control over the entire territorial military.
+- The Dark Family's retained ancestral domain is an **independent territory**, not legally subordinate to a neighbouring kingdom or empire.
+- Authority is **shared between the Patriarch and a governing Council**. Neither side has unrestricted authority over major territorial decisions.
+- Ordinary residents have **mixed legal and political status**. Rights and participation vary according to recognised status, affiliation and responsibilities; bloodline alone does not determine every civil right.
+- The **Council oversees the territorial military** through an appointed command structure. The Patriarch does not personally exercise unilateral command over the entire territorial military.
 
-**Proposal — two connected authorities:** The territory distinguishes between the authority of the Eternal Abyss Clan and the authority of the territory itself. The Patriarch leads the clan, protects its lineage and represents its ancestral obligations. Territorial institutions govern public law, residents, services, taxation, trade and defence. The two spheres overlap, but clan membership alone should not automatically confer every civil office or public privilege.
+**Proposal — two connected authorities:** The government distinguishes between the authority of the Eternal Abyss Clan and the authority of the territory. The Patriarch leads the clan, protects its lineage and represents its ancestral obligations. Territorial institutions govern public law, residents, services, taxation, trade and defence. The two spheres overlap, but clan membership alone does not automatically confer every civil office or public privilege.
 
-**Proposal — the Abyssal Council:** The Council is the principal deliberative and oversight institution for territorial affairs. Its membership could combine:
-- Representatives of major Dark Family branches and senior clan institutions.
-- Delegates responsible for settlements and resident communities.
-- Recognised representatives of important civic and economic institutions, such as beast-breeding establishments, trade organisations, craftspeople or other essential services.
+#### The Abyssal Council
 
-The exact number of seats, selection method, term lengths and eligibility rules remain undecided. Avoid making the Council a gathering of elders from the bloodline alone: the territory contains residents whose interests may differ from those of the clan.
+**Proposal:** The Abyssal Council is the principal deliberative and oversight institution for territorial affairs. Its proposed composition has **nine voting seats**. The Patriarch is not one of the nine; he participates separately as clan head and as the other party in the shared-governance arrangement.
 
-**Proposal — shared decision-making:** The Patriarch and Council must cooperate on matters with long-term consequences, such as treaties, major taxation changes, territorial law, large public works, allocation of strategic mana resources and declarations of war. Routine administration is delegated to the relevant civil offices. A possible model is for the Patriarch to propose or veto decisions affecting the clan's ancestral obligations, while the Council approves territorial policy and controls public expenditure. The precise veto scope and voting thresholds are unresolved.
+| Proposed seat | Representation and responsibility |
+|---|---|
+| Three Branch Seats | Major recognised branches of the Eternal Abyss Clan; lineage affairs, ancestral obligations and branch interests |
+| Two Civil Seats | Territorial administration and resident communities; public services, legal protections and settlement affairs |
+| Frontier Seat | Border settlements and communities exposed to external threats |
+| Commerce Seat | Trade, beast markets, breeders, merchants and other recognised economic institutions |
+| Ancestral Seat | Ancestral Keepers, archives, historical sites and preservation of restricted knowledge |
+| Independent Seat | A territory-wide perspective not formally tied to one clan branch or single institution; intended to mediate competing interests |
 
-**Proposal — deadlock and accountability:** Disagreement should not automatically give either side absolute power. A formal review, mediation process or second vote after a defined interval could resolve deadlocks. Officials should be answerable for misuse of public resources, unlawful orders and abuse of office. The mechanism and whether territorial courts or a separate tribunal provide this oversight remain open.
+The nine-seat arrangement is a working proposal, not confirmed canon. The Council should not be an elders' assembly composed only of bloodline members: the territory contains residents whose interests may differ from those of the clan.
 
-**Proposal — residents and legal status:** The mixed system may recognise several categories, each with different rights and obligations:
-- **Clan members:** Members of the recognised Dark bloodline, subject to clan customs and succession rules.
-- **Affiliated households:** Families with recognised service, residence or long-standing ties to the territory.
-- **Territorial citizens:** People with established civic membership, including those without Dark blood. They may hold defined civil rights and some form of representation.
-- **Registered residents:** People who live or work in the territory but have not acquired full civic membership.
-- **Foreign visitors and commercial actors:** Merchants, mercenaries, scholars and diplomatic personnel whose rights are governed by law, licences and agreements.
+#### Selection and tenure
 
-These are proposed categories, not approved legal terminology. Basic protections—such as personal safety, fair hearing and protection against arbitrary seizure—should apply broadly to people under territorial jurisdiction. Political participation, access to restricted resources, public office and obligations such as taxation or military service may differ by status. Bloodline should matter for clan inheritance and certain ancestral responsibilities, not automatically determine every resident's worth or civil protection.
+**Proposal:** Selection methods differ according to the seat's purpose:
 
-**Proposal — military governance:** The Council oversees the Territorial Guard and appoints or confirms its senior commander under rules that are still to be developed. The commander controls operational planning, training, deployments and the chain of command. The Council sets the defence mandate, approves the military budget and reviews major operations. The Patriarch may advise on clan forces and ancestral defence traditions, but should not bypass the territorial chain of command as a matter of routine.
+- Major clan branches select their own representatives for the three Branch Seats under recognised branch procedures.
+- The two Civil Seats are chosen through a territorial representative process. The exact electorate and eligibility rules remain open.
+- Recognised frontier settlements select or nominate the Frontier Seat representative.
+- Recognised trade and beast-market institutions choose or nominate the Commerce Seat representative, with safeguards against one wealthy organisation monopolising the position.
+- The Ancestral Keepers select the Ancestral Seat representative according to their own internal rules.
+- The Independent Seat is filled through an open nomination process and confirmed by a supermajority of the other Council members. The exact nomination rights remain to be defined.
 
-A distinction may be needed between the **Territorial Guard**, which protects the independent territory, and any **clan retainers or branch guards**, which protect family members and clan property. Their legal relationship, command coordination and limits remain proposals. During an immediate attack, the commander may need temporary emergency authority; the duration, reporting requirements and post-emergency review must be defined so that crisis powers do not become permanent rule.
+**Proposed term:** Six years, with staggered terms so that only part of the Council is replaced at a time. This reduces the chance that one succession, crisis or political campaign changes the entire Council at once. Reappointment limits, vacancies and interim appointments remain undecided.
 
-**Narrative consequences:** This structure creates meaningful political pressure without making the territory a modern democracy or an absolute clan monarchy. The Patriarch may support his son while the Council fears the external consequences of his abilities. Resident delegates may oppose a war that clan restorationists desire. Military officers may believe the Council is too cautious, while civilian leaders fear the cost of military expansion. These disagreements should arise from competing interests, not from every faction being wholly virtuous or corrupt.
+#### Decisions, petitions and review
 
+**Proposal:** Routine administrative matters are handled by the relevant civil offices. Ordinary Council resolutions pass by a simple majority of members voting, provided a defined quorum is present. Major matters—such as changes to foundational territorial law, declarations of war, major treaties, large-scale taxation changes or transfer of strategic mana resources—require a supermajority and the Patriarch's participation under the shared-authority rules. The exact thresholds and the precise scope of the Patriarch's veto or reconsideration power remain unresolved.
+
+**Proposal — resident challenges:** Residents may challenge government decisions without automatically having the power to overturn them:
+
+1. **Petition:** Individuals and organised communities may submit complaints, requests or proposed changes. A petition meeting a yet-to-be-defined threshold must receive a formal response or hearing.
+2. **Administrative appeal:** A person affected by a decision of a local official, tax authority, market regulator or other civil office may appeal through an established process.
+3. **Territorial review:** A designated court or independent review body may examine whether a Council decision or official action violates the territory's foundational law or protected legal rights.
+
+These procedures should provide a genuine remedy, not merely a ceremonial opportunity to speak. The tribunal's composition, jurisdiction and relationship to the Council remain proposals.
+
+#### Accountability and removal
+
+**Proposal:** Council members can be investigated and removed for corruption, abuse of office, betrayal, serious dereliction of duty or unlawful misuse of public resources. Removal requires a formal inquiry and a supermajority vote; the accused member does not vote on their own removal. The exact investigative body, appeal process and vote threshold remain open.
+
+The Patriarch's family position and his role in territorial governance are distinct. The Council should not casually appoint or remove the head of the bloodline. Clan succession is governed by clan rules, which have not yet been developed. However, if the Patriarch seriously violates territorial law, a special review process may suspend or restrict his territorial powers while the clan's separate succession process determines whether he remains Patriarch.
+
+Possible grounds for such a territorial proceeding include attempting to seize unilateral control of the military, abusing emergency powers, unlawfully diverting public resources, betraying the territory or repeatedly violating its governing charter. These grounds and procedures are proposals, not final legal canon.
+
+#### Disagreement and deadlock between Patriarch and Council
+
+**Proposal:** Disagreement follows a defined sequence rather than allowing either side to impose its will by force:
+
+1. **Deliberation:** The Patriarch and Council exchange reasons and evidence, with the relevant officials explaining likely consequences.
+2. **Formal Council vote:** The Council records its position under the applicable voting rule.
+3. **Joint reconsideration:** If the issue falls within shared authority, neither side can force a permanent decision alone. They must negotiate, amend the proposal or seek a lawful compromise.
+4. **Arbitration or review:** If the dispute persists, a designated panel or tribunal examines the legal and procedural issues. Its exact authority remains undecided.
+5. **Temporary status quo:** Unless an emergency provision applies, the existing policy remains in force until a lawful resolution is reached. A deadlock does not itself authorise either side to use armed force against the other.
+
+The Patriarch may be able to request reconsideration or return a proposal for further debate, but whether he has a formal veto—and on which categories of decisions—remains unresolved.
+
+#### Military oversight
+
+**Author decision:** The Council oversees the territorial military through an appointed command structure.
+
+**Proposal:** The Council appoints or confirms the senior commander, approves the defence mandate and military budget, and reviews major deployments and campaigns. The commander controls operational planning, training, discipline and battlefield decisions within the approved mandate. The Patriarch may advise on clan defence and ancestral military traditions but cannot routinely bypass the territorial chain of command.
+
+A distinction may exist between the **Territorial Guard**, responsible for defending the independent territory, and **clan retainers or branch guards**, responsible for protecting family members and clan property. Their legal relationship, coordination and command limits remain proposals. During an immediate attack, the commander may exercise temporary emergency authority, subject to prompt reporting and later review. Emergency powers must not become a route to permanent personal rule.
+
+#### Political alignments within the Council
+
+**Proposal:** The Council has no requirement to operate as three permanent political parties. Members instead form shifting alliances around policies and interests. Three recurring political movements may influence debate:
+
+- **Restorationists:** Seek to recover lost ancestral lands, resources and influence. They disagree among themselves about acceptable costs and risks.
+- **Preservationists:** Prioritise the security of the retained territory and gradual recovery. They disagree about how much compromise with foreign powers is acceptable.
+- **Reformists:** Want to change inherited clan and territorial practices. They disagree about how much traditional authority should be retained.
+
+These are political tendencies, not fixed moral categories. A member may support restoration but oppose a particular war, or favour reform while defending an ancestral institution.
+
+**Proposal — structural weaknesses:** Over time, established branches may preserve influence for too long; wealthy commercial interests may pressure representatives; frontier settlements may feel ignored; and Council members may prioritise their own institutions over the territory as a whole. The Patriarch may also be constrained even when he raises legitimate concerns. These weaknesses give the territory internal political conflicts that cannot all be blamed on foreign enemies.
+
+**Narrative consequences:** The protagonist's unusual cultivation may divide the government. Restorationists may view him as a means to recover lost power; Preservationists may fear that public attention will provoke foreign intervention; Reformists may see his discoveries as evidence that the clan's inherited understanding is incomplete. Resident representatives may oppose policies that treat ordinary people as expendable, while military officers may consider civilian leaders too cautious. None of these positions should automatically make a faction wholly virtuous or corrupt.
 ### 3.7 Defensive design
 
 **Proposal:** Dark's defence reflects its original role as a counterbalancing family. It should not simply imitate the walls and armies of the Fire or Earth families.
@@ -435,7 +493,7 @@ Keep all of the following unresolved until explicitly selected:
 6. Are the Sevenfold Well and other proposed sites real, and what are their actual functions?
 7. Which resources can Dark still extract, and which have been lost, depleted or restricted?
 8. How much of the old defensive system still works?
-9. What are the final legal categories for residents, how is territorial citizenship acquired, and how are resident representatives selected?
+9. What are the final legal categories for residents, how is territorial citizenship acquired, what electorate or selection process chooses the Civil Seats, and what thresholds govern petitions and territorial review?
 10. Is the ancient promise directly connected to the territory, or does it bind the family regardless of where its members live?
 
 ---
@@ -538,7 +596,6 @@ Relationships are tendencies, not permanent alliances or inherited personal hatr
 | Dark–Wind | Intelligence secrets and possible hidden escape routes |
 | Dark–Lightning | Shared interest in mana research and dangerous historical experiments |
 | Dark–Light | Central historical conflict |
-
 Individual characters and branches may contradict these broad tendencies.
 
 ---
@@ -565,7 +622,7 @@ This path connects his personal growth, the restoration of his family and the wo
 The following remain unresolved and must not be silently promoted to canon:
 
 1. **Cross-national institutions:** The families' cross-national influence is established. The exact structure, legal status and autonomy of their foreign branches and holdings remain proposals.
-2. **Dark territory:** Its independent status, shared Patriarch–Council government, mixed resident status and Council oversight of the military are confirmed. Exact borders, remaining resources, population, legal categories, representation rules, neighbouring states and lost lands remain unresolved.
+2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements and detailed military oversight are proposals awaiting further author confirmation. Exact borders, resources, population, final legal categories and neighbouring states remain unresolved.
 3. **Ancient promise:** Its existence and secrecy are established directions. Its exact wording, why the Dark head made it, who knows it exists, and whether it is enforced by a magical contract, bloodline curse, ancestral artifact or another mechanism remain unresolved.
 4. **Knowledge of the betrayal:** The extent of present-day knowledge is unknown. Do not assign knowledge to a particular faction, rank or generation without author confirmation.
 5. **Beast breeding:** Both inherited bloodlines and specialised cultivation contribute to compatibility. The precise methods, inheritance rules and limits remain proposals.
@@ -718,17 +775,3 @@ The following remain unresolved and must not be silently promoted to canon:
 6. **Names and titles:** All clan names and titles in this document are provisional.
 7. **Species details:** The signature beast names are design inspirations; their exact biology, rarity, cultivation stages and abilities need further development.
 8. **Historical chronology:** The dates, generations and specific events of the betrayal are not established.
-9. **The protagonist's mother:** Her factional connections and the true cause of her crippled cultivation remain undecided.
-
----
-
-## 9. Canon management rule
-
-This document records the author's decisions and a structured set of proposals. Only details explicitly confirmed by the author should be treated as established canon. When writing chapters, distinguish between:
-
-- **Confirmed:** Explicitly approved by the author.
-- **Proposal:** Suggested worldbuilding awaiting approval.
-- **Unresolved:** A question with no selected answer.
-- **In-world belief:** What characters or institutions believe, which may be false or incomplete.
-
-Never treat an in-world belief as objective truth merely because a character, family or historical record claims it.
