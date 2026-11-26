@@ -18,6 +18,15 @@ npm run validate
 
 See [Story Structure Management](STORY_STRUCTURE.md) for supported hierarchy rules and examples.
 
+## Character state workflow
+1. Add a snapshot to `CHAPTER_RECORDS/18_CHARACTER_STATE_HISTORY` when a character reaches a meaningful emotional, behavioural or arc checkpoint.
+2. Record the character's goal, motivation, misbelief, truth recognition, behaviour, physical/emotional state, decision and consequence where known.
+3. Record the seven-stage position with concrete stage evidence; mark deliberate regression explicitly.
+4. Query a historical state with `npm run character:state -- CHAR_ID 24`, or inspect the full history with `npm run character:history -- CHAR_ID`.
+5. Run `npm run validate`. A query uses the latest recorded snapshot at or before the requested chapter and reports its age; it never invents missing transitions.
+
+See [Historical Character State Tracking](CHARACTER_STATE_HISTORY.md) for the snapshot schema and stage definitions.
+
 ## Chapter drafting workflow
 1. Review and update the chapter's participants, POV, locations and story links.
 2. Generate its preflight: `npm run context:chapter -- 1` or `npm run context:write -- 1`.
@@ -36,6 +45,7 @@ See [Chapter Context Retrieval](CHAPTER_CONTEXT.md) for retrieval rules and limi
 - Structural validation checks record integrity. Continuity validation checks explicit age, knowledge, relationship, promise, event and story-structure annotations; it does not interpret prose or make canon decisions.
 - Continuity findings are warnings for human review, not automatic edits.
 - Story structure records represent author-maintained intent and progression. They do not automatically create events, character facts or canon.
+- Character state snapshots are historical checkpoints, not continuous psychological simulation.
 - Chapter context is a retrieval snapshot, not a canon update or an instruction to resolve every retrieved thread.
 
 ## Status
