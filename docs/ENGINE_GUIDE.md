@@ -46,7 +46,7 @@ See [Knowledge and Timeline Engine](KNOWLEDGE_AND_TIMELINE.md) for fields, comma
 
 See [Chapter Context Retrieval](CHAPTER_CONTEXT.md) for retrieval rules and limitations.
 
-## Principles
+## AI-assisted chapter workflow\n1. Prepare a chapter-specific prompt and context: `npm run draft:prepare -- 12 drafts/chapter-0012.md`.\n2. Submit the generated Markdown prompt to your chosen AI model and save its JSON-only analysis response.\n3. Stage findings and proposed changes: `npm run draft:stage -- reports/chapter-0012-analysis.json`. Staging does not modify canon.\n4. Inspect the review with `draft:list` and `draft:show`, then approve or reject proposals one at a time.\n5. Approval checks stable IDs, allowed target fields and exact pre-change snapshots; stale proposals fail instead of overwriting newer records.\n6. Run validation after approvals. AI findings and confidence are advisory; the author decides what becomes canon.\n\nSee [AI-Assisted Chapter Workflow](AI_ASSISTED_CHAPTER_WORKFLOW.md). The current implementation is provider-neutral and does not invoke an AI API.\n\n## Principles
 - Brainstorming is not canon; only confirmed facts enter canon registries.
 - Unknown is not false; preserve uncertainty.
 - A chapter record is an evidence log of what happened and changed.
