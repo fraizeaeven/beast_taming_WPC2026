@@ -1,6 +1,6 @@
 # Continuity Checks
 
-`npm run validate` runs structural checks and six evidence-based continuity reviews. Continuity findings are warnings, not automatic canon changes. Review each warning against the manuscript before changing a registry. The engine does not infer a character's psychology or rewrite story facts from prose.
+`npm run validate` runs structural checks and evidence-based continuity reviews for character behaviour, knowledge/POV boundaries, age/date consistency, relationships, promises, events, objects and locations. Continuity findings are warnings, not automatic canon changes. Review each warning against the manuscript before changing a registry. The engine does not infer a character's psychology or rewrite story facts from prose.
 
 ## Chapter record fields
 
