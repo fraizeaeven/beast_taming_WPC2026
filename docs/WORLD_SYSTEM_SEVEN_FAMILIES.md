@@ -10,6 +10,9 @@ This document expands the seven elemental families using the author's current de
 - The Dark territory uses shared authority between the Patriarch and a governing Council.
 - Ordinary residents have mixed legal and political status; rights and participation vary by recognised status and responsibilities.
 - The Council oversees the territorial military through an appointed command structure.
+- The Dark military separates military rank from paired tamer–beast cultivation qualification; both partners must develop for the partnership to advance.
+- Military promotions are merit-based; cultivation qualification is an eligibility and capability measure, not an automatic grant of rank.
+- A bonded beast is an individual partner. If it dies, the tamer is not automatically reassigned a replacement; any later bond is a new individual partnership.
 - The ancient promise is secret; its terms and enforcement remain unresolved.
 - The extent of present-day knowledge of Light's betrayal is unknown.
 - Family beast compatibility is developed through both inherited bloodlines and specialised cultivation.
@@ -545,6 +548,138 @@ The exact size, legal privileges, recruitment rules and command arrangements of 
 
 These weaknesses should have practical consequences. Dark may win a carefully prepared defensive engagement yet be unable to pursue an enemy far beyond its borders. It may possess a rare beast formation but lack the resources to replace it if destroyed.
 
+### 3.6C Military ranks and cultivation-based progression
+
+**Author decisions — confirmed:**
+
+1. **Paired cultivation:** Military cultivation develops through both the tamer and the bonded beast. Their growth is connected; military qualification assesses the partnership rather than treating either member as a complete substitute for the other.
+2. **Individual beast bond:** A bonded beast is an individual partner, not interchangeable military equipment. If a beast dies, the tamer is not automatically issued or assigned a replacement. Any later bond must be established with another individual beast, and the previous partnership's synchronisation is not transferred as if it were equipment or stored experience.
+3. **Merit-based promotion:** Military promotion is based on demonstrated merit, competence, service and responsibility. Cultivation is relevant to combat eligibility and specialist assignments, but does not automatically confer rank or command authority.
+
+**Design principle:** Cultivation qualification measures combat capability; military rank measures responsibility and authority. They are recorded separately. A powerful tamer is not automatically an officer, and an officer does not need to be the strongest combatant in the unit.
+
+#### A. Paired cultivation qualification
+
+The following six levels are the proposed Dark military's assessment framework. They describe the maturity of a tamer–beast partnership for military service; they are **not** the world's universal cultivation realms and do not replace the wider cultivation system.
+
+| Qualification | Partnership development | Typical military capability |
+|---|---|---|
+| **I — Bond Initiate** | Tamer and beast establish a stable initial bond and begin controlled mana circulation | Supervised training; not yet trusted for independent combat |
+| **II — Tempered Bond** | Both develop basic combat conditioning and reliable cooperation | Can serve as a standard tamer–beast pair |
+| **III — Harmonised Bond** | Mana circulation and combat responses become coordinated; the pair can execute basic combination techniques | Reliable field service; eligible for veteran duties and squad leadership assessment |
+| **IV — Resonant Bond** | The pair achieves deeper synchronisation and can sustain advanced combined techniques | Elite combat service and specialist formation eligibility |
+| **V — Domain Synchronisation** | The pair can project coordinated influence into the surrounding battlefield and interact with wider mana conditions | High-level specialist operations; potential to support or disrupt larger formations |
+| **VI — Abyssal Resonance** | Exceptional synchronisation allows sophisticated interaction with complex elemental forces | Strategic-level specialist capability; exceptionally rare |
+
+The levels are qualifications, not guaranteed power brackets. Species, individual talent, elemental compatibility, training, experience, injuries and battlefield conditions all affect actual performance. A Level IV pair is not guaranteed to defeat every Level III pair.
+
+**Both partners must progress.** The tamer develops mana control, understanding, judgement and the ability to coordinate. The beast develops its own cultivation, physical or elemental capabilities, temperament and combat discipline. A partnership's qualification is limited by the weakest essential part of its synchronisation: a powerful beast cannot conceal a tamer who cannot control the bond, and a highly cultivated tamer cannot force an underdeveloped or unwilling beast to perform beyond its limits.
+
+A mismatch does not erase either individual's personal cultivation. It means the pair cannot claim a higher partnership qualification until both can safely sustain the required level of cooperation. Training therefore includes separate development for each partner as well as joint synchronisation exercises.
+
+**Dark-specific ceiling:** Abyssal Resonance does not mean every qualified pair can command all seven elements. It indicates exceptional ability to harmonise or respond to complex mana interactions. Cross-element cultivation remains rare, knowledge-intensive and potentially dangerous. The ancient Dark techniques that could expand these possibilities are incomplete or lost in the present era.
+
+#### B. Military rank hierarchy
+
+Military rank is a separate career ladder. The titles below form the proposed standard hierarchy for the Territorial Military. They apply across branches, although a branch may have specialist appointments and different staffing needs.
+
+**Enlisted personnel**
+
+| Rank | Main responsibility |
+|---|---|
+| **Recruit** | Undergoes basic military, safety and beast-partnership training |
+| **Bound Soldier** | Recognised serving member capable of carrying out assigned duties |
+| **Senior Soldier** | Experienced field member trusted with greater responsibility |
+| **Squad Sergeant** | Supervises a small squad and its tamer–beast pairs |
+| **Formation Sergeant** | Coordinates several squads or a specialist formation under an officer |
+
+**Commissioned officers**
+
+| Rank | Main responsibility |
+|---|---|
+| **Sub-Lieutenant** | Junior officer; assists with patrol, squad or specialist-team command |
+| **Lieutenant** | Commands a squad, patrol unit or specialist team |
+| **Captain** | Commands a company-sized formation or equivalent branch unit |
+| **Major** | Coordinates several companies or a regional task force |
+| **Colonel** | Senior field officer responsible for a large formation, garrison or major operational area |
+
+**Senior command**
+
+| Rank | Main responsibility |
+|---|---|
+| **General** | Commands a major branch or large operational force |
+| **High General** | Coordinates multiple branches and major territorial operations |
+| **High Commander** | Highest professional military authority; directs the military under the Council's mandate |
+
+The exact size of a squad, company, regiment or regional force is not fixed here. The territory's population and resources should determine unit sizes rather than importing the scale of a large empire's army.
+
+**Special appointments are not ranks.** Titles such as **Abyssal Warden** (containment and dangerous mana threats), **Beast Marshal** (military beast development, deployment and welfare), **War Strategist** (operational planning) and **Frontier Marshal** (important border regions) are specialist appointments. A person retains their actual military rank while holding such an appointment.
+
+#### C. Merit-based promotion and cultivation eligibility
+
+Promotion is earned through a documented assessment, not granted automatically when a cultivation qualification rises. The military evaluates:
+
+- **Professional competence:** Ability to perform the duties of the current rank reliably.
+- **Operational record:** Conduct, judgement and contribution during training, patrols, deployments and emergencies.
+- **Leadership:** Ability to coordinate personnel, protect subordinates and make sound decisions under pressure.
+- **Discipline and integrity:** Compliance with territorial law, military orders and the treatment standards owed to residents, personnel and beasts.
+- **Specialist skill:** Demonstrated expertise relevant to the branch or appointment.
+- **Cultivation qualification:** Relevant to roles requiring a minimum level of combat capability, but not a substitute for the other criteria.
+
+Cultivation levels are therefore eligibility benchmarks, not automatic promotions. A highly cultivated soldier may remain an enlisted specialist if they lack command ability or do not want command responsibility. An experienced officer with a lower qualification may command a formation if their role, staff and operational plan make that arrangement sound. Where a post requires a specific combat capability, the candidate must meet that requirement or be paired with qualified specialists; merit cannot make an unsafe assignment safe.
+
+Family status, wealth, branch affiliation and political favour must not constitute sufficient grounds for promotion. They may create pressure or attempted interference, which can become a source of internal conflict, but the formal standard remains merit. The Council oversees the institution and senior appointments without replacing professional evaluation with routine political patronage.
+
+#### D. Beast death, loss and a new partnership
+
+A bonded beast is an individual partner. It is not a replaceable military mount, a standard-issue weapon or a slot that the military can refill.
+
+If a beast dies:
+
+1. **The bond ends through loss:** The tamer loses that individual partner and the partnership's synchronisation.
+2. **No automatic reassignment:** The military does not simply issue another beast to restore the soldier's former combat rating.
+3. **Personal recovery:** The tamer may require physical, emotional and mana-related recovery. The severity and duration depend on the nature of the bond and the circumstances of the loss; exact metaphysical consequences remain part of the wider beast-bond rules.
+4. **Service reassessment:** The military reviews the person's current capability. They may transfer to a non-tamer role, support or training duty, remain in service with adjusted responsibilities, retire or eventually seek a new bond.
+5. **A new individual bond:** If the tamer later chooses and is able to bond with another beast, that relationship begins as a new partnership. Compatibility, consent or bonding requirements, training and synchronisation must be developed again.
+6. **No inherited synchronisation:** Previous experience may help the tamer learn, but the new beast does not inherit the dead beast's cultivation, abilities, trust or partnership progress. The new pair must earn its own qualification.
+
+A beast's death does not automatically erase the tamer's personal cultivation, tactical knowledge, military service record or earned leadership competence. However, the person's current combat role and paired-cultivation qualification must be reassessed. This distinction allows an experienced officer to remain a capable commander even if they can no longer serve as a front-line tamer.
+
+The military may provide compensation, recovery leave, counselling or equivalent support to the tamer and the beast's recognised dependants or handlers. The precise benefits and legal treatment of a deceased beast remain to be defined. The military must not treat the beast's body, offspring or possessions as automatic state property; ownership and inheritance follow the relevant territorial and beast-bond laws.
+
+#### E. Branch-specific career paths
+
+The same rank structure applies across the six proposed military branches, but not every career requires the same cultivation qualification.
+
+| Branch | Important career strengths | Cultivation relevance |
+|---|---|---|
+| **Heartland Garrison** | Defence planning, discipline, settlement protection and readiness | Combat-pair qualification matters for frontline posts; command and engineering expertise also matter |
+| **Frontier Guard** | Tracking, fieldcraft, survival, patrol leadership and threat assessment | Reliable bonded pairs are valuable; specialist scouts may qualify through non-combat expertise |
+| **Mobile Response Corps** | Rapid deployment, coordination and flexible combat judgement | Higher paired qualifications are generally important for frontline response |
+| **Beast Corps** | Beast care, breeding knowledge, training, deployment and welfare | Deep understanding of beast development and partnership is essential; not every post is a combat post |
+| **Support and Recovery Corps** | Medicine, logistics, equipment, recovery and supply | Professional certification and operational reliability matter more than combat cultivation |
+| **Fortification and Mana Works** | Engineering, defensive systems, surveying and mana safety | Technical expertise is primary; paired cultivation is relevant only to posts exposed to direct combat or dangerous mana conditions |
+
+A soldier may transfer between branches after meeting the receiving branch's professional standards. A transfer does not automatically change their rank, but it may require retraining, reassessment or a period in a role with narrower responsibilities.
+
+#### F. Example: cultivation strength versus command merit
+
+A Level V tamer with little field experience may be an exceptional specialist but not yet capable of leading a company. A Level III officer with years of operational experience, sound judgement and trusted subordinates may be the better Captain. The officer commands the formation; the Level V specialist receives an operational role suited to their rare capability.
+
+If the specialist later demonstrates leadership and completes the required officer training, they may earn a commission and advance. Their cultivation gives them useful options, not an entitlement to command.
+
+#### G. Institutional safeguards and story consequences
+
+- Promotion records should include assessments and reasons so that family influence or political pressure can be challenged.
+- The Council may appoint or confirm the High Commander and review senior command performance, but should not select every squad leader or dictate routine battlefield decisions.
+- Commanders must not sacrifice bonded beasts casually to improve a unit's statistics. Operational plans should account for the long-term loss of a unique partnership.
+- A shortage of compatible beasts can reduce military readiness even when the territory has enough trained human personnel.
+- The death of an experienced soldier's beast can create a skilled but temporarily combat-limited veteran, making recovery, reassignment and identity important themes.
+- A rare new beast may attract competing interest from the Beast Corps, family branches and the tamer themselves. The tamer's right to form an individual partnership must be respected under the applicable law.
+- The protagonist's rediscovery of lost harmonisation methods may eventually improve coordinated formations, but it should not instantly erase the military's shortages, training requirements or political constraints.
+
+This system preserves the Dark military's defining strengths—adaptability, disciplined beast partnerships and counter-element coordination—without making cultivation level a shortcut to authority or treating beasts as disposable equipment.
+
 #### Narrative uses
 
 This organisation provides several story opportunities:
@@ -758,7 +893,7 @@ This path connects his personal growth, the restoration of his family and the wo
 The following remain unresolved and must not be silently promoted to canon:
 
 1. **Cross-national institutions:** The families' cross-national influence is established. The exact structure, legal status and autonomy of their foreign branches and holdings remain proposals.
-2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements, military branches, command hierarchy, recruitment, formations, training and detailed military oversight are proposals awaiting further author confirmation. Exact borders, resources, population, force sizes, final legal categories and neighbouring states remain unresolved.
+2. **Dark territory:** Its independent status, shared Patriarch–Council authority, mixed resident status and Council oversight of the military are confirmed. The nine-seat Abyssal Council, its seat allocation, selection methods, proposed six-year staggered terms, petition and review procedures, removal rules, deadlock process, political movements, military branch details, recruitment, formations and detailed military oversight remain proposals. The military's paired tamer–beast cultivation qualification, separate merit-based rank ladder and individual-beast-loss rule are confirmed directions; exact universal cultivation realms, unit sizes, beast-bond metaphysics, compensation rules and detailed promotion procedures remain open. Exact borders, resources, population, force sizes, final legal categories and neighbouring states remain unresolved.
 3. **Ancient promise:** Its existence and secrecy are established directions. Its exact wording, why the Dark head made it, who knows it exists, and whether it is enforced by a magical contract, bloodline curse, ancestral artifact or another mechanism remain unresolved.
 4. **Knowledge of the betrayal:** The extent of present-day knowledge is unknown. Do not assign knowledge to a particular faction, rank or generation without author confirmation.
 5. **Beast breeding:** Both inherited bloodlines and specialised cultivation contribute to compatibility. The precise methods, inheritance rules and limits remain proposals.
