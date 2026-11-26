@@ -22,6 +22,12 @@
     "timeline:chapter": "node src/cli.js timeline:chapter",
     "object:history": "node src/cli.js object:history",
     "location:history": "node src/cli.js location:history",
+    "draft:prepare": "node src/cli.js draft:prepare",
+    "draft:stage": "node src/cli.js draft:stage",
+    "draft:list": "node src/cli.js draft:list",
+    "draft:show": "node src/cli.js draft:show",
+    "draft:approve": "node src/cli.js draft:approve",
+    "draft:reject": "node src/cli.js draft:reject",
     "test": "node --test"
   }
 }
