@@ -190,7 +190,7 @@ The family names, titles, territories, internal factions and political roles in 
 5. Light organised the Sixfold Accord, giving each other family a reason to participate.
 6. The loose alliance restricted and weakened Dark over time.
 
-The full extent of knowledge among current Light descendants remains unresolved.
+**Author decision: present-day knowledge is unknown.** Do not assume that all Light elders, the whole leadership, or even a clearly defined inner circle know the truth. It remains unresolved who knows that Light masterminded the betrayal, whether records survive, whether the truth has been distorted even within Light, and whether anyone alive possesses the complete account.
 
 **Proposed internal factions:**
 
@@ -223,7 +223,9 @@ This is the proposed explanation for Dark's lost ability to cultivate beasts fro
 
 **Important limitation:** Dark cultivation should not automatically let every descendant cultivate every beast. Compatibility, knowledge, resources, training and control remain necessary. Conflicting mana may create instability or danger.
 
-**Proposed territory and economy:** The original Dark heartland may have been built around an ancient mana convergence point. It may once have held multi-element mana materials, ancient breeding records, compatibility research, cultivation manuals and ruins connected to the world's mana veins.
+**Author decision: Dark retains ancestral territory.** The Dark Family has not been reduced solely to scattered descendants or a landless remnant; it still possesses an ancestral territory.
+
+**Proposal:** The territory is diminished in influence and resources compared with its former extent. It may retain a core domain while having lost outer lands, strategic sites or access to important mana veins. Its borders, population, legal status, degree of autonomy and relationship with neighbouring states remain undecided. The original heartland may have been built around an ancient mana convergence point and may contain multi-element mana materials, breeding records, compatibility research, cultivation manuals and ruins connected to the world's mana veins.
 
 **Proposed military role:** Counter-element techniques, mana absorption or redirection, disruption of enemy techniques, containment of unstable beasts and harmonisation of allied elemental forces.
 
@@ -257,6 +259,8 @@ No family should be the best at everything. Each should possess something the ot
 
 **Established worldbuilding direction:** Most family descendants cultivate beasts associated with their own family's established breeding lines. Finding a suitable wild beast is uncommon because exploration, capture, transport and compatibility assessment are expensive and dangerous.
 
+**Author decision: family compatibility comes from both inherited bloodlines and specialised cultivation.** Family beasts are not compatible merely because they belong to a species with the right element. Generations of selective breeding establish useful inherited traits, while family-specific environments, feeding, mana exposure, training and cultivation methods further develop compatibility.
+
 **Proposed family breeding system:**
 
 Families maintain specialised breeding grounds and preserve records concerning:
@@ -287,7 +291,7 @@ A family-bred beast offers a more predictable path for a descendant because gene
 
 Contracts should distinguish the mercenary fee, beast purchase price, ownership, salvage rights, casualty liability and legal provenance.
 
-Family-bred beasts may be more accessible to ordinary family descendants, while unusual wild beasts command higher prices because of the costs and risks involved.
+Family-bred beasts may be more accessible to ordinary family descendants, while unusual wild beasts command higher prices because of the costs and risks involved. **Proposal:** Two beasts of the same species may develop different traits depending on their bloodline and cultivation history. A family might therefore protect both its breeding pedigree and the specialised methods used to raise each generation.
 
 ---
 
@@ -299,7 +303,7 @@ The betrayal should unfold through political and economic pressure, not only thr
 2. **The Discovery:** Light leadership discovers Dark's cross-element cultivation capability and recognises its threat to the existing balance of power.
 3. **The Ideological Campaign:** Light promotes the belief that Dark cultivation is dangerous or unnatural, using selective evidence and possibly genuine accidents.
 4. **The Sixfold Accord:** Light gathers the other families. Each joins for its own reasons; the alliance remains loose.
-5. **The Ancient Promise:** A previous Dark Family head makes a promise that later binds the family to demands from the other six. Its wording, purpose and enforcement mechanism are unresolved.
+5. **The Secret Ancient Promise:** A previous Dark Family head makes a promise that later becomes the basis for demands imposed on Dark by the other six. **Author decision:** The promise is secret; it is not common public knowledge. The circumstances of its creation, who knows its existence, its exact wording and its enforcement mechanism remain unresolved proposals.
 6. **The Decline of Dark:** Dark loses territory, breeding grounds, political influence and access to resources.
 7. **The Present Age:** The surviving Dark Family is regarded as weak, dangerous or irrelevant by different groups. Public history reflects the victors' version.
 
@@ -360,15 +364,14 @@ This path connects his personal growth, the restoration of his family and the wo
 The following remain unresolved and must not be silently promoted to canon:
 
 1. **Political reach:** Are the families cross-national powers with branches, independent territorial powers, or a mixture?
-2. **Present Dark condition:** Does Dark retain a diminished ancestral territory, survive as a small estate, exist as scattered descendants, or combine these conditions?
-3. **Ancient promise:** Is it enforced by a magical contract, bloodline curse, ancestral artifact or an unknown mechanism?
-4. **Knowledge of the betrayal:** Do only a few senior leaders know, do most senior members know, is the full truth restricted to Light's highest leadership, or is the truth now fragmented?
-5. **Beast breeding:** Are family beasts distinct primarily because of inherited bloodlines, specialised cultivation, or both?
+2. **Dark territory:** Dark retains ancestral territory. Its exact borders, remaining resources, population, autonomy, lost lands and political status are still proposals.
+3. **Ancient promise:** Its existence and secrecy are established directions. Its exact wording, why the Dark head made it, who knows it exists, and whether it is enforced by a magical contract, bloodline curse, ancestral artifact or another mechanism remain unresolved.
+4. **Knowledge of the betrayal:** The extent of present-day knowledge is unknown. Do not assign knowledge to a particular faction, rank or generation without author confirmation.
+5. **Beast breeding:** Both inherited bloodlines and specialised cultivation contribute to compatibility. The precise methods, inheritance rules and limits remain proposals.
 6. **Names and titles:** All clan names and titles in this document are provisional.
 7. **Species details:** The signature beast names are design inspirations; their exact biology, rarity, cultivation stages and abilities need further development.
-8. **Ancient promise:** Its exact wording, why the Dark head made it, and how it became a tool of oppression are undecided.
-9. **Historical chronology:** The dates, generations and specific events of the betrayal are not established.
-10. **The protagonist's mother:** Her factional connections and the true cause of her crippled cultivation remain undecided.
+8. **Historical chronology:** The dates, generations and specific events of the betrayal are not established.
+9. **The protagonist's mother:** Her factional connections and the true cause of her crippled cultivation remain undecided.
 
 ---
 
