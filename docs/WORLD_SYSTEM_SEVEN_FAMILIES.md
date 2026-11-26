@@ -5,6 +5,11 @@
 This document expands the seven elemental families using the author's current decisions:
 
 - The political world contains multiple kingdoms and empires.
+- The seven families exercise cross-national influence through branches and networks.
+- Dark retains ancestral territory, although its current condition is not fully defined.
+- The ancient promise is secret; its terms and enforcement remain unresolved.
+- The extent of present-day knowledge of Light's betrayal is unknown.
+- Family beast compatibility is developed through both inherited bloodlines and specialised cultivation.
 - Each family uses both a distinctive clan name and an elemental designation.
 - The Light Family masterminded the historical betrayal of the Dark Family.
 - The Dark Family's original purpose combined balance, preservation of elemental origins, and counterbalancing dangerous elemental dominance.
@@ -30,7 +35,9 @@ A useful distinction:
 
 A royal house may be politically sovereign while still depending on an elemental family for elite beast tamers, rare beasts, medicine, weapons, mana technology or specialised training.
 
-**Proposal:** The seven families have ancestral heartlands, but their branches, businesses, students, marriage ties and political agents can be found in multiple countries. Their influence varies by region; no family automatically controls every state in which it operates.
+**Author decision: cross-national influence.** The seven families are powers that operate across kingdom and empire borders. Their branches, businesses, students, marriage ties, breeding interests and political agents can be found in multiple countries. They are not subordinate to a single crown, and no family automatically controls every state in which it operates.
+
+**Proposal:** Each family maintains an ancestral heartland while establishing branches, estates, academies, commercial holdings and diplomatic relationships abroad. The legal status of each branch may differ from country to country. Some may operate with royal charters; others may be independent, discreet or protected by treaties. A kingdom may welcome a family's expertise while remaining wary of its transnational influence.
 
 ### The loose alliance against Dark
 
