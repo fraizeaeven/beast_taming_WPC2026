@@ -18,13 +18,15 @@ npm run validate
 
 See [Story Structure Management](STORY_STRUCTURE.md) for supported hierarchy rules and examples.
 
-## Chapter workflow
-1. Review canon, character, world-state, knowledge, promise, open-loop and story-structure records relevant to the chapter.
-2. Create a shell: `npm run chapter:new -- 1 "Chapter title"`.
-3. Draft prose and fill the chapter JSON, including story links and continuity annotations where known.
-4. Update affected registries using stable IDs.
-5. Run `npm run validate`; resolve structural errors and review continuity warnings.
-6. Lock a chapter only after human continuity review.
+## Chapter drafting workflow
+1. Review and update the chapter's participants, POV, locations and story links.
+2. Generate its preflight: `npm run context:chapter -- 1` or `npm run context:write -- 1`.
+3. Review the retrieved character, relationship, knowledge, event, plot, promise and unresolved-thread records. Follow any source references where needed.
+4. Draft the chapter. Do not treat missing information as permission to invent canon.
+5. Record chapter events and proposed changes with stable IDs; update registries only after author approval.
+6. Run `npm run validate` and review all warnings before locking the chapter.
+
+See [Chapter Context Retrieval](CHAPTER_CONTEXT.md) for retrieval rules and limitations.
 
 ## Principles
 - Brainstorming is not canon; only confirmed facts enter canon registries.
@@ -34,6 +36,7 @@ See [Story Structure Management](STORY_STRUCTURE.md) for supported hierarchy rul
 - Structural validation checks record integrity. Continuity validation checks explicit age, knowledge, relationship, promise, event and story-structure annotations; it does not interpret prose or make canon decisions.
 - Continuity findings are warnings for human review, not automatic edits.
 - Story structure records represent author-maintained intent and progression. They do not automatically create events, character facts or canon.
+- Chapter context is a retrieval snapshot, not a canon update or an instruction to resolve every retrieved thread.
 
 ## Status
 planned → drafted → reviewed → locked. Changes to locked chapters require a continuity decision.
