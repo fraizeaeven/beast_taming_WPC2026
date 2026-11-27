@@ -32,6 +32,8 @@
     "psychology:character": "node src/cli.js psychology:character",
     "scene:behaviour": "node src/cli.js scene:behaviour",
     "scene:character": "node src/cli.js scene:character",
+    "scene:construction": "node src/cli.js scene:construction",
+    "scene:pacing": "node src/cli.js scene:pacing",
     "test": "node --test"
   }
 }
