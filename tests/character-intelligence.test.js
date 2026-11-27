@@ -4,7 +4,7 @@ import {checkCharacterIntelligence,getCharacterIntelligenceReport} from "../src/
 const registries={
  "03_CHARACTER_REGISTRY":{entries:[{id:"CHAR_A",name:"A"}]},
  "17_STORY_STRUCTURE_REGISTRY":{entries:[
-  {id:"PLOT_SETUP",type:"main_plot",startChapter:1,milestones:[{id:"MILESTONE_TRUTH",chapter:8}]},
+  {id:"PLOT_SETUP",type:"main_plot",startChapter:8,milestones:[{id:"MILESTONE_TRUTH",chapter:8}]},
   {id:"ARC_A",type:"character_arc",startChapter:3,dependencies:["PLOT_SETUP"],milestones:[{id:"MILESTONE_CHANGE",chapter:5,dependsOn:["MILESTONE_TRUTH"]}]}
  ]},
  "18_CHARACTER_STATE_HISTORY":{entries:[
