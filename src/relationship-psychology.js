@@ -102,6 +102,7 @@ export function getRelationshipPsychologyReport({ chapters = [], registries = {}
   const result = checkRelationshipPsychology({ chapters, registries });
   const interactions = collectInteractions(chapters).filter(item => !relationshipId || item.relationshipId === relationshipId);
   const findings = result.warnings.filter(item => !relationshipId || item.relationshipId === relationshipId);
+  const errors = result.errors.filter(item => !relationshipId || item.relationshipId === relationshipId);
   const selected = [...relationshipMap(registries).values()].filter(item => !relationshipId || item.id === relationshipId);
   return {
     latestChapter: interactions.reduce((max, item) => Math.max(max, item.chapter), 0),
@@ -113,7 +114,8 @@ export function getRelationshipPsychologyReport({ chapters = [], registries = {}
       interactions: interactions.filter(item => item.relationshipId === relationship.id),
       findings: findings.filter(item => item.relationshipId === relationship.id)
     })),
+    errors,
     findings,
-    counts: { interactions: interactions.length, findings: findings.length }
+    counts: { interactions: interactions.length, errors: errors.length, findings: findings.length }
   };
 }
