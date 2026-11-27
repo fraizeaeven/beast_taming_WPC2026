@@ -17,7 +17,7 @@ const chapters=[
  {number:2,consequenceChecks:[{
   id:"CONSEQ_A_002",order:1,source:{kind:"consequence",recordId:"CONSEQ_A_001",chapter:1},causedByConsequenceId:"CONSEQ_A_001",
   initiatingCharacterId:"CHAR_B",affectedCharacterId:"CHAR_A",description:"A loses access to B's help",responseBehaviour:"A attempts to solve the problem alone",
-  impactDomains:["goal","behaviour"],evidence:"A proceeds without B",followUp:{status:"observed",expectedByChapter:2,observedAtChapter:2,evidence:"A completes the task alone"}
+  impactDomains:["goal","behaviour"],evidence:"A proceeds without B",causalEvidence:"A states that B no longer helps after the earlier withdrawal",followUp:{status:"observed",expectedByChapter:2,observedAtChapter:2,evidence:"A completes the task alone"}
  }]}
 ];
 
@@ -33,6 +33,7 @@ test("flags missing source, affected character and evidence",()=>{
  assert.ok(codes.includes("CONSEQUENCE_SOURCE_NOT_FOUND"));
  assert.ok(codes.includes("CONSEQUENCE_AFFECTED_CHARACTER_UNKNOWN"));
  assert.ok(codes.includes("CONSEQUENCE_EVIDENCE_MISSING"));
+ assert.ok(codes.includes("CONSEQUENCE_CAUSAL_LINK_EVIDENCE_MISSING"));
 });
 
 test("flags overdue follow-up and missing state carry-through",()=>{
@@ -56,6 +57,14 @@ test("rejects invalid consequence chain parent and relationship",()=>{
  assert.ok(codes.includes("CONSEQUENCE_PARENT_NOT_FOUND_OR_NOT_EARLIER"));
  assert.ok(codes.includes("CONSEQUENCE_CHAIN_REFERENCE_INVALID"));
  assert.ok(codes.includes("CONSEQUENCE_RELATIONSHIP_UNKNOWN"));
+});
+
+test("requires evidence for source-to-effect causation",()=>{
+ const result=checkNarrativeConsequences({registries,chapters:[{number:1,psychologyChecks:[{id:"PSY_A_001",characterId:"CHAR_A"}],consequenceChecks:[{
+  id:"CONSEQ_CAUSAL_001",source:{kind:"decision",recordId:"PSY_A_001",chapter:1},affectedCharacterId:"CHAR_B",description:"B withdraws",
+  responseBehaviour:"B stops speaking",impactDomains:["trust"],evidence:"B leaves the room"
+ }]}]});
+ assert.ok(result.warnings.some(x=>x.code==="CONSEQUENCE_CAUSAL_LINK_EVIDENCE_MISSING"));
 });
 
 test("reports filtered consequence chains and downstream links",()=>{
