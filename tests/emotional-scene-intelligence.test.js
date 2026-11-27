@@ -52,6 +52,15 @@ test("requires evidence for belief changes and reveal setup", () => {
   assert.ok(result.warnings.some(x => x.code === "SCENE_REVEAL_WITHOUT_RECORDED_SETUP"));
 });
 
+test("flags reader-only information copied into a character knowledge record", () => {
+  const result = checkEmotionalSceneIntelligence({ registries, chapters: [{ number: 1, sceneInterpretationChecks: [{
+    ...scene, id: "SCNVIEW_005",
+    readerKnowledge: { knownFacts: ["SECRET_EXIT_PLAN"], readerOnlyFacts: ["SECRET_EXIT_PLAN"], evidence: "Narration reveals the plan" },
+    perspectives: [{ characterId: "CHAR_A", interpretation: "B is calm", interpretationEvidence: "B says nothing", knowledgeIds: ["SECRET_EXIT_PLAN"], knowledgeEvidence: "A somehow knows" }]
+  }] }] });
+  assert.ok(result.warnings.some(x => x.code === "SCENE_READER_ONLY_KNOWLEDGE_LEAK"));
+});
+
 test("returns character-filtered scene history", () => {
   const report = getEmotionalSceneReport({ registries, chapters: [{ number: 1, sceneInterpretationChecks: [scene] }], characterId: "CHAR_B" });
   assert.equal(report.scenes.length, 1);
