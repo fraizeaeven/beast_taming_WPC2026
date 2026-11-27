@@ -85,3 +85,13 @@ test("approved AI proposal can append a scene construction record",async t=>{
   const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
   assert.equal(chapter.sceneConstructionChecks[0].id,"SCNBUILD_A_001");
 });
+
+test("approved AI proposal can append a relationship psychology interaction",async t=>{
+  await fixture(t);
+  const interaction={id:"RELBEAT_A_001",relationshipId:"REL_A_B",initiatorCharacterId:"CHAR_A",responderCharacterId:"CHAR_B",trigger:"A refuses to answer",initiatorIntent:"Avoid conflict",initiatorBehaviour:"Changes the subject",responderInterpretation:"B thinks A does not trust them",responderResponse:"B withdraws",observableEvidence:"B leaves the room"};
+  await fs.writeFile("analysis.json",JSON.stringify({chapterNumber:2,findings:[],proposals:[{id:"PROP_REL",type:"add_chapter_item",chapter:2,field:"relationshipPsychologyChecks",value:interaction}]}));
+  const staged=await stageDraftReview("analysis.json");
+  await decideDraftProposal(staged.id,"PROP_REL","approve");
+  const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
+  assert.equal(chapter.relationshipPsychologyChecks[0].id,"RELBEAT_A_001");
+});
