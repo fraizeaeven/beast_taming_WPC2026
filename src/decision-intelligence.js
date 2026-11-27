@@ -39,7 +39,7 @@ export function checkDecisionIntelligence({ chapters = [], registries = {} } = {
     if (!present(beat.interpretation) && !present(beat.beliefActivated)) {
       warnings.push({ code: "DECISION_INTERPRETATION_OR_BELIEF_MISSING", characterId: beat.characterId, chapter: beat.chapter, beatId: beat.id });
     }
-    if (!present(beat.decisionRationale) && !present(beat.choicePattern)) {
+    if (!present(beat.decisionRationale) && !present(beat.conflictEvidence)) {
       warnings.push({ code: "DECISION_RATIONALE_MISSING", characterId: beat.characterId, chapter: beat.chapter, beatId: beat.id });
     }
 
