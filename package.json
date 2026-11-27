@@ -39,6 +39,7 @@
     "intelligence:report": "node src/cli.js intelligence:report",
     "intelligence:impact": "node src/cli.js intelligence:impact",
     "test": "node --test",
-    "character:intelligence": "node src/cli.js character:intelligence"
+    "character:intelligence": "node src/cli.js character:intelligence",
+    "character:decision": "node src/cli.js character:decision"
   }
 }
