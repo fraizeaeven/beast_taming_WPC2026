@@ -96,6 +96,8 @@ export function checkNarrativeConsequences({ registries = {}, chapters = [] } = 
     if(follow) {
       if(!follow.status) warnings.push({code:"CONSEQUENCE_FOLLOWUP_STATUS_MISSING",chapter:item.chapter,id:item.id});\n      if(chapterNo(follow.expectedByChapter)===null || follow.expectedByChapter<item.chapter)
         errors.push({code:"CONSEQUENCE_FOLLOWUP_DUE_DATE_INVALID",chapter:item.chapter,id:item.id,expectedByChapter:follow.expectedByChapter??null});
+      if(follow.status==="observed" && chapterNo(follow.observedAtChapter)!==null && follow.observedAtChapter>latestChapter) warnings.push({code:"CONSEQUENCE_FOLLOWUP_RECORDED_IN_FUTURE",chapter:item.chapter,id:item.id,observedAtChapter:follow.observedAtChapter,latestChapter});
+      if(follow.status==="not_applicable" && !present(follow.notApplicableReason)) warnings.push({code:"CONSEQUENCE_FOLLOWUP_NOT_APPLICABLE_UNEXPLAINED",chapter:item.chapter,id:item.id});
       if(follow.status==="observed" && (!chapterNo(follow.observedAtChapter) || follow.observedAtChapter<item.chapter || !present(follow.evidence)))
         warnings.push({code:"CONSEQUENCE_FOLLOWUP_OBSERVATION_UNSUPPORTED",chapter:item.chapter,id:item.id});
       if(follow.status==="pending" && chapterNo(follow.expectedByChapter)!==null && latestChapter>=follow.expectedByChapter)
