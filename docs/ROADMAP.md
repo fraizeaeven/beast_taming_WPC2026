@@ -46,6 +46,10 @@ Implemented in [Relationship Psychology Intelligence](RELATIONSHIP_PSYCHOLOGY_IN
 
 Implemented in [Emotional Scene Intelligence](EMOTIONAL_SCENE_INTELLIGENCE.md): objective scene events versus individual character interpretations, evidence-backed perspective gaps and misreads, concealed-information holders, reader-only knowledge, belief updates and reveal/setup references. Context retrieval carries earlier character-linked interpretations forward. Findings are advisory and do not infer private states or write canon.
 
+## v2.5 — Narrative consequence intelligence
+
+Implemented in [Narrative Consequence Intelligence](NARRATIVE_CONSEQUENCE_INTELLIGENCE.md): explicit source-linked consequences, cross-chapter causal chains, affected-character responses, impact domains, evidence-backed relationship/state effects, scheduled follow-up and optional character-state carry-through. The report is read-only; validation does not infer causation or force transformation.
+
 ## Recommended implementation order
 
 1. Complete and review story structure records.
