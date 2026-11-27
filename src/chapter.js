@@ -5,7 +5,7 @@ export async function create(n,title){
   if(!Number.isInteger(n)||n<1||!title?.trim())throw Error("Provide a positive chapter number and title");
   const p=file("CHAPTERS",fname(n));
   if(await exists(p))throw Error("Chapter already exists");
-  await write(p,{schemaVersion:1,number:n,title:title.trim(),status:"planned",pov:null,inWorldDate:null,summary:"",scenes:[],sceneConstructionChecks:[],mysteryChanges:[],charactersPresent:[],characterAges:[],behaviorChecks:[],psychologyChecks:[],sceneBehaviourChecks:[],knowledgeUsed:[],knowledgeChanges:[],relationshipChanges:[],storyLinks:[],locations:[],locationChanges:[],events:[],canonChanges:[],objectChanges:[],financialAndLegalChanges:[],promises:[],openLoops:[],continuityNotes:[],authorNotes:""});
+  await write(p,{schemaVersion:1,number:n,title:title.trim(),status:"planned",pov:null,inWorldDate:null,summary:"",scenes:[],sceneConstructionChecks:[],mysteryChanges:[],charactersPresent:[],characterAges:[],behaviorChecks:[],psychologyChecks:[],sceneBehaviourChecks:[],knowledgeUsed:[],knowledgeChanges:[],relationshipChanges:[],relationshipPsychologyChecks:[],storyLinks:[],locations:[],locationChanges:[],events:[],canonChanges:[],objectChanges:[],financialAndLegalChanges:[],promises:[],openLoops:[],continuityNotes:[],authorNotes:""});
   return p;
 }
 export async function show(n){const p=file("CHAPTERS",fname(Number(n)));if(!(await exists(p)))throw Error("Chapter not found");return read(p)}
