@@ -56,6 +56,7 @@ export function checkNarrativeConsequences({ registries = {}, chapters = [] } = 
     else byId.set(item.id,item);
     if(!present(item.description)) warnings.push({code:"CONSEQUENCE_DESCRIPTION_MISSING",chapter:item.chapter,id:item.id});
     if(!present(item.evidence)) warnings.push({code:"CONSEQUENCE_EVIDENCE_MISSING",chapter:item.chapter,id:item.id});
+    if(!present(item.causalEvidence)) warnings.push({code:"CONSEQUENCE_CAUSAL_LINK_EVIDENCE_MISSING",chapter:item.chapter,id:item.id});
     if(!validId(item.affectedCharacterId)||!characters.has(item.affectedCharacterId))
       errors.push({code:"CONSEQUENCE_AFFECTED_CHARACTER_UNKNOWN",chapter:item.chapter,id:item.id,characterId:item.affectedCharacterId??null});
     if(item.initiatingCharacterId && (!validId(item.initiatingCharacterId)||!characters.has(item.initiatingCharacterId)))
@@ -70,8 +71,11 @@ export function checkNarrativeConsequences({ registries = {}, chapters = [] } = 
       if(item.source.chapter>item.chapter) errors.push({code:"CONSEQUENCE_SOURCE_FROM_FUTURE",chapter:item.chapter,id:item.id,sourceChapter:item.source.chapter});
       if(item.source.kind!=="consequence" && !findSource(chapters,item.source.kind,item.source.recordId,item.source.chapter))
         errors.push({code:"CONSEQUENCE_SOURCE_NOT_FOUND",chapter:item.chapter,id:item.id,source:item.source});
-      if(item.source.kind==="consequence" && !byId.has(item.source.recordId))
-        errors.push({code:"CONSEQUENCE_PARENT_NOT_FOUND_OR_NOT_EARLIER",chapter:item.chapter,id:item.id,parentId:item.source.recordId});
+      if(item.source.kind==="consequence") {
+        const parent=byId.get(item.source.recordId);
+        if(!parent || parent.chapter!==item.source.chapter)
+          errors.push({code:"CONSEQUENCE_PARENT_NOT_FOUND_OR_NOT_EARLIER",chapter:item.chapter,id:item.id,parentId:item.source.recordId,sourceChapter:item.source.chapter});
+      }
       const source=findSource(chapters,item.source.kind,item.source.recordId,item.source.chapter);
       if(source && item.source.chapter===item.chapter && Number.isFinite(source.order) && Number.isFinite(item.order) && source.order>item.order)
         errors.push({code:"CONSEQUENCE_PRECEDES_SAME_CHAPTER_SOURCE",chapter:item.chapter,id:item.id,sourceId:item.source.recordId});
@@ -92,7 +96,7 @@ export function checkNarrativeConsequences({ registries = {}, chapters = [] } = 
     if(follow) {
       if(chapterNo(follow.expectedByChapter)===null || follow.expectedByChapter<item.chapter)
         errors.push({code:"CONSEQUENCE_FOLLOWUP_DUE_DATE_INVALID",chapter:item.chapter,id:item.id,expectedByChapter:follow.expectedByChapter??null});
-      if(follow.status==="observed" && (!chapterNo(follow.observedAtChapter) || !present(follow.evidence)))
+      if(follow.status==="observed" && (!chapterNo(follow.observedAtChapter) || follow.observedAtChapter<item.chapter || !present(follow.evidence)))
         warnings.push({code:"CONSEQUENCE_FOLLOWUP_OBSERVATION_UNSUPPORTED",chapter:item.chapter,id:item.id});
       if(follow.status==="pending" && chapterNo(follow.expectedByChapter)!==null && latestChapter>=follow.expectedByChapter)
         warnings.push({code:"CONSEQUENCE_FOLLOWUP_OVERDUE",chapter:item.chapter,id:item.id,expectedByChapter:follow.expectedByChapter,latestChapter});
