@@ -9,7 +9,7 @@ const chapterPath = n => file("CHAPTERS", "CHAPTER_" + String(n).padStart(4, "0"
 const proposalPath = id => file("DRAFT_REVIEWS", id + ".json");
 const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
 const allowedChapterFields = new Set(["summary","scenes","charactersPresent","characterAges","behaviorChecks","psychologyChecks","sceneBehaviourChecks","sceneConstructionChecks","relationshipPsychologyChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","mysteryChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes","authorNotes"]);
-const arrayChapterFields = new Set(["scenes","sceneConstructionChecks","charactersPresent","characterAges","behaviorChecks","psychologyChecks","sceneBehaviourChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","mysteryChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes"]);
+const arrayChapterFields = new Set(["scenes","sceneConstructionChecks","charactersPresent","characterAges","behaviorChecks","psychologyChecks","sceneBehaviourChecks","relationshipPsychologyChecks","knowledgeUsed","knowledgeChanges","relationshipChanges","storyLinks","locations","locationChanges","events","canonChanges","mysteryChanges","objectChanges","financialAndLegalChanges","promises","openLoops","continuityNotes"]);
 
 export async function prepareDraftReview(chapterNumber, draftFile) {
   const n = Number(chapterNumber);
