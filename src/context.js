@@ -235,6 +235,7 @@ export function formatChapterContext(context) {
     "- Preserve each character's recorded knowledge boundary and relationship state.",
     "- Keep reader-only knowledge separate from every character's observed facts, thoughts and decisions.",
     "- Preserve established consequences and their follow-up status; do not erase a prior effect merely to simplify a later scene.",
+    "- When a consequence is delayed, retain its expected chapter and do not present it as observed until later evidence is recorded.",
     "- Do not resolve an open loop, mystery or promise unless the chapter is intended and authorized to pay it off.",
     "- Record newly established facts as proposed changes for author review; do not silently overwrite earlier records.",
     "");
