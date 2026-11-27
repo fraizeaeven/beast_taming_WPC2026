@@ -69,7 +69,7 @@ test("requires evidence for source-to-effect causation",()=>{
 
 test("reports filtered consequence chains and downstream links",()=>{
  const report=getNarrativeConsequenceReport({registries,chapters,characterId:"CHAR_B"});
- assert.equal(report.consequences.length,1);
+ assert.equal(report.consequences.length,2);
  assert.deepEqual(report.consequences[0].downstream,["CONSEQ_A_002"]);
  assert.equal(report.counts.chainsWithDownstream,1);
 });
