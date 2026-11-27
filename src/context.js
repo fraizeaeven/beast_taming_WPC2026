@@ -146,6 +146,20 @@ export async function buildChapterContext(number) {
     sceneInterpretationHistory.sort((a, b) => a.chapter - b.chapter || String(a.order ?? 0).localeCompare(String(b.order ?? 0)) || String(a.id).localeCompare(String(b.id)));
   }
 
+  const consequenceHistory = [];
+  if (characterIds.size) {
+    for (const name of await listChapterFiles()) {
+      const sourceChapter = await read(file("CHAPTERS", name));
+      if (!Number.isInteger(sourceChapter.number) || sourceChapter.number > chapterNumber) continue;
+      for (const consequence of array(sourceChapter.consequenceChecks)) {
+        if (characterIds.has(consequence?.affectedCharacterId) || characterIds.has(consequence?.initiatingCharacterId)) {
+          consequenceHistory.push({ chapter: sourceChapter.number, ...consequence });
+        }
+      }
+    }
+    consequenceHistory.sort((a,b)=>a.chapter-b.chapter || Number(a.order??0)-Number(b.order??0) || String(a.id??"").localeCompare(String(b.id??"")));
+  }
+
   const unresolved = [];
   for (const name of ["11_MYSTERY_REGISTER", "12_OPEN_LOOP_REGISTER", "13_PROMISE_AND_PAYOFF_REGISTER"]) {
     for (const item of selected[name]) {
@@ -179,6 +193,7 @@ export async function buildChapterContext(number) {
     records: selected,
     relationshipPsychologyHistory,
     sceneInterpretationHistory,
+    consequenceHistory,
     constraintsAndUnresolved: unresolved,
     omissions: REGISTRIES.filter(name => !registries[name]).map(name => ({ registry: name, reason: "Registry file is missing" }))
   };
@@ -208,6 +223,9 @@ export function formatChapterContext(context) {
   lines.push("", "## Earlier scene interpretations and dramatic irony",
     context.sceneInterpretationHistory?.length ? "```json" : "_No earlier/current character-linked scene interpretation history retrieved._");
   if (context.sceneInterpretationHistory?.length) lines.push(JSON.stringify(context.sceneInterpretationHistory, null, 2), "```");
+  lines.push("", "## Historical consequence chains",
+    context.consequenceHistory?.length ? "```json" : "_No earlier/current character-linked consequence records retrieved._");
+  if (context.consequenceHistory?.length) lines.push(JSON.stringify(context.consequenceHistory, null, 2), "```");
   lines.push("", "## Constraints, future milestones and unresolved threads",
     context.constraintsAndUnresolved.length ? "```json" : "_No matching constraints or unresolved records retrieved._");
   if (context.constraintsAndUnresolved.length) lines.push(JSON.stringify(context.constraintsAndUnresolved, null, 2), "```");
@@ -216,6 +234,7 @@ export function formatChapterContext(context) {
     "- Do not treat missing information as permission to invent canon.",
     "- Preserve each character's recorded knowledge boundary and relationship state.",
     "- Keep reader-only knowledge separate from every character's observed facts, thoughts and decisions.",
+    "- Preserve established consequences and their follow-up status; do not erase a prior effect merely to simplify a later scene.",
     "- Do not resolve an open loop, mystery or promise unless the chapter is intended and authorized to pay it off.",
     "- Record newly established facts as proposed changes for author review; do not silently overwrite earlier records.",
     "");
