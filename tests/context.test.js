@@ -13,6 +13,14 @@ async function fixture(t) {
   await fs.mkdir("CHAPTERS");
   await fs.mkdir("CHAPTER_RECORDS");
   const put = (p, value) => fs.writeFile(p, JSON.stringify(value, null, 2));
+  await put("CHAPTERS/CHAPTER_0007.json", {
+    number:7,title:"The First Fracture",status:"draft",pov:"CHAR_A",
+    charactersPresent:["CHAR_A","CHAR_B"],relationshipPsychologyChecks:[{
+      id:"RELBEAT_007",relationshipId:"REL_A_B",initiatorCharacterId:"CHAR_A",responderCharacterId:"CHAR_B",
+      trigger:"A hides a truth",initiatorIntent:"Protect B",initiatorBehaviour:"Lies",responderInterpretation:"B thinks A distrusts them",
+      responderResponse:"B withdraws",observableEvidence:"B leaves the room"
+    }]
+  });
   await put("CHAPTERS/CHAPTER_0008.json", {
     number:8,title:"The Price of Trust",status:"planned",pov:"CHAR_A",
     charactersPresent:["CHAR_A","CHAR_B"],storyLinks:[{storyId:"ARC_A",role:"complication"}],
@@ -40,6 +48,8 @@ test("retrieves chapter-linked characters, story ancestors, related relationship
   assert.deepEqual(context.selection.storyIds.sort(),["ARC_A","PLOT_MAIN"]);
   assert.ok(context.records["03_CHARACTER_REGISTRY"].some(x=>x.id==="CHAR_A"));
   assert.ok(context.records["04_RELATIONSHIP_REGISTRY"].some(x=>x.id==="REL_A_B"));
+  assert.equal(context.relationshipPsychologyHistory.length,1);
+  assert.equal(context.relationshipPsychologyHistory[0].id,"RELBEAT_007");
   assert.ok(context.records["09_LOCATION_REGISTRY"].some(x=>x.id==="LOC_KEEP"));
   assert.ok(context.records["11_MYSTERY_REGISTER"].some(x=>x.id==="MYS_A"));
   assert.ok(!context.records["11_MYSTERY_REGISTER"].some(x=>x.id==="MYS_Z"));
@@ -52,6 +62,7 @@ test("formats a readable, explicit-context writing brief",async t=>{
   assert.match(brief,/Chapter 8 — Writing Context/);
   assert.match(brief,/Do not treat missing information as permission to invent canon/);
   assert.match(brief,/17_STORY_STRUCTURE_REGISTRY/);
+  assert.match(brief,/Relationship psychology history/);
 });
 test("rejects invalid or missing chapter numbers",async t=>{
   await fixture(t);
