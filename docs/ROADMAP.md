@@ -42,6 +42,10 @@ Implemented in [Character Decision and Behaviour Intelligence](DECISION_INTELLIG
 ## v2.3 — Relationship psychology intelligence
 Implemented in [Relationship Psychology Intelligence](RELATIONSHIP_PSYCHOLOGY_INTELLIGENCE.md): two-sided interaction causality from initiator intent/fear and behaviour through responder interpretation/reaction and feedback; evidence-backed trust, power, boundary and relationship shifts; repeated defensive strategies; repair attempts/outcomes; and exact relationship participant references. Findings are advisory; the engine does not infer private states or force reconciliation.
 
+## v2.4 — Emotional scene intelligence
+
+Implemented in [Emotional Scene Intelligence](EMOTIONAL_SCENE_INTELLIGENCE.md): objective scene events versus individual character interpretations, evidence-backed perspective gaps and misreads, concealed-information holders, reader-only knowledge, belief updates and reveal/setup references. Context retrieval carries earlier character-linked interpretations forward. Findings are advisory and do not infer private states or write canon.
+
 ## Recommended implementation order
 
 1. Complete and review story structure records.
