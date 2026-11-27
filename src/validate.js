@@ -7,6 +7,7 @@ import {checkKnowledgeTimeline} from "./knowledge-timeline.js";
 import {checkPsychology} from "./psychology.js";
 import {checkSceneBehaviour} from "./scene-behaviour.js";
 import {checkSceneConstruction} from "./scene-construction.js";
+import {checkNovelIntelligence} from "./novel-intelligence.js";
 export async function validate(){
   const errors=[],warnings=[],r=await registries(),ids={};
   for(const n of REGISTRIES){const d=r[n];if(!d){errors.push({code:"REGISTRY_MISSING",file:n});continue}if(d.registry!==n)errors.push({code:"REGISTRY_NAME",file:n});if(!Array.isArray(d.entries)){errors.push({code:"ENTRIES_NOT_ARRAY",file:n});continue}ids[n]=new Set();for(const [i,e] of d.entries.entries()){if(!e||typeof e!=="object"||!/^[A-Z][A-Z0-9_-]{1,63}$/.test(e.id??"")){errors.push({code:"ENTRY_OR_ID_INVALID",file:n,index:i});continue}if(ids[n].has(e.id))errors.push({code:"ID_DUPLICATE",file:n,id:e.id});ids[n].add(e.id)}}
@@ -21,5 +22,6 @@ export async function validate(){
   const psychology=checkPsychology({registries:r,chapters:chapterRecords});errors.push(...psychology.errors);warnings.push(...psychology.warnings);
   const sceneBehaviour=checkSceneBehaviour({registries:r,chapters:chapterRecords});errors.push(...sceneBehaviour.errors);warnings.push(...sceneBehaviour.warnings);
   const sceneConstruction=checkSceneConstruction({registries:r,chapters:chapterRecords});errors.push(...sceneConstruction.errors);warnings.push(...sceneConstruction.warnings);
+  warnings.push(...checkNovelIntelligence({registries:r,chapters:chapterRecords}));
   return{ok:errors.length===0,errors,warnings,registryCount:Object.keys(r).length,chapterCount:seen.size,continuityWarningCount:warnings.length};
 }

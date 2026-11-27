@@ -27,8 +27,11 @@ Scene-level psychological beat annotations, automatic reactions, thoughts, emoti
 ## v1.8 — Scene-level character behaviour
 Observable action, dialogue behaviour, body language, avoidance, observer perception and interpretation, relationship impact, scene outcomes and causal links. Implemented in [Scene-Level Character Behaviour Engine](SCENE_LEVEL_BEHAVIOUR.md). Behaviour evidence is separated from interpretation; author approval remains required for AI-proposed records.
 
-## v1.9 — Scene construction and emotional pacing\nScene goals, opposition, conflict, stakes, escalation, turning points/reversals, emotional shifts, outcomes, exit hooks, purpose coverage and ordered tension variation. Implemented in [Scene Construction and Emotional Pacing](SCENE_CONSTRUCTION_AND_PACING.md). Tension is author-estimated; deliberate breathers and transitions are supported rather than forced into a rising curve.\n\n## v2.0 — Novel continuity intelligence
-Cross-chapter contradiction graph, payoff coverage, mystery/foreshadowing tracking, historical queries and impact analysis when earlier canon is revised.
+## v1.9 — Scene construction and emotional pacing
+Scene goals, opposition, conflict, stakes, escalation, turning points/reversals, emotional shifts, outcomes, exit hooks, purpose coverage and ordered tension variation. Implemented in [Scene Construction and Emotional Pacing](SCENE_CONSTRUCTION_AND_PACING.md). Tension is author-estimated; deliberate breathers and transitions are supported rather than forced into a rising curve.
+
+## v2.0 — Novel continuity intelligence
+Implemented in [Novel Continuity Intelligence](NOVEL_CONTINUITY_INTELLIGENCE.md): explicit cross-chapter canon assertion conflicts, mystery clue/reveal sequencing, open-loop resolution evidence, promise/payoff coverage, foreshadowing summaries and read-only exact-ID canon impact analysis. Findings are advisory and do not change canon.
 
 ## Recommended implementation order
 

@@ -9,6 +9,17 @@ npm test
 npm run validate
 ```
 
+## Novel continuity intelligence workflow
+1. Record mysteries, open loops and promises in their existing registries using stable IDs.
+2. Add explicit setup, clue, reveal, due and payoff chapter numbers when known; leave unknown values blank rather than guessing.
+3. Record chapter actions using the same IDs in `mysteryChanges`, `openLoops` and `promises` where appropriate.
+4. Run `npm run intelligence:report` to inspect thread status and warnings.
+5. Before changing an established fact, run `npm run intelligence:impact -- 01_CANON_REGISTRY FACT_ID` and review the direct and one-hop dependent records/chapters.
+6. Document intentional retcons in `16_CONTINUITY_LEDGER`, mark the explicit assertion with `changeType: "retcon"`, then manually review every affected passage.
+7. Run `npm run validate`. Warnings are prompts for author review, not automatic canon edits.
+
+See [Novel Continuity Intelligence](NOVEL_CONTINUITY_INTELLIGENCE.md) for supported fields, warning codes and limitations.
+
 ## Story structure workflow
 1. Create the main plot: `npm run story:new -- PLOT_MAIN main_plot "Main conflict"`.
 2. Create subplots, character arcs, sub-arcs and mystery arcs with unique stable IDs.
@@ -66,7 +77,7 @@ Query with `npm run psychology:chapter -- 12` or `npm run psychology:character -
 - Unknown is not false; preserve uncertainty.
 - A chapter record is an evidence log of what happened and changed.
 - Retcons require an entry in 16_CONTINUITY_LEDGER.
-- Structural validation checks record integrity. Continuity validation checks explicit age, knowledge, POV, relationship, promise, event, object/location and story-structure annotations; it does not interpret prose or make canon decisions.
+- Structural validation checks record integrity. Continuity validation checks explicit age, knowledge, POV, relationship, promise, event, object/location, story-structure and v2.0 narrative-thread annotations; it does not interpret prose or make canon decisions.
 - Continuity findings are warnings for human review, not automatic edits.
 - Story structure records represent author-maintained intent and progression. They do not automatically create events, character facts or canon.
 - Character state snapshots are historical checkpoints, not continuous psychological simulation.

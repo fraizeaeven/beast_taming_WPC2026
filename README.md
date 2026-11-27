@@ -34,13 +34,25 @@ Use `npm run draft:prepare -- 12 drafts/chapter-0012.md` to build an AI review p
 
 Use `npm run knowledge:state -- CHAR_KAEL 12` to reconstruct a character's knowledge at a chapter, `npm run knowledge:who-knows -- FACT_ID 12` to list who knows a fact, `npm run timeline:chapter -- 12` to inspect the chapter timeline, and `npm run object:history -- OBJ_ID` / `npm run location:history -- LOC_ID` to inspect transfer history. See [Knowledge and Timeline Engine](docs/KNOWLEDGE_AND_TIMELINE.md).
 
-`npm run validate` checks registry/chapter structure and reports evidence-based continuity warnings for character behavior annotations, knowledge timing, age/timeline consistency, relationship transitions, promise timing, event dates and story-structure mappings. Warnings require human review; structural errors fail validation. See [Continuity Checks](docs/CONTINUITY_CHECKS.md) and [Story Structure Management](docs/STORY_STRUCTURE.md).
+### v2.0 — Novel continuity intelligence
+
+Use `npm run intelligence:report` to review mystery reveals, clue placement, open-loop resolution, promise/payoff coverage, foreshadowing and cross-chapter canon assertion conflicts. Use `npm run intelligence:impact -- 01_CANON_REGISTRY FACT_ID` before revising a canon record to list exact-ID registry and chapter references, including one-hop dependent chapters. Run `npm run validate` to include these checks in the continuity warnings. See [Novel Continuity Intelligence](docs/NOVEL_CONTINUITY_INTELLIGENCE.md).
+
+`npm run validate` checks registry/chapter structure and reports evidence-based continuity warnings for character behaviour annotations, knowledge timing, age/timeline consistency, relationship transitions, promise timing, event dates, story-structure mappings, explicit cross-chapter canon assertions, mystery clues/reveals, open loops and payoff timing. Warnings require human review; structural errors fail validation. See [Continuity Checks](docs/CONTINUITY_CHECKS.md), [Story Structure Management](docs/STORY_STRUCTURE.md) and [Novel Continuity Intelligence](docs/NOVEL_CONTINUITY_INTELLIGENCE.md).
 
 Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORLD_SYSTEM_MANA.md), [Elemental Affinity System](docs/WORLD_SYSTEM_AFFINITY.md), [World Order](docs/WORLD_ORDER.md), and [Seven Elemental Families](docs/WORLD_SYSTEM_SEVEN_FAMILIES.md) for the premise, cultivation foundations, elemental rules, political institutions, family identities, beast-breeding economy and unresolved worldbuilding proposals. See [Engine Guide](docs/ENGINE_GUIDE.md), [Record Schema](docs/RECORD_SCHEMA.md), and [Roadmap](docs/ROADMAP.md) for engine usage.
 
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+### 2026-11-27 — Novel continuity intelligence (v2.0)
+
+- Added explicit cross-chapter canon assertion conflict detection using stable fact IDs and retcon markers.
+- Added mystery setup/clue/reveal sequencing, open-loop resolution evidence, promise/payoff coverage and foreshadowing summaries.
+- Added read-only exact-ID canon impact analysis across registries and chapter records, including one-hop dependent chapters.
+- Added `intelligence:report` and `intelligence:impact` commands; integrated v2.0 findings into `npm run validate`.
+- Reused existing registries; added tests and documentation. Findings remain review warnings and never trigger automatic canon changes.
+
 ### 2026-11-27 — Scene construction and emotional pacing (v1.9)
 
 - Added `sceneConstructionChecks` records for scene goals, opposition, conflict, stakes, escalation, turning points/reversals, emotional shifts, outcomes, hooks, tension estimates and story-purpose coverage.
@@ -65,7 +77,7 @@ The engine does not invent canon. Add only author-confirmed facts to registries;
 ### 2026-11-27 — Historical character state tracking
 
 - Added `18_CHARACTER_STATE_HISTORY` for chapter-indexed emotional, physical, motivational, belief, behavioural and relationship snapshots.
-- Added historical reconstruction and history-list commands; queries return the latest recorded snapshot at or before the requested chapter without interpolating missing states.
+- Added historical reconstruction and history-list commands; queries return the latest recorded snapshot at or before a chapter without interpolating missing states.
 - Added seven-stage arc validation for stage range, evidence, duplicate snapshots and explicitly marked regression.
 - Added tests and documentation; snapshots remain author-confirmed and do not automatically change canon.
 
