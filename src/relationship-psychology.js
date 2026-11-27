@@ -64,6 +64,7 @@ export function checkRelationshipPsychology({ chapters = [], registries = {} } =
     if (present(item.trustImpact) && !present(item.trustEvidence)) warnings.push({ code: "RELATIONSHIP_TRUST_IMPACT_UNSUPPORTED", chapter: item.chapter, relationshipId: item.relationshipId, interactionId: item.id });
     if (present(item.relationshipShift) && !present(item.relationshipShiftEvidence)) warnings.push({ code: "RELATIONSHIP_SHIFT_UNSUPPORTED", chapter: item.chapter, relationshipId: item.relationshipId, interactionId: item.id });
     if (present(item.powerDynamic) && !present(item.powerEvidence)) warnings.push({ code: "RELATIONSHIP_POWER_DYNAMIC_UNSUPPORTED", chapter: item.chapter, relationshipId: item.relationshipId, interactionId: item.id });
+    if (present(item.dependencyDynamic) && !present(item.dependencyEvidence)) warnings.push({ code: "RELATIONSHIP_DEPENDENCY_DYNAMIC_UNSUPPORTED", chapter: item.chapter, relationshipId: item.relationshipId, interactionId: item.id });
     if (item.repairAttempt === true && (!present(item.repairOutcome) || !present(item.repairEvidence))) warnings.push({ code: "RELATIONSHIP_REPAIR_OUTCOME_UNRECORDED", chapter: item.chapter, relationshipId: item.relationshipId, interactionId: item.id });
     if (item.boundaryCrossed === true && !present(item.boundaryImpact)) warnings.push({ code: "RELATIONSHIP_BOUNDARY_IMPACT_UNRECORDED", chapter: item.chapter, relationshipId: item.relationshipId, interactionId: item.id });
 
