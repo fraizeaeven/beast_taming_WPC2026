@@ -9,7 +9,7 @@ function collectScenes(chapters) {
     const number = chapterNumber(chapter?.number);
     if (number === null) continue;
     for (const scene of list(chapter.sceneInterpretationChecks)) {
-      if (scene && validId(scene.id)) result.push({ chapter: number, ...scene });
+      if (scene && typeof scene === "object") result.push({ chapter: number, ...scene });
     }
   }
   return result.sort((a, b) => a.chapter - b.chapter || String(a.order ?? 0).localeCompare(String(b.order ?? 0)) || a.id.localeCompare(b.id));
@@ -28,9 +28,9 @@ export function checkEmotionalSceneIntelligence({ registries = {}, chapters = []
 
   for (const scene of allScenes) {
     const key = scene.chapter + "::" + scene.id;
+    if (!validId(scene.id)) errors.push({ code: "SCENE_INTERPRETATION_ID_INVALID", chapter: scene.chapter, id: scene.id ?? null });
     if (sceneKeys.has(key)) errors.push({ code: "SCENE_INTERPRETATION_ID_DUPLICATE", chapter: scene.chapter, id: scene.id });
     sceneKeys.add(key);
-    if (!validId(scene.id)) errors.push({ code: "SCENE_INTERPRETATION_ID_INVALID", chapter: scene.chapter });
     if (!present(scene.sceneId)) warnings.push({ code: "SCENE_INTERPRETATION_SCENE_UNSPECIFIED", chapter: scene.chapter, id: scene.id });
     if (!present(scene.objectiveEvent)) warnings.push({ code: "SCENE_OBJECTIVE_EVENT_MISSING", chapter: scene.chapter, id: scene.id });
     if (!present(scene.objectiveEvidence)) warnings.push({ code: "SCENE_OBJECTIVE_EVIDENCE_MISSING", chapter: scene.chapter, id: scene.id });
@@ -69,6 +69,11 @@ export function checkEmotionalSceneIntelligence({ registries = {}, chapters = []
 
     const reader = scene.readerKnowledge;
     if (reader != null && !present(reader.evidence)) warnings.push({ code: "SCENE_READER_KNOWLEDGE_EVIDENCE_MISSING", chapter: scene.chapter, sceneId: scene.id });
+    const readerOnly = new Set(list(reader?.readerOnlyFacts));
+    for (const view of perspectives) {
+      const leaked = list(view?.knowledgeIds).filter(id => readerOnly.has(id));
+      if (leaked.length) warnings.push({ code: "SCENE_READER_ONLY_KNOWLEDGE_LEAK", chapter: scene.chapter, sceneId: scene.id, characterId: view.characterId, informationIds: leaked });
+    }
     for (const update of list(scene.beliefUpdates)) {
       if (!validId(update?.characterId) || !characters.has(update.characterId)) errors.push({ code: "SCENE_BELIEF_UPDATE_CHARACTER_UNKNOWN", chapter: scene.chapter, sceneId: scene.id, characterId: update?.characterId ?? null });
       if (present(update?.newInterpretation) && !present(update?.newEvidence)) warnings.push({ code: "SCENE_BELIEF_UPDATE_WITHOUT_NEW_EVIDENCE", chapter: scene.chapter, sceneId: scene.id, characterId: update.characterId ?? null });
