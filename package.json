@@ -42,6 +42,7 @@
     "character:intelligence": "node src/cli.js character:intelligence",
     "character:decision": "node src/cli.js character:decision",
     "relationship:psychology": "node src/cli.js relationship:psychology",
-    "scene:interpretation": "node src/cli.js scene:interpretation"
+    "scene:interpretation": "node src/cli.js scene:interpretation",
+    "consequence:report": "node src/cli.js consequence:report"
   }
 }
