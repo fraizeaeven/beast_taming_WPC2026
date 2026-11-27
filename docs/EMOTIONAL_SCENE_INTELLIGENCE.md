@@ -13,13 +13,13 @@ A chapter may contain `sceneInterpretationChecks: []`. Each scene record can inc
 - `perspectives[]`: character ID, observed facts, interpretation, interpretation accuracy, evidence, activated belief, emotion, outward expression, resulting behaviour and behaviour evidence.
 - `perspectiveGapEvidence`: author-recorded reason two perspectives differ.
 - `concealedInformation[]`: information ID, holder, description, concealment reason and evidence.
-- `readerKnowledge`: explicitly recorded facts available to the reader and their narrative evidence. This is never treated as character knowledge.
+- `readerKnowledge`: explicitly recorded facts available to the reader, optional `readerOnlyFacts` that characters do not know, and narrative evidence. Reader-only facts are checked against character `knowledgeIds` annotations.
 - `beliefUpdates[]`: prior/new interpretation and the new evidence that changes the character's view.
 - `reveals[]`: information ID, reveal evidence and earlier setup scene IDs.
 
 ## Validation
 
-Structural errors cover duplicate annotation IDs and unknown character references. Advisory findings cover missing objective evidence, unsupported interpretations/misreads, unsubstantiated concealment, reader-knowledge evidence gaps, belief updates without new evidence and reveals without recorded setup. A setup reference is checked against earlier annotated scene IDs. Findings do not establish whether an interpretation is psychologically true.
+Structural errors cover duplicate annotation IDs and unknown character references. Advisory findings cover missing objective evidence, unsupported interpretations/misreads, unsubstantiated concealment, reader-knowledge evidence gaps, reader-only knowledge copied into a character knowledge record, belief updates without new evidence and reveals without recorded setup. A setup reference is checked against earlier annotated scene IDs, including earlier scenes within the same chapter. Findings do not establish whether an interpretation is psychologically true.
 
 ## POV and knowledge safeguards
 
