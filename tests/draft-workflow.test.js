@@ -105,3 +105,13 @@ test("approved AI proposal can append an emotional scene interpretation",async t
   const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
   assert.equal(chapter.sceneInterpretationChecks[0].id,"SCNVIEW_A_002");
 });
+
+test("approved AI proposal can append a consequence chain record",async t=>{
+  await fixture(t);
+  const consequence={id:"CONSEQ_A_002",order:1,source:{kind:"decision",recordId:"PSY_A_001",chapter:1},causedByConsequenceId:"",initiatingCharacterId:"CHAR_A",affectedCharacterId:"CHAR_B",description:"B withdraws after the lie",responseBehaviour:"B stops asking for help",resultingDecision:"B handles the crisis alone",impactDomains:["trust","behaviour"],evidence:"B refuses A's offer",causalEvidence:"B explicitly says the earlier lie is why they no longer trust A",followUp:{expectedByChapter:4,status:"pending",observedAtChapter:null,evidence:""},stateCarryForward:{required:false}};
+  await fs.writeFile("analysis.json",JSON.stringify({chapterNumber:2,findings:[],proposals:[{id:"PROP_CONSEQ",type:"add_chapter_item",chapter:2,field:"consequenceChecks",value:consequence}]}));
+  const staged=await stageDraftReview("analysis.json");
+  await decideDraftProposal(staged.id,"PROP_CONSEQ","approve");
+  const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
+  assert.equal(chapter.consequenceChecks[0].id,"CONSEQ_A_002");
+});
