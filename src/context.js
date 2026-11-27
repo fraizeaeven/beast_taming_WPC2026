@@ -130,6 +130,22 @@ export async function buildChapterContext(number) {
     relationshipPsychologyHistory.sort((a, b) => a.chapter - b.chapter || String(a.id).localeCompare(String(b.id)));
   }
 
+  const sceneInterpretationHistory = [];
+  if (characterIds.size) {
+    for (const name of await listChapterFiles()) {
+      const sourceChapter = await read(file("CHAPTERS", name));
+      if (!Number.isInteger(sourceChapter.number) || sourceChapter.number > chapterNumber) continue;
+      for (const scene of array(sourceChapter.sceneInterpretationChecks)) {
+        const participants = [
+          ...array(scene?.perspectives).map(view => view?.characterId),
+          ...array(scene?.beliefUpdates).map(update => update?.characterId)
+        ];
+        if (participants.some(id => characterIds.has(id))) sceneInterpretationHistory.push({ chapter: sourceChapter.number, ...scene });
+      }
+    }
+    sceneInterpretationHistory.sort((a, b) => a.chapter - b.chapter || String(a.order ?? 0).localeCompare(String(b.order ?? 0)) || String(a.id).localeCompare(String(b.id)));
+  }
+
   const unresolved = [];
   for (const name of ["11_MYSTERY_REGISTER", "12_OPEN_LOOP_REGISTER", "13_PROMISE_AND_PAYOFF_REGISTER"]) {
     for (const item of selected[name]) {
@@ -162,6 +178,7 @@ export async function buildChapterContext(number) {
     },
     records: selected,
     relationshipPsychologyHistory,
+    sceneInterpretationHistory,
     constraintsAndUnresolved: unresolved,
     omissions: REGISTRIES.filter(name => !registries[name]).map(name => ({ registry: name, reason: "Registry file is missing" }))
   };
@@ -188,6 +205,9 @@ export function formatChapterContext(context) {
   lines.push("", "## Relationship psychology history",
     context.relationshipPsychologyHistory?.length ? "```json" : "_No recorded relationship interaction history retrieved._");
   if (context.relationshipPsychologyHistory?.length) lines.push(JSON.stringify(context.relationshipPsychologyHistory, null, 2), "```");
+  lines.push("", "## Earlier scene interpretations and dramatic irony",
+    context.sceneInterpretationHistory?.length ? "```json" : "_No earlier/current character-linked scene interpretation history retrieved._");
+  if (context.sceneInterpretationHistory?.length) lines.push(JSON.stringify(context.sceneInterpretationHistory, null, 2), "```");
   lines.push("", "## Constraints, future milestones and unresolved threads",
     context.constraintsAndUnresolved.length ? "```json" : "_No matching constraints or unresolved records retrieved._");
   if (context.constraintsAndUnresolved.length) lines.push(JSON.stringify(context.constraintsAndUnresolved, null, 2), "```");
