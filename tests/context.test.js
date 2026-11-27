@@ -15,7 +15,7 @@ async function fixture(t) {
   const put = (p, value) => fs.writeFile(p, JSON.stringify(value, null, 2));
   await put("CHAPTERS/CHAPTER_0007.json", {
     number:7,title:"The First Fracture",status:"draft",pov:"CHAR_A",
-    charactersPresent:["CHAR_A","CHAR_B"],sceneInterpretationChecks:[{id:"SCNVIEW_007",sceneId:"SCENE_07",objectiveEvent:"A conceals a plan",perspectives:[{characterId:"CHAR_A",interpretation:"B agrees"},{characterId:"CHAR_B",interpretation:"A is controlling"}]}],relationshipPsychologyChecks:[{
+    charactersPresent:["CHAR_A","CHAR_B"],consequenceChecks:[{id:"CONSEQ_CTX_001",source:{kind:"decision",recordId:"PSY_A_001",chapter:7},initiatingCharacterId:"CHAR_A",affectedCharacterId:"CHAR_B",description:"B withdraws",responseBehaviour:"B avoids A",impactDomains:["trust"],evidence:"B leaves",causalEvidence:"B says the lie changed the relationship"}],sceneInterpretationChecks:[{id:"SCNVIEW_007",sceneId:"SCENE_07",objectiveEvent:"A conceals a plan",perspectives:[{characterId:"CHAR_A",interpretation:"B agrees"},{characterId:"CHAR_B",interpretation:"A is controlling"}]}],relationshipPsychologyChecks:[{
       id:"RELBEAT_007",relationshipId:"REL_A_B",initiatorCharacterId:"CHAR_A",responderCharacterId:"CHAR_B",
       trigger:"A hides a truth",initiatorIntent:"Protect B",initiatorBehaviour:"Lies",responderInterpretation:"B thinks A distrusts them",
       responderResponse:"B withdraws",observableEvidence:"B leaves the room"
@@ -52,6 +52,8 @@ test("retrieves chapter-linked characters, story ancestors, related relationship
   assert.equal(context.relationshipPsychologyHistory[0].id,"RELBEAT_007");
   assert.equal(context.sceneInterpretationHistory.length,1);
   assert.equal(context.sceneInterpretationHistory[0].id,"SCNVIEW_007");
+  assert.equal(context.consequenceHistory.length,1);
+  assert.equal(context.consequenceHistory[0].id,"CONSEQ_CTX_001");
   assert.ok(context.records["09_LOCATION_REGISTRY"].some(x=>x.id==="LOC_KEEP"));
   assert.ok(context.records["11_MYSTERY_REGISTER"].some(x=>x.id==="MYS_A"));
   assert.ok(!context.records["11_MYSTERY_REGISTER"].some(x=>x.id==="MYS_Z"));
@@ -66,6 +68,7 @@ test("formats a readable, explicit-context writing brief",async t=>{
   assert.match(brief,/17_STORY_STRUCTURE_REGISTRY/);
   assert.match(brief,/Relationship psychology history/);
   assert.match(brief,/Earlier scene interpretations and dramatic irony/);
+  assert.match(brief,/Historical consequence chains/);
 });
 test("rejects invalid or missing chapter numbers",async t=>{
   await fixture(t);
