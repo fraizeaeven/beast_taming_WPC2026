@@ -24,6 +24,8 @@ Use `npm run context:chapter -- 86` to print a chapter-specific writing brief, o
 
 Use `npm run character:state -- CHAR_KAEL 24` to reconstruct the latest recorded character snapshot at or before chapter 24, or `npm run character:history -- CHAR_KAEL` to list the full history. The snapshot includes author-recorded emotional/physical state, goals, motivation, misbelief, arc stage and evidence, relationships, decisions and consequences. No unrecorded state is interpolated. See [Historical Character State Tracking](docs/CHARACTER_STATE_HISTORY.md).
 
+Use `npm run character:intelligence` to review goal/motivation consistency, recorded consequences, relationship-state transitions, seven-stage arc evidence and story setup dependencies. Add `-- CHAR_KAEL` to filter to one character. Findings are advisory and based on explicit annotations rather than semantic guesses. See [Narrative Intelligence and Character Consistency](docs/NARRATIVE_INTELLIGENCE.md).
+
 Use `npm run psychology:chapter -- 12` to inspect a chapter's psychological beats, or `npm run psychology:character -- CHAR_KAEL` to see a character's recorded psychology across chapters. Each beat can track trigger, automatic reaction, thought, emotion, physical sensation, expressed emotion, need, misbelief, choice, consequence, observable evidence and interpretation. See [Character Psychology and Emotional Analysis](docs/CHARACTER_PSYCHOLOGY.md).
 
 Use `npm run scene:behaviour -- 12` to inspect scene interaction records, or `npm run scene:behaviour -- 12 SCENE_12_03` to filter one scene. Use `npm run scene:character -- CHAR_KAEL` to follow a character's actions and interactions across chapters. Each `sceneBehaviourChecks` beat tracks action, dialogue behaviour, body language, avoidance, observer observation versus interpretation, relationship impact, scene outcome, causal link and arc effect. Validation checks references and evidence completeness; it does not infer private thoughts or decide whether a relationship/arc change is earned. See [Scene-Level Character Behaviour Engine](docs/SCENE_LEVEL_BEHAVIOUR.md).
@@ -45,6 +47,13 @@ Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORL
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+### 2026-11-27 — Narrative intelligence and character consistency (v2.1)
+
+- Added explicit checks for goal/motivation conflicts, consequential choices without recorded outcomes, and scheduled consequence follow-through.
+- Added historical checks for unexplained goal/motivation changes, relationship-state changes, unsupported multi-stage arc jumps and transformation evidence.
+- Added story-unit and milestone prerequisite ordering checks, plus the `character:intelligence` report command.
+- Extended AI chapter review guidance and added tests/documentation. Findings are advisory; the engine does not infer psychology from prose or modify canon automatically.
+
 ### 2026-11-27 — Novel continuity intelligence (v2.0)
 
 - Added explicit cross-chapter canon assertion conflict detection using stable fact IDs and retcon markers.

@@ -33,6 +33,9 @@ Scene goals, opposition, conflict, stakes, escalation, turning points/reversals,
 ## v2.0 — Novel continuity intelligence
 Implemented in [Novel Continuity Intelligence](NOVEL_CONTINUITY_INTELLIGENCE.md): explicit cross-chapter canon assertion conflicts, mystery clue/reveal sequencing, open-loop resolution evidence, promise/payoff coverage, foreshadowing summaries and read-only exact-ID canon impact analysis. Findings are advisory and do not change canon.
 
+## v2.1 — Narrative intelligence and character consistency
+Implemented in [Narrative Intelligence and Character Consistency](NARRATIVE_INTELLIGENCE.md): explicit goal/motivation conflict review, consequence follow-through, historical relationship-state changes, evidence-backed seven-stage transitions and story milestone prerequisites. Findings remain advisory and rely on author/model annotations rather than semantic inference.
+
 ## Recommended implementation order
 
 1. Complete and review story structure records.

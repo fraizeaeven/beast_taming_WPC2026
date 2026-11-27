@@ -4,7 +4,9 @@
   "private": true,
   "description": "A local-first chapter and canon continuity engine for the Beast Taming WPC2026 novel.",
   "type": "module",
-  "engines": {"node": ">=20"},
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "init": "node src/cli.js init",
     "validate": "node src/cli.js validate",
@@ -36,6 +38,7 @@
     "scene:pacing": "node src/cli.js scene:pacing",
     "intelligence:report": "node src/cli.js intelligence:report",
     "intelligence:impact": "node src/cli.js intelligence:impact",
-    "test": "node --test"
+    "test": "node --test",
+    "character:intelligence": "node src/cli.js character:intelligence"
   }
 }

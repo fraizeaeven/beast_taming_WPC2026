@@ -14,6 +14,8 @@ Each chapter may also include `sceneBehaviourChecks` for observable actions, dia
 
 The `18_CHARACTER_STATE_HISTORY` registry stores author-confirmed historical character snapshots by character and chapter. Snapshots may record emotional/physical state, goal, motivation, misbelief, truth recognition, arc ID and seven-stage position, evidence, behaviour, relationship states, knowledge IDs, pressure, decisions, consequences and source provenance. See [Historical Character State Tracking](CHARACTER_STATE_HISTORY.md).
 
+The v2.1 character-intelligence layer extends existing psychology beats with optional goal alignment, decision rationale and consequence tracking; character snapshots with goal/motivation change reasons, transition evidence and relationship-state reasons; and story milestones with explicit prerequisite IDs. It reports advisory warnings for unsupported changes and ordering. See [Narrative Intelligence and Character Consistency](NARRATIVE_INTELLIGENCE.md).
+
 The v2.0 intelligence layer reuses `01_CANON_REGISTRY`, `11_MYSTERY_REGISTER`, `12_OPEN_LOOP_REGISTER`, `13_PROMISE_AND_PAYOFF_REGISTER`, `16_CONTINUITY_LEDGER` and chapter `canonChanges`, `mysteryChanges`, `openLoops` and `promises`. It compares explicit fact assertions by stable `factId`, tracks setup/clue/reveal and payoff chapter metadata, and reports exact-ID impact references. See [Novel Continuity Intelligence](NOVEL_CONTINUITY_INTELLIGENCE.md) for supported optional fields and warning codes.
 
 Use explicit states such as confirmed, theory, planned, open, resolved and retired. Never silently convert theories into canon. References use stable registry IDs.
