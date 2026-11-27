@@ -28,6 +28,8 @@ Use `npm run character:intelligence` to review goal/motivation consistency, reco
 
 Use `npm run character:decision` to review the annotated cause-and-effect chain behind character choices, including activated beliefs, prior experience references, decision rationale, repeated strategies, consequence carry-through and effects on misbelief/arc. Add `-- CHAR_KAEL` to filter. The report distinguishes personality-consistent decisions from wise decisions; it does not infer psychology from prose. See [Character Decision and Behaviour Intelligence](docs/DECISION_INTELLIGENCE.md).
 
+Use `npm run relationship:psychology` to review two-sided relationship interactions: initiator intent/fear, responder interpretation and reaction, trust impact, power dynamics, boundaries, defensive patterns, repair attempts and relationship shifts. Add `-- REL_KAEL_LINA` to filter. Checks are evidence-based and do not assume apologies restore trust or force reconciliation. See [Relationship Psychology Intelligence](docs/RELATIONSHIP_PSYCHOLOGY_INTELLIGENCE.md).
+
 Use `npm run psychology:chapter -- 12` to inspect a chapter's psychological beats, or `npm run psychology:character -- CHAR_KAEL` to see a character's recorded psychology across chapters. Each beat can track trigger, automatic reaction, thought, emotion, physical sensation, expressed emotion, need, misbelief, choice, consequence, observable evidence and interpretation. See [Character Psychology and Emotional Analysis](docs/CHARACTER_PSYCHOLOGY.md).
 
 Use `npm run scene:behaviour -- 12` to inspect scene interaction records, or `npm run scene:behaviour -- 12 SCENE_12_03` to filter one scene. Use `npm run scene:character -- CHAR_KAEL` to follow a character's actions and interactions across chapters. Each `sceneBehaviourChecks` beat tracks action, dialogue behaviour, body language, avoidance, observer observation versus interpretation, relationship impact, scene outcome, causal link and arc effect. Validation checks references and evidence completeness; it does not infer private thoughts or decide whether a relationship/arc change is earned. See [Scene-Level Character Behaviour Engine](docs/SCENE_LEVEL_BEHAVIOUR.md).
@@ -49,6 +51,12 @@ Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORL
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+### 2026-11-27 — Relationship psychology intelligence (v2.3)
+
+- Added two-sided interaction analysis for initiator intent/fear/behaviour and responder interpretation/reaction, including explicit misread evidence and feedback patterns.
+- Added trust, power, boundary, defensive-strategy, repair-attempt and relationship-shift evidence checks, plus relationship/participant reference validation.
+- Added `relationship:psychology`, integrated advisory findings into `npm run validate`, extended AI review prompts and chapter proposal allowlists, and added tests/documentation. No relationship or canon state is changed automatically.
+
 ### 2026-11-27 — Character decision and behaviour intelligence (v2.2)
 
 - Added a causal decision review for interpretation/belief activation, prior experience links, decision rationale, repeated strategies, explicitly worsening consequences, response mismatches and misbelief/arc effects.
