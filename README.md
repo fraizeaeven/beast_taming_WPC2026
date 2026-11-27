@@ -51,6 +51,12 @@ Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORL
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+### 2026-11-28 — Narrative consequence intelligence (v2.5)
+
+- Added explicit source-linked consequence records and cross-chapter chains, including affected-character responses, impact domains, relationship/state evidence, due follow-ups and optional state-history carry-through.
+- Added `consequence:report`, validation integration, historical consequence retrieval in chapter context and AI-review guidance.
+- Added focused tests and documentation. Causal links are author-recorded; the engine does not infer causation or force character change.
+
 ### 2026-11-27 — Emotional scene intelligence (v2.4)
 
 - Added scene-level objective-event versus character-perspective annotations, evidence-backed interpretation gaps, concealed information holders, explicitly recorded reader knowledge, belief updates and reveal/setup references.
