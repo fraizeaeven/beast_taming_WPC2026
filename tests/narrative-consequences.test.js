@@ -11,7 +11,7 @@ const chapters=[
  {number:1,psychologyChecks:[{id:"PSY_A_001",characterId:"CHAR_A",deliberateChoice:"Hide the truth"}],consequenceChecks:[{
   id:"CONSEQ_A_001",order:2,source:{kind:"decision",recordId:"PSY_A_001",chapter:1},initiatingCharacterId:"CHAR_A",affectedCharacterId:"CHAR_B",
   description:"B stops sharing information",responseBehaviour:"B withdraws and stops asking for help",impactDomains:["trust","behaviour"],evidence:"B refuses the next conversation",
-  relationshipImpact:{relationshipId:"REL_A_B",priorState:"open",currentState:"strained",evidence:"B refuses to speak privately"},
+  relationshipImpact:{relationshipId:"REL_A_B",priorState:"open",currentState:"strained",evidence:"B refuses to speak privately"},causalEvidence:"B says the concealed truth caused the withdrawal",
   followUp:{status:"pending",expectedByChapter:3}
  }]},
  {number:2,consequenceChecks:[{
