@@ -39,6 +39,9 @@ Implemented in [Narrative Intelligence and Character Consistency](NARRATIVE_INTE
 ## v2.2 — Character decision and behaviour intelligence
 Implemented in [Character Decision and Behaviour Intelligence](DECISION_INTELLIGENCE.md): annotated causal chains from trigger and automatic reaction through interpretation, activated belief, emotion/body, expression, deliberate choice, consequence, misbelief effect and arc effect. Includes prior-experience references, repeated strategy/cost review and optional consequence-to-state carry-through. Findings remain advisory and rely on explicit annotations.
 
+## v2.3 — Relationship psychology intelligence
+Implemented in [Relationship Psychology Intelligence](RELATIONSHIP_PSYCHOLOGY_INTELLIGENCE.md): two-sided interaction causality from initiator intent/fear and behaviour through responder interpretation/reaction and feedback; evidence-backed trust, power, boundary and relationship shifts; repeated defensive strategies; repair attempts/outcomes; and exact relationship participant references. Findings are advisory; the engine does not infer private states or force reconciliation.
+
 ## Recommended implementation order
 
 1. Complete and review story structure records.
