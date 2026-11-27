@@ -1,6 +1,6 @@
 # Relationship Psychology Intelligence
 
-Version 2.3 reviews the psychological feedback loop between two characters. It builds on the existing \`04_RELATIONSHIP_REGISTRY\`, chapter \`relationshipChanges\`, and \`sceneBehaviourChecks\`; it does not replace those records.
+Version 2.3 reviews the psychological feedback loop between two characters. It builds on the existing `04_RELATIONSHIP_REGISTRY`, chapter `relationshipChanges`, and `sceneBehaviourChecks`; it does not replace those records.
 
 ## Core interaction loop
 
@@ -19,9 +19,9 @@ The engine does not infer private states from prose. It checks only explicitly r
 
 ## Chapter record
 
-Add \`relationshipPsychologyChecks\` to a chapter. Example:
+Add `relationshipPsychologyChecks` to a chapter. Example:
 
-\`\`\`json
+```json
 {
   "id": "RELBEAT_001",
   "relationshipId": "REL_KAEL_LINA",
@@ -35,6 +35,7 @@ Add \`relationshipPsychologyChecks\` to a chapter. Example:
   "interpretationAccuracy": "misread",
   "interpretationGapEvidence": "Kael admits privately that his action came from fear, not contempt",
   "responderResponse": "Lina withdraws and stops sharing information",
+  "initiatorNextBehaviour": "Kael becomes more controlling after Lina withdraws",
   "defensiveStrategy": "protective_control",
   "trustImpact": "damaged",
   "trustEvidence": "She conceals her next plan from him",
@@ -49,37 +50,37 @@ Add \`relationshipPsychologyChecks\` to a chapter. Example:
   "relationshipShiftEvidence": "She no longer tells him where she is going",
   "observableEvidence": "He blocks the doorway; she leaves without answering"
 }
-\`\`\`
+```
 
 ## Supported optional fields
 
 | Field | Purpose |
 | --- | --- |
-| \`initiatorIntent\`, \`initiatorFearOrNeed\` | Record the initiating character's purpose and emotional driver. |
-| \`responderInterpretation\`, \`interpretationAccuracy\`, \`interpretationGapEvidence\` | Record what the responder thinks happened and whether that reading is accurate, partial or mistaken. |
-| \`responderResponse\` | Record the responder's emotional/behavioural reaction. |
-| \`defensiveStrategy\`, \`strategyReview\`, \`attemptedAlternative\` | Track repeated protective or defensive patterns and whether the character questions or changes them. |
-| \`trustImpact\`, \`trustEvidence\` | Describe and support the effect on trust. |
-| \`powerDynamic\`, \`powerEvidence\` | Record an explicit power difference and its evidence. |
-| \`attachmentPattern\` | Optional author interpretation; use only when supported, not as a diagnosis. |
-| \`boundaryCrossed\`, \`boundaryImpact\` | Record an explicitly crossed boundary and its impact. |
-| \`repairAttempt\`, \`repairOutcome\`, \`repairEvidence\` | Distinguish an attempt to repair from the other character's actual response. |
-| \`relationshipShift\`, \`relationshipShiftEvidence\` | Record and support a change in the relationship. |
-| \`observableEvidence\` | Ground the interaction in visible action, dialogue or explicit narration. |
+| `initiatorIntent`, `initiatorFearOrNeed` | Record the initiating character's purpose and emotional driver. |
+| `responderInterpretation`, `interpretationAccuracy`, `interpretationGapEvidence` | Record what the responder thinks happened and whether that reading is accurate, partial or mistaken. |
+| `responderResponse` | Record the responder's emotional/behavioural reaction. |
+| `defensiveStrategy`, `strategyReview`, `attemptedAlternative` | Track repeated protective or defensive patterns and whether the character questions or changes them. |
+| `trustImpact`, `trustEvidence` | Describe and support the effect on trust. |
+| `powerDynamic`, `powerEvidence` | Record an explicit power difference and its evidence. |
+| `attachmentPattern` | Optional author interpretation; use only when supported, not as a diagnosis. |
+| `boundaryCrossed`, `boundaryImpact` | Record an explicitly crossed boundary and its impact. |
+| `repairAttempt`, `repairOutcome`, `repairEvidence` | Distinguish an attempt to repair from the other character's actual response. |
+| `relationshipShift`, `relationshipShiftEvidence` | Record and support a change in the relationship. |
+| `observableEvidence` | Ground the interaction in visible action, dialogue or explicit narration. |
 
-The relationship registry must contain the referenced \`relationshipId\` and its two participants in \`from\` and \`to\`. The interaction's initiator and responder must be those same two characters; either character may initiate.
+The relationship registry must contain the referenced `relationshipId` and its two participants in `from` and `to`. The interaction's initiator and responder must be those same two characters; either character may initiate.
 
 ## Report and validation
 
-\`\`\`bash
+```bash
 npm run relationship:psychology
 npm run relationship:psychology -- REL_KAEL_LINA
 npm run validate
-\`\`\`
+```
 
 The report lists interactions and findings for each relationship. Validation adds structural errors for unknown relationship/character references and participant mismatches. Missing causal details, unsupported interpretations, trust/power claims, repair outcomes and repeated costly defensive patterns are advisory warnings.
 
-A \`relationshipChanges\` item may include \`sourceInteractionId\` to link a state transition to its causal interaction. If supplied, the ID must resolve to an earlier interaction for the same relationship.
+A `relationshipChanges` item may include `sourceInteractionId` to link a state transition to its causal interaction. If supplied, the ID must resolve to an earlier interaction for the same relationship.
 
 ## Review boundaries
 
