@@ -54,12 +54,13 @@ test("rejects unknown relationship IDs and participants outside the relationship
 test("requires evidence for misreading, trust, power, repair and boundary effects", () => {
   const result = checkRelationshipPsychology({ registries, chapters: [{ number: 1, relationshipPsychologyChecks: [{
     ...first, id: "RELBEAT_005", interpretationGapEvidence: "", trustEvidence: "", powerEvidence: "",
-    repairAttempt: true, repairOutcome: "", repairEvidence: "", boundaryImpact: ""
+    repairAttempt: true, repairOutcome: "", repairEvidence: "", boundaryImpact: "", dependencyDynamic: "One character cannot make decisions without the other", dependencyEvidence: ""
   }] }] });
   const codes = result.warnings.map(item => item.code);
   assert.ok(codes.includes("RELATIONSHIP_MISINTERPRETATION_UNSUPPORTED"));
   assert.ok(codes.includes("RELATIONSHIP_TRUST_IMPACT_UNSUPPORTED"));
   assert.ok(codes.includes("RELATIONSHIP_POWER_DYNAMIC_UNSUPPORTED"));
+  assert.ok(codes.includes("RELATIONSHIP_DEPENDENCY_DYNAMIC_UNSUPPORTED"));
   assert.ok(codes.includes("RELATIONSHIP_REPAIR_OUTCOME_UNRECORDED"));
   assert.ok(codes.includes("RELATIONSHIP_BOUNDARY_IMPACT_UNRECORDED"));
 });
