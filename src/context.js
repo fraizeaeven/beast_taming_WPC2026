@@ -215,6 +215,7 @@ export function formatChapterContext(context) {
   lines.push("", "## Drafting safeguards",
     "- Do not treat missing information as permission to invent canon.",
     "- Preserve each character's recorded knowledge boundary and relationship state.",
+    "- Keep reader-only knowledge separate from every character's observed facts, thoughts and decisions.",
     "- Do not resolve an open loop, mystery or promise unless the chapter is intended and authorized to pay it off.",
     "- Record newly established facts as proposed changes for author review; do not silently overwrite earlier records.",
     "");
