@@ -87,7 +87,8 @@ export function checkDecisionIntelligence({ chapters = [], registries = {} } = {
     }
   }
 
-  for (const [key, repeated] of patterns) {
+  for (const repeated of patterns.values()) {
+    if (repeated.length < 2) continue;
     const escalating = repeated.filter(beat => String(beat.consequenceTrend ?? "").toLowerCase() === "worsening");
     for (const beat of escalating) {
       if (!present(beat.strategyReview) && !present(beat.attemptedAlternative)) {
