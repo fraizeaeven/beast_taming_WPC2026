@@ -75,3 +75,13 @@ test("approved AI proposal can append an evidenced psychology beat",async t=>{
   const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
   assert.equal(chapter.psychologyChecks[0].id,"PSY_A_002");
 });
+
+test("approved AI proposal can append a scene construction record",async t=>{
+  await fixture(t);
+  const scene={id:"SCNBUILD_A_001",sceneId:"SCENE_02",order:1,sceneGoal:"Escape",opposition:"The gate is locked",conflict:"They argue over the route",stakes:"Capture",escalationSteps:["Alarm sounds"],turningPoint:"A guard opens the gate",emotionalShift:"Fear becomes resolve",outcome:"They escape",hookOrExit:"A second alarm",tensionStart:2,tensionPeak:7,tensionEnd:4,pacingMode:"reversal",plotProgress:"The escape reveals the traitor",evidence:"They run through the gate"};
+  await fs.writeFile("analysis.json",JSON.stringify({chapterNumber:2,findings:[],proposals:[{id:"PROP_SCENE",type:"add_chapter_item",chapter:2,field:"sceneConstructionChecks",value:scene}]}));
+  const staged=await stageDraftReview("analysis.json");
+  await decideDraftProposal(staged.id,"PROP_SCENE","approve");
+  const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
+  assert.equal(chapter.sceneConstructionChecks[0].id,"SCNBUILD_A_001");
+});
