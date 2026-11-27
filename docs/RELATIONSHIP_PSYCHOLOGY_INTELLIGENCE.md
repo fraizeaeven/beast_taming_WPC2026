@@ -64,6 +64,7 @@ Add `relationshipPsychologyChecks` to a chapter. Example:
 | `defensiveStrategy`, `strategyReview`, `attemptedAlternative` | Track repeated protective or defensive patterns and whether the character questions or changes them. |
 | `trustImpact`, `trustEvidence` | Describe and support the effect on trust. |
 | `powerDynamic`, `powerEvidence` | Record an explicit power difference and its evidence. |
+| `dependencyDynamic`, `dependencyEvidence` | Record an explicitly described emotional-dependency dynamic and its evidence; this is not a diagnosis. |
 | `attachmentPattern` | Optional author interpretation; use only when supported, not as a diagnosis. |
 | `boundaryCrossed`, `boundaryImpact` | Record an explicitly crossed boundary and its impact. |
 | `repairAttempt`, `repairOutcome`, `repairEvidence` | Distinguish an attempt to repair from the other character's actual response. |
