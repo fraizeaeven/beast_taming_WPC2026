@@ -51,6 +51,12 @@ Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORL
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+### 2026-11-27 — Emotional scene intelligence (v2.4)
+
+- Added scene-level objective-event versus character-perspective annotations, evidence-backed interpretation gaps, concealed information holders, explicitly recorded reader knowledge, belief updates and reveal/setup references.
+- Added `scene:interpretation`, historical perspective retrieval in chapter context, validation integration and AI review guidance that prevents reader-only knowledge from being treated as character knowledge.
+- Added focused tests and documentation. Findings are advisory; the engine does not infer private states, manufacture foreshadowing or change canon automatically.
+
 ### 2026-11-27 — Relationship psychology intelligence (v2.3)
 
 - Added two-sided interaction analysis for initiator intent/fear/behaviour and responder interpretation/reaction, including explicit misread evidence and feedback patterns.
