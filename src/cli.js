@@ -33,7 +33,7 @@ try{
   else if(cmd==="scene:behaviour")console.log(JSON.stringify(await getSceneBehaviourByChapter(a[0],a[1]??null),null,2))
   else if(cmd==="scene:character")console.log(JSON.stringify(await getCharacterSceneBehaviourHistory(a[0]),null,2))
   else if(cmd==="scene:construction")console.log(JSON.stringify(await getSceneConstructionByChapter(a[0]),null,2))
-  else if(cmd==="scene:pacing")console.log(JSON.stringify(await getScenePacingByChapter(a[0]),null,2)
+  else if(cmd==="scene:pacing")console.log(JSON.stringify(await getScenePacingByChapter(a[0]),null,2))
   else if(cmd==="draft:prepare")console.log(JSON.stringify(await prepareDraftReview(a[0],a[1]),null,2))
   else if(cmd==="draft:stage"){const r=await stageDraftReview(a[0]);console.log(JSON.stringify({id:r.id,chapterNumber:r.chapterNumber,findings:r.findings.length,proposals:r.proposals.length,status:"staged; no canon changed"},null,2))}
   else if(cmd==="draft:list")console.log(JSON.stringify(await listDraftReviews(),null,2))
