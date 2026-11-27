@@ -12,7 +12,7 @@ function collectScenes(chapters) {
       if (scene && typeof scene === "object") result.push({ chapter: number, ...scene });
     }
   }
-  return result.sort((a, b) => a.chapter - b.chapter || String(a.order ?? 0).localeCompare(String(b.order ?? 0)) || a.id.localeCompare(b.id));
+  return result.sort((a, b) => a.chapter - b.chapter || Number(a.order ?? 0) - Number(b.order ?? 0) || String(a.id ?? "").localeCompare(String(b.id ?? "")));
 }
 
 /**
@@ -26,7 +26,7 @@ export function checkEmotionalSceneIntelligence({ registries = {}, chapters = []
   const allScenes = collectScenes(chapters);
   const priorInformation = new Map();
 
-  for (const scene of allScenes) {
+  for (const [sceneIndex, scene] of allScenes.entries()) {
     const key = scene.chapter + "::" + scene.id;
     if (!validId(scene.id)) errors.push({ code: "SCENE_INTERPRETATION_ID_INVALID", chapter: scene.chapter, id: scene.id ?? null });
     if (sceneKeys.has(key)) errors.push({ code: "SCENE_INTERPRETATION_ID_DUPLICATE", chapter: scene.chapter, id: scene.id });
@@ -63,7 +63,7 @@ export function checkEmotionalSceneIntelligence({ registries = {}, chapters = []
       if (!present(secret?.description) || !present(secret?.evidence)) warnings.push({ code: "SCENE_CONCEALMENT_UNSUPPORTED", chapter: scene.chapter, sceneId: scene.id, informationId: secret?.informationId ?? null });
       if (present(secret?.informationId)) {
         if (!priorInformation.has(secret.informationId)) priorInformation.set(secret.informationId, []);
-        priorInformation.get(secret.informationId).push({ chapter: scene.chapter, sceneId: scene.sceneId ?? scene.id, holderCharacterId: secret.holderCharacterId });
+        priorInformation.get(secret.informationId).push({ chapter: scene.chapter, sceneIndex, sceneId: scene.sceneId ?? scene.id, holderCharacterId: secret.holderCharacterId });
       }
     }
 
@@ -81,9 +81,9 @@ export function checkEmotionalSceneIntelligence({ registries = {}, chapters = []
     for (const reveal of list(scene.reveals)) {
       if (!present(reveal?.informationId) || !present(reveal?.revealEvidence)) warnings.push({ code: "SCENE_REVEAL_UNSUPPORTED", chapter: scene.chapter, sceneId: scene.id });
       const setups = list(reveal?.setupSceneIds);
-      const earlier = (priorInformation.get(reveal?.informationId) ?? []).filter(item => item.chapter < scene.chapter);
+      const earlier = (priorInformation.get(reveal?.informationId) ?? []).filter(item => item.sceneIndex < sceneIndex);
       if (!setups.length && !earlier.length) warnings.push({ code: "SCENE_REVEAL_WITHOUT_RECORDED_SETUP", chapter: scene.chapter, sceneId: scene.id, informationId: reveal?.informationId ?? null });
-      if (setups.length && !setups.some(id => allScenes.some(item => item.chapter < scene.chapter && (item.sceneId === id || item.id === id)))) {
+      if (setups.length && !setups.some(id => allScenes.some((item, index) => index < sceneIndex && (item.sceneId === id || item.id === id)))) {
         warnings.push({ code: "SCENE_REVEAL_SETUP_REFERENCE_NOT_FOUND", chapter: scene.chapter, sceneId: scene.id, setupSceneIds: setups });
       }
     }
