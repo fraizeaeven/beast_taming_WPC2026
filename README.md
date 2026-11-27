@@ -28,7 +28,9 @@ Use `npm run psychology:chapter -- 12` to inspect a chapter's psychological beat
 
 Use `npm run scene:behaviour -- 12` to inspect scene interaction records, or `npm run scene:behaviour -- 12 SCENE_12_03` to filter one scene. Use `npm run scene:character -- CHAR_KAEL` to follow a character's actions and interactions across chapters. Each `sceneBehaviourChecks` beat tracks action, dialogue behaviour, body language, avoidance, observer observation versus interpretation, relationship impact, scene outcome, causal link and arc effect. Validation checks references and evidence completeness; it does not infer private thoughts or decide whether a relationship/arc change is earned. See [Scene-Level Character Behaviour Engine](docs/SCENE_LEVEL_BEHAVIOUR.md).
 
-Use `npm run scene:construction -- 12` to inspect scene goals, conflict, stakes, escalation, turning points, emotional shifts, outcomes, hooks and story-purpose coverage. Use `npm run scene:pacing -- 12` to see ordered scene tension estimates and transitions across the chapter. Tension is an author judgement, not an automatic quality score; intentional breathers and transitions can carry a documented purpose. See [Scene Construction and Emotional Pacing](docs/SCENE_CONSTRUCTION_AND_PACING.md).\n\nUse `npm run draft:prepare -- 12 drafts/chapter-0012.md` to build an AI review prompt with recorded chapter context. Submit the prompt to your chosen AI model, save its JSON response, then use `npm run draft:stage -- reports/chapter-0012-analysis.json` to stage findings and proposals. Inspect with `draft:list` / `draft:show`, then approve or reject each proposal individually with `draft:approve` / `draft:reject`. Staging never changes canon; approval applies only validated proposals. This is provider-neutral and does not call an AI API. See [AI-Assisted Chapter Workflow](docs/AI_ASSISTED_CHAPTER_WORKFLOW.md).
+Use `npm run scene:construction -- 12` to inspect scene goals, conflict, stakes, escalation, turning points, emotional shifts, outcomes, hooks and story-purpose coverage. Use `npm run scene:pacing -- 12` to see ordered scene tension estimates and transitions across the chapter. Tension is an author judgement, not an automatic quality score; intentional breathers and transitions can carry a documented purpose. See [Scene Construction and Emotional Pacing](docs/SCENE_CONSTRUCTION_AND_PACING.md).
+
+Use `npm run draft:prepare -- 12 drafts/chapter-0012.md` to build an AI review prompt with recorded chapter context. Submit the prompt to your chosen AI model, save its JSON response, then use `npm run draft:stage -- reports/chapter-0012-analysis.json` to stage findings and proposals. Inspect with `draft:list` / `draft:show`, then approve or reject each proposal individually with `draft:approve` / `draft:reject`. Staging never changes canon; approval applies only validated proposals. This is provider-neutral and does not call an AI API. See [AI-Assisted Chapter Workflow](docs/AI_ASSISTED_CHAPTER_WORKFLOW.md).
 
 Use `npm run knowledge:state -- CHAR_KAEL 12` to reconstruct a character's knowledge at a chapter, `npm run knowledge:who-knows -- FACT_ID 12` to list who knows a fact, `npm run timeline:chapter -- 12` to inspect the chapter timeline, and `npm run object:history -- OBJ_ID` / `npm run location:history -- LOC_ID` to inspect transfer history. See [Knowledge and Timeline Engine](docs/KNOWLEDGE_AND_TIMELINE.md).
 
@@ -39,6 +41,13 @@ Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORL
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+### 2026-11-27 — Scene construction and emotional pacing (v1.9)
+
+- Added `sceneConstructionChecks` records for scene goals, opposition, conflict, stakes, escalation, turning points/reversals, emotional shifts, outcomes, hooks, tension estimates and story-purpose coverage.
+- Added `scene:construction` and `scene:pacing` queries for ordered scene review and tension transitions.
+- Extended validation and AI-assisted review for scene purpose, emotional rhythm, deliberate breathers and scene-sequence pacing.
+- Added tests and documentation. Tension remains author-estimated; the engine does not enforce a formula or automatically rewrite scenes.
+
 ### 2026-11-27 — Scene-level character behaviour (v1.8)
 
 - Added `sceneBehaviourChecks` chapter annotations for action, dialogue behaviour, body language, avoidance, observer observation/interpretation, relationship impact, scene outcome, causal links and arc evidence.
