@@ -54,7 +54,7 @@ The engine does not invent canon. Add only author-confirmed facts to registries;
 ### 2026-11-27 — Relationship psychology intelligence (v2.3)
 
 - Added two-sided interaction analysis for initiator intent/fear/behaviour and responder interpretation/reaction, including explicit misread evidence and feedback patterns.
-- Added trust, power, boundary, defensive-strategy, repair-attempt and relationship-shift evidence checks, plus relationship/participant reference validation.
+- Added trust, power, emotional-dependency, boundary, defensive-strategy, repair-attempt and relationship-shift evidence checks, plus relationship/participant reference validation and historical interaction retrieval in chapter context.
 - Added `relationship:psychology`, integrated advisory findings into `npm run validate`, extended AI review prompts and chapter proposal allowlists, and added tests/documentation. No relationship or canon state is changed automatically.
 
 ### 2026-11-27 — Character decision and behaviour intelligence (v2.2)
