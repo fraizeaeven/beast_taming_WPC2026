@@ -25,7 +25,6 @@ export function checkDecisionIntelligence({ chapters = [], registries = {} } = {
   const errors = [], warnings = [];
   const characters = new Set(list(registries?.["03_CHARACTER_REGISTRY"]?.entries).map(x => x.id));
   const beats = collectBeats(chapters);
-  const byBeatId = new Map(beats.map(beat => [beat.id, beat]));
   const patterns = new Map();
 
   for (const beat of beats) {
@@ -45,8 +44,9 @@ export function checkDecisionIntelligence({ chapters = [], registries = {} } = {
     }
 
     if (present(beat.priorExperienceBeatId)) {
-      const source = byBeatId.get(beat.priorExperienceBeatId);
-      if (!source || source.characterId !== beat.characterId || source.chapter >= beat.chapter) {
+      const source = beats.find(candidate => candidate.id === beat.priorExperienceBeatId &&
+        candidate.characterId === beat.characterId && candidate.chapter < beat.chapter);
+      if (!source) {
         warnings.push({ code: "DECISION_PRIOR_EXPERIENCE_REFERENCE_INVALID", characterId: beat.characterId, chapter: beat.chapter, beatId: beat.id, priorExperienceBeatId: beat.priorExperienceBeatId });
       }
     }
