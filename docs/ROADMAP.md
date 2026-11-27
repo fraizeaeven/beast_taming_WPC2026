@@ -36,6 +36,9 @@ Implemented in [Novel Continuity Intelligence](NOVEL_CONTINUITY_INTELLIGENCE.md)
 ## v2.1 — Narrative intelligence and character consistency
 Implemented in [Narrative Intelligence and Character Consistency](NARRATIVE_INTELLIGENCE.md): explicit goal/motivation conflict review, consequence follow-through, historical relationship-state changes, evidence-backed seven-stage transitions and story milestone prerequisites. Findings remain advisory and rely on author/model annotations rather than semantic inference.
 
+## v2.2 — Character decision and behaviour intelligence
+Implemented in [Character Decision and Behaviour Intelligence](DECISION_INTELLIGENCE.md): annotated causal chains from trigger and automatic reaction through interpretation, activated belief, emotion/body, expression, deliberate choice, consequence, misbelief effect and arc effect. Includes prior-experience references, repeated strategy/cost review and optional consequence-to-state carry-through. Findings remain advisory and rely on explicit annotations.
+
 ## Recommended implementation order
 
 1. Complete and review story structure records.
