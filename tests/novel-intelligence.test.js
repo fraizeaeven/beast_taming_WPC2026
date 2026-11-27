@@ -14,8 +14,7 @@ const fixture = () => ({
     ]}
   },
   chapters:[
-    {number:2,canonChanges:[{factId:"FACT_HERO_AGE",value:21}],promises:[{promiseId:"PROM_RETURN",action:"fulfilled"}]},
-    {number:3,openLoops:[{openLoopId:"LOOP_MISSING_HEIR",action:"resolved"}]},
+    {number:2,canonChanges:[{factId:"FACT_HERO_AGE",value:21}],promises:[{promiseId:"PROM_RETURN",action:"fulfilled"}],openLoops:[{openLoopId:"LOOP_MISSING_HEIR",action:"resolved"}]},
     {number:4,events:[{eventId:"EVT_HEIR",occurredOn:"2026-01-01"}]},
     {number:5,storyLinks:[{storyId:"ARC_HEIR"}]},
     {number:7,mysteryChanges:[{mysteryId:"MYS_MASKED_KING",action:"revealed"}]}

@@ -2,7 +2,7 @@
 
 Registry files are JSON without filename extensions. Each has schemaVersion, registry, purpose and entries.
 
-Chapter files are `CHAPTERS/CHAPTER_0001.json` and contain: number, title, status, POV, in-world date, summary, scenes, sceneConstructionChecks, charactersPresent, locations, events, canonChanges, knowledgeChanges, objectChanges, financialAndLegalChanges, promises, openLoops, continuityNotes and authorNotes. Optional continuity annotations include `characterAges`, `behaviorChecks`, `psychologyChecks`, `sceneBehaviourChecks`, `sceneConstructionChecks`, `knowledgeUsed`, `relationshipChanges`, `storyLinks`, `objectChanges` and `locationChanges`.
+Chapter files are `CHAPTERS/CHAPTER_0001.json` and contain: number, title, status, POV, in-world date, summary, scenes, sceneConstructionChecks, mysteryChanges, charactersPresent, locations, events, canonChanges, knowledgeChanges, objectChanges, financialAndLegalChanges, promises, openLoops, continuityNotes and authorNotes. Optional continuity annotations include `characterAges`, `behaviorChecks`, `psychologyChecks`, `sceneBehaviourChecks`, `sceneConstructionChecks`, `knowledgeUsed`, `relationshipChanges`, `storyLinks`, `objectChanges` and `locationChanges`.
 
 The `17_STORY_STRUCTURE_REGISTRY` stores story units with stable IDs, type, title, status, parentId, objective, conflict, stakes, chapter range, characterIds, chapters, milestones, dependencies, resolutionCriteria and source provenance. See [Story Structure Management](STORY_STRUCTURE.md) for the full shape and hierarchy rules.
 
