@@ -15,7 +15,7 @@ Chapters may include `consequenceChecks: []`. Each record supports:
 - `description`, `responseBehaviour`, `resultingDecision`, `impactDomains[]`, and `evidence`, plus `causalEvidence` explaining the recorded source-to-effect link.
 - `relationshipImpact`: optional relationship ID, prior/current state and evidence.
 - `characterStateImpact`: optional goal, motivation, belief or arc effect with evidence.
-- `followUp`: optional expected chapter, status (`pending`, `observed`, `not_applicable`), observed chapter and evidence.
+- `followUp`: optional expected chapter, status (`pending`, `observed`, `not_applicable`), observed chapter and evidence; `not_applicable` requires `notApplicableReason`.
 - `stateCarryForward.required`: when true, a later state snapshot must list this consequence ID in `consequenceReferences`.
 
 ## Validation
