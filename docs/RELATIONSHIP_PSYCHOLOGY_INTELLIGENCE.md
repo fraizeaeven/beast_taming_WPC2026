@@ -36,6 +36,7 @@ Add `relationshipPsychologyChecks` to a chapter. Example:
   "interpretationGapEvidence": "Kael admits privately that his action came from fear, not contempt",
   "responderResponse": "Lina withdraws and stops sharing information",
   "initiatorNextBehaviour": "Kael becomes more controlling after Lina withdraws",
+  "initiatorNextBehaviour": "Kael becomes more controlling after Lina withdraws",
   "defensiveStrategy": "protective_control",
   "trustImpact": "damaged",
   "trustEvidence": "She conceals her next plan from him",
@@ -59,6 +60,7 @@ Add `relationshipPsychologyChecks` to a chapter. Example:
 | `initiatorIntent`, `initiatorFearOrNeed` | Record the initiating character's purpose and emotional driver. |
 | `responderInterpretation`, `interpretationAccuracy`, `interpretationGapEvidence` | Record what the responder thinks happened and whether that reading is accurate, partial or mistaken. |
 | `responderResponse` | Record the responder's emotional/behavioural reaction. |
+| `initiatorNextBehaviour` | Record the initiator's subsequent behaviour after seeing the responder's reaction, making the feedback loop explicit. |
 | `defensiveStrategy`, `strategyReview`, `attemptedAlternative` | Track repeated protective or defensive patterns and whether the character questions or changes them. |
 | `trustImpact`, `trustEvidence` | Describe and support the effect on trust. |
 | `powerDynamic`, `powerEvidence` | Record an explicit power difference and its evidence. |
