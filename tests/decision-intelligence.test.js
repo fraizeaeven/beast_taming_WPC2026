@@ -23,7 +23,7 @@ const later = {
   automaticReaction: "Calls everyone repeatedly", interpretation: "He assumes she was taken",
   deliberateChoice: "Goes alone", decisionRationale: "He believes involving others risks her safety",
   priorExperienceBeatId: "PSY_A_001", choicePattern: "protective_control",
-  consequence: "He loses the only witness", consequenceTrend: "worsening",
+  consequence: "He loses the only witness", consequenceTrend: "worsening", strategyReview: "He begins questioning whether control is helping",
   responseMismatch: true, responseMismatchReason: "He performs anger to conceal panic",
   misbeliefEffect: "challenged", misbeliefEffectEvidence: "The solo search makes the danger worse",
   arcEffect: "Begins questioning control", arcEffectEvidence: "He admits his choice increased the risk"
