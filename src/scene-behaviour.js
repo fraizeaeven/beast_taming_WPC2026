@@ -39,7 +39,7 @@ export async function getCharacterSceneBehaviourHistory(characterId) {
   if(!validId(characterId))throw Error("Provide a valid uppercase character ID");
   const out=[];
   for(const name of await chapters()) {
-    const n=Number(name.match(/\\d+/)?.[0]),chapter=await read(file("CHAPTERS",name));
+    const n=Number(name.match(/\d+/)?.[0]),chapter=await read(file("CHAPTERS",name));
     for(const beat of chapter.sceneBehaviourChecks??[])if([beat.actorId,beat.targetCharacterId,beat.observerId].includes(characterId))out.push({chapter:n,...beat});
   }
   return out.sort((a,b)=>a.chapter-b.chapter||a.id.localeCompare(b.id));

@@ -20,3 +20,9 @@ test("unknown scene character references are structural errors",()=>{
   const result=checkSceneBehaviour({registries,chapters:[{number:1,sceneBehaviourChecks:[{...beat,observerId:"CHAR_UNKNOWN"}]}]});
   assert.ok(result.errors.some(x=>x.code==="SCENE_BEHAVIOUR_CHARACTER_MISSING"));
 });
+
+test("duplicate scene behaviour IDs and malformed actor IDs are rejected",()=>{
+  const result=checkSceneBehaviour({registries,chapters:[{number:1,sceneBehaviourChecks:[beat,{...beat,actorId:"CHAR_UNKNOWN"},{...beat,id:"SCNBEH_A_002"}]}]});
+  assert.ok(result.errors.some(x=>x.code==="SCENE_BEHAVIOUR_ID_DUPLICATE"));
+  assert.ok(result.errors.some(x=>x.code==="SCENE_BEHAVIOUR_CHARACTER_MISSING"));
+});
