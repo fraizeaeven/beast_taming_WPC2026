@@ -12,6 +12,7 @@ import {getSceneBehaviourByChapter,getCharacterSceneBehaviourHistory} from "./sc
 import {getSceneConstructionByChapter,getScenePacingByChapter} from "./scene-construction.js";
 import {analyzeCanonImpact,getNarrativeThreadReport,checkNovelIntelligence} from "./novel-intelligence.js";
 import {getCharacterIntelligenceReport} from "./character-intelligence.js";
+import {getDecisionIntelligenceReport} from "./decision-intelligence.js";
 const [cmd="help",...a]=process.argv.slice(2);
 try{
   if(cmd==="init"){await init();console.log("Initialized registries and folders; existing files preserved")}
@@ -37,6 +38,7 @@ try{
   else if(cmd==="scene:construction")console.log(JSON.stringify(await getSceneConstructionByChapter(a[0]),null,2))
   else if(cmd==="scene:pacing")console.log(JSON.stringify(await getScenePacingByChapter(a[0]),null,2))
   else if(cmd==="character:intelligence"){const r=await registries(),records=[];for(const name of await chapters())records.push(await read(file("CHAPTERS",name)));console.log(JSON.stringify(getCharacterIntelligenceReport({registries:r,chapters:records,characterId:a[0]??null}),null,2))}
+  else if(cmd==="character:decision"){const r=await registries(),records=[];for(const name of await chapters())records.push(await read(file("CHAPTERS",name)));console.log(JSON.stringify(getDecisionIntelligenceReport({registries:r,chapters:records,characterId:a[0]??null}),null,2))}
   else if(cmd==="intelligence:report"){const r=await registries(),records=[];for(const name of await chapters())records.push(await read(file("CHAPTERS",name)));console.log(JSON.stringify({threads:getNarrativeThreadReport(r,records),warnings:checkNovelIntelligence({registries:r,chapters:records})},null,2))}
   else if(cmd==="intelligence:impact"){const r=await registries(),records=[];for(const name of await chapters())records.push(await read(file("CHAPTERS",name)));console.log(JSON.stringify(analyzeCanonImpact({registries:r,chapters:records},a[0],a[1]),null,2))}
   else if(cmd==="draft:prepare")console.log(JSON.stringify(await prepareDraftReview(a[0],a[1]),null,2))
@@ -45,6 +47,6 @@ try{
   else if(cmd==="draft:show")console.log(JSON.stringify(await showDraftReview(a[0]),null,2))
   else if(cmd==="draft:approve")console.log(JSON.stringify(await decideDraftProposal(a[0],a[1],"approve"),null,2))
   else if(cmd==="draft:reject")console.log(JSON.stringify(await decideDraftProposal(a[0],a[1],"reject"),null,2))
-  else console.log("Commands: init | validate | chapter:new <number> <title> | chapter:show <number> | story:new <ID> <type> <title> | story:list | story:show <ID> | context:chapter <number> | context:write <number> | character:state <CHAR_ID> <chapter> | character:history <CHAR_ID> | knowledge:state <CHAR_ID> <chapter> [FACT_ID] | knowledge:who-knows <FACT_ID> <chapter> | timeline:chapter <chapter> | object:history <OBJECT_ID> [chapter] | location:history <LOCATION_ID> [chapter] | psychology:chapter <chapter> | psychology:character <CHAR_ID> | scene:behaviour <chapter> [sceneId] | scene:character <CHAR_ID> | scene:construction <chapter> | scene:pacing <chapter> | character:intelligence [CHAR_ID] | intelligence:report | intelligence:impact <REGISTRY> <RECORD_ID> | draft:prepare <chapter> <draft-file> | draft:stage <analysis.json> | draft:list | draft:show <REVIEW_ID> | draft:approve <REVIEW_ID> <PROPOSAL_ID> | draft:reject <REVIEW_ID> <PROPOSAL_ID>")
+  else console.log("Commands: init | validate | chapter:new <number> <title> | chapter:show <number> | story:new <ID> <type> <title> | story:list | story:show <ID> | context:chapter <number> | context:write <number> | character:state <CHAR_ID> <chapter> | character:history <CHAR_ID> | knowledge:state <CHAR_ID> <chapter> [FACT_ID] | knowledge:who-knows <FACT_ID> <chapter> | timeline:chapter <chapter> | object:history <OBJECT_ID> [chapter] | location:history <LOCATION_ID> [chapter] | psychology:chapter <chapter> | psychology:character <CHAR_ID> | scene:behaviour <chapter> [sceneId] | scene:character <CHAR_ID> | scene:construction <chapter> | scene:pacing <chapter> | character:intelligence [CHAR_ID] | character:decision [CHAR_ID] | intelligence:report | intelligence:impact <REGISTRY> <RECORD_ID> | draft:prepare <chapter> <draft-file> | draft:stage <analysis.json> | draft:list | draft:show <REVIEW_ID> | draft:approve <REVIEW_ID> <PROPOSAL_ID> | draft:reject <REVIEW_ID> <PROPOSAL_ID>")
 }catch(e){console.error("Error: "+e.message);process.exitCode=1}
 async function writeText(path,content){const fs=await import("node:fs/promises");const pathModule=await import("node:path");await fs.mkdir(pathModule.dirname(path),{recursive:true});await fs.writeFile(path,content+String.fromCharCode(10))}
