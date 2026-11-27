@@ -24,6 +24,9 @@ Provider-neutral chapter analysis prompt, grounded context, structured findings 
 ## v1.7 — Character psychology and emotional analysis
 Scene-level psychological beat annotations, automatic reactions, thoughts, emotions, physical sensations, expressed emotion, underlying needs, misbeliefs, choices and evidence-backed seven-stage arc review. Implemented in [Character Psychology and Emotional Analysis](CHARACTER_PSYCHOLOGY.md). AI-assisted interpretation remains advisory and author-approved.
 
+## v1.8 — Scene-level character behaviour
+Observable action, dialogue behaviour, body language, avoidance, observer perception and interpretation, relationship impact, scene outcomes and causal links. Implemented in [Scene-Level Character Behaviour Engine](SCENE_LEVEL_BEHAVIOUR.md). Behaviour evidence is separated from interpretation; author approval remains required for AI-proposed records.
+
 ## v2.0 — Novel continuity intelligence
 Cross-chapter contradiction graph, payoff coverage, mystery/foreshadowing tracking, historical queries and impact analysis when earlier canon is revised.
 
@@ -33,4 +36,4 @@ Cross-chapter contradiction graph, payoff coverage, mystery/foreshadowing tracki
 2. Use chapter context retrieval as the drafting preflight.
 3. Use historical character-state, knowledge and timeline queries during drafting.
 4. Use the AI-assisted chapter workflow and review every proposed change.
-5. Record psychology beats only when supported by the draft and author-confirmed interpretation.
+5. Record psychology and scene behaviour only when supported by the draft and author-confirmed interpretation.

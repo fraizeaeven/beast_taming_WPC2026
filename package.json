@@ -4,9 +4,7 @@
   "private": true,
   "description": "A local-first chapter and canon continuity engine for the Beast Taming WPC2026 novel.",
   "type": "module",
-  "engines": {
-    "node": ">=20"
-  },
+  "engines": {"node": ">=20"},
   "scripts": {
     "init": "node src/cli.js init",
     "validate": "node src/cli.js validate",
@@ -30,8 +28,10 @@
     "draft:show": "node src/cli.js draft:show",
     "draft:approve": "node src/cli.js draft:approve",
     "draft:reject": "node src/cli.js draft:reject",
-    "test": "node --test",
     "psychology:chapter": "node src/cli.js psychology:chapter",
-    "psychology:character": "node src/cli.js psychology:character"
+    "psychology:character": "node src/cli.js psychology:character",
+    "scene:behaviour": "node src/cli.js scene:behaviour",
+    "scene:character": "node src/cli.js scene:character",
+    "test": "node --test"
   }
 }

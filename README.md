@@ -24,7 +24,9 @@ Use `npm run context:chapter -- 86` to print a chapter-specific writing brief, o
 
 Use `npm run character:state -- CHAR_KAEL 24` to reconstruct the latest recorded character snapshot at or before chapter 24, or `npm run character:history -- CHAR_KAEL` to list the full history. The snapshot includes author-recorded emotional/physical state, goals, motivation, misbelief, arc stage and evidence, relationships, decisions and consequences. No unrecorded state is interpolated. See [Historical Character State Tracking](docs/CHARACTER_STATE_HISTORY.md).
 
-Use `npm run psychology:chapter -- 12` to inspect a chapter’s scene-level psychological beats, or `npm run psychology:character -- CHAR_KAEL` to see a character’s recorded psychology across chapters. Each beat can track trigger, automatic reaction, thought, emotion, physical sensation, expressed emotion, need, misbelief, choice, consequence, observable evidence and interpretation. `npm run validate` checks references, stage values and evidence completeness; it does not decide psychological truth. See [Character Psychology and Emotional Analysis](docs/CHARACTER_PSYCHOLOGY.md).
+Use `npm run psychology:chapter -- 12` to inspect a chapter's psychological beats, or `npm run psychology:character -- CHAR_KAEL` to see a character's recorded psychology across chapters. Each beat can track trigger, automatic reaction, thought, emotion, physical sensation, expressed emotion, need, misbelief, choice, consequence, observable evidence and interpretation. See [Character Psychology and Emotional Analysis](docs/CHARACTER_PSYCHOLOGY.md).
+
+Use `npm run scene:behaviour -- 12` to inspect scene interaction records, or `npm run scene:behaviour -- 12 SCENE_12_03` to filter one scene. Use `npm run scene:character -- CHAR_KAEL` to follow a character's actions and interactions across chapters. Each `sceneBehaviourChecks` beat tracks action, dialogue behaviour, body language, avoidance, observer observation versus interpretation, relationship impact, scene outcome, causal link and arc effect. Validation checks references and evidence completeness; it does not infer private thoughts or decide whether a relationship/arc change is earned. See [Scene-Level Character Behaviour Engine](docs/SCENE_LEVEL_BEHAVIOUR.md).
 
 Use `npm run draft:prepare -- 12 drafts/chapter-0012.md` to build an AI review prompt with recorded chapter context. Submit the prompt to your chosen AI model, save its JSON response, then use `npm run draft:stage -- reports/chapter-0012-analysis.json` to stage findings and proposals. Inspect with `draft:list` / `draft:show`, then approve or reject each proposal individually with `draft:approve` / `draft:reject`. Staging never changes canon; approval applies only validated proposals. This is provider-neutral and does not call an AI API. See [AI-Assisted Chapter Workflow](docs/AI_ASSISTED_CHAPTER_WORKFLOW.md).
 
@@ -37,13 +39,19 @@ Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORL
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+### 2026-11-27 — Scene-level character behaviour (v1.8)
+
+- Added `sceneBehaviourChecks` chapter annotations for action, dialogue behaviour, body language, avoidance, observer observation/interpretation, relationship impact, scene outcome, causal links and arc evidence.
+- Added chapter and character-history queries: `scene:behaviour` and `scene:character`.
+- Extended validation and AI review prompts to distinguish observable behaviour from observer interpretation and private thoughts.
+- Added tests and documentation. AI proposals remain staged and require explicit author approval.
+
 ### 2026-11-27 — Knowledge and timeline engine
 
 - Added historical knowledge reconstruction and who-knows queries, including recorded learning and forgetting events.
 - Added explicit POV restricted-knowledge, event chronology, object ownership/location transfer and location ownership checks.
 - Added chapter timeline, object history and location history commands; extended new chapter records with locationChanges.
 - Added tests and documentation. Findings remain review warnings; no prose inference or automatic canon edits.
-
 
 ### 2026-11-27 — Historical character state tracking
 
