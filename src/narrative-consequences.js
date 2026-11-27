@@ -110,7 +110,6 @@ export function checkNarrativeConsequences({ registries = {}, chapters = [] } = 
       if(!states.some(state=>list(state.consequenceReferences).includes(item.id)))
         warnings.push({code:"CONSEQUENCE_NOT_CARRIED_INTO_CHARACTER_STATE",chapter:item.chapter,id:item.id,characterId:item.affectedCharacterId});
     }
-    chapterByRecord.set(item.id,item.chapter);
   }
   return {errors,warnings,latestChapter};
 }
@@ -120,7 +119,6 @@ export function getNarrativeConsequenceReport({registries={},chapters=[],charact
   const result=checkNarrativeConsequences({registries,chapters});
   const all=collectConsequences(chapters);
   const selected=all.filter(item=>!characterId||item.affectedCharacterId===characterId||item.initiatingCharacterId===characterId);
-  const ids=new Set(selected.map(item=>item.id));
   const chains=selected.map(item=>({
     ...item,
     causedBy: item.causedByConsequenceId ? (all.find(parent=>parent.id===item.causedByConsequenceId)??null) : null,
