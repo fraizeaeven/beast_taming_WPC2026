@@ -17,7 +17,7 @@ function collectConsequences(chapters) {
     const number = chapterNo(chapter?.number);
     if (number === null) continue;
     for (const item of list(chapter.consequenceChecks)) {
-      if (item && typeof item === "object") result.push({ chapter: number, ...item });
+      if (item && typeof item === "object") result.push({ ...item, chapter: number });
     }
   }
   return result.sort((a,b)=>a.chapter-b.chapter || Number(a.order??0)-Number(b.order??0) || String(a.id??"").localeCompare(String(b.id??"")));
@@ -45,7 +45,7 @@ export function checkNarrativeConsequences({ registries = {}, chapters = [] } = 
   const records=collectConsequences(chapters);
   const chapterNumbers=list(chapters).map(c=>chapterNo(c?.number)).filter(x=>x!==null);
   const latestChapter=Math.max(0,...chapterNumbers);
-  const byId=new Map(), chapterByRecord=new Map();
+  const byId=new Map();
 
   for(const item of records) {
     if(!validId(item.id)) {
@@ -94,7 +94,7 @@ export function checkNarrativeConsequences({ registries = {}, chapters = [] } = 
       warnings.push({code:"CONSEQUENCE_CHARACTER_STATE_IMPACT_UNSUPPORTED",chapter:item.chapter,id:item.id,characterId:item.affectedCharacterId});
     const follow=item.followUp;
     if(follow) {
-      if(chapterNo(follow.expectedByChapter)===null || follow.expectedByChapter<item.chapter)
+      if(!follow.status) warnings.push({code:"CONSEQUENCE_FOLLOWUP_STATUS_MISSING",chapter:item.chapter,id:item.id});\n      if(chapterNo(follow.expectedByChapter)===null || follow.expectedByChapter<item.chapter)
         errors.push({code:"CONSEQUENCE_FOLLOWUP_DUE_DATE_INVALID",chapter:item.chapter,id:item.id,expectedByChapter:follow.expectedByChapter??null});
       if(follow.status==="observed" && (!chapterNo(follow.observedAtChapter) || follow.observedAtChapter<item.chapter || !present(follow.evidence)))
         warnings.push({code:"CONSEQUENCE_FOLLOWUP_OBSERVATION_UNSUPPORTED",chapter:item.chapter,id:item.id});
