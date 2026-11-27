@@ -4751,3 +4751,421 @@ The following remain proposals and need future confirmation:
 15. Whether ancient aerial routes, lost signal networks or unexplored high-altitude regions hold major secrets in the wider world's history.
 
 **Design principle:** The Heavenly Sky Clan should be powerful because it connects distant places, carries trusted information and makes movement possible. Its greatest test is whether it can protect freedom of movement without allowing control of routes and knowledge to become a system of surveillance, monopoly or manipulation.
+
+# 17. Lightning Family — Thunder Sovereign Clan: Detailed Civilisation Development
+
+**Development status:** Proposed framework for user review. This section expands the Lightning Family's civilisation while preserving the wider canon that the seven elemental families are transnational powers rather than single, unified nation-states. Names, institutions, geography and rules below are proposals until confirmed.
+
+## 17.1 Civilisational identity
+
+The Lightning Family, provisionally known as the **Thunder Sovereign Clan**, is a civilisation built around precision, experimentation, technical knowledge and the controlled application of mana. Its influence comes not simply from destructive lightning attacks, but from its ability to measure, regulate, transmit, store, refine and apply energy.
+
+Lightning society values:
+- Precision over spectacle.
+- Repeatable results over unsupported claims.
+- Tested knowledge over inherited reputation.
+- Preparedness over improvisation when failure could harm many people.
+- Technical competence, but with growing debate about who gets to define competence.
+- The responsible use of dangerous discoveries.
+
+The clan's central political tension is **innovation versus control**. New discoveries can improve medicine, transport, communication, manufacturing and cultivation. They can also create weapons, surveillance systems, infrastructure dependencies and disasters. The question is not whether the clan should innovate, but who may conduct experiments, who owns the results, who bears the risks and who has the authority to stop a project.
+
+Lightning should not become a civilisation where every citizen is a scientist or every problem is solved by technology. Most residents are farmers, traders, craftspeople, workers, teachers, carers, soldiers and service providers. Technical institutions shape daily life, but they do not replace ordinary society.
+
+## 17.2 Ancestral territory: Stormglass Dominion
+
+The proposed ancestral territory is the **Stormglass Dominion**, a broad region shaped by storm activity, mineral-rich highlands, conductive crystal deposits, rivers and carefully maintained mana infrastructure. It is not one continuous city or laboratory. It contains agricultural districts, industrial settlements, research centres, old towns, frontier communities and protected natural areas.
+
+Proposed principal regions:
+
+1. **Stormglass Basin** — the political and administrative heartland, containing the proposed capital, major research institutions and the central standards archives.
+2. **Thunderhead Heights** — elevated storm country used for atmospheric observation, controlled lightning capture experiments and specialist beast habitats. Access is regulated because of natural hazards.
+3. **Coppervein Marches** — mineral and metal-producing districts, with smelters, precision workshops and contested mining rights.
+4. **The Arcwater Corridor** — river valleys and reservoirs supporting agriculture, water-powered industry, transport and experimental energy systems.
+5. **Emberless Fields** — cultivated plains and settled communities that supply food, labour and ordinary commercial goods to the industrial centres.
+6. **The Faraday Frontier** — remote borderlands, storm stations and research outposts where experimental infrastructure meets the practical needs of frontier residents.
+
+**Proposed capital:** Stormspire, located in the Stormglass Basin. Stormspire is a governing and research centre, not the sole source of authority for every Lightning branch across the wider world.
+
+Territorial design principles:
+- Infrastructure should be unevenly distributed. The capital and major industrial corridors are well-served; remote settlements may face delays, outages and political neglect.
+- Natural storm zones remain dangerous. Technology reduces risk but never makes the environment perfectly controllable.
+- Conductive minerals and mana-reactive crystal deposits are valuable but finite. Extraction can damage habitats, destabilise local mana conditions or create toxic waste.
+- The clan's ancestral territory is its historic centre, not the full extent of Lightning influence. Branches and allied communities may live in other kingdoms and empires.
+
+## 17.3 Government: Thunder Sovereign and Directorate of Measures
+
+The proposed head of the clan is the **Thunder Sovereign**, a political leader whose legitimacy rests on maintaining the clan's security, prosperity and institutional balance. The title is not intended to mean that the Sovereign personally directs every laboratory, factory, military unit or technical decision.
+
+The principal governing institution is the **Directorate of Measures**, a governing council combining regional representation, technical oversight and public administration. Its proposed delegations are:
+
+- **Territorial Delegation:** represents the principal regions and their local governments.
+- **Civic Delegation:** represents residents, workers, merchants, educators and public-service interests.
+- **Research and Standards Delegation:** oversees public research standards, safety frameworks and technical accreditation.
+- **Industrial Delegation:** represents manufacturing, mining, energy and infrastructure sectors, with conflict-of-interest restrictions.
+- **Beast and Cultivation Delegation:** addresses beast welfare, breeding standards, bonded-pair research and cultivation safety.
+- **Defence Delegation:** represents military requirements and security planning without granting the military unrestricted authority over civilian research.
+- **Frontier Delegation:** represents remote settlements, outposts and communities affected by major infrastructure projects.
+
+The Directorate should not be a council of scientists alone. Technical expertise is essential, but expertise does not automatically confer the right to govern. Residents affected by a project need channels to challenge decisions, demand explanations and seek remedies.
+
+### Sovereign authority
+
+The Thunder Sovereign is provisionally responsible for:
+- Appointing senior administrators, subject to confirmation or review by the Directorate.
+- Representing the clan in high-level diplomacy.
+- Approving major strategic plans and the annual public budget.
+- Coordinating emergency responses across regions.
+- Referring disputes between institutions to a formal review process.
+
+The Sovereign should not be able to:
+- Secretly authorise unlimited human or beast experimentation.
+- Override every safety finding without a recorded reason and independent review.
+- Convert temporary emergency powers into permanent authority.
+- Personally seize private discoveries or property without a legal process.
+- Directly command all research institutions as personal possessions.
+
+### Directorate authority and accountability
+
+The Directorate proposes laws, approves standards, allocates public funding, reviews major infrastructure and supervises central agencies. Its decisions should be recorded, with public summaries except where narrowly defined security restrictions apply.
+
+Possible safeguards:
+- Published budgets and project registers.
+- Independent technical audits.
+- Public hearings for high-impact projects.
+- Protected channels for whistleblowers.
+- A right of appeal for researchers, workers, residents and affected communities.
+- Recusal rules when delegates have financial or family interests in a decision.
+- Periodic review of restricted classifications.
+
+The exact method of selecting delegates, voting thresholds, terms and succession rules remains undecided.
+
+## 17.4 Political tendencies and internal factions
+
+The following are political tendencies, not necessarily formal parties. Members may hold overlapping loyalties, and the influence of each tendency may differ between branches.
+
+1. **The Measured Progress Bloc** — supports research and industrial development, but insists on testing, documentation and staged deployment. It fears both reckless experimentation and political suppression of useful discoveries.
+2. **The Open Circuit Movement** — argues that publicly funded knowledge should be accessible to citizens, independent researchers and smaller branches. It opposes excessive secrecy and monopolies.
+3. **The Custodians of the Standard** — prioritise safety, consistency and enforceable technical rules. Critics accuse them of bureaucracy and slowing urgent innovation.
+4. **The Sovereign Instruments Faction** — supports central coordination of strategic technologies, believing that fragmented control invites espionage, accidents and arms races.
+5. **The Independent Artificers' League** — defends private workshops, inventors, small firms and experimental craft traditions against large institutional monopolies.
+6. **The Frontier Current** — argues that remote communities should receive reliable infrastructure and a meaningful voice before the central government funds prestigious capital projects.
+7. **The Living Bond School** — insists that beast cultivation and bonded-pair development must not be reduced to laboratory measurements. It supports research but rejects treating living partners as equipment.
+
+These factions create conflicts that are not simply good versus evil. A safety regulator may prevent a catastrophe but also delay a treatment. An independent inventor may bring a breakthrough but expose workers to poorly understood risks. A central authority may protect dangerous knowledge from hostile powers while using secrecy to conceal its own mistakes.
+
+## 17.5 Civil administration and public institutions
+
+Proposed central institutions:
+
+- **Office of Technical Standards:** publishes measurement systems, testing protocols, equipment classifications and certification requirements.
+- **Mana Grid Authority:** maintains public energy conduits, storage facilities, relay stations and emergency isolation systems.
+- **Institute of Applied Mana:** funds and coordinates research in energy, materials, medicine, communications and cultivation support.
+- **Office of Experimental Safety:** licenses high-risk trials, investigates accidents and can suspend dangerous work pending review.
+- **Registry of Inventions and Works:** records patents, public discoveries, technical authorship and disputes over ownership.
+- **Beast Welfare and Bonding Commission:** establishes husbandry, experimentation, transport and bonded-pair welfare rules.
+- **Industrial Inspection Service:** audits mines, factories, workshops and large-scale infrastructure.
+- **Public Instrumentation Bureau:** maintains measurement stations and provides reliable technical information to communities.
+- **Frontier Infrastructure Office:** coordinates repairs, supply access and maintenance in distant settlements.
+- **Independent Review Tribunal:** hears appeals concerning licences, research restrictions, industrial harm, intellectual property and institutional misconduct.
+
+The clan's reputation for precision depends on these institutions being trusted. If measurement records can be manipulated or standards selectively enforced, technical authority becomes another form of political power.
+
+## 17.6 Military: Thunder Legions
+
+The proposed military is the **Thunder Legions**. Its doctrine uses speed, precision, coordinated disruption and controlled force. It is not an army whose every soldier can summon a battlefield-wide storm. Most operations depend on disciplined formations, trained beasts, equipment, logistics, reconnaissance and clear command.
+
+Proposed branches:
+
+1. **Stormfront Corps** — mobile combat formations that engage, reposition and exploit openings. They specialise in concentrated attacks rather than uncontrolled area destruction.
+2. **Arcstrike Companies** — precision assault units trained to disable selected targets, break enemy formations and protect friendly forces from collateral effects.
+3. **Signal and Coordination Corps** — maintains secure communications, battlefield relays, coded signals and command continuity.
+4. **Thunderwall Engineers** — construct, inspect and repair defensive works, field barriers, mana conduits and emergency isolation systems.
+5. **Beast Cavalry and Bonded Corps** — deploys Lightning-compatible beasts for scouting, mobility, interception and combat support, with welfare and recovery personnel embedded.
+6. **Countermeasure and Containment Corps** — studies hostile mana devices, unstable formations and dangerous energy effects; its role is containment and disruption, not guaranteed cancellation of other elements.
+7. **Logistics and Recovery Corps** — maintains equipment, medical support, evacuation, supply and post-operation restoration.
+
+### Command principles
+
+- Command rank and cultivation strength are related but not identical.
+- Technical specialists may advise commanders but do not automatically hold military command.
+- A powerful bonded pair cannot ignore formation discipline or civilian safety.
+- Equipment failure, depleted reserves, weather and damaged relay networks must be considered in every operational plan.
+- Beast partners are combatants and living partners, not disposable batteries.
+- The military's technical research must be subject to defined civilian oversight.
+
+Proposed senior appointments include **Legion Marshal**, **Storm Marshal**, **Arc Commander**, **Signal Commander** and **Master Engineer**. These titles are working proposals, not a final universal rank system. The Lightning military should have its own progression and terminology rather than copying the Dark Family's established ranks.
+
+## 17.7 Military doctrine and elite units
+
+The Thunder Legions' proposed operational doctrine is:
+
+**Measure, Isolate, Disrupt, Exploit, Stabilise.**
+
+- **Measure:** identify enemy formations, mana behaviour, terrain, weather and likely failure points.
+- **Isolate:** separate the target from reinforcements, communication or supporting infrastructure where possible.
+- **Disrupt:** use controlled force to interrupt coordination, movement or a specific capability.
+- **Exploit:** commit the main force when the opening is verified.
+- **Stabilise:** secure the area, recover allies and beasts, inspect equipment and prevent secondary hazards.
+
+Proposed elite units:
+
+- **Silver Arc Vanguard:** precision assault specialists trained to strike selected targets while minimising collateral damage.
+- **Stormglass Observers:** reconnaissance teams using instruments and trained beasts to gather battlefield measurements.
+- **Silent Relay Company:** secure communications specialists who maintain command links under interference and damaged infrastructure.
+- **Nullspark Containment Teams:** technical specialists who isolate unstable mana devices and hazardous energy fields. The name does not mean they can nullify all magic.
+- **Thunderhead Lancers:** fast-moving bonded formations designed for interception and controlled breakthrough.
+- **Copperwall Engineers:** elite field engineers who restore or disable critical infrastructure under pressure.
+- **Living Current Wardens:** specialists responsible for beast welfare, bonded-pair recovery and safe deployment of high-output beasts.
+
+Each unit has limited numbers, demanding training and specific operational conditions. Elite status does not mean universal superiority. A unit that depends on instruments may be disadvantaged by poor visibility, hostile interference, damaged equipment or unfamiliar environments.
+
+## 17.8 Cultivation philosophy and Lightning paths
+
+Lightning cultivation is associated with energy flow, timing, reaction, precision and controlled release. The clan teaches that raw output is only one measure of strength. A cultivator who cannot regulate their power may be less useful—and more dangerous—than one with lower output but better control.
+
+Proposed cultivation paths:
+
+1. **Spark Path:** initiation, sensitivity to mana flow, short bursts and basic control. It values accuracy and safe activation.
+2. **Arc Path:** sustained conduction, directional control, linked techniques and coordinated attacks. It develops the ability to move energy through chosen paths.
+3. **Storm Circuit Path:** complex multi-stage techniques, formation coordination and management of several active energy routes. It demands strong judgement and reserve management.
+4. **Thunder Crown Path:** advanced control over a defined combat or technical domain, such as precision strikes, defensive conduction, signal disruption or energy regulation. It does not grant unlimited authority over storms or all electrical phenomena.
+
+These paths describe Lightning-oriented cultivation traditions, not universal cultivation realms for the whole world. The setting's universal cultivation hierarchy remains a separate matter.
+
+### Paired cultivation
+
+Tamer and beast develop together. The bond should improve mutual understanding, coordination, resilience and the safe use of their shared abilities. A beast is not a living power source to be drained for a tamer's advancement.
+
+Pair assessment should consider:
+- Compatibility and mutual trust.
+- Control under stress.
+- Recovery after high-output techniques.
+- The beast's willingness and welfare.
+- The tamer's ability to stop or redirect a technique.
+- Coordination with allies and formations.
+- Whether the pair can recognise and respond to overload.
+
+A pair's measured output does not alone determine its rank, social worth or military appointment. If a bonded beast dies, the tamer faces individual reassessment and recovery; there is no automatic replacement. A new bond, if pursued, begins as a new relationship and must be cultivated from its own foundation.
+
+## 17.9 Lightning-compatible beasts and husbandry
+
+Proposed family-associated species:
+
+- **Thunder Lynxes:** agile predators known for rapid movement, close-range coordination and sharp directional discharges.
+- **Spark Serpents:** flexible, highly sensitive beasts able to detect subtle changes in mana flow and conduct energy through controlled paths.
+- **Storm Kites:** aerial beasts suited to observation, interception and movement through turbulent conditions.
+- **Copperback Stags:** sturdy herd beasts valued for stable energy regulation, transport and defensive support.
+- **Volt Hounds:** tracking and patrol beasts with strong sensory awareness and coordinated pack behaviour.
+- **Thunder Qilin line:** rare, high-status beasts associated with refined control and powerful but demanding bonds. Their rarity should not make them a routine measure of clan legitimacy.
+
+Family-bred beasts are the usual cultivation partners because breeders can select for compatibility, temperament and established care knowledge. This does not make wild beasts inferior. Wild capture remains expensive and risky, and an unfamiliar beast may have different needs or a temperament that cannot be safely managed through force.
+
+### Husbandry and welfare principles
+
+- Habitats must include safe grounding areas, rest cycles and appropriate environmental conditions.
+- Breeding selection should prioritise health, temperament and long-term welfare rather than output alone.
+- Young beasts must not be forced into dangerous demonstrations or premature bonding.
+- Research involving living beasts requires independent welfare review and defined limits.
+- A beast's refusal, stress response or injury must be treated as meaningful evidence, not disobedience to be punished.
+- Retired, injured and non-combat beasts should have recognised care pathways.
+
+## 17.10 Education: Stormspire Academy
+
+The proposed principal institution is **Stormspire Academy**, with affiliated technical schools and regional training centres. It educates cultivators, researchers, artisans, officers, inspectors and public administrators. Admission should not be restricted to wealthy families, although access to advanced training may remain unequal unless scholarships and regional programmes are established.
+
+Proposed divisions:
+
+1. **Lightning Cultivation and Bond Studies** — cultivation foundations, beast partnership, control and recovery.
+2. **Applied Mana and Energy Systems** — energy movement, storage, conversion and safe operation.
+3. **Instrumentation and Measurement** — precision tools, calibration, testing and data integrity.
+4. **Materials and Industrial Craft** — conductive materials, precision manufacture, maintenance and repair.
+5. **Beast Science and Welfare** — husbandry, habitats, breeding, behaviour and bonded-pair health.
+6. **Defence and Strategic Systems** — military coordination, signal security, fortification and countermeasure doctrine.
+7. **Civic Ethics and Technical Governance** — law, public accountability, research ethics, industrial safety and the social effects of technology.
+
+Proposed student progression:
+
+- **Foundation Student:** general education, safety, basic mana literacy and introductory beast studies.
+- **Circuit Student:** begins a chosen technical or cultivation stream.
+- **Senior Circuit Student:** undertakes supervised practical work and team assignments.
+- **Laboratory or Field Leader:** coordinates a small project or practical group under supervision.
+- **Advanced Candidate:** completes a major research, craft, civic or military assessment.
+- **Graduating Specialist:** qualifies for a defined professional or cultivation pathway.
+
+The academy should not imply that every graduate becomes a researcher. Graduates may become inspectors, technicians, breeders, officers, teachers, artisans, administrators or independent practitioners.
+
+### Assessment and institutional safeguards
+
+Students are evaluated through practical tests, written reasoning, safe operation, collaborative work and the ability to identify when an experiment should stop. A spectacular result achieved through concealed danger should count as failure, not excellence.
+
+Proposed annual event: **The Grand Circuit Trials**, a public programme combining controlled technical demonstrations, cultivation assessments, team challenges and invention exhibitions. High-risk demonstrations require advance review and safety plans.
+
+## 17.11 Civilian society and everyday life
+
+Lightning society is diverse. Its technical reputation should be visible in ordinary life without making every street look like a laboratory.
+
+Possible features of daily life:
+- Public energy stations and repair workshops in major settlements.
+- Licensed technicians who inspect household and commercial mana devices.
+- Market stalls selling tools, precision components, household instruments and ordinary food.
+- Rural communities that rely on seasonal agriculture and may experience unreliable infrastructure.
+- Apprenticeships that connect schools, workshops and industrial employers.
+- Public notice boards displaying maintenance schedules, safety warnings and service interruptions.
+- Neighbourhood associations that petition for repairs or challenge industrial pollution.
+- Cultural festivals celebrating invention, craftsmanship and the safe mastery of difficult techniques.
+
+Social class may be shaped by access to education, workshop ownership, technical certification, industrial property, research patronage and political connections. However, practical skill can create mobility. A person from a modest household may become a respected instrument maker or inspector, while an heir to a prestigious research house may fail to earn professional trust.
+
+A key social division is between communities that benefit from the mana grid and those that live near mines, factories, storm stations or hazardous research sites. The clan must confront the possibility that the comfort of central districts is subsidised by risks borne by less influential communities.
+
+## 17.12 Economy, industry and trade
+
+The Thunder Sovereign Clan's economy is built around technical production and specialised services, but it still depends on food, ordinary crafts, transport, labour and trade with other families.
+
+### Major economic sectors
+
+- Precision instruments and measurement equipment.
+- Mana storage, regulation and distribution systems.
+- Conductive metals, alloys, crystals and specialised materials.
+- Industrial machinery and repair services.
+- Research, testing, certification and technical education.
+- Medical instruments and controlled therapeutic devices.
+- Communication relays and signal equipment.
+- Beast breeding, training, veterinary care and specialist husbandry.
+- Military engineering and defensive systems.
+- Agricultural production and food processing.
+
+### Exports
+
+Proposed exports include:
+- Calibrated instruments and technical measuring devices.
+- Mana regulators, storage components and grid equipment.
+- Precision tools and specialist machinery.
+- Industrial materials and crafted components.
+- Beast-care equipment and selected Lightning-compatible breeding stock.
+- Research services, testing and certification.
+- Communications hardware and secure relay components.
+
+### Imports
+
+Proposed imports include:
+- Food and agricultural products from regions with stronger agricultural capacity.
+- Timber, stone and construction materials.
+- Medicinal plants and specialised biological materials.
+- Rare minerals and materials not found in the Dominion.
+- Beasts and breeding lines with non-Lightning compatibility.
+- Textiles, luxury goods, books and cultural products.
+
+Trade creates dependencies. A disruption in metal supply can slow manufacturing; a shortage of food can destabilise industrial cities; a technical embargo can isolate a branch from critical equipment. The clan's technical sophistication does not make it economically self-sufficient.
+
+### Economic conflict
+
+The central economic question is who owns and profits from innovation. Publicly funded discoveries may be claimed by private manufacturers. Small inventors may be bought out or threatened by large industrial houses. Communities may demand compensation for pollution or land taken for infrastructure. A technical monopoly may provide consistent standards while preventing cheaper alternatives from reaching the market.
+
+## 17.13 Relationships with the other six families
+
+These are proposed tendencies, not fixed alliances. Relations may differ between regional branches, leaders, guilds and ordinary residents.
+
+- **Fire — Crimson Flame Clan:** complementary industrial relationship. Lightning supplies precision instruments, control systems and measurement tools; Fire provides high-temperature processing, furnaces and large-scale material transformation. Tensions arise over safety standards, production speed and responsibility for industrial accidents.
+- **Water — Azure Tide Clan:** cooperation in medical instruments, water infrastructure, navigation equipment and energy systems. Water institutions may challenge Lightning's tendency to treat living systems as measurable technical problems.
+- **Earth — Mountain Throne Clan:** strong relationship in mining, structural engineering, fortification and precision extraction. Disputes may concern mine safety, resource ownership, infrastructure maintenance and the long-term damage caused by extraction.
+- **Wind — Heavenly Sky Clan:** cooperation in communications, navigation instruments, signal relays and atmospheric observation. Wind values open routes and distributed information, while Lightning may favour secure networks and controlled access. This creates a natural debate over privacy, security and centralised infrastructure.
+- **Light — Sacred Dawn Clan:** potential collaboration in medical technology, education, public safety and institutional research. Trust may be complicated by the unresolved extent of Light's present-day knowledge of its historical betrayal of Dark. Do not assume every Light official or descendant knows the full truth.
+- **Dark — Eternal Abyss Clan:** pragmatic and politically sensitive cooperation may occur in engineering, containment, trade and specialist countermeasures. Technical exchange does not imply reconciliation, trust or political submission. Lightning's desire to classify and measure Dark techniques may be viewed as intrusive or threatening.
+
+## 17.14 Law, rights and technical ethics
+
+A technically advanced civilisation requires laws that ordinary residents can understand and invoke. Proposed legal principles:
+
+- **Right to physical safety:** employers and institutions must disclose known hazards and provide reasonable protection.
+- **Right to challenge a technical decision:** residents affected by infrastructure or research projects may request an explanation and independent review.
+- **Research consent:** human and beast participation in high-risk trials requires informed, documented consent and meaningful withdrawal provisions.
+- **Data integrity:** falsifying measurements, concealing test failures or altering safety records is a serious offence.
+- **Fair recognition:** inventors, assistants, craftspeople and research partners must receive appropriate attribution and agreed compensation.
+- **Proportional secrecy:** restricted research must have a stated security basis, limited access and periodic review.
+- **Environmental responsibility:** industrial operators are accountable for contamination, habitat damage and unsafe disposal.
+- **No automatic ownership of bonded beasts:** a tamer's bond does not turn a beast into property without welfare rights or limits.
+
+Potential legal disputes include whether a discovery is a public good or private property, whether a dangerous experiment should be stopped, whether a community can refuse a major facility and whether military secrecy can override civilian safety.
+
+## 17.15 Infrastructure, vulnerabilities and crisis management
+
+The clan's mana grid and technical infrastructure are strengths, but also create dependencies.
+
+Major vulnerabilities:
+- A centralised grid can suffer cascading failures.
+- Poorly maintained conduits can injure workers and residents.
+- Sabotage or misinformation can cause panic and interrupt essential services.
+- Rare components may create supply bottlenecks.
+- Research institutions may conceal failures to protect funding or prestige.
+- Remote communities may be neglected because repairs are expensive.
+- Excessive technical complexity can make ordinary citizens dependent on a small class of specialists.
+- Industrial pollution and resource extraction can undermine the health and legitimacy of the clan.
+
+Proposed resilience measures:
+- Independent grid sections and manual isolation points.
+- Backup systems for hospitals, water services and emergency communications.
+- Regional repair teams and locally trained technicians.
+- Public outage reporting and transparent restoration priorities.
+- Emergency drills that include civilian institutions and beast-care facilities.
+- Independent accident investigations.
+- Stockpiles of critical components, food and medicine.
+- Clear limits on emergency powers and post-crisis review.
+
+Technology should reduce some risks while creating others. No system should be perfectly secure, perfectly efficient or immune to human error.
+
+## 17.16 Culture, customs and symbols
+
+Proposed cultural values include patience, disciplined practice, technical honesty, craftsmanship and respect for controlled power. These values can be expressed through traditions without making the entire culture uniform.
+
+Possible customs:
+- **First Calibration:** an apprentice's first properly calibrated instrument is kept or displayed as a record of responsibility, not merely skill.
+- **The Quiet Measure:** before a major experiment or dangerous deployment, participants observe a short period of silence to confirm readiness and identify unresolved risks.
+- **Circuit Day:** a public festival where workshops demonstrate safe inventions, repair skills and practical improvements.
+- **Stormwatch Vigil:** communities gather to observe the first major storm of a season, remembering those who maintain storm stations and protect settlements.
+- **The Open Ledger:** a tradition in which respected craft houses publish selected failures and lessons so others do not repeat costly mistakes.
+
+Potential symbols include a branching arc enclosed by a measured circle, representing power guided by discipline. Colours may include storm violet, silver, deep blue and copper, but final heraldry remains open.
+
+## 17.17 Story opportunities and internal conflicts
+
+The Lightning Family can generate stories about the consequences of progress rather than simply presenting technology as an unquestioned good.
+
+Potential storylines:
+1. A publicly funded invention is claimed by a powerful private house, and its original workshop team seeks recognition.
+2. A remote settlement repeatedly loses grid access while the capital funds an extravagant research project.
+3. A safety inspector discovers falsified test results but faces pressure from the Directorate and industrial employers.
+4. A beast-bond researcher is accused of treating partners as experimental instruments.
+5. A new communication system improves security but enables intrusive surveillance.
+6. A young inventor's device works brilliantly in controlled conditions but fails in a real disaster.
+7. A military unit requests a technology that civilian regulators believe is too dangerous to deploy.
+8. A foreign branch refuses a central technical standard, claiming it was designed to benefit the ancestral territory.
+9. A technical monopoly threatens independent artificers and regional repair networks.
+10. A joint project with Wind exposes disagreement over whether information should be open by default or protected by central authorities.
+11. A cooperation agreement with Earth uncovers a mining operation that has damaged a protected beast habitat.
+12. An old research archive contains records that could change the clan's understanding of a past political event, but its authenticity is disputed.
+
+The strongest conflicts should give each side a defensible argument. A story becomes more compelling when safety, freedom, prosperity, privacy and loyalty cannot all be maximised at once.
+
+## 17.18 Decisions still required for the Lightning Family
+
+The following remain proposals and need future confirmation:
+
+1. Whether **Thunder Sovereign** is the final leadership title, and how succession is determined.
+2. The Directorate of Measures' seat allocation, selection method, voting thresholds, term lengths and emergency powers.
+3. The political rights of ordinary residents, industrial workers, independent inventors, remote communities and foreign branches.
+4. The final map, borders, population, capital, major settlements, storm zones and resource distribution of the Stormglass Dominion.
+5. The exact military ranks, unit sizes, command structure and civil–military relationship.
+6. The extent of military authority over strategic research, communications and technical infrastructure.
+7. The world's universal cultivation realms and the exact relationship between Lightning paths and universal progression.
+8. Final taxonomy, rarity, lifespan, habitat, breeding, temperament and care rules for Thunder Lynxes, Spark Serpents, Storm Kites, Copperback Stags, Volt Hounds and the Thunder Qilin line.
+9. The academy's admission age, course duration, fees, scholarships, professional accreditation and appeal procedures.
+10. Public versus private ownership of the mana grid, research facilities, patents, technical standards and strategic inventions.
+11. The legal balance between research freedom, public safety, intellectual property, privacy and security secrecy.
+12. The rules governing human and beast participation in experiments, including consent, withdrawal, compensation and independent review.
+13. The exact taxation system, industrial levies, research grants, resource royalties and public maintenance budget.
+14. The degree of Lightning cooperation with the Sixfold Accord and its present-day attitude toward Dark.
+15. Whether ancient Lightning technologies, lost research archives or pre-existing mana infrastructure hold secrets relevant to the wider world's history.
+
+**Design principle:** The Thunder Sovereign Clan should be powerful because it can understand, measure and apply energy with extraordinary precision. Its greatest test is whether it can pursue progress without allowing technical expertise, industrial wealth or security concerns to become excuses for unchecked control over people, beasts and knowledge.
