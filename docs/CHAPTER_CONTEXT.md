@@ -25,6 +25,7 @@ The engine includes:
 - Character records explicitly named as POV or participants.
 - Story units mapped to the chapter or involving those characters, plus their parent plots and declared dependencies.
 - Relationships, knowledge, misbeliefs/arcs, objects, financial/legal records, locations, events, mysteries, open loops, promises, POV rules and continuity entries linked by stable IDs or explicit chapter references.
+- Historical relationship-psychology interactions for the selected relationships, from earlier chapters through the current chapter, so trust, interpretation, defensive patterns and repair attempts remain visible during drafting.
 - Unscoped entries in the canon and world-state registries as global reference material.
 - Future story milestones and unresolved mysteries, open loops and promises as drafting constraints.
 
