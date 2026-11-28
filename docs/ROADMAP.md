@@ -50,6 +50,10 @@ Implemented in [Emotional Scene Intelligence](EMOTIONAL_SCENE_INTELLIGENCE.md): 
 
 Implemented in [Narrative Consequence Intelligence](NARRATIVE_CONSEQUENCE_INTELLIGENCE.md): explicit source-linked consequences, cross-chapter causal chains, affected-character responses, impact domains, evidence-backed relationship/state effects, scheduled follow-up and optional character-state carry-through. The report is read-only; validation does not infer causation or force transformation.
 
+## v2.6 — Character transformation intelligence
+
+Implemented in [Character Transformation Intelligence](CHARACTER_TRANSFORMATION_INTELLIGENCE.md): repeat-trigger comparisons between earlier behaviour and current responses under pressure; explicit application of newly learned truths; old-misbelief setbacks and recovery; observable choices and costs; witness observations/responses; and sustained changed behaviour across chapters. The seven-stage arc remains author-defined; claims, apologies and single changed responses do not by themselves establish transformation. Findings are advisory and regression remains valid.
+
 ## Recommended implementation order
 
 1. Complete and review story structure records.
