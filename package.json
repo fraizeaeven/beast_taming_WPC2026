@@ -43,6 +43,7 @@
     "character:decision": "node src/cli.js character:decision",
     "relationship:psychology": "node src/cli.js relationship:psychology",
     "scene:interpretation": "node src/cli.js scene:interpretation",
-    "consequence:report": "node src/cli.js consequence:report"
+    "consequence:report": "node src/cli.js consequence:report",
+    "character:transformation": "node src/cli.js character:transformation"
   }
 }
