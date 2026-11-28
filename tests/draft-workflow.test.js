@@ -115,3 +115,13 @@ test("approved AI proposal can append a consequence chain record",async t=>{
   const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
   assert.equal(chapter.consequenceChecks[0].id,"CONSEQ_A_002");
 });
+
+test("approved AI proposal can append a character transformation repeat test",async t=>{
+  await fixture(t);
+  const check={id:"TRANS_A_002",characterId:"CHAR_A",triggerKey:"TRIGGER_REJECTION",triggerDescription:"An ally refuses",pressure:"He may lose the alliance",priorPattern:{behaviour:"He threatens",evidence:"Earlier scene"},currentResponse:{behaviour:"He listens",deliberateChoice:"Does not retaliate",evidence:"He lowers his weapon"},outcome:"different_response",choiceCost:{cost:"Loses control",evidence:"The ally leaves"}};
+  await fs.writeFile("analysis.json",JSON.stringify({chapterNumber:2,findings:[],proposals:[{id:"PROP_TRANS",type:"add_chapter_item",chapter:2,field:"transformationChecks",value:check}]}));
+  const staged=await stageDraftReview("analysis.json");
+  await decideDraftProposal(staged.id,"PROP_TRANS","approve");
+  const chapter=JSON.parse(await fs.readFile("CHAPTERS/CHAPTER_0002.json","utf8"));
+  assert.equal(chapter.transformationChecks[0].id,"TRANS_A_002");
+});
