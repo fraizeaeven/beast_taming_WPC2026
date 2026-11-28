@@ -50,7 +50,7 @@ test("flags a repeated old response and a change that has not yet been sustained
   const result = checkCharacterTransformation({ registries, chapters: [{ number: 1, transformationChecks: [{
     id: "TRANS_REPEAT_001", characterId: "CHAR_A", triggerKey: "TRIGGER_REJECTION",
     priorPattern: { behaviour: "Threatens", evidence: "Earlier scene" },
-    currentResponse: { behaviour: "Threatens again", evidence: "He raises his weapon" },
+    currentResponse: { behaviour: "Threatens", evidence: "He raises his weapon" },
     outcome: "old_pattern_repeated"
   }, {
     id: "TRANS_CHANGE_001", characterId: "CHAR_A", triggerKey: "TRIGGER_REJECTION",
