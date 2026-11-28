@@ -274,3 +274,9 @@ The protagonist must not be reduced to a perfect underdog. He may feel envy, res
 **Thematic bridge (proposal):** His development may connect to beast taming through the question of whether he can build a genuine bond with a creature that has its own will while he still believes strength determines whose wishes matter. This does not establish a first beast, species, contract, ancient soul event or cultivation mechanic.
 
 **Detailed development record:** See [Protagonist Development Blueprint — Phase 1](PROTAGONIST_DEVELOPMENT_BLUEPRINT.md). The Story Bible remains the authority for established facts; the blueprint separates approved decisions, proposals and unresolved questions.
+
+### 13.1 Personality development — proposal, not canon
+
+The next editorial proposal explores a protagonist who is courteous, observant, quietly competitive, dryly humorous and stubbornly self-reliant. His public composure may conceal a private sensitivity to status, recognition and unequal treatment. Possible flaws include keeping an invisible ledger of slights, assuming kindness has a price, rejecting help to preserve dignity and testing loyalty indirectly.
+
+**Status:** These are personality proposals for author review, not established character facts. His voice, habits, non-combat competence, interests, humour and conflict style remain undecided. The detailed proposal and illustrative voice test are recorded in `docs/PROTAGONIST_DEVELOPMENT_BLUEPRINT.md`.
