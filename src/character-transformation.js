@@ -1,5 +1,6 @@
 const list = value => Array.isArray(value) ? value : [];
 const present = value => typeof value === "string" && value.trim().length > 0;
+const normaliseBehaviour = value => String(value ?? "").trim().toLowerCase().replace(/\\s+/g, " ");
 const validId = value => typeof value === "string" && /^[A-Z][A-Z0-9_-]{1,63}$/.test(value);
 const chapterNo = value => Number.isInteger(value) && value > 0 ? value : null;
 
@@ -57,6 +58,15 @@ export function checkCharacterTransformation({ registries = {}, chapters = [] } 
     }
     if (!present(current.behaviour) || !evidencePresent(current.evidence)) {
       warnings.push({ code: "TRANSFORMATION_CURRENT_BEHAVIOUR_UNSUPPORTED", characterId: check.characterId, chapter: check.chapter, id: check.id });
+    }
+    if (present(prior.behaviour) && present(current.behaviour)) {
+      const sameBehaviour = normaliseBehaviour(prior.behaviour) === normaliseBehaviour(current.behaviour);
+      if (check.outcome === "different_response" && sameBehaviour) {
+        warnings.push({ code: "TRANSFORMATION_BEHAVIOUR_NOT_DIFFERENT_FROM_BASELINE", characterId: check.characterId, chapter: check.chapter, id: check.id });
+      }
+      if (check.outcome === "old_pattern_repeated" && !sameBehaviour) {
+        warnings.push({ code: "TRANSFORMATION_REPEATED_PATTERN_DIFFERS_FROM_BASELINE", characterId: check.characterId, chapter: check.chapter, id: check.id });
+      }
     }
     if (check.outcome === "different_response" && (!present(current.deliberateChoice) || !evidencePresent(current.evidence))) {
       warnings.push({ code: "TRANSFORMATION_CHANGED_RESPONSE_WITHOUT_CHOICE_EVIDENCE", characterId: check.characterId, chapter: check.chapter, id: check.id });
