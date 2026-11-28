@@ -13,6 +13,7 @@ import {checkDecisionIntelligence} from "./decision-intelligence.js";
 import {checkRelationshipPsychology} from "./relationship-psychology.js";
 import {checkEmotionalSceneIntelligence} from "./emotional-scene-intelligence.js";
 import {checkNarrativeConsequences} from "./narrative-consequences.js";
+import {checkCharacterTransformation} from "./character-transformation.js";
 export async function validate(){
   const errors=[],warnings=[],r=await registries(),ids={};
   for(const n of REGISTRIES){const d=r[n];if(!d){errors.push({code:"REGISTRY_MISSING",file:n});continue}if(d.registry!==n)errors.push({code:"REGISTRY_NAME",file:n});if(!Array.isArray(d.entries)){errors.push({code:"ENTRIES_NOT_ARRAY",file:n});continue}ids[n]=new Set();for(const [i,e] of d.entries.entries()){if(!e||typeof e!=="object"||!/^[A-Z][A-Z0-9_-]{1,63}$/.test(e.id??"")){errors.push({code:"ENTRY_OR_ID_INVALID",file:n,index:i});continue}if(ids[n].has(e.id))errors.push({code:"ID_DUPLICATE",file:n,id:e.id});ids[n].add(e.id)}}
@@ -33,5 +34,6 @@ export async function validate(){
   const relationshipPsychology=checkRelationshipPsychology({registries:r,chapters:chapterRecords});errors.push(...relationshipPsychology.errors);warnings.push(...relationshipPsychology.warnings);
   const emotionalScenes=checkEmotionalSceneIntelligence({registries:r,chapters:chapterRecords});errors.push(...emotionalScenes.errors);warnings.push(...emotionalScenes.warnings);
   const consequences=checkNarrativeConsequences({registries:r,chapters:chapterRecords});errors.push(...consequences.errors);warnings.push(...consequences.warnings);
+  const transformations=checkCharacterTransformation({registries:r,chapters:chapterRecords});errors.push(...transformations.errors);warnings.push(...transformations.warnings);
   return{ok:errors.length===0,errors,warnings,registryCount:Object.keys(r).length,chapterCount:seen.size,continuityWarningCount:warnings.length};
 }
