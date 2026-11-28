@@ -42,7 +42,6 @@ export function checkCharacterTransformation({ registries = {}, chapters = [] } 
 
     if (!validId(check.characterId) || !characters.has(check.characterId)) {
       errors.push({ code: "TRANSFORMATION_CHARACTER_UNKNOWN", chapter: check.chapter, id: check.id, characterId: check.characterId ?? null });
-      continue;
     }
     if (check.arcStage != null && (!Number.isInteger(check.arcStage) || check.arcStage < 1 || check.arcStage > 7)) {
       errors.push({ code: "TRANSFORMATION_ARC_STAGE_INVALID", chapter: check.chapter, id: check.id, arcStage: check.arcStage });
@@ -125,10 +124,12 @@ export function checkCharacterTransformation({ registries = {}, chapters = [] } 
     for (const check of occurrences.filter(x => x.outcome === "old_pattern_repeated")) {
       warnings.push({ code: "TRANSFORMATION_OLD_PATTERN_REPEATED", characterId, chapter: check.chapter, id: check.id, triggerKey: check.triggerKey });
     }
-    if (changed.length === 1) {
-      warnings.push({ code: "TRANSFORMATION_CHANGE_NOT_YET_SUSTAINED", characterId, chapter: changed[0].chapter, id: changed[0].id, triggerKey: changed[0].triggerKey, observedTests: occurrences.length });
+    const sustainedAcrossChapters = changed.length >= 2 && new Set(changed.map(x => x.chapter)).size >= 2;
+    if (changed.length && !sustainedAcrossChapters) {
+      const latestChanged = changed.at(-1);
+      warnings.push({ code: "TRANSFORMATION_CHANGE_NOT_YET_SUSTAINED", characterId, chapter: latestChanged.chapter, id: latestChanged.id, triggerKey: latestChanged.triggerKey, observedTests: occurrences.length });
     }
-    if (changed.length >= 2 && new Set(changed.map(x => x.chapter)).size >= 2) {
+    if (sustainedAcrossChapters) {
       const latestChanged = changed.at(-1);
       if (!present(latestChanged.sustainedPattern?.evidence) && !evidencePresent(latestChanged.sustainedPattern?.supportingEvidence)) {
         warnings.push({ code: "TRANSFORMATION_SUSTAINED_PATTERN_EVIDENCE_MISSING", characterId, chapter: latestChanged.chapter, id: latestChanged.id, triggerKey: latestChanged.triggerKey });
