@@ -6503,3 +6503,401 @@ The following remain proposals and need future confirmation:
 15. Whether ancient waterways, lost hydraulic structures or rare aquatic beast lineages hold secrets relevant to the wider world's history.
 
 **Design principle:** The Azure Tide Clan should be powerful because it can connect communities, sustain life and adapt to changing conditions. Its greatest test is whether it can manage an essential shared resource without allowing those who control its flow to control the lives of everyone downstream.
+
+
+# 21. Phase 2 — Seven-Family Integration and Consistency Review
+
+**Status:** Integration audit and proposed shared framework. This section records cross-family findings, identifies gaps and recommends common rules. It does not silently convert proposal-marked family details into confirmed canon. Author decisions already recorded at the beginning of this document remain controlling.
+
+## 21.1 Purpose and review method
+
+Sections 15–20 develop the six non-Dark families in detail, while earlier sections establish the shared world and Dark's more extensively developed institutions. Phase 2 checks whether these civilisations can coexist within one coherent setting.
+
+The review uses four labels:
+
+- **Established shared rule:** Explicitly supported by an author decision or repeated world rule already present in the document.
+- **Strong integration recommendation:** A common standard that would prevent contradictions and improve coherence, but still requires author acceptance where it changes canon.
+- **Family-specific proposal:** A local institution, title, path, beast or custom that should remain distinct unless a genuine contradiction exists.
+- **Open decision:** A question that cannot safely be resolved from the current material.
+
+The review finds no reason to erase the distinct identities of the families. The main task is to define the shared rules beneath their differences.
+
+## 21.2 Audit summary: what is already coherent
+
+The current worldbuilding has a strong common foundation:
+
+1. The seven families are transnational powers operating across multiple kingdoms and empires; they are not seven sovereign states that collectively own the world.
+2. Each family has an ancestral territory, but its influence also comes from branches, trade, cultivation knowledge, breeding networks, institutions and political relationships abroad.
+3. Family-bred beasts are the normal cultivation route for most descendants because generations of breeding and specialised cultivation improve compatibility.
+4. Wild-beast expeditions remain possible but expensive and dangerous, sustaining a wider ecosystem of mercenaries, appraisers, markets, breeders and traders.
+5. Each family's power has corresponding vulnerabilities and social costs.
+6. The six families' historical opposition to Dark was a loose alliance, not a unified permanent state or automatically permanent military organisation.
+7. Light masterminded the betrayal of Dark, but present-day knowledge within Light remains unresolved.
+8. A bonded beast is an individual partner. The death of a bonded beast does not automatically provide the tamer with a replacement.
+9. The Dark military's paired cultivation assessments are not automatically universal military ranks.
+10. Family elemental paths are currently presented as affinity traditions, not as the world's universal cultivation realm ladder.
+
+These principles should be preserved during future expansion.
+
+## 21.3 Shared political architecture: one world, seven family governments
+
+The families should not be forced into identical constitutions. Their proposed governing structures already express different political philosophies:
+
+| Family | Proposed central leadership | Proposed governing institution | Main political question |
+|---|---|---|---|
+| Dark | Patriarch | Abyssal Council | How should shared authority and military oversight work? |
+| Earth | Mountain Sovereign | Stone Assembly | Who controls land, extraction and long-term infrastructure? |
+| Wind | Sky Regent | Conclave of Routes | Who controls movement, routes and information? |
+| Lightning | Thunder Sovereign | Directorate of Measures | Who controls research, dangerous technology and technical authority? |
+| Light | Dawn Hierarch | Synod of Sanctuaries | Who defines institutional legitimacy, care and historical truth? |
+| Fire | Flame Patriarch or Matriarch | Forge Assembly | Who bears the cost of industrial and military strength? |
+| Water | Tide Sovereign | Council of Harbours and Watersheds | Who controls essential shared water systems? |
+
+This is a comparison of proposed structures, not a declaration that every title or constitution is final.
+
+**Integration recommendation:** Preserve constitutional diversity. Do not rename every leader as a Patriarch, Sovereign or Hierarch merely to make the families look uniform. The shared standard should concern limits of authority, accountability, succession procedures and relations with external states—not identical institutional names.
+
+### Transnational authority and state sovereignty
+
+A family leader governs the family institution and its recognised ancestral domain according to that family's law. This does not automatically grant authority over every family member, business, academy or estate located in a foreign kingdom.
+
+A foreign branch may be subject to several overlapping obligations:
+
+- The law of the kingdom or empire where it operates.
+- The terms of a royal charter, treaty or local licence.
+- The family constitution and lawful instructions from its ancestral leadership.
+- Contracts with local communities, guilds, merchants or independent institutions.
+
+**Strong integration recommendation:** A family branch must not claim automatic diplomatic immunity or territorial sovereignty merely because its members share a bloodline. Its legal privileges must have a recognised basis, and conflicts between local law and family orders should be a recurring political issue rather than an assumed victory for either side.
+
+## 21.4 Universal cultivation framework versus elemental paths
+
+This is one of the most important unresolved world-system questions.
+
+The family dossiers use four affinity paths each:
+
+| Family | Proposed elemental paths |
+|---|---|
+| Dark | Existing Dark cultivation and paired-partnership framework; full elemental integration remains distinct |
+| Earth | Loam, Stone, Ironroot, Mountain |
+| Wind | Breeze, Gale, Storm, Horizon |
+| Lightning | Spark, Arc, Storm Circuit, Thunder Crown |
+| Light | Lantern, Dawn, Radiance, Solar |
+| Fire | Hearth, Furnace, Wildfire, Phoenix |
+| Water | Spring, River, Tide, Deep Current |
+
+These names describe disciplines, techniques, specialisations or traditions. They should not be mistaken for universal stages of advancement unless the author explicitly decides otherwise.
+
+**Strong integration recommendation — two independent progressions:**
+
+1. **Universal cultivation progression:** The world's common measure of a tamer's cultivation advancement. It should apply across families and be defined in a separate world-system section.
+2. **Elemental path mastery:** The techniques, control, specialisation and inherited knowledge through which a cultivator expresses an affinity. A path may have its own training milestones, but those milestones are not automatically universal cultivation realms.
+
+A cultivator's universal realm, elemental path mastery, beast partnership development and professional or military status should therefore be recorded separately.
+
+### Dark's special position
+
+Dark's original purpose combines balance, preservation of elemental origins and counterbalancing dangerous elemental dominance. Its unusual multi-element potential should be treated as a specialised and difficult tradition, not as proof that every Dark descendant automatically masters all seven elements.
+
+**Integration recommendation:** Dark's distinction is the ability to study, harmonise and potentially combine relationships between elements under exceptional conditions. It should still require compatibility, knowledge, training, resources and control. Multi-element use should create meaningful risks and should not erase the advantages of specialists from the other six families.
+
+### Open cultivation decisions
+
+The following remain unresolved:
+
+- The names and number of universal cultivation realms.
+- Whether every beast follows the same realm ladder as a human tamer or has a parallel biological progression.
+- Whether tamer and beast must reach identical stages or only meet defined compatibility thresholds.
+- Whether elemental paths have formal grades, informal mastery descriptions or both.
+- How cross-element cultivation is learned, tested and safely limited.
+- How cultivation affects lifespan, physical ability, recovery and the use of techniques.
+
+No family-specific realm ladder should be finalised before these shared decisions are made.
+
+## 21.5 Tamer–beast partnership: recommended universal principles
+
+The family dossiers already share the idea that cultivation is a partnership. The exact expression differs by element, which is desirable.
+
+**Strong integration recommendation:** The following principles should apply to all seven families:
+
+1. **Individual compatibility:** Bloodline affinity can improve the probability of compatibility, but does not guarantee that every tamer and beast will form a successful bond.
+2. **Mutual development:** The tamer and beast develop through shared practice, trust, experience and cultivation. The beast is not merely equipment or a container for the tamer's power.
+3. **Independent welfare:** A beast has physical, behavioural and environmental needs that cannot be ignored for advancement, prestige or military targets.
+4. **No automatic obedience:** A bond may improve communication and coordination, but should not remove the beast's agency or guarantee unquestioning compliance.
+5. **Shared risk:** Overexertion, unstable techniques and poor compatibility can harm either partner and may damage the partnership.
+6. **Individual loss:** Death of a bonded beast does not automatically create a replacement or transfer the former bond's progress to another beast.
+7. **New bond, new relationship:** If a tamer later forms another bond, it begins as a new partnership requiring its own development.
+8. **Non-combat value:** Bonded beasts can support agriculture, transport, rescue, medicine, research, communication, construction and ordinary life.
+9. **Professional care:** Breeders, beast physicians, appraisers, trainers and habitat specialists are essential parts of the cultivation ecosystem.
+10. **Wild-beast distinction:** A wild beast is an individual with its own temperament and needs; it should not be assumed to behave like a domesticated family-bred line.
+
+### Partnership development and assessment
+
+Dark currently has a named six-level partnership assessment: Bond Initiate, Tempered Bond, Harmonised Bond, Resonant Bond, Domain Synchronisation and Abyssal Resonance. These are established within the Dark military development, but should not automatically become the world's universal cultivation realm system.
+
+**Open decision:** Whether the six partnership levels are a Dark-specific military assessment, a widely recognised technical framework used by multiple families, or a universal bond-development model with different family terminology.
+
+**Integration recommendation:** Keep partnership development conceptually separate from universal cultivation realms and military rank, even if the same pair's performance affects all three.
+
+### Water dossier gap
+
+Sections 15–19 contain explicit paired-cultivation material or evaluation principles. Section 20 currently explains partnership and welfare in its beast section but does not yet have a distinct paired-cultivation subsection comparable to the other detailed family dossiers.
+
+This is a documentation gap, not a contradiction. Add a dedicated Water paired-cultivation subsection in the next editorial pass, using aquatic movement, pressure adaptation, current coordination, underwater communication, rescue safety and the beast's habitat needs as its distinctive assessment dimensions.
+
+## 21.6 Beast taxonomy, rarity and breeding consistency
+
+The seven family dossiers contain signature beasts and additional specialist lines. Some names refer to broad species, while others may refer to rare ancestral lineages or prestigious branches. That distinction is not yet standardised.
+
+**Strong integration recommendation:** Every beast entry should eventually use a common profile:
+
+- Name and classification: species, subspecies, lineage or rare ancestral line.
+- Elemental affinity and secondary affinities, if any.
+- Natural habitat and ecological role.
+- Typical temperament and social behaviour.
+- Growth and maturity pattern.
+- Family-breeding status and wild population status.
+- Rarity and availability.
+- Common civilian, professional and military roles.
+- Bond compatibility tendencies and known limitations.
+- Care requirements, welfare risks and environmental dependencies.
+- Known abilities and explicit ability limits.
+
+### Rarity should not equal combat strength
+
+A rare beast may be valuable because of unusual perception, healing support, navigation, ecological sensitivity, research importance or cultural significance. It need not be the strongest combatant.
+
+**Integration recommendation:** Adopt a shared rarity vocabulary only after the world defines what rarity measures. A useful distinction would separate:
+- Population rarity: how many individuals exist.
+- Breeding rarity: how difficult a stable family line is to maintain.
+- Bond rarity: how uncommon successful partnerships are.
+- Capability rarity: how unusual a specific ability or lineage trait is.
+
+These categories should not be collapsed into one prestige ranking.
+
+### Family-bred and wild beasts
+
+Family breeding should improve predictability and compatibility without making family-bred beasts universally superior. Wild beasts may possess unusual traits, independent adaptations or abilities absent from established breeding lines, but they are harder to locate, assess, transport and integrate.
+
+No family should have an unlimited supply of rare ancestral beasts. Breeding requires time, habitat, compatible partners, specialist care and healthy populations.
+
+## 21.7 Military integration: common standards, distinct doctrines
+
+The seven families should not share identical armies. Their military identities reflect different strategic strengths:
+
+| Family | Proposed force | Operational identity |
+|---|---|---|
+| Dark | Dark territorial military | Counter-element response, containment, harmonisation and defence |
+| Earth | Stonewall Legions | Holding ground, fortification, engineering and territorial defence |
+| Wind | Skyward Host | Reconnaissance, mobility, route security, communication and rescue |
+| Lightning | Thunder Legions | Precision, controlled disruption, technical warfare and rapid coordination |
+| Light | Radiant Order | Civilian protection, defensive support, evacuation and restoration |
+| Fire | Crimson Host | Concentrated assault, endurance, siege capability and industrial logistics |
+| Water | Azure Tide Forces | Maritime and river security, supply continuity, waterworks protection and disaster response |
+
+### Shared military principles
+
+**Strong integration recommendation:** Each family military should maintain:
+
+1. A clear legal authority for mobilisation and deployment.
+2. A distinction between military command and civilian government.
+3. A distinction between formal rank and specialist appointment.
+4. Defined responsibility for bonded beast welfare.
+5. Logistics, medical care, recovery and veteran support.
+6. Rules for civilian protection and infrastructure security.
+7. Limits on elite units and exceptional techniques.
+8. Accountability for unlawful orders, negligence and avoidable harm.
+9. A defined relationship with royal armies and other family forces.
+10. A clear process for joint operations and command disputes.
+
+### Rank and appointment consistency
+
+Dark has a more detailed rank ladder than the other families. The other detailed dossiers use provisional senior appointments such as Sky Marshal, Radiant Marshal, Crimson Marshal, Fleet Admiral and Tide Marshal. These titles should not be treated as directly equivalent ranks simply because they sound senior.
+
+**Strong integration recommendation:** Create a common rank-equivalence framework with broad responsibility bands—entry-level personnel, experienced personnel, junior officers, senior officers, field commanders and supreme command—while allowing each family to use distinct local titles.
+
+Specialist appointments such as Beast Marshal, War Strategist, Abyssal Warden, Master of Siegeworks or Sanctuary Warden should remain separate from rank. A specialist may advise or command a specialist mission without automatically outranking every officer.
+
+**Open decision:** Whether all families use a common rank vocabulary in joint operations, translate their ranks into agreed equivalents, or rely on a treaty-defined joint command protocol.
+
+## 21.8 Government, military and civilian authority
+
+A recurring risk is that a powerful family military could become the de facto government of its ancestral territory or foreign branches.
+
+The Dark framework already places territorial military oversight under the Abyssal Council. Other families propose different governing institutions and military structures, but their final civil–military arrangements are not all equally detailed.
+
+**Strong integration recommendation:** Military forces protect the family and its lawful interests; they do not automatically own civilian infrastructure, control public budgets or decide ordinary civil disputes.
+
+During emergencies, military assistance may be necessary, but emergency authority should have:
+- A defined legal trigger.
+- A limited geographical and functional scope.
+- A responsible civilian or constitutional authority.
+- A record of orders and resource use.
+- A review or expiry mechanism.
+- A process for investigating harm and restoring civilian control.
+
+This common safeguard should coexist with each family's distinct constitution.
+
+## 21.9 Economic integration and strategic dependencies
+
+The families' economies are strongest when they depend on one another without becoming interchangeable.
+
+| Family | Strategic contribution | Important dependencies or vulnerabilities |
+|---|---|---|
+| Fire | Metalwork, weapons, furnaces, industrial production and heat-resistant equipment | Water, specialist instruments, raw materials, food and safe industrial inputs |
+| Water | Shipping, sanitation, waterworks, fisheries, public-health logistics and navigation | Instruments, construction materials, timber, metals and secure watersheds |
+| Earth | Mining, stone, construction, fortifications, transport infrastructure and geological expertise | Water access, trade routes, specialist tools and sustainable extraction |
+| Wind | Couriers, aerial transport, mapping, weather observation, communications and route services | Reliable information, safe landing sites, equipment, food and route access |
+| Lightning | Precision instruments, mana technology, research, measurement and controlled energy systems | Raw materials, skilled operators, test environments, maintenance and ethical oversight |
+| Light | Formal healing institutions, education, archives, medicinal cultivation and relief networks | Supplies, transport, sanitation, public trust and reliable records |
+| Dark | Countermeasure expertise, rare knowledge, specialised beasts and advanced elemental research | Trade access, scarce resources, political recognition and protection of knowledge |
+
+The table identifies strategic roles, not exclusive monopolies. Other families and independent organisations may provide similar goods or services.
+
+**Integration recommendation:** No family should be completely self-sufficient. Trade should create leverage, negotiation and vulnerability, but not mean that one family can effortlessly starve or control another. Substitutes, independent merchants, neutral markets, local production and political resistance should matter.
+
+## 21.10 Cross-family relationship network
+
+The family relationship sections already provide bilateral examples. The following network summarises the strongest recurring areas of cooperation and tension:
+
+- **Fire–Earth:** Metals, mines, foundries, construction and fortification; disputes over extraction, industrial expansion and resource ownership.
+- **Fire–Water:** Industrial water demand, cooling, shipping and pollution; disputes over allocation and environmental damage.
+- **Fire–Lightning:** Industrial production and precision machinery; tension between rapid deployment and technical safety.
+- **Water–Earth:** Dams, reservoirs, watershed protection, ports and construction; disputes over upstream control and downstream consequences.
+- **Water–Wind:** Storm warnings, navigation, couriers, maritime routes and rescue; tension over data, responsibility and route access.
+- **Water–Light:** Sanitation, public health, medical relief and education; tension over institutional authority, standards and public credit.
+- **Wind–Lightning:** Communications, sensors, navigation and information systems; tension over surveillance, reliability and control of technical networks.
+- **Earth–Wind:** Mountain passes, aerial routes, surveying and infrastructure; tension over access, land rights and the use of strategic terrain.
+- **Earth–Lightning:** Materials, instruments, engineering and deep infrastructure; tension over experimental risk and the safety of complex systems.
+- **Fire–Light:** Emergency medicine, industrial injury, military casualties and public legitimacy; tension over the human cost of production and war.
+- **Fire–Wind:** Transport of industrial goods, scouting and military deployment; tension over contracts, intelligence and the use of routes during conflict.
+- **Earth–Light:** Hospitals, schools, archives, construction and restoration; tension over who funds and controls public institutions.
+- **Lightning–Light:** Research, medical instruments, archives and ethical review; tension over experimentation, secrecy and the definition of acceptable risk.
+- **Fire–Dark:** Military history, countermeasures and the consequences of the old conflict; present-day attitudes may differ by branch and generation.
+- **Water–Dark:** Trade, medicine, river access and practical cooperation may coexist with distrust and political disagreement.
+- **Earth–Dark:** Territorial history, fortifications, lost sites and resource access create possible disputes and opportunities for investigation.
+- **Wind–Dark:** Historical intelligence, concealed routes, surviving records and the politics of information remain potential sources of conflict.
+- **Lightning–Dark:** Elemental research, suppression mechanisms and the study of multi-element mana create both scientific interest and strategic fear.
+- **Light–Dark:** The betrayal is a defining historical relationship. Present-day knowledge, guilt, denial, reform and institutional responsibility remain unresolved.
+
+This network is deliberately non-deterministic. A treaty between two family governments does not force every branch, merchant, officer or ordinary descendant to agree. Cooperation in one field does not erase conflict in another.
+
+## 21.11 The Sixfold Accord and the betrayal: historical consistency safeguards
+
+The document establishes that Light masterminded the betrayal of Dark and that the six families opposed Dark through a loose alliance. It also leaves the present-day distribution of knowledge within Light unresolved.
+
+The following distinctions must remain clear:
+
+1. **Historical responsibility:** Light leadership masterminded the betrayal. This is an author-established fact.
+2. **Alliance participation:** The other six-family opponents participated in a loose alliance, but their precise actions, motives and knowledge require careful treatment.
+3. **Institutional knowledge:** It is not established that every present-day Light institution or leader knows the complete truth.
+4. **Individual knowledge:** Descendants may possess full knowledge, fragments, suspicions, inherited narratives or no meaningful knowledge.
+5. **Moral responsibility:** Descendants are not automatically personally guilty for ancestral acts. Present-day institutions may nevertheless bear responsibilities if they preserve benefits, conceal evidence or continue harmful policies.
+6. **Historical records:** Records may be incomplete, altered, destroyed, hidden or disputed. No single surviving document should automatically resolve every historical question unless the story establishes its authenticity and context.
+7. **Branch variation:** Family branches may have opposed the betrayal, benefited from it, resisted it, remained uninformed or developed independent relationships with Dark.
+
+**Integration recommendation:** Preserve the distinction between the truth of the historical event and the uncertain knowledge of present-day characters. Do not resolve Light's internal knowledge distribution merely to simplify the plot.
+
+The proposed motivations listed in early comparative sections should remain hypotheses until the author confirms what each family leadership knew and intended.
+
+## 21.12 Shared institutions and neutral organisations
+
+The world requires institutions that connect families without making them one political organisation.
+
+Potential shared or independent institutions include:
+
+- **Independent Beast Markets:** Licensed or locally regulated markets that assess, trade and transport beasts across borders.
+- **Beast Appraisers' Registry:** A professional network for lineage assessment, compatibility advice, health records and fraud prevention.
+- **Mercenary and Expedition Companies:** Independent groups that explore dangerous regions, recover materials and locate wild beasts under contracts.
+- **Cross-Border Merchant Leagues:** Commercial networks that negotiate transit, insurance, storage and dispute resolution.
+- **Neutral Cultivation Academies:** Institutions that teach general theory, language, history, medicine or shared technical standards without replacing family academies.
+- **Treaty and Arbitration Houses:** Independent venues for resolving trade, river, route, territorial and contract disputes.
+- **Beast Physicians' Fellowship:** A professional network for specialist care, rehabilitation, breeding ethics and emergency treatment.
+- **Independent Cartographers and Record Keepers:** Organisations that maintain maps, route data, genealogies, historical records and expedition reports.
+
+These institutions should have their own funding, interests, internal politics and vulnerabilities. Neutrality is a claim that must be protected and tested, not an automatic virtue.
+
+## 21.13 Shared terminology and document hierarchy
+
+The current document contains early family summaries, a comparative framework and later detailed family dossiers. Some details naturally differ because the later sections expand earlier ideas.
+
+**Editorial recommendation:**
+
+- Section 1 records shared political and historical foundations.
+- Section 2 provides concise family identity summaries and should be updated when major family proposals are confirmed.
+- Section 12 provides the comparative first-pass framework and should serve as a cross-reference, not a competing detailed source.
+- Sections 3–11 contain the detailed Dark development and its related systems.
+- Sections 15–20 contain the detailed proposed civilisations for Earth, Wind, Lightning, Light, Fire and Water.
+- Section 21 records cross-family rules, audit findings and unresolved integration questions.
+
+Where an early summary and a later detailed proposal differ, the difference should be recorded and reviewed rather than silently treated as a canon contradiction. Once a family detail is accepted, its summary and comparative entry should be harmonised in a later editorial pass.
+
+### Terminology standards to adopt
+
+Use the following distinctions consistently:
+
+- **Family:** The transnational bloodline and institutional network.
+- **Clan:** The family identity or its recognised collective community; the exact cultural usage may vary.
+- **Ancestral territory:** The family's historic homeland and its recognised territorial institutions.
+- **Branch:** A family presence operating outside, or separately within, the ancestral heartland.
+- **Universal cultivation realm:** A shared stage of cultivation advancement, once defined.
+- **Elemental path:** A family-affinity discipline or specialisation.
+- **Bond partnership development:** The growth and coordination of a tamer and an individual beast.
+- **Military rank:** Formal position in a military command hierarchy.
+- **Specialist appointment:** A defined technical, advisory or operational responsibility that does not automatically confer a higher rank.
+- **Beast species / lineage:** A biological classification or inherited branch, not a cultivation rank.
+- **Rarity:** A defined measure of population, breeding difficulty, bond frequency or unusual capability—not a vague synonym for strength.
+
+## 21.14 Priority issues for the next integration pass
+
+The following order is recommended:
+
+**Priority 1 — Universal cultivation and beast progression**
+- Define universal tamer realms.
+- Decide how beasts progress.
+- Separate cultivation realm, path mastery, bond development and military qualification.
+- Define how multi-element cultivation works and what makes Dark distinct.
+
+**Priority 2 — Bonding, species and beast ecology**
+- Standardise beast profiles and rarity categories.
+- Define family-bred versus wild-beast differences.
+- Establish shared welfare, breeding, compatibility and bond-loss principles.
+- Add the missing explicit paired-cultivation subsection to the Water dossier.
+
+**Priority 3 — Military and joint operations**
+- Establish common rank-equivalence bands.
+- Separate ranks from specialist appointments.
+- Define family military authority and civil oversight.
+- Establish rules for joint command between different family forces and kingdom armies.
+
+**Priority 4 — Transnational law and family branches**
+- Define how branches operate under foreign sovereignty.
+- Establish charter, treaty, taxation and jurisdiction principles.
+- Decide what protections family members receive abroad and what obligations they owe to local communities.
+
+**Priority 5 — History and interfamily diplomacy**
+- Clarify the participation and knowledge of each family during the betrayal without changing Light's established responsibility.
+- Establish the Sixfold Accord's historical sequence and eventual status.
+- Define what treaties, trade and political contacts exist in the present day.
+
+**Priority 6 — Shared institutions and terminology**
+- Decide which institutions are neutral, family-controlled or state-controlled.
+- Harmonise the comparative summaries after core rules are accepted.
+- Maintain a canon/proposal/open-decision register.
+
+## 21.15 Phase 2 decisions still required
+
+The following are the most consequential author decisions. They are not resolved by this audit:
+
+1. Should universal cultivation realms be identical for all tamers, regardless of family and element?
+2. Should beasts use the same named realm ladder as tamers, a parallel progression, or a biological maturity system linked to cultivation?
+3. Are the six Dark partnership levels Dark-specific, broadly recognised across the world, or universal in principle with different local names?
+4. Should each family retain its own military ranks with agreed joint-operation equivalents, or should all families share a common rank vocabulary?
+5. Should family ancestral territories possess independent sovereignty, or should their legal status vary according to treaties and the wider kingdom system?
+6. Should family branches abroad answer primarily to ancestral leadership, local law, or a defined balance between the two?
+7. Should neutral beast markets, appraisers and expedition organisations operate under a shared international charter or separate local licences?
+8. Should rare ancestral beasts be extremely limited populations, difficult-to-breed lineages, exceptionally selective bond partners, or a combination of these?
+9. Should cross-element cultivation be possible only through Dark's specialised tradition, or can exceptional individuals outside Dark develop limited cross-element techniques?
+10. Should the Sixfold Accord have formally ended, remain dormant, or survive as a collection of secret and public agreements?
+
+**Phase 2 design principle:** The seven families should share the same underlying laws of cultivation, bonding, ecology, politics and consequence, while expressing those laws through different institutions, cultures, military doctrines and economic strengths. Consistency should make the families believable—not make them identical.
