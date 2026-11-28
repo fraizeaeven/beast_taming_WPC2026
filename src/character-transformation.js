@@ -1,6 +1,6 @@
 const list = value => Array.isArray(value) ? value : [];
 const present = value => typeof value === "string" && value.trim().length > 0;
-const normaliseBehaviour = value => String(value ?? "").trim().toLowerCase().replace(/\\s+/g, " ");
+const normaliseBehaviour = value => String(value ?? "").trim().toLowerCase().replace(/\s+/g, " ");
 const validId = value => typeof value === "string" && /^[A-Z][A-Z0-9_-]{1,63}$/.test(value);
 const chapterNo = value => Number.isInteger(value) && value > 0 ? value : null;
 
