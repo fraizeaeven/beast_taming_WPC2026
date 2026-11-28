@@ -160,6 +160,18 @@ export async function buildChapterContext(number) {
     consequenceHistory.sort((a,b)=>a.chapter-b.chapter || Number(a.order??0)-Number(b.order??0) || String(a.id??"").localeCompare(String(b.id??"")));
   }
 
+  const transformationHistory = [];
+  if (characterIds.size) {
+    for (const name of await listChapterFiles()) {
+      const sourceChapter = await read(file("CHAPTERS", name));
+      if (!Number.isInteger(sourceChapter.number) || sourceChapter.number > chapterNumber) continue;
+      for (const check of array(sourceChapter.transformationChecks)) {
+        if (characterIds.has(check?.characterId)) transformationHistory.push({ chapter: sourceChapter.number, ...check });
+      }
+    }
+    transformationHistory.sort((a,b)=>a.chapter-b.chapter || Number(a.order??0)-Number(b.order??0) || String(a.id??"").localeCompare(String(b.id??"")));
+  }
+
   const unresolved = [];
   for (const name of ["11_MYSTERY_REGISTER", "12_OPEN_LOOP_REGISTER", "13_PROMISE_AND_PAYOFF_REGISTER"]) {
     for (const item of selected[name]) {
@@ -194,6 +206,7 @@ export async function buildChapterContext(number) {
     relationshipPsychologyHistory,
     sceneInterpretationHistory,
     consequenceHistory,
+    transformationHistory,
     constraintsAndUnresolved: unresolved,
     omissions: REGISTRIES.filter(name => !registries[name]).map(name => ({ registry: name, reason: "Registry file is missing" }))
   };
@@ -226,6 +239,9 @@ export function formatChapterContext(context) {
   lines.push("", "## Historical consequence chains",
     context.consequenceHistory?.length ? "```json" : "_No earlier/current character-linked consequence records retrieved._");
   if (context.consequenceHistory?.length) lines.push(JSON.stringify(context.consequenceHistory, null, 2), "```");
+  lines.push("", "## Character transformation and repeat-trigger history",
+    context.transformationHistory?.length ? "```json" : "_No earlier/current transformation checks retrieved._");
+  if (context.transformationHistory?.length) lines.push(JSON.stringify(context.transformationHistory, null, 2), "```");
   lines.push("", "## Constraints, future milestones and unresolved threads",
     context.constraintsAndUnresolved.length ? "```json" : "_No matching constraints or unresolved records retrieved._");
   if (context.constraintsAndUnresolved.length) lines.push(JSON.stringify(context.constraintsAndUnresolved, null, 2), "```");
@@ -235,6 +251,8 @@ export function formatChapterContext(context) {
     "- Preserve each character's recorded knowledge boundary and relationship state.",
     "- Keep reader-only knowledge separate from every character's observed facts, thoughts and decisions.",
     "- Preserve established consequences and their follow-up status; do not erase a prior effect merely to simplify a later scene.",
+    "- Compare a character with their earlier response to the same trigger; do not treat apologies or declarations as behavioural proof.",
+    "- Allow setbacks and regression; record what the character does under pressure and whether a changed response persists across chapters.",
     "- When a consequence is delayed, retain its expected chapter and do not present it as observed until later evidence is recorded.",
     "- Do not resolve an open loop, mystery or promise unless the chapter is intended and authorized to pay it off.",
     "- Record newly established facts as proposed changes for author review; do not silently overwrite earlier records.",
