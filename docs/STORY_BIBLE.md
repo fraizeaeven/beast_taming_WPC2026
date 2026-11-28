@@ -251,3 +251,26 @@ The story can be developed further once these decisions are made:
 ---
 
 **Authorial priority:** Preserve the contrast between the protagonist's low position inside his own family and the enormous secret carried by the Dark Family. The story's larger revelation should reframe the reader's understanding of darkness, light, strength, weakness and the history of the seven families.
+
+---
+
+## 13. Protagonist psychological foundation — author-approved direction (2026-11-28)
+
+**Development route:** Route D — Complete Fantasy Saga.  
+**Working approach:** Editorial-led collaboration; the author retains final approval.
+
+The author approved the following connected psychological foundation for the protagonist:
+
+1. **Primary wound — conditional worth:** He wants to become worthy in the eyes of others and believes he must become valuable enough that nobody can treat him as disposable.
+2. **Defensive behaviour — resistance to control:** He resists being controlled, ordered around or treated as property. This is his protective armour, not the deepest wound.
+3. **Eventual moral dilemma — fear of becoming cruel:** As he gains strength, he must confront the possibility that he is reproducing the strength-first cruelty that shaped him.
+
+**Editorial synthesis:** The wound is conditional worth; the defensive armour is resistance to control; the moral consequence is the danger of becoming cruel. These are one connected character arc, not three separate arcs.
+
+**Status boundary:** Only this three-part psychological combination and its connected interpretation are author-approved at this stage. The specific misbelief wording, external and deeper desires, coping mechanisms, personality traits, habits, physical responses, opening goal and relationship interpretations in `docs/PROTAGONIST_DEVELOPMENT_BLUEPRINT.md` are proposals or open questions unless separately approved.
+
+The protagonist must not be reduced to a perfect underdog. He may feel envy, resentment, shame, pettiness and the desire to retaliate. His suffering explains some behaviour but does not excuse harm he causes. His transformation must be gradual and may regress under pressure.
+
+**Thematic bridge (proposal):** His development may connect to beast taming through the question of whether he can build a genuine bond with a creature that has its own will while he still believes strength determines whose wishes matter. This does not establish a first beast, species, contract, ancient soul event or cultivation mechanic.
+
+**Detailed development record:** See [Protagonist Development Blueprint — Phase 1](PROTAGONIST_DEVELOPMENT_BLUEPRINT.md). The Story Bible remains the authority for established facts; the blueprint separates approved decisions, proposals and unresolved questions.
