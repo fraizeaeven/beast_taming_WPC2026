@@ -324,3 +324,162 @@ Only after that profile is coherent should the first beast and first-volume conf
 ---
 
 **Continuity instruction:** The Story Bible remains the authority for established facts. This blueprint records the author-approved psychological foundation and labels all unapproved elaborations as proposals. Do not promote proposals into canon without explicit author approval.
+
+## 13. Protagonist personality profile — editorial proposal
+
+> **Status:** Proposal for author review. The author has approved the underlying psychological foundation, not yet these specific personality traits, habits, voice or talents.
+
+### 13.1 Personality thesis
+
+**Proposed personality:** A courteous, observant and quietly competitive young man whose outward composure hides a stubborn private pride. He is not naturally meek; he has learned to calculate when open resistance will cost more than it gains.
+
+He should feel like a person who has adapted to a difficult household, not a generic bullied boy waiting for a power-up.
+
+### 13.2 Outer mask versus private self
+
+| Public-facing behaviour | Private reality |
+|---|---|
+| Polite with elders and people who hold power. | Notices every difference in how people are treated. |
+| Calm when insulted. | Replays humiliations later and imagines what he should have said. |
+| Says he can manage alone. | Wants someone to notice when he is struggling without having to ask. |
+| Appears practical and unsentimental. | Has strong attachments but fears that showing them creates leverage against him. |
+| Accepts a decision without immediate argument. | May already be planning how to regain control or avoid dependence. |
+| Uses understated humour. | Often uses humour to conceal embarrassment, hurt or envy. |
+
+The mask is a learned survival strategy. It should not make him emotionless or permanently composed. Under enough pressure, his restraint can crack.
+
+### 13.3 Recommended core traits
+
+**Keep these traits in tension rather than making them uniformly positive:**
+
+1. **Observant:** He notices changes in tone, attention, routine and social treatment. He is not automatically correct about what those changes mean.
+2. **Resourceful:** He tries to solve problems with what is available rather than waiting for ideal resources.
+3. **Quietly competitive:** He compares himself with favoured siblings even when he claims not to care.
+4. **Stubbornly self-reliant:** He dislikes owing people and may refuse help that would genuinely benefit him.
+5. **Proud:** He can accept a difficult task more easily than pity.
+6. **Dryly humorous:** His humour is understated and often used to deflect discomfort; it should not turn every serious scene into comedy.
+7. **Selective in trust:** He does not trust quickly, but once he chooses someone, he may be more loyal than he knows how to express.
+8. **Sensitive to unfairness:** He notices unequal treatment, but his own resentment can distort his judgement about what is fair.
+
+### 13.4 Useful flaws and blind spots
+
+- **Keeps an invisible ledger:** He remembers who helped, humiliated, ignored or favoured him. This can help him read patterns, but can also prevent him from letting old injuries remain in the past.
+- **Assumes kindness has a price:** He may search for the hidden obligation behind a generous act.
+- **Mistakes silence for judgement:** If someone does not defend him, he may assume they agree with the insult.
+- **Rejects help to preserve dignity:** He may choose a harder path simply to avoid feeling indebted.
+- **Tests loyalty indirectly:** Instead of asking whether someone cares, he may withdraw and see whether they notice. This is unfair to people who cannot read his mind.
+- **Can be calculating when hurt:** He may choose a response designed to make someone feel the same embarrassment he felt.
+- **Confuses being needed with being loved:** Being useful can feel safer than being emotionally known.
+
+These flaws should have real costs. Do not make every flaw secretly advantageous.
+
+### 13.5 Conflict style
+
+**Recommended progression:**
+
+- **Low threat:** Polite questions, careful observation, understated humour.
+- **Moderate threat:** Negotiates, delays, looks for a loophole or quietly refuses part of an unreasonable demand.
+- **High threat:** Becomes brief and controlled; focuses on what he can protect or salvage.
+- **Personal humiliation:** May appear calm in public but replay the event privately.
+- **Threat to his mother:** His calculation becomes harder to maintain; protective anger can override caution.
+- **Betrayal by someone trusted:** He may withdraw before confronting the person, because asking for an explanation exposes how much the relationship matters.
+
+He is not a pacifist and not a hot-headed brawler by default. His resistance should be strategic at first, then increasingly principled as his arc develops.
+
+### 13.6 Humour and social texture
+
+His humour should reveal personality, not merely provide comic relief.
+
+Proposed forms:
+- Dry observations about absurd household rules.
+- Brief self-deprecation when he wants to end an uncomfortable conversation.
+- Gentle teasing with someone he trusts.
+- A rare sharp remark when someone assumes he is too insignificant to understand what is happening.
+
+Avoid making him constantly sarcastic. If every line is witty, readers stop believing that he is guarded or emotionally vulnerable.
+
+### 13.7 Voice and dialogue proposal
+
+- Early dialogue tends to be concise, polite and controlled when speaking to authority.
+- He asks specific questions rather than making dramatic declarations.
+- He may say "I understand" when he actually disagrees, buying time rather than conceding.
+- With someone safe, his sentences can become longer and his humour more spontaneous.
+- When genuinely angry, he should not automatically deliver a perfect speech. He may become too quiet, say something unfair, or fail to explain himself.
+- As he grows, his voice becomes more direct: fewer evasions, clearer boundaries and a greater willingness to say what he wants.
+
+Do not give him a catchphrase yet. A distinctive voice comes from thought patterns, priorities, rhythm and what he refuses to say.
+
+### 13.8 Possible non-combat competence
+
+**Proposal:** Give him practical resourcefulness and strong observational memory rather than making him secretly exceptional at every discipline.
+
+Possible examples to test:
+- Remembering who has access to a room, resource or training space.
+- Noticing when a routine changes.
+- Finding an inexpensive workaround when equipment or supplies are limited.
+- Remembering the exact wording of an instruction because ambiguity can be used against him.
+
+These should be ordinary skills developed through his circumstances, not unexplained genius or a substitute supernatural ability. His accuracy must have limits; he can misread motives and overlook things outside his experience.
+
+### 13.9 Relationship-specific expressions
+
+- **With his mother:** Softer tone, practical acts of care, occasional humour; may conceal how much he is struggling because he does not want to worry her.
+- **With his father:** Formal politeness mixed with intense attention to approval; may over-prepare for even small interactions.
+- **With the resentful sibling:** Controlled exchanges, careful memory of past slights and a temptation to retaliate with precise words.
+- **With a genuine friend:** Less guarded, more playful, but still uncomfortable asking directly for reassurance.
+- **With a future bonded beast:** Initially may interpret resistance as defiance or a test of strength. His growth requires learning to distinguish fear, preference, pain and independent choice rather than assuming every refusal is a challenge.
+
+These are proposed patterns, not fixed scenes or approved relationship histories.
+
+### 13.10 Short voice illustration — not canon prose
+
+The following is a tone test only. It does not establish a real scene, sibling identity or event.
+
+> "You were looking at Father," the other boy said.
+>
+> "Was I?"
+>
+> "When he praised me."
+>
+> He lowered his eyes to the frayed strap in his hands. It needed replacing. He had known that for three days.
+>
+> "I was looking at the sword," he said. "You were holding it rather awkwardly."
+>
+> The other boy laughed.
+>
+> He smiled too, just enough to end the conversation. Later, he would remember the exact words Father had used. Not because they mattered.
+>
+> He pulled the strap tighter than necessary.
+>
+> Of course they mattered.
+
+**Why this voice test works:** The character denies the emotional truth, redirects with a small observation, uses humour as cover and reveals the truth through private behaviour. The restraint should be varied in actual prose so it does not become a repetitive formula.
+
+### 13.11 Editorial risks to monitor
+
+1. **Overly passive:** If he only observes and endures, he will not drive the plot. Give him choices, including bad ones.
+2. **Overly calculating:** If every response is strategically perfect, he will feel older and more capable than sixteen.
+3. **Perpetually wounded:** Give him joy, curiosity, interests, playfulness and moments of genuine ease.
+4. **Secret genius syndrome:** Resourcefulness should not mean he effortlessly outsmarts everyone.
+5. **Sarcasm as a shield in every scene:** Let him sometimes be sincerely awkward, funny, excited or speechless.
+6. **Instantly righteous:** His sensitivity to unfairness must coexist with envy and self-interest.
+7. **One-note family resentment:** Show what he enjoys, admires or misses about family life, not only what hurts him.
+
+### 13.12 Questions deliberately left open
+
+- What activity does he enjoy when no one expects anything from him?
+- Is he more comfortable with animals, tools, books, nature, games or people?
+- Does he talk more when nervous, or become quieter?
+- What kind of humour does he find genuinely funny?
+- What is one harmless thing he is embarrassingly bad at?
+- What does he envy in another person besides status or power?
+- What does he do when he is happy and believes nobody is watching?
+- What personal boundary will he defend even before he becomes strong?
+
+These answers should make him feel like a specific sixteen-year-old rather than a psychological thesis.
+
+### 13.13 Editorial recommendation
+
+Retain the proposed combination of **courteous composure, sharp observation, quiet competitiveness, dry humour and stubborn self-reliance** as the next personality direction to test. Do not mark it as canon until the author reviews it.
+
+The next step after approval is to define his immediate opening objective and his ordinary life: what he wants on a normal day, what prevents him from getting it, what he does for pleasure, and what decision makes the opening chapter move.
