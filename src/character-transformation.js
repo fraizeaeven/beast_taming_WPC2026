@@ -129,10 +129,9 @@ export function checkCharacterTransformation({ registries = {}, chapters = [] } 
       warnings.push({ code: "TRANSFORMATION_CHANGE_NOT_YET_SUSTAINED", characterId, chapter: changed[0].chapter, id: changed[0].id, triggerKey: changed[0].triggerKey, observedTests: occurrences.length });
     }
     if (changed.length >= 2 && new Set(changed.map(x => x.chapter)).size >= 2) {
-      for (const check of changed) {
-        if (!present(check.sustainedPattern?.evidence) && !evidencePresent(check.sustainedPattern?.supportingEvidence)) {
-          warnings.push({ code: "TRANSFORMATION_SUSTAINED_PATTERN_EVIDENCE_MISSING", characterId, chapter: check.chapter, id: check.id, triggerKey: check.triggerKey });
-        }
+      const latestChanged = changed.at(-1);
+      if (!present(latestChanged.sustainedPattern?.evidence) && !evidencePresent(latestChanged.sustainedPattern?.supportingEvidence)) {
+        warnings.push({ code: "TRANSFORMATION_SUSTAINED_PATTERN_EVIDENCE_MISSING", characterId, chapter: latestChanged.chapter, id: latestChanged.id, triggerKey: latestChanged.triggerKey });
       }
     }
   }
