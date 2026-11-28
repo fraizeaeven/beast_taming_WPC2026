@@ -28,6 +28,8 @@ Use `npm run character:intelligence` to review goal/motivation consistency, reco
 
 Use `npm run character:decision` to review the annotated cause-and-effect chain behind character choices, including activated beliefs, prior experience references, decision rationale, repeated strategies, consequence carry-through and effects on misbelief/arc. Add `-- CHAR_KAEL` to filter. The report distinguishes personality-consistent decisions from wise decisions; it does not infer psychology from prose. See [Character Decision and Behaviour Intelligence](docs/DECISION_INTELLIGENCE.md).
 
+Use `npm run character:transformation` to compare a character's earlier and later responses to the same trigger. Add `-- CHAR_KAEL` to filter. The report reviews observable behaviour, choices under pressure, applied truths, costs/sacrifices, setbacks, witness responses and repeat evidence across chapters. A claim or apology alone is not transformation proof; regression remains valid. See [Character Transformation Intelligence](docs/CHARACTER_TRANSFORMATION_INTELLIGENCE.md).
+
 Use `npm run relationship:psychology` to review two-sided relationship interactions: initiator intent/fear, responder interpretation and reaction, trust impact, power dynamics, boundaries, defensive patterns, repair attempts and relationship shifts. Add `-- REL_KAEL_LINA` to filter. Checks are evidence-based and do not assume apologies restore trust or force reconciliation. See [Relationship Psychology Intelligence](docs/RELATIONSHIP_PSYCHOLOGY_INTELLIGENCE.md).
 
 Use `npm run psychology:chapter -- 12` to inspect a chapter's psychological beats, or `npm run psychology:character -- CHAR_KAEL` to see a character's recorded psychology across chapters. Each beat can track trigger, automatic reaction, thought, emotion, physical sensation, expressed emotion, need, misbelief, choice, consequence, observable evidence and interpretation. See [Character Psychology and Emotional Analysis](docs/CHARACTER_PSYCHOLOGY.md).
@@ -51,6 +53,12 @@ Start with the [Story Bible](docs/STORY_BIBLE.md), [Mana World System](docs/WORL
 The engine does not invent canon. Add only author-confirmed facts to registries; keep theories and unresolved questions explicitly labelled. Story structure may be planned, but source/provenance should be recorded and no outline is silently treated as a confirmed event.
 
 ## Change notes
+### 2026-11-28 — Character transformation intelligence (v2.6)
+
+- Added repeat-trigger transformation checks comparing prior behavioural patterns with current responses under pressure, including applied truth, deliberate choices, cost/sacrifice, setbacks and recovery.
+- Added witness observations/responses and cross-chapter sustained-pattern reporting; Stage 7 is checked against repeated behavioural evidence rather than declarations alone.
+- Integrated validation, chapter context retrieval, AI review proposals, CLI reporting, schema/roadmap documentation and focused tests. Findings are advisory; regression and stalled change remain valid.
+
 ### 2026-11-28 — Narrative consequence intelligence (v2.5)
 
 - Added explicit source-linked consequence records and cross-chapter chains, including affected-character responses, impact domains, relationship/state evidence, due follow-ups and optional state-history carry-through.
